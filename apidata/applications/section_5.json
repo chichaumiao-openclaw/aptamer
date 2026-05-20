@@ -1,0 +1,72 @@
+[
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Neurotensin-receptor-NTS-1-aptamer.html",
+    "New Linker name":"Neurotensin receptor NTS-1 aptamer",
+    "Aptamer Name":"P19 aptamer",
+    "Target":"PDAC",
+    "Conjugated drug":"Monomethyl auristatin E,maytansine 1",
+    "Disease":"Breast cancer",
+    "Clinical Status":"Preclinical research",
+    "Sequence":"5'-AGGACGATGCGGACAGATACGGAACTACAGAGGTCAATTACGGTGGCCACGCCAGACGACTCGCCCGA-3'",
+    "Length":68,
+    "GC content":0.588,
+    "Affinity":"Kd: 0.37 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/28325302\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Neurotensin-receptor-NTS-1-aptamer.html",
+    "New Linker name":"Neurotensin receptor NTS-1 aptamer",
+    "Aptamer Name":"P19 aptamer",
+    "Target":"PDAC",
+    "Conjugated drug":"5-fluorouracil,Gemcitabine",
+    "Disease":"Pancreatic cancer",
+    "Clinical Status":"Preclinical research",
+    "Sequence":"5'-AGGACGATGCGGACAGATACGGAACTACAGAGGTCAATTACGGTGGCCACGCCAGACGACTCGCCCGA-3'",
+    "Length":68,
+    "GC content":0.588,
+    "Affinity":"Kd: 0.37 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/28325302\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/PSMA-aptamer.html",
+    "New Linker name":"PSMA aptamer",
+    "Aptamer Name":"A9g aptamer",
+    "Target":"PSMA",
+    "Conjugated drug":"Doxorubicin",
+    "Disease":"Prostate cancer",
+    "Clinical Status":"Preclinical research",
+    "Sequence":"5'-GGGACCGAAAAAGACCUGACUUCUAUACUAAGUCUACGUUCCC-3'",
+    "Length":43,
+    "GC content":0.47,
+    "Affinity":"Kd: 5-30 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/21147500\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/PSMA-aptamer.html",
+    "New Linker name":"PSMA aptamer",
+    "Aptamer Name":"A9g aptamer",
+    "Target":"PSMA",
+    "Conjugated drug":"Epirubicin",
+    "Disease":"Prostate cancer",
+    "Clinical Status":"Preclinical research",
+    "Sequence":"5'-GGGACCGAAAAAGACCUGACUUCUAUACUAAGUCUACGUUCCC-3'",
+    "Length":43,
+    "GC content":0.47,
+    "Affinity":"Kd: 5-30 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/23815443\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Breast-cancer-cells_HER2-aptamer",
+    "New Linker name":"Breast cancer cells_HER2 aptamer",
+    "Aptamer Name":"Her2 aptamer",
+    "Target":"HER2",
+    "Conjugated drug":"mertansine 1",
+    "Disease":"Breast cancer",
+    "Clinical Status":"Preclinical research",
+    "Sequence":"TSA14 aptamer: 5'-GCUGGAGCAUUUAUGGAUGAACCUUGGACGGAA-3'\nTSA12 aptamer: 5'-GAAAGUGAGAGUCGAUUUAGCAACAGAGAGUGAGG-3'",
+    "Length":"33\n35",
+    "GC content":"48%\n46%",
+    "Affinity":"Kd:  133.9±12.78 nM\nKd: 191.9±21.77 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/33371333\/"
+  }
+]

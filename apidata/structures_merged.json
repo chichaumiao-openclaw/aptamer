@@ -1,0 +1,730 @@
+[
+  {
+    "Category": "Biologics & Signaling Molecules",
+    "Name": "FMN aptamer",
+    "Ligand": "FMN",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "1FMN",
+      "url": "https://www.rcsb.org/structure/1FMN"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "1996",
+    "internal_url": "/_posts/fmn-aptamer"
+  },
+  {
+    "Category": "Amino Acids & Peptides",
+    "Name": "Arginine aptamer",
+    "Ligand": "Arginine",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "1KOC",
+      "url": "https://www.rcsb.org/structure/1KOC"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "1996",
+    "internal_url": "/_posts/arginine-aptamer"
+  },
+  {
+    "Category": "Amino Acids & Peptides",
+    "Name": "Citrulline aptamer",
+    "Ligand": "Citrulline",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "1KOD",
+      "url": "https://www.rcsb.org/structure/1KOD"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "1996",
+    "internal_url": "/_posts/citrulline-aptamer"
+  },
+  {
+    "Category": "Biologics & Signaling Molecules",
+    "Name": "Vitamin B12-aptamer",
+    "Ligand": "Vitamin B12",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "1ET4 1DDY",
+      "url": "https://www.rcsb.org/structure/1ET4"
+    },
+    "Phase Determination": "molecular replacement(MR), Co(MAD)",
+    "Resolution(Å)": "2.3 >3.0",
+    "Year": "2000a 2000b",
+    "internal_url": "/_posts/vitamin-b12-aptamer"
+  },
+  {
+    "Category": "Biologics & Signaling Molecules",
+    "Name": "Biotin aptamer",
+    "Ligand": "Biotin",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "1F27",
+      "url": "https://www.rcsb.org/structure/1F27"
+    },
+    "Phase Determination": "Se (MAD)",
+    "Resolution(Å)": "1.3",
+    "Year": "2000",
+    "internal_url": "/_posts/biotin-aptamer"
+  },
+  {
+    "Category": "Biologics & Signaling Molecules",
+    "Name": "5HTP-aptamer",
+    "Ligand": "5-HT",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "5KPY",
+      "url": "https://www.rcsb.org/structure/5KPY"
+    },
+    "Phase Determination": "Ir (SIRAS)",
+    "Resolution(Å)": "2.0",
+    "Year": "2017",
+    "internal_url": "/_posts/5htp-aptamer"
+  },
+  {
+    "Category": "Biologics & Signaling Molecules",
+    "Name": "Riboflavin aptamer",
+    "Ligand": "FMN",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "7RWR",
+      "url": "https://www.rcsb.org/structure/7RWR"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "2022",
+    "internal_url": "/_posts/riboflavin-aptamer"
+  },
+  {
+    "Category": "Pharmaceuticals",
+    "Name": "Theophylline-aptamer",
+    "Ligand": "TAL3 theophylline apo TAL2 TAL1 TAL4",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "8D2A 8D28 8D29 8D2B 8D5L 8D5O",
+      "url": "https://www.rcsb.org/structure/8D2A"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "2.17 1.42 1.81 1.44 1.64 2.7",
+    "Year": "2022",
+    "internal_url": "/_posts/theophylline-aptamer"
+  },
+  {
+    "Category": "Fluorophores",
+    "Name": "MG aptamer",
+    "Ligand": "tetramethylrosamine(TMR) malachite green",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "1F1T",
+      "url": "https://www.rcsb.org/structure/1F1T"
+    },
+    "Phase Determination": "Br (MAD)",
+    "Resolution(Å)": "2.8",
+    "Year": "2000",
+    "internal_url": "/_posts/mg-aptamer"
+  },
+  {
+    "Category": "Fluorophores",
+    "Name": "Spinach aptamer",
+    "Ligand": "DFHBI-1T DFHBI DFHBI trifluoroethyl, Fab 1TU, Fab bromo-ligand analog, Fab",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "4TS0 4TS2 5OB3 4Q9R 4KZD 4Q9Q",
+      "url": "https://www.rcsb.org/structure/4TS0"
+    },
+    "Phase Determination": "Ba (SAD), molecular replacement(MR)",
+    "Resolution(Å)": "2.8 2.88 2.0 3.12 2.19 2.45",
+    "Year": "2014a 2014b 2017",
+    "internal_url": "/_posts/spinach-aptamer"
+  },
+  {
+    "Category": "Fluorophores",
+    "Name": "GTP aptamer",
+    "Ligand": "GTP",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "5LWJ 2AU4",
+      "url": "https://www.rcsb.org/structure/5LWJ"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "2006 2017",
+    "internal_url": "/_posts/gtp-aptamer"
+  },
+  {
+    "Category": "Fluorophores",
+    "Name": "Corn aptamer",
+    "Ligand": "DFHO DFHO ThT ThT TO apo",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "5BJP 5BJO 6E81 6E82 6E84 6E80",
+      "url": "https://www.rcsb.org/structure/5BJP"
+    },
+    "Phase Determination": "Ir (SAD), molecular replacement(MR)",
+    "Resolution(Å)": "2.51 2.35 2.721 3.1 2.9 2.9",
+    "Year": "2017 2019",
+    "internal_url": "/_posts/corn-aptamer"
+  },
+  {
+    "Category": "Fluorophores",
+    "Name": "Mango aptamer(TO1-biotin)",
+    "Ligand": "TO1-Biotin TO1-Biotin TO3-Biotin TO1-Biotin TO1-Biotin TO1-Biotin",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "5V3F 6C63 6C64 6C65 6V9B 6V9D",
+      "url": "https://www.rcsb.org/structure/5V3F"
+    },
+    "Phase Determination": "Ir (SAD), molecular replacement(MR)",
+    "Resolution(Å)": "1.7 2.9 3.0 2.8 2.4 2.8",
+    "Year": "2017 2018 2020",
+    "internal_url": "/_posts/mango-aptamer"
+  },
+  {
+    "Category": "Fluorophores",
+    "Name": "DIR2s-apt aptamer",
+    "Ligand": "oxazole thiazole blue (OTB)",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "6DB9 6DB8",
+      "url": "https://www.rcsb.org/structure/6DB9"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "2.025",
+    "Year": "2018",
+    "internal_url": "/_posts/dir2s-apt-aptamer"
+  },
+  {
+    "Category": "Fluorophores",
+    "Name": "Mango-III aptamer(YO3)",
+    "Ligand": "TO1-Biotin TO1-Biotin TO1-Biotin TO1-Biotin YO3-Biotin DFHBI-1T",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "6E8S 6E8T 6E8U 6PQ7 6UP0 7L0Z",
+      "url": "https://www.rcsb.org/structure/6E8S"
+    },
+    "Phase Determination": "Ir(SAD), molecular replacement(MR)",
+    "Resolution(Å)": "2.35 2.9 1.55 3.0 2.8 2.1",
+    "Year": "2019a 2019b 2021",
+    "internal_url": "/_posts/mango-iii-aptamer"
+  },
+  {
+    "Category": "Fluorophores",
+    "Name": "TMR aptamer",
+    "Ligand": "tetramethylrhodamine",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "6GZR 6GZK",
+      "url": "https://www.rcsb.org/structure/6GZR"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "2020",
+    "internal_url": "/_posts/tmr-aptamer"
+  },
+  {
+    "Category": "Fluorophores",
+    "Name": "Chili aptamer",
+    "Ligand": "DMHBI+ DMHBO+ DMHBO+ DMHBO+",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "7OAW 7OA3 7OAV 7OAX",
+      "url": "https://www.rcsb.org/structure/7OAW"
+    },
+    "Phase Determination": "molecular replacement(MR), Ir (SAD)",
+    "Resolution(Å)": "2.95 2.8 2.99 2.24",
+    "Year": "2021",
+    "internal_url": "/_posts/chili-aptamer"
+  },
+  {
+    "Category": "Fluorophores",
+    "Name": "Pepper aptamer",
+    "Ligand": "HBC HBC HBC HBC HBC485 HBC497 HBC508 HBC514 HBC525 HBC620 HBC599 and Fab BL3-6 HBC and Fab BL3-6",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "7EOH 7EOG 7EOI 7EOJ 7EOK 7EOL 7EOM 7EON 7EOO 7EOP 7U0Y 7SZU",
+      "url": "https://www.rcsb.org/structure/7EOH"
+    },
+    "Phase Determination": "Ir (SAD), molecular replacement(MR)",
+    "Resolution(Å)": "1.64 1.5 1.92 1.77 2.7 2.31 2.7 2.3 2.23 1.8 2.66 2.24",
+    "Year": "2021 2022",
+    "internal_url": "/_posts/pepper-aptamer"
+  },
+  {
+    "Category": "Fluorophores",
+    "Name": "Squash aptamer",
+    "Ligand": "DFHBI-1T",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "7KVT 7KVU 7KVV",
+      "url": "https://www.rcsb.org/structure/7KVT"
+    },
+    "Phase Determination": "Ir (SAD), molecular replacement(MR)",
+    "Resolution(Å)": "2.73 2.68 2.85",
+    "Year": "2022",
+    "internal_url": "/_posts/squash-aptamer"
+  },
+  {
+    "Category": "Fluorophores",
+    "Name": "Beetroot aptamer",
+    "Ligand": "DFAME ThT DFHO DFHO",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "8EYU 8EYW 8F0N 8EYV",
+      "url": "https://www.rcsb.org/structure/8EYU"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "1.95 2.1 2.85 2.55",
+    "Year": "2023",
+    "internal_url": "/_posts/beetroot-aptamer"
+  },
+  {
+    "Category": "Nucleosides & Nucleotides",
+    "Name": "AMP aptamer",
+    "Ligand": "AMP",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "1AM0 1RAW",
+      "url": "https://www.rcsb.org/structure/1AM0"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "1996a 1996b",
+    "internal_url": "/_posts/amp-aptamer"
+  },
+  {
+    "Category": "Nucleosides & Nucleotides",
+    "Name": "ATP aptamer",
+    "Ligand": "AMPNAapo",
+    "Structure Determination": "EM",
+    "NDB": {
+      "id": "6WLJ 6WLK",
+      "url": "https://www.rcsb.org/structure/6WLJ"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "9.6",
+    "Year": "2020",
+    "internal_url": "/_posts/atp-aptamer"
+  },
+  {
+    "Category": "Pharmaceuticals",
+    "Name": "Tobramycin-RNA aptamer",
+    "Ligand": "Aminoglycoside tobramycin",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "1TOB 2TOB",
+      "url": "https://www.rcsb.org/structure/1TOB"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "1997 1998",
+    "internal_url": "/_posts/tobramycin-rna-aptamer"
+  },
+  {
+    "Category": "Pharmaceuticals",
+    "Name": "Theophylline-aptamer",
+    "Ligand": "theophylline",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "1EHT 1O15",
+      "url": "https://www.rcsb.org/structure/1EHT"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "1997 2003",
+    "internal_url": "/_posts/theophylline-aptamer-nmr"
+  },
+  {
+    "Category": "Pharmaceuticals",
+    "Name": "NeomycinB RNA aptamer",
+    "Ligand": "neomycin B",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "1NEM",
+      "url": "https://www.rcsb.org/structure/1NEM"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "1999",
+    "internal_url": "/_posts/neomycinb-rna-aptamer"
+  },
+  {
+    "Category": "Pharmaceuticals",
+    "Name": "Streptomycin-RNA Aptamer",
+    "Ligand": "Streptomycin",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "1NTA 1NTB",
+      "url": "https://www.rcsb.org/structure/1NTA"
+    },
+    "Phase Determination": "Ba (SAD), molecular replacement(MR)",
+    "Resolution(Å)": "2.9",
+    "Year": "2003",
+    "internal_url": "/_posts/streptomycin-rna-aptamer"
+  },
+  {
+    "Category": "Pharmaceuticals",
+    "Name": "Tetracycline aptamer",
+    "Ligand": "tetracycline",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "3EGZ",
+      "url": "https://www.rcsb.org/structure/3EGZ"
+    },
+    "Phase Determination": "Se (MAD)",
+    "Resolution(Å)": "2.2",
+    "Year": "2008",
+    "internal_url": "/_posts/tetracycline-aptamer"
+  },
+  {
+    "Category": "Bacteria",
+    "Name": "Hfq aptamer",
+    "Ligand": "YmaH (Hfq)",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "3HSB 3AHU",
+      "url": "https://www.rcsb.org/structure/3HSB"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "2.2",
+    "Year": "2012",
+    "internal_url": "/_posts/hfq-aptamer"
+  },
+  {
+    "Category": "Bacteria",
+    "Name": "Ribosomal protein S8-aptamer",
+    "Ligand": "ribosomal protein S8",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "4PDB",
+      "url": "https://www.rcsb.org/structure/4PDB"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "2.6",
+    "Year": "2014a",
+    "internal_url": "/_posts/ribosomal-protein-s8-aptamer"
+  },
+  {
+    "Category": "Bacteria",
+    "Name": "TetR aptamer",
+    "Ligand": "transcription repressor TetR",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "6SY4 6SY6",
+      "url": "https://www.rcsb.org/structure/6SY4"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "2.69 2.9",
+    "Year": "2020",
+    "internal_url": "/_posts/tetr-aptamer"
+  },
+  {
+    "Category": "Mammalian",
+    "Name": "GlnRs aptamer",
+    "Ligand": "GlnRS Gln",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "1EXD",
+      "url": "https://www.rcsb.org/structure/1EXD"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "2.7",
+    "Year": "2000",
+    "internal_url": "/_posts/glnrs-aptamer"
+  },
+  {
+    "Category": "Mammalian",
+    "Name": "NF-kappaB aptamer",
+    "Ligand": "NF-kappaB",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "1OOA",
+      "url": "https://www.rcsb.org/structure/1OOA"
+    },
+    "Phase Determination": "molecular replacement(MR) and single isomorphous replacement (SIR) methods",
+    "Resolution(Å)": "2.45",
+    "Year": "2003",
+    "internal_url": "/_posts/nf-kappab-aptamer"
+  },
+  {
+    "Category": "Mammalian",
+    "Name": "(eIF4A)-aptamer",
+    "Ligand": "initiation factor 4A (eIF4A)",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "1XWP 1XWU",
+      "url": "https://www.rcsb.org/structure/1XWP"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "2005",
+    "internal_url": "/_posts/eif4a-aptamer"
+  },
+  {
+    "Category": "Mammalian",
+    "Name": "FC RNA aptamer",
+    "Ligand": "RNA polymerase (Pol) II",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "2B63",
+      "url": "https://www.rcsb.org/structure/2B63"
+    },
+    "Phase Determination": "Br (SAD)",
+    "Resolution(Å)": "3.8",
+    "Year": "2005",
+    "internal_url": "/_posts/fc-rna-aptamer"
+  },
+  {
+    "Category": "Mammalian",
+    "Name": "Thrombin aptamer",
+    "Ligand": "human thrombin",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "3DD2",
+      "url": "https://www.rcsb.org/structure/3DD2"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "1.9",
+    "Year": "2008",
+    "internal_url": "/_posts/thrombin-aptamer"
+  },
+  {
+    "Category": "Mammalian",
+    "Name": "IgG aptamer",
+    "Ligand": "human IgG",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "3AGV",
+      "url": "https://www.rcsb.org/structure/3AGV"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "2.15",
+    "Year": "2010",
+    "internal_url": "/_posts/igg-aptamer"
+  },
+  {
+    "Category": "Mammalian",
+    "Name": "GRK2 aptamer",
+    "Ligand": "G protein-coupled receptor kinase 2 (GRK2)",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "3UZT 3UZS",
+      "url": "https://www.rcsb.org/structure/3UZT"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "3.51",
+    "Year": "2012",
+    "internal_url": "/_posts/grk2-aptamer"
+  },
+  {
+    "Category": "Mammalian",
+    "Name": "lysozyme aptamer",
+    "Ligand": "lysozyme",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "4M6D 4M4O",
+      "url": "https://www.rcsb.org/structure/4M6D"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "2.68 2.0",
+    "Year": "2013",
+    "internal_url": "/_posts/lysozyme-aptamer"
+  },
+  {
+    "Category": "Mammalian",
+    "Name": "NOX-E36 L-aptamer",
+    "Ligand": "L-CLL2",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "4R8I",
+      "url": "https://www.rcsb.org/structure/4R8I"
+    },
+    "Phase Determination": "Se (SAD)",
+    "Resolution(Å)": "2.05",
+    "Year": "2015",
+    "internal_url": "/_posts/nox-e36-l-aptamer"
+  },
+  {
+    "Category": "Mammalian",
+    "Name": "Thrombin aptamer",
+    "Ligand": "Thrombin",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "5DO4",
+      "url": "https://www.rcsb.org/structure/5DO4"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "1.86",
+    "Year": "2016",
+    "internal_url": "/_posts/thrombin-aptamer"
+  },
+  {
+    "Category": "Mammalian",
+    "Name": "Factor Xa-aptamer",
+    "Ligand": "factor Xa (FXa) factor Xa and Rivaroxaban",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "5VOE 5VOF",
+      "url": "https://www.rcsb.org/structure/5VOE"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "2.0 2.25",
+    "Year": "2018",
+    "internal_url": "/_posts/factor-xa-aptamer"
+  },
+  {
+    "Category": "Mammalian",
+    "Name": "Spinach aptamer",
+    "Ligand": "Fab BL3-6S97N",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "6B14 6B3K",
+      "url": "https://www.rcsb.org/structure/6B14"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "1.64 2.09",
+    "Year": "2018",
+    "internal_url": "/_posts/Spinach-aptamer"
+  },
+  {
+    "Category": "Mammalian",
+    "Name": "A9g RNA aptamer",
+    "Ligand": "human glutamate carboxypeptidase II (GCPII)",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "6RTI",
+      "url": "https://www.rcsb.org/structure/6RTI"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "2.2",
+    "Year": "2020",
+    "internal_url": "/_posts/a9g-rna-aptamer"
+  },
+  {
+    "Category": "Others",
+    "Name": "Bacteriophage MS2 coat protein-aptamer",
+    "Ligand": "bacteriophage MS2 coat protein",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "6MSF 5MSF , 7MSF 1U1Y",
+      "url": "https://www.rcsb.org/structure/6MSF"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "2.8 2.8 2.85",
+    "Year": "1998a 1998b 2004",
+    "internal_url": "/_posts/bacteriophage-ms2-coat-protein-aptamer"
+  },
+  {
+    "Category": "Others",
+    "Name": "Bovine prion protein(bPrP) aptamer",
+    "Ligand": "prion",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "2RQJ 2RSK 2RU7 6K84",
+      "url": "https://www.rcsb.org/structure/2RQJ"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "2009 2013 2014 2020",
+    "internal_url": "/_posts/bovine-prion-protein-aptamer"
+  },
+  {
+    "Category": "Viral",
+    "Name": "HIV-1 REV peptide-aptamer",
+    "Ligand": "REV peptide",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "1ULL 484D",
+      "url": "https://www.rcsb.org/structure/1ULL"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "1996 1999",
+    "internal_url": "/_posts/hiv-1-rev-peptide-aptamer"
+  },
+  {
+    "Category": "Viral",
+    "Name": "REX16 aptamer",
+    "Ligand": "HTLV-1 arginine-rich Rex peptide",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "1EXY",
+      "url": "https://www.rcsb.org/structure/1EXY"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "2000",
+    "internal_url": "/_posts/rex16-aptamer"
+  },
+  {
+    "Category": "Viral",
+    "Name": "Tat aptamer",
+    "Ligand": "HIV Tat protein",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "1NBK",
+      "url": "https://www.rcsb.org/structure/1NBK"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "2003",
+    "internal_url": "/_posts/tat-aptamer"
+  },
+  {
+    "Category": "Fluorophores",
+    "Name": "Spinach aptamer",
+    "Ligand": "Trifluoroethyl, Fab 1TU, Fab bromo-ligand analog, Fab Fab",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "4Q9R 4KZD 4Q9Q 4KZE",
+      "url": "https://www.rcsb.org/structure/4Q9R"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "3.12 2.19 2.45 2.4",
+    "Year": "2014",
+    "internal_url": "/_posts/spinach-aptamer"
+  },
+  {
+    "Category": "Mammalian",
+    "Name": "AML1 (RUNX1)-aptamer",
+    "Ligand": "AML1 Runt domain",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "2RRC",
+      "url": "https://www.rcsb.org/structure/2RRC"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "2011",
+    "internal_url": "/_posts/aml1-runx1-aptamer"
+  },
+  {
+    "Category": "Viral",
+    "Name": "HIV-1 TAR RNA aptamer",
+    "Ligand": "TAR RNA",
+    "Structure Determination": "NMR",
+    "NDB": {
+      "id": "2OOM 2PN9",
+      "url": "https://www.rcsb.org/structure/2OOM"
+    },
+    "Phase Determination": "NMR",
+    "Resolution(Å)": "NA",
+    "Year": "2007",
+    "internal_url": "/_posts/lr06-ga-aptamer"
+  },
+  {
+    "Category": "Viral",
+    "Name": "RBA-14 aptamer",
+    "Ligand": "Rev RNA",
+    "Structure Determination": "X-ray",
+    "NDB": {
+      "id": "6CF2",
+      "url": "https://www.rcsb.org/structure/6CF2"
+    },
+    "Phase Determination": "molecular replacement(MR)",
+    "Resolution(Å)": "3.0",
+    "Year": "2018",
+    "internal_url": "/_posts/rba-14-aptamer"
+  }
+]

@@ -1,0 +1,146 @@
+[
+    {
+      "Fluorescent molecule": "DFHBI",
+      "UPAC": "(5Z)-5-[(3,5-difluoro-4-hydroxyphenyl)methylidene]-2,3-dimethylimidazol-4-one",
+      "Molecular Formula": "C12H10F2N2O2",
+      "Molar mass": "252.22 g/mol",
+      "CAS": "1241390-29-3",
+      "Excitation (nm)": 469,
+      "Emission (nm)": 501,
+      "Aptamer": "Spinach",
+      "Fluorogenic mechanisms": "TICT"
+    },
+    {
+      "Fluorescent molecule": "MG",
+      "UPAC": "[4-[[4-(dimethylamino)phenyl]-phenylmethylidene]cyclohexa-2,5-dien-1-ylidene]-dimethylazanium; chloride",
+      "Molecular Formula": "C23H25ClN2",
+      "Molar mass": "364.9 g/mol",
+      "CAS": "569-64-2",
+      "Excitation (nm)": 630,
+      "Emission (nm)": 655,
+      "Aptamer": "MG aptamer",
+      "Fluorogenic mechanisms": "TICT"
+    },
+    {
+      "Fluorescent molecule": "HBC 530",
+      "UPAC": "4-[(E)-1-cyano-2-[4-[2-hydroxyethyl(methyl)amino]phenyl]ethenyl]benzonitrile",
+      "Molecular Formula": "C19H17N3O",
+      "Molar mass": "303.4 g/mol",
+      "CAS": "156840-13-0",
+      "Excitation (nm)": 485,
+      "Emission (nm)": 530,
+      "Aptamer": "Pepper",
+      "Fluorogenic mechanisms": "TICT"
+    },
+    {
+      "Fluorescent molecule": "TO1",
+      "UPAC": "4-methylbenzenesulfonate; (2Z)-3-methyl-2-[(1-methylquinolin-1-ium-4-yl)methylidene]-1,3-benzothiazole",
+      "Molecular Formula": "C26H24N2O3S2",
+      "Molar mass": "476.6 g/mol",
+      "CAS": "107091-89-4",
+      "Excitation (nm)": 510,
+      "Emission (nm)": 535,
+      "Aptamer": "Mango",
+      "Fluorogenic mechanisms": "TICT"
+    },
+    {
+      "Fluorescent molecule": "DFHO",
+      "UPAC": "(5Z)-5-[(3,5-difluoro-4-hydroxyphenyl)methylidene]-3-methyl-2-(nitrosomethylidene)imidazolidin-4-one",
+      "Molecular Formula": "C12H9F2N3O3",
+      "Molar mass": "281.21 g/mol",
+      "CAS": "1420815-34-4",
+      "Excitation (nm)": 505,
+      "Emission (nm)": 545,
+      "Aptamer": "Corn",
+      "Fluorogenic mechanisms": "TICT"
+    },
+    {
+      "Fluorescent molecule": "DMHBI",
+      "UPAC": "5-[(4-hydroxy-3,5-dimethoxyphenyl)methylidene]-2,3-dimethylimidazol-4-one",
+      "Molecular Formula": "C14H16N2O4",
+      "Molar mass": "276.29 g/mol",
+      "CAS": "1629243-34-0",
+      "Excitation (nm)": 400,
+      "Emission (nm)": 537,
+      "Aptamer": "Chili",
+      "Fluorogenic mechanisms": "TICT"
+    },
+    {
+      "Fluorescent molecule": "YO3",
+      "UPAC": "(2Z)-3-methyl-2-[(E)-3-(1-methylquinolin-1-ium-4-yl)prop-2-enylidene]-1,3-benzoxazole",
+      "Molecular Formula": "C21H19N2O+",
+      "Molar mass": "315.4 g/mol",
+      "CAS": "-",
+      "Excitation (nm)": 595,
+      "Emission (nm)": 620,
+      "Aptamer": "Mango-III",
+      "Fluorogenic mechanisms": "TICT"
+    },
+    {
+      "Fluorescent molecule": "ThT",
+      "UPAC": "4-(3,6-dimethyl-1,3-benzothiazol-3-ium-2-yl)-N,N-dimethylaniline",
+      "Molecular Formula": "C17H19ClN2S",
+      "Molar mass": "318.9 g/mol",
+      "CAS": "2390-54-7",
+      "Excitation (nm)": 455,
+      "Emission (nm)": 485,
+      "Aptamer": "Beetroot",
+      "Fluorogenic mechanisms": "TICT"
+    },
+    {
+      "Fluorescent molecule": "TMR",
+      "UPAC": "2-[3-(dimethylamino)-6-dimethylazaniumylidenexanthen-9-yl]benzoate",
+      "Molecular Formula": "C24H22N2O3",
+      "Molar mass": "386.4 g/mol",
+      "CAS": "120718-52-7",
+      "Excitation (nm)": 564,
+      "Emission (nm)": 587,
+      "Aptamer": "TMR3 aptamer",
+      "Fluorogenic mechanisms": "CQ"
+    },
+    {
+      "Fluorescent molecule": "DFAME",
+      "UPAC": "methyl 3-[4-[(3,5-difluoro-4-hydroxyphenyl)methylidene]-1-methyl-5-oxoimidazol-2-yl]prop-2-enoate",
+      "Molecular Formula": "C15H12F2N2O4",
+      "Molar mass": "322.26 g/mol",
+      "CAS": "1420815-55-9",
+      "Excitation (nm)": 514,
+      "Emission (nm)": 619,
+      "Aptamer": "Beetroot",
+      "Fluorogenic mechanisms": "TICT"
+    },
+    {
+      "Fluorescent molecule": "OTB",
+      "UPAC": "3-methyl-2-[(3-methyl-1,3-benzothiazol-3-ium-2-yl)methylidene]-1,3-benzoxazole",
+      "Molecular Formula": "C17H15N2OS+",
+      "Molar mass": "295.4 g/mol",
+      "CAS": "-",
+      "Excitation (nm)": 380,
+      "Emission (nm)": 421,
+      "Aptamer": "DIRs2-Apt",
+      "Fluorogenic mechanisms": "TICT"
+    },
+    {
+      "Fluorescent molecule": "NBSI",
+      "UPAC": "(5Z)-2-[(E)-2-(4-fluorophenyl)ethenyl]-5-[[4-[2-hydroxyethyl(methyl)amino]phenyl]methylidene]-3-methylimidazol-4-one",
+      "Molecular Formula": "C22H22FN3O2",
+      "Molar mass": "379.4 g/mol",
+      "CAS": "-",
+      "Excitation (nm)": 524,
+      "Emission (nm)": 580,
+      "Aptamer": "Clivias",
+      "Fluorogenic mechanisms": "TICT"
+    },
+    {
+      "Fluorescent molecule": "TMR-DN",
+      "UPAC": "Tetramethylrhodamine-Dinitroaniline",
+      "Molecular Formula": "C37H38N6O10",
+      "Molar mass": "726.7 g/mol",
+      "CAS": "-",
+      "Excitation (nm)": 545,
+      "Emission (nm)": 570,
+      "Aptamer": "RhoBAST",
+      "Fluorogenic mechanisms": "CQ"
+    }
+  ]
+  

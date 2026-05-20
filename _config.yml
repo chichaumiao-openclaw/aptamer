@@ -1,0 +1,43 @@
+title: "Aptamer"
+email: "rnapuzzles@gzlab.ac.cn"
+description: >
+  Ribocentre-aptamer: an integrative, structure-focused database for RNA aptamers
+baseurl: ""
+url: "https://aptamer.ribocentre.org"
+paper_title: "Ribocentre-aptamer: an integrative, structure-focused database for RNA aptamers"
+paper_url: "https://doi.org/10.1093/nar/gkaf1016"
+theme_key: "aptamer"
+site_domain: "aptamer.ribocentre.org"
+site_family_label: "Aptamer database"
+logo_path: "/images/riboaptamer.svg"
+repo_owner: "RNA-Aptamer-Database"
+repo_name: "Ribocentre-aptamer.github.io"
+colored_structures_release_tag: "20250907-1"
+
+
+include:
+  - _pages
+  - _posts
+  - search.json
+
+sass:
+  sass_dir: _sass
+
+plugins:
+  - liquid
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: "\n\n"
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true

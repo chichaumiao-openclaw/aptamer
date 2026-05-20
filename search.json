@@ -1,0 +1,39 @@
+---
+layout: null
+---
+[
+  {% assign first = true %}
+  {% for post in site.posts %}
+    {% if post.title and post.title != "" %}
+      {% unless first %}
+      ,
+      {% endunless %}
+      {
+        "title"    : {{ post.title | default: "Untitled" | jsonify }},
+        "category" : {{ post.category | default: "" | jsonify }},
+        "tags"     : {{ post.tags | join: ', ' | default: "" | jsonify }},
+        "url"      : {{ site.baseurl | append: post.url | jsonify }},
+        "date"     : {{ post.date | date: '%Y-%m-%d' | default: "" | jsonify }},
+        "content"  : {{ post.content | strip_html | strip_newlines | default: "" | jsonify }}
+      }
+      {% assign first = false %}
+    {% endif %}
+  {% endfor %}
+  
+  {% for page in site.pages %}
+    {% if page.title and page.title != "" and page.title != 'Search' and page.layout != 'redirect' %}
+      {% unless first %}
+      ,
+      {% endunless %}
+      {
+        "title"    : {{ page.title | default: "Untitled" | jsonify }},
+        "category" : {{ page.category | default: "" | jsonify }},
+        "tags"     : {{ page.tags | join: ', ' | default: "" | jsonify }},
+        "url"      : {{ site.baseurl | append: page.url | jsonify }},
+        "date"     : "",
+        "content"  : {{ page.content | strip_html | strip_newlines | default: "" | jsonify }}
+      }
+      {% assign first = false %}
+    {% endif %}
+  {% endfor %}
+] 

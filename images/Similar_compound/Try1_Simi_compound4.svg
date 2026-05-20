@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 130">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 8.1px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #000;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        font-size: 4.86px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-2" points="110.07 41.18 100.89 57.08 100.47 57.08 100.25 56.71 109.22 41.18 109.65 41.18 110.07 41.18 110.07 41.18"/>
+  <polygon class="cls-2" points="107.42 41.36 99.51 55.06 99.19 54.87 98.87 54.69 106.78 40.99 107.1 41.18 107.42 41.36 107.42 41.36"/>
+  <polygon class="cls-2" points="100.25 57.45 81.89 57.45 82.1 57.08 82.32 56.71 100.25 56.71 100.47 57.08 100.25 57.45 100.25 57.45"/>
+  <polygon class="cls-2" points="81.89 57.45 72.71 41.54 72.92 41.18 73.35 41.18 82.32 56.71 82.1 57.08 81.89 57.45 81.89 57.45"/>
+  <polygon class="cls-2" points="83.06 55.06 75.15 41.36 75.47 41.18 75.79 40.99 83.69 54.69 83.38 54.87 83.06 55.06 83.06 55.06"/>
+  <polygon class="cls-2" points="72.71 40.81 81.68 25.28 82.1 25.28 82.32 25.64 73.35 41.18 72.92 41.18 72.71 40.81 72.71 40.81"/>
+  <polygon class="cls-2" points="82.32 24.91 100.25 24.91 100.47 25.28 100.25 25.64 82.32 25.64 82.1 25.28 82.32 24.91 82.32 24.91"/>
+  <polygon class="cls-2" points="83.38 27.11 99.19 27.11 99.19 27.48 99.19 27.85 83.38 27.85 83.38 27.48 83.38 27.11 83.38 27.11"/>
+  <polygon class="cls-2" points="100.25 24.91 107.47 12.41 107.79 12.6 108.1 12.78 100.89 25.28 100.47 25.28 100.25 24.91 100.25 24.91"/>
+  <text class="cls-1" transform="translate(108.65 11.06)"><tspan x="0" y="0">I</tspan></text>
+  <polygon class="cls-2" points="100.89 25.28 110.07 41.18 109.65 41.18 109.22 41.18 100.25 25.64 100.47 25.28 100.89 25.28 100.89 25.28"/>
+  <polygon class="cls-2" points="81.68 25.28 74.96 13.64 75.28 13.46 75.6 13.27 82.32 24.91 82.1 25.28 81.68 25.28 81.68 25.28"/>
+  <text class="cls-1" transform="translate(64.05 11.06)"><tspan x="0" y="0">H</tspan></text>
+  <text class="cls-1" transform="translate(69.9 11.06)"><tspan x="0" y="0">O</tspan></text>
+  <polygon class="cls-2" points="72.71 41.54 56.42 41.54 56.42 41.18 56.42 40.81 72.71 40.81 72.92 41.18 72.71 41.54 72.71 41.54"/>
+  <text class="cls-1" transform="translate(53.56 42.87)"><tspan x="0" y="0">I</tspan></text>
+  <polygon class="cls-2" points="100.89 57.08 110.07 72.98 109.65 72.98 109.22 72.98 100.25 57.45 100.47 57.08 100.89 57.08 100.89 57.08"/>
+  <polygon class="cls-2" points="110.07 72.98 100.89 88.88 100.47 88.88 100.25 88.51 109.22 72.98 109.65 72.98 110.07 72.98 110.07 72.98"/>
+  <polygon class="cls-2" points="100.89 88.88 110.07 104.78 109.65 104.78 109.22 104.78 100.25 89.25 100.47 88.88 100.89 88.88 100.89 88.88"/>
+  <polygon class="cls-2" points="109.01 103.31 124.12 103.31 124.12 103.68 124.12 104.05 109.01 104.05 109.01 103.68 109.01 103.31 109.01 103.31"/>
+  <polygon class="cls-2" points="109.01 105.52 124.12 105.52 124.12 105.88 124.12 106.25 109.01 106.25 109.01 105.88 109.01 105.52 109.01 105.52"/>
+  <text class="cls-1" transform="translate(124.98 106.66)"><tspan x="0" y="0">O</tspan></text>
+  <polygon class="cls-2" points="110.07 104.78 103.14 116.78 102.82 116.6 102.5 116.42 109.22 104.78 109.65 104.78 110.07 104.78 110.07 104.78"/>
+  <text class="cls-1" transform="translate(91.59 122.37)"><tspan x="0" y="0">H</tspan></text>
+  <text class="cls-1" transform="translate(97.44 122.37)"><tspan x="0" y="0">O</tspan></text>
+  <polygon class="cls-2" points="100.25 89.25 85.76 89.25 85.76 88.88 85.76 88.51 100.25 88.51 100.47 88.88 100.25 89.25 100.25 89.25"/>
+  <text class="cls-1" transform="translate(70.75 90.56)"><tspan x="0" y="0">H</tspan></text>
+  <text class="cls-3" transform="translate(76.61 92.73)"><tspan x="0" y="0">2</tspan></text>
+  <text class="cls-1" transform="translate(79.3 90.56)"><tspan x="0" y="0">N</tspan></text>
+</svg>

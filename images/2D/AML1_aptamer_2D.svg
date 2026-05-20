@@ -1,0 +1,171 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-2, .cls-3, .cls-4, .cls-6, .cls-9 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-2, .cls-3, .cls-4, .cls-9 {
+        font-size: 29.27px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #b83233;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-2, .cls-3, .cls-4, .cls-6, .cls-9 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-2, .cls-4 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-3 {
+        fill: #f17d07;
+      }
+
+      .cls-10, .cls-4, .cls-9 {
+        fill: #2ea103;
+      }
+
+      .cls-5, .cls-7 {
+        fill: none;
+      }
+
+      .cls-15, .cls-5, .cls-7, .cls-8 {
+        stroke: #000;
+        stroke-miterlimit: 3.33;
+      }
+
+      .cls-5, .cls-8 {
+        stroke-width: 0.42px;
+      }
+
+      .cls-13, .cls-6 {
+        font-size: 21px;
+      }
+
+      .cls-12, .cls-9 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-11, .cls-12 {
+        fill: #084595;
+      }
+
+      .cls-14 {
+        letter-spacing: -0.04em;
+      }
+    </style>
+  </defs>
+  <g id="ID000002">
+    <text class="cls-1" transform="translate(232.86 176.72)">G</text>
+  </g>
+  <g id="ID000003">
+    <text class="cls-1" transform="translate(262.44 176.72)">G</text>
+  </g>
+  <g id="ID000004">
+    <text class="cls-2" transform="translate(293.64 176.72)">A</text>
+  </g>
+  <g id="ID000005">
+    <text class="cls-1" transform="translate(322.41 176.72)">C</text>
+  </g>
+  <g id="ID000006">
+    <text class="cls-3" transform="translate(351.99 176.72)">C</text>
+  </g>
+  <g id="ID000007">
+    <text class="cls-4" transform="translate(385.39 248.56)">A</text>
+  </g>
+  <g id="ID000008">
+    <text class="cls-3" transform="translate(351.18 235.87)">G</text>
+  </g>
+  <g id="ID000009">
+    <text class="cls-1" transform="translate(321.6 235.87)">G</text>
+  </g>
+  <g id="ID000010">
+    <text class="cls-1" transform="translate(292.84 235.87)">U</text>
+  </g>
+  <g id="ID000011">
+    <text class="cls-1" transform="translate(263.26 235.87)">C</text>
+  </g>
+  <g id="ID000012">
+    <line class="cls-5" x1="273.83" y1="242.28" x2="273.83" y2="262"/>
+  </g>
+  <g id="ID000013">
+    <text class="cls-6" transform="translate(261.53 282.89)">20</text>
+  </g>
+  <g id="ID000014">
+    <text class="cls-1" transform="translate(233.68 235.87)">C</text>
+  </g>
+  <g id="ID000015">
+    <text class="cls-2" transform="translate(204.91 235.87)">A</text>
+  </g>
+  <g id="ID000016">
+    <line class="cls-7" x1="244.25" y1="177.74" x2="244.25" y2="213.23"/>
+  </g>
+  <g id="ID000017">
+    <line class="cls-7" x1="273.83" y1="177.74" x2="273.83" y2="213.23"/>
+  </g>
+  <g id="ID000018">
+    <line class="cls-7" x1="303.4" y1="177.74" x2="303.4" y2="213.23"/>
+  </g>
+  <g id="ID000019">
+    <line class="cls-7" x1="332.98" y1="177.74" x2="332.98" y2="213.23"/>
+  </g>
+  <g id="ID000020">
+    <line class="cls-7" x1="374.39" y1="163.41" x2="417.28" y2="163.41"/>
+  </g>
+  <g id="ID000021">
+    <polygon class="cls-8" points="385.98 154.53 390.9 158.97 395.83 160.45 400.76 161.19 410.62 163.41 400.76 165.62 395.83 166.36 390.9 167.84 385.98 172.28 385.98 154.53"/>
+  </g>
+  <g id="ID000022">
+    <line class="cls-7" x1="362.56" y1="177.74" x2="362.56" y2="213.23"/>
+  </g>
+  <g id="ID000024">
+    <text class="cls-3" transform="translate(418.54 176.72)">C</text>
+  </g>
+  <g id="ID000025">
+    <text class="cls-9" transform="translate(446.39 175.37)">A</text>
+  </g>
+  <g id="ID000026">
+    <text class="cls-10" transform="translate(446.79 235.26)">C</text>
+  </g>
+  <g id="ID000027">
+    <text class="cls-3" transform="translate(417.72 235.87)">G</text>
+  </g>
+  <g id="ID000028">
+    <line class="cls-7" x1="429.11" y1="177.74" x2="429.11" y2="213.23"/>
+  </g>
+  <g id="ID000030">
+    <text class="cls-10" transform="translate(473.2 175.92)">C</text>
+  </g>
+  <g id="ID000031">
+    <text class="cls-11" transform="translate(505.07 166.75)">C</text>
+  </g>
+  <g id="ID000032">
+    <text class="cls-12" transform="translate(540.56 183.32)">A</text>
+  </g>
+  <g id="ID000033">
+    <line class="cls-5" x1="550.32" y1="155.29" x2="550.32" y2="135.57"/>
+  </g>
+  <g id="ID000034">
+    <text class="cls-6" transform="translate(539.71 134.04)">10</text>
+  </g>
+  <g id="ID000035">
+    <text class="cls-11" transform="translate(539.75 220.29)">C</text>
+  </g>
+  <g id="ID000036">
+    <text class="cls-11" transform="translate(505.94 247.35)">G</text>
+  </g>
+  <g id="ID000037">
+    <text class="cls-3" transform="translate(472.38 235.07)">G</text>
+  </g>
+  <g id="ID000022-2" data-name="ID000022">
+    <line class="cls-7" x1="484.85" y1="178.36" x2="484.85" y2="212.28"/>
+  </g>
+  <text class="cls-13" transform="translate(213.38 145.46)">5<tspan class="cls-14" x="11.68" y="0">’</tspan></text>
+  <text class="cls-13" transform="translate(172.8 256.21)">3<tspan class="cls-14" x="11.68" y="0">’</tspan></text>
+  <text class="cls-13" transform="translate(317.03 76.67)">Apt1-S2 aptamer</text>
+  <circle class="cls-15" cx="457.2" cy="195.28" r="4.82"/>
+</svg>

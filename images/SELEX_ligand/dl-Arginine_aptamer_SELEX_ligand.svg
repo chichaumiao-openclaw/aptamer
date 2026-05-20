@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="_图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 400" style="enable-background:new 0 0 800 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+	.st1{fill:#FF0D0D;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:27.74px;}
+	.st4{fill:#304FF7;}
+	.st5{font-size:16.65px;}
+	.st6{font-size:20px;}
+	.st7{enable-background:new    ;}
+</style>
+<g>
+	<polygon class="st0" points="391.8,143.8 446.3,112.4 446.3,113.8 446.3,115.3 391.8,146.7 391.8,145.3 391.8,143.8 	"/>
+	<polygon class="st0" points="446.3,112.4 500.7,143.8 500.7,145.3 499.5,146 446.3,115.3 446.3,113.8 446.3,112.4 	"/>
+	<polygon class="st0" points="500.7,143.8 555.2,112.4 555.2,113.8 555.2,115.3 502,146 500.7,145.3 500.7,143.8 	"/>
+	<polygon class="st0" points="550.2,116 550.2,64.9 551.5,64.9 552.7,64.9 552.7,116 551.5,116 550.2,116 	"/>
+	<polygon class="st0" points="557.7,116 557.7,64.9 559,64.9 560.3,64.9 560.3,116 559,116 557.7,116 	"/>
+	<text transform="matrix(1 0 0 1 544.86 57.3497)" class="st1 st2 st3">O</text>
+	<polygon class="st0" points="555.2,112.4 597,136.5 596.4,137.6 595.8,138.7 555.2,115.3 555.2,113.8 555.2,112.4 	"/>
+	<text transform="matrix(1 0 0 1 599.33 151.7097)" class="st1 st2 st3">O</text>
+	<text transform="matrix(1 0 0 1 620.92 151.7097)" class="st1 st2 st3">H</text>
+	<polygon class="st0" points="502,146 502,194.2 500.7,194.2 499.5,194.2 499.5,146 500.7,145.3 502,146 	"/>
+	<text transform="matrix(1 0 0 1 491.16 213.9397)" class="st4 st2 st3">N</text>
+	<text transform="matrix(1 0 0 1 511.19 213.9397)" class="st4 st2 st3">H</text>
+	<text transform="matrix(1 0 0 1 531.19 221.3497)" class="st4 st2 st5">2</text>
+	<polygon class="st0" points="391.8,146.7 337.3,115.3 337.3,113.8 337.3,112.4 391.8,143.8 391.8,145.3 391.8,146.7 	"/>
+	<polygon class="st0" points="337.3,115.3 296,139.1 295.3,138 294.7,136.9 337.3,112.4 337.3,113.8 337.3,115.3 	"/>
+	<text transform="matrix(1 0 0 1 273.2 151.0197)" class="st4 st2 st3">N</text>
+	<polygon class="st0" points="269.6,139.1 228.3,115.3 228.3,113.8 229.6,113.1 270.9,136.9 270.3,138 269.6,139.1 	"/>
+	<polygon class="st0" points="273.4,132.6 235.2,110.5 235.9,109.5 236.5,108.4 274.7,130.4 274,131.5 273.4,132.6 	"/>
+	<polygon class="st0" points="228.3,115.3 187,139.1 186.4,138 185.7,136.9 227.1,113.1 228.3,113.8 228.3,115.3 	"/>
+	<text transform="matrix(1 0 0 1 134.96 151.0197)" class="st4 st2 st3">H</text>
+	<text transform="matrix(1 0 0 1 154.99 158.4297)" class="st4 st2 st5">2</text>
+	<text transform="matrix(1 0 0 1 164.25 151.0197)" class="st4 st2 st3">N</text>
+	<polygon class="st0" points="227.1,113.1 227.1,64.9 228.3,64.9 229.6,64.9 229.6,113.1 228.3,113.8 227.1,113.1 	"/>
+	<text transform="matrix(1 0 0 1 218.73 56.6497)" class="st4 st2 st3">N</text>
+	<text transform="matrix(1 0 0 1 238.76 56.6497)" class="st4 st2 st3">H</text>
+	<text transform="matrix(1 0 0 1 258.79 64.0598)" class="st4 st2 st5">2</text>
+</g>
+<text transform="matrix(1 0 0 1 91.2283 285.3126)" class="st2 st6">L-Arginine</text>
+<text transform="matrix(1 0 0 1 68.8583 325.3126)" class="st7"><tspan x="0" y="0" class="st2 st6">L-R16c aptamer Kd:129 ± 18 µM</tspan><tspan x="0" y="24" class="st2 st6">ag.06 aptamer    Kd: 330 nM</tspan></text>
+<text transform="matrix(1 0 0 1 569.6048 285.3121)" class="st2 st6">D-Arginine</text>
+<text transform="matrix(1 0 0 1 488.5038 325.3126)" class="st2 st6">D-R16c aptamer Kd:135 ± 25 µM</text>
+</svg>

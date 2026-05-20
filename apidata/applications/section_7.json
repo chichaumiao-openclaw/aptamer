@@ -1,0 +1,90 @@
+[
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Tetracycline-aptamer.html",
+    "New Linker name":"Tetracycline aptamer",
+    "Target":"Tetracycline",
+    "Tool Function":"Regulatory system",
+    "Sequence":"5'-GGCCUAAAACAUACCAGAUUUCGAUCUGGAGAGGUGAAGAAUUCGACCACCUAGGCCGGU-3'",
+    "Length":60,
+    "GC content":0.5,
+    "Affinity":null,
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/12655001\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Theophylline-aptamer.html",
+    "New Linker name":"Theophylline aptamer",
+    "Target":"Theophylline",
+    "Tool Function":"Signal connectors RNA devices",
+    "Sequence":"5'-GGCAUACCAGCCGAAAGGCCCUUGGCAGCGCC-3'",
+    "Length":32,
+    "GC content":0.67,
+    "Affinity":"Kd: 0.67 μM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/29319503\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Tetracycline-aptamer.html",
+    "New Linker name":"Tetracycline aptamer",
+    "Target":"Tetracycline",
+    "Tool Function":"Alternative splicing",
+    "Sequence":"5'-GGCCUAAAACAUACCAGAUUUCGAUCUGGAGAGGUGAAGAAUUCGACCACCUAGGCCGGU-3'",
+    "Length":60,
+    "GC content":0.5,
+    "Affinity":null,
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/29420816\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/TetR-aptamer.html",
+    "New Linker name":"TetR aptamer",
+    "Target":"TetR",
+    "Tool Function":"Splicing regulation",
+    "Sequence":"5'-GGCCGGAGAAUGUUAUGGCGCGAAAGCGCAGAGAAAACCGGUC-3'",
+    "Length":43,
+    "GC content":0.58,
+    "Affinity":"Kd: 80 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/31504742\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Tetracycline-aptamer.html",
+    "New Linker name":"Tetracycline aptamer",
+    "Target":"Tetracycline",
+    "Tool Function":"Occlusion of miRNA target sites",
+    "Sequence":"5'-GGCCUAAAACAUACCAGAUUUCGAUCUGGAGAGGUGAAGAAUUCGACCACCUAGGCCGGU-3'",
+    "Length":60,
+    "GC content":0.5,
+    "Affinity":null,
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/29567311\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/TetR-aptamer.html",
+    "New Linker name":"TetR aptamer",
+    "Target":"TetR",
+    "Tool Function":"Regulate Dicer processing and miRNA maturation",
+    "Sequence":"5'-GGCCGGAGAAUGUUAUGGCGCGAAAGCGCAGAGAAAACCGGUC-3'",
+    "Length":43,
+    "GC content":0.58,
+    "Affinity":"Kd: 80 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/29036355\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/FMN-aptamer.html",
+    "New Linker name":"FMN aptamer",
+    "Target":"FMN",
+    "Tool Function":"Aptazyme（cleavage）",
+    "Sequence":"5'-GGCGUGUAGGAUAUGCUUCGGCAGAAGGACACGCC-3'",
+    "Length":35,
+    "GC content":0.6,
+    "Affinity":"Kd: 0.5 μM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/10097080\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/ATP-aptamer.html",
+    "New Linker name":"ATP aptamer",
+    "Target":"ATP",
+    "Tool Function":"Aptazyme（cleavage）",
+    "Sequence":"5'-GGGAAGGGAAGAAACUGCGGCUUCGGCCGGCUUCCC-4'",
+    "Length":36,
+    "GC content":0.66,
+    "Affinity":"Kd: 14 μM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/10097080\/"
+  }
+]

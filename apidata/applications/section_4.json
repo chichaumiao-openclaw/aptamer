@@ -1,0 +1,93 @@
+[
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/VEGF-aptamer.html",
+    "New Linker name":"VEGF aptamer",
+    "Name":"Pegaptanib(Macugen)",
+    "Target":"VEGF165",
+    "Disease":"Age-related macular degeneration (AMD)",
+    "Clinical Status":"FDA approved (2004)",
+    "Sequence":"5'-GCGGAAUCAGUGAAUGCUUAUACAUCCGC-3'",
+    "Length":29,
+    "GC content":0.48,
+    "Affinity":"Kd: 49±6 pM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/16647134\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Complement-component-5-aptamer.html",
+    "New Linker name":"Complement component 5 aptamer",
+    "Name":"Avacincaptad pegol (Izervay)",
+    "Target":"Complement protein C5",
+    "Disease":"Age-related macular degeneration (AMD)",
+    "Clinical Status":"FDA approved (2023)",
+    "Sequence":"5'-CGUCCCUUCGCAACCCUUUAAGACUUGGGACCCUGCUCUU-3'",
+    "Length":40,
+    "GC content":0.55,
+    "Affinity":"Kd: 3.6 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/37696275\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Bovine-factor-IX-aptamer",
+    "New Linker name":"Bovine factor IX aptamer",
+    "Name":"Pegnivacogin",
+    "Target":"Factor IX",
+    "Disease":"Coronary Artery Disease",
+    "Clinical Status":"Phase III",
+    "Sequence":"5'-GGGAGCUCAGCCUUCACUGCCUACGCGGGCGUUUACGUAACGGCUUAUGGGGAGCUGAGCGCUUGACCGUGGUAGUGCUAAGCAGUAAACGAGGGCACCACGGUCGGAUCCAC-3'",
+    "Length":114,
+    "GC content":0.6018,
+    "Affinity":"Kd: 10 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/21724623\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/L-CCL2-aptamer.html",
+    "New Linker name":"\/L-CCL2 aptamer",
+    "Name":"NOX-E36 (Emapticap pegol)",
+    "Target":"CCL2",
+    "Disease":"Type 2 diabetic patients with albuminuria",
+    "Clinical Status":"Phase II",
+    "Sequence":"5'-GCACGUCCCUCACCGGUGCAAGUGAAGCCGAGGCUCUGCG-3'",
+    "Length":40,
+    "GC content":0.67,
+    "Affinity":"Kd: 1.40±0.16 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/28186566\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/bFGF-aptamer.html",
+    "New Linker name":"bFGF aptamer",
+    "Name":"RBM 007(Umedaptanib pegol)",
+    "Target":"bFGF",
+    "Disease":"Exudative age-related macular degeneration (nAMD)",
+    "Clinical Status":"Phase II",
+    "Sequence":"7A aptamer: 5'-AACGCUCAAUCGGCGAGCUAACCAAGACACUCGCUGCACUUCGACAUG-3'\n26A aptamer: 5'-AACGCUCAACGUCAGAAGGCAACGUAUAGGCAAGCACACUUCGACAUGAGGC-3'",
+    "Length":"48\n52",
+    "GC content":"54%\n52%",
+    "Affinity":"Kd: 5±0.5 nM\nKd1: 0.19±0.02 nM (26A)\nKd2: 49±26 nM (26A)",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/38036609\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Thrombin-aptamer",
+    "New Linker name":"Thrombin aptamer",
+    "Name":"Apta-1",
+    "Target":"Heparin-binding motif (Exosite II) on thrombin",
+    "Disease":"Sepsis",
+    "Clinical Status":"Phase I",
+    "Sequence":"5'-GGGAACAAAGCUGAAGUACUUACCC-3'",
+    "Length":25,
+    "GC content":0.48,
+    "Affinity":"Kd:  0.54±0.1 nM",
+    "References":"https:\/\/onderzoekmetmensen.nl\/en\/trial\/51837"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Breast-cancer-cells_HER2-aptamer",
+    "New Linker name":"Breast cancer cells_HER2 aptamer",
+    "Name":"H2EH3",
+    "Target":"EGFR\/HER2\/HER3",
+    "Disease":"Breast tumors",
+    "Clinical Status":"Preclinical",
+    "Sequence":"TSA14 aptamer: 5'-GCUGGAGCAUUUAUGGAUGAACCUUGGACGGAA-3'\nTSA12 aptamer: 5'-GAAAGUGAGAGUCGAUUUAGCAACAGAGAGUGAGG-3'",
+    "Length":"33\n35",
+    "GC content":"48%\n46%",
+    "Affinity":"Kd:  133.9±12.78 nM\nKd: 191.9±21.77 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/29499944\/"
+  }
+]

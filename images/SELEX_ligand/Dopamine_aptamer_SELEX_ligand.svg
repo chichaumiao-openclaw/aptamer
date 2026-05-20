@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 14.98px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #000;
+      }
+
+      .cls-2 {
+        font-size: 20px;
+      }
+
+      .cls-3 {
+        font-size: 24.97px;
+      }
+
+      .cls-4 {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-4" points="439.79 187.34 410.83 237.51 410.17 236.37 409.52 235.24 437.18 187.34 438.48 187.34 439.79 187.34 439.79 187.34"/>
+    <polygon class="cls-4" points="431.62 187.91 407.23 230.15 406.25 229.58 405.27 229.01 429.66 186.77 430.64 187.34 431.62 187.91 431.62 187.91"/>
+    <polygon class="cls-4" points="410.83 237.51 354.21 237.51 353.55 236.37 354.21 235.24 409.52 235.24 410.17 236.37 410.83 237.51 410.83 237.51"/>
+    <polygon class="cls-4" points="352.25 236.37 324.59 188.47 325.24 187.34 326.55 187.34 354.21 235.24 353.55 236.37 352.25 236.37 352.25 236.37"/>
+    <polygon class="cls-4" points="356.49 230.15 332.11 187.91 333.09 187.34 334.07 186.77 358.46 229.01 357.48 229.58 356.49 230.15 356.49 230.15"/>
+    <polygon class="cls-4" points="324.59 186.21 352.9 137.17 353.55 138.3 354.21 139.44 326.55 187.34 325.24 187.34 324.59 186.21 324.59 186.21"/>
+    <polygon class="cls-4" points="352.9 137.17 409.52 137.17 410.17 138.3 409.52 139.44 354.21 139.44 353.55 138.3 352.9 137.17 352.9 137.17"/>
+    <polygon class="cls-4" points="357.48 143.97 406.25 143.97 406.25 145.1 406.25 146.23 357.48 146.23 357.48 145.1 357.48 143.97 357.48 143.97"/>
+    <polygon class="cls-4" points="409.52 137.17 437.83 88.14 438.48 89.27 439.14 90.4 411.48 138.3 410.17 138.3 409.52 137.17 409.52 137.17"/>
+    <polygon class="cls-4" points="437.83 88.14 494.45 88.14 495.1 89.27 495.76 90.4 439.14 90.4 438.48 89.27 437.83 88.14 437.83 88.14"/>
+    <polygon class="cls-4" points="494.45 88.14 515.16 52.26 516.14 52.83 517.12 53.39 495.76 90.4 495.1 89.27 494.45 88.14 494.45 88.14"/>
+    <text class="cls-3" transform="translate(514.79 45.43)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-3" transform="translate(532.81 45.43)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-1" transform="translate(550.84 52.09)"><tspan x="0" y="0">2</tspan></text>
+    <polygon class="cls-4" points="411.48 138.3 439.79 187.34 438.48 187.34 437.18 187.34 409.52 139.44 410.17 138.3 411.48 138.3 411.48 138.3"/>
+    <polygon class="cls-4" points="324.59 188.47 280.6 188.47 280.6 187.34 280.6 186.21 324.59 186.21 325.24 187.34 324.59 188.47 324.59 188.47"/>
+    <text class="cls-3" transform="translate(241.26 192.56)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-3" transform="translate(259.32 192.56)"><tspan x="0" y="0">O</tspan></text>
+    <polygon class="cls-4" points="354.21 237.51 333.49 273.38 332.51 272.81 331.53 272.25 352.25 236.37 353.55 236.37 354.21 237.51 354.21 237.51"/>
+    <text class="cls-3" transform="translate(297.9 290.58)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-3" transform="translate(315.92 290.58)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <text class="cls-2" transform="translate(350.06 333.08)"><tspan x="0" y="0">Dopamine</tspan><tspan x="0" y="24">Kd: 1.6μM</tspan></text>
+</svg>

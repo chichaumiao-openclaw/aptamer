@@ -1,0 +1,112 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4, .cls-5, .cls-7, .cls-8 {
+        isolation: isolate;
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-5 {
+        font-size: 30px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #2ea103;
+      }
+
+      .cls-2, .cls-5 {
+        letter-spacing: -0.24em;
+      }
+
+      .cls-3, .cls-6 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 3.05;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #f17d07;
+      }
+
+      .cls-6 {
+        stroke-width: 0.38px;
+      }
+
+      .cls-7, .cls-8 {
+        font-size: 20px;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.16em;
+      }
+    </style>
+  </defs>
+  <g id="ID000002">
+    <text class="cls-1" transform="translate(278.5 207.29)">C</text>
+  </g>
+  <g id="ID000003">
+    <text class="cls-1" transform="translate(320.7 207.45)">C</text>
+  </g>
+  <g id="ID000004">
+    <text class="cls-2" transform="matrix(-1, 0, 0, 1, 373.02, 179.24)">A</text>
+  </g>
+  <g id="ID000005">
+    <text class="cls-1" transform="translate(320.19 291.46)">G</text>
+  </g>
+  <g id="ID000006">
+    <text class="cls-1" transform="translate(277.45 293.16)">G</text>
+  </g>
+  <g id="ID000007">
+    <line class="cls-3" x1="289.9" y1="212" x2="290.2" y2="262.6"/>
+  </g>
+  <g id="ID000008">
+    <line class="cls-3" x1="331.9" y1="212" x2="332" y2="262.6"/>
+  </g>
+  <g id="ID000010">
+    <text class="cls-1" transform="translate(373.48 207.65)">C</text>
+  </g>
+  <g id="ID000011">
+    <text class="cls-2" transform="translate(416.51 208.13)">A</text>
+  </g>
+  <g id="ID000012">
+    <text class="cls-1" transform="translate(457.05 207.65)">G</text>
+  </g>
+  <g id="ID000013">
+    <text class="cls-4" transform="translate(500.1 208.14)">U</text>
+  </g>
+  <g id="ID000014">
+    <text class="cls-4" transform="translate(535.38 249.78)">C</text>
+  </g>
+  <g id="ID000015">
+    <text class="cls-5" transform="translate(504.77 289.28)">A</text>
+  </g>
+  <g id="ID000016">
+    <text class="cls-1" transform="translate(458.21 292.3)">C</text>
+  </g>
+  <g id="ID000017">
+    <line class="cls-6" x1="472.4" y1="301.6" x2="472.5" y2="329.7"/>
+  </g>
+  <g id="ID000018">
+    <text class="cls-7" transform="translate(460.79 353.69)">10</text>
+  </g>
+  <g id="ID000019">
+    <text class="cls-1" transform="translate(416 292.14)">U</text>
+  </g>
+  <g id="ID000020">
+    <text class="cls-1" transform="translate(372.95 291.66)">G</text>
+  </g>
+  <g id="ID000021">
+    <line class="cls-3" x1="384.8" y1="212" x2="385" y2="262.7"/>
+  </g>
+  <g id="ID000022">
+    <line class="cls-3" x1="427" y1="212" x2="427.2" y2="262.6"/>
+  </g>
+  <g id="ID000023">
+    <line class="cls-3" x1="469" y1="212" x2="469.3" y2="262.6"/>
+  </g>
+  <text class="cls-7" transform="translate(348.73 94.38)">F6 aptamer</text>
+  <text class="cls-7" transform="translate(270.18 174.29)">5</text>
+  <text class="cls-8" transform="translate(281.3 174.29)">’</text>
+  <text class="cls-7" transform="translate(269.93 319.1)">3</text>
+  <text class="cls-8" transform="translate(281.05 319.1)">’</text>
+</svg>

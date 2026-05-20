@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 25.11px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #000;
+      }
+
+      .cls-1, .cls-3, .cls-5 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-2 {
+        font-size: 20px;
+      }
+
+      .cls-3 {
+        font-size: 15.07px;
+      }
+
+      .cls-4 {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-4" points="382 222.98 352.87 273.43 352.21 272.3 351.55 271.16 379.37 222.98 380.68 222.98 382 222.98 382 222.98"/>
+    <polygon class="cls-4" points="373.78 223.55 349.25 266.03 348.26 265.46 347.28 264.89 371.8 222.41 372.79 222.98 373.78 223.55 373.78 223.55"/>
+    <polygon class="cls-4" points="352.87 273.43 295.92 273.43 295.26 272.3 295.92 271.16 351.55 271.16 352.21 272.3 352.87 273.43 352.87 273.43"/>
+    <polygon class="cls-4" points="293.95 272.3 265.47 222.98 266.79 222.98 268.1 222.98 295.92 271.16 295.26 272.3 293.95 272.3 293.95 272.3"/>
+    <polygon class="cls-4" points="298.22 266.03 273.69 223.55 274.68 222.98 275.67 222.41 300.19 264.89 299.21 265.46 298.22 266.03 298.22 266.03"/>
+    <polygon class="cls-4" points="265.47 222.98 294.61 172.52 295.26 173.66 295.92 174.8 268.1 222.98 266.79 222.98 265.47 222.98 265.47 222.98"/>
+    <polygon class="cls-4" points="294.61 172.52 351.55 172.52 352.21 173.66 351.55 174.8 295.92 174.8 295.26 173.66 294.61 172.52 294.61 172.52"/>
+    <polygon class="cls-4" points="299.21 179.36 348.26 179.36 348.26 180.5 348.26 181.63 299.21 181.63 299.21 180.5 299.21 179.36 299.21 179.36"/>
+    <polygon class="cls-4" points="351.55 172.52 380.02 123.21 380.68 124.35 381.34 125.48 353.52 173.66 352.21 173.66 351.55 172.52 351.55 172.52"/>
+    <polygon class="cls-4" points="380.02 123.21 436.97 123.21 437.63 124.35 436.97 125.48 381.34 125.48 380.68 124.35 380.02 123.21 380.02 123.21"/>
+    <polygon class="cls-4" points="436.97 123.21 465.44 73.89 466.1 75.03 466.76 76.17 438.94 124.35 437.63 124.35 436.97 123.21 436.97 123.21"/>
+    <polygon class="cls-4" points="463.14 79.02 440.99 40.66 441.98 40.09 442.97 39.52 465.11 77.88 464.13 78.45 463.14 79.02 463.14 79.02"/>
+    <polygon class="cls-4" points="469.06 75.6 446.91 37.24 447.9 36.67 448.89 36.1 471.03 74.46 470.05 75.03 469.06 75.6 469.06 75.6"/>
+    <text class="cls-1" transform="translate(428.25 31.55)"><tspan x="0" y="0">O</tspan></text>
+    <polygon class="cls-4" points="465.44 73.89 511 73.89 511 75.03 511 76.17 466.76 76.17 466.1 75.03 465.44 73.89 465.44 73.89"/>
+    <text class="cls-1" transform="translate(513.66 80.83)"><tspan x="0" y="0">O</tspan></text>
+    <text class="cls-1" transform="translate(533.21 80.83)"><tspan x="0" y="0">H</tspan></text>
+    <polygon class="cls-4" points="438.94 124.35 459.77 160.43 458.79 161 457.8 161.57 436.97 125.48 437.63 124.35 438.94 124.35 438.94 124.35"/>
+    <text class="cls-1" transform="translate(457.41 178.9)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-1" transform="translate(475.57 178.9)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-3" transform="translate(493.67 185.6)"><tspan x="0" y="0">2</tspan></text>
+    <polygon class="cls-4" points="353.52 173.66 382 222.98 380.68 222.98 379.37 222.98 351.55 174.8 352.21 173.66 353.52 173.66 353.52 173.66"/>
+    <polygon class="cls-4" points="295.92 273.43 275.09 309.52 274.1 308.95 273.12 308.38 293.95 272.3 295.26 272.3 295.92 273.43 295.92 273.43"/>
+    <text class="cls-1" transform="translate(239.28 326.85)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-1" transform="translate(257.4 326.85)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <text class="cls-2" transform="translate(343.35 349.3)"><tspan class="cls-5"><tspan x="0" y="0">L-tyrosine</tspan></tspan><tspan class="cls-5" x="0" y="24">Kd</tspan><tspan class="cls-6" x="24.46" y="24">:</tspan><tspan class="cls-5" x="29.22" y="24">~35μM</tspan></text>
+</svg>

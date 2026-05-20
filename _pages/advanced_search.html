@@ -1,0 +1,418 @@
+---
+layout: default
+title: "Advanced Search - Ribocentre Aptamer"
+excerpt: "Professional aptamer data search and analysis tools"
+sitemap: True
+permalink: /advanced-search/
+---
+<!-- Modern search page CSS -->
+<link rel="stylesheet" href="/css/advanced-search.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+<!-- Global configuration variables -->
+<script>
+    window.DASHBOARD_CONFIG = {
+        baseurl: '',
+        dataPath: '/search.json'
+    };
+    
+    // Search configuration
+    window.SEARCH_CONFIG = {
+        disableHeroHeightFix: true,
+        searchDelay: 300,
+        minSearchLength: 2
+    };
+</script>
+
+<!-- Full-screen search container -->
+<div class="bento-search-page">
+    <!-- 顶部标题区 -->
+    <header class="bento-header">
+        <h1 class="bento-title">Advanced Aptamer Search</h1>
+    </header>
+
+    <!-- 主体Bento区块 -->
+    <main class="bento-main">
+        <!-- 搜索卡片 -->
+        <section class="bento-card search-card gradient-card gradient-main">
+            <div class="search-input-bento">
+                <i class="fas fa-search"></i>
+                <input type="text" id="mainSearchInput" placeholder="Search by name, sequence, target, or keyword..." autocomplete="off">
+                <button id="clearSearch" title="Clear"><i class="fas fa-times"></i></button>
+            </div>
+        </section>
+
+        <!-- 筛选卡片 -->
+        <section class="bento-card filter-card gradient-card gradient-filter">
+            <div class="filter-header">
+                <span><i class="fas fa-sliders-h"></i> Filters</span>
+                <button id="toggleFilters"><i class="fas fa-chevron-down"></i></button>
+            </div>
+            <div class="filter-content collapsed" id="filtersContent">
+                <div class="filter-group">
+                    <label>Year</label>
+                    <input type="number" id="yearFrom" placeholder="From">
+                    <span>—</span>
+                    <input type="number" id="yearTo" placeholder="To">
+                </div>
+                <div class="filter-group">
+                    <label>Length</label>
+                    <input type="number" id="lengthFrom" placeholder="Min">
+                    <span>—</span>
+                    <input type="number" id="lengthTo" placeholder="Max">
+                </div>
+                <div class="filter-group">
+                    <label>GC Content %</label>
+                    <input type="number" id="gcFrom" placeholder="Min">
+                    <span>—</span>
+                    <input type="number" id="gcTo" placeholder="Max">
+                </div>
+                <div class="filter-group">
+                    <label>Target Type</label>
+                    <select id="targetType">
+                        <option value="">All</option>
+                        <option value="Proteins">Proteins</option>
+                        <option value="Small molecules">Small molecules</option>
+                        <option value="Cells">Cells</option>
+                        <option value="Nucleic acids">Nucleic acids</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label>Affinity</label>
+                    <select id="affinityRange">
+                        <option value="">All</option>
+                        <option value="pM">pM</option>
+                        <option value="nM">nM</option>
+                        <option value="μM">μM</option>
+                        <option value="mM">mM</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label>Result Type</label>
+                    <select id="resultType">
+                        <option value="">All</option>
+                        <option value="sequence">Sequence</option>
+                        <option value="page">Page</option>
+                    </select>
+                </div>
+                <div class="filter-actions">
+                    <button id="resetFilters" class="bento-btn secondary"><i class="fas fa-undo"></i> Reset</button>
+                    <button id="applyFilters" class="bento-btn primary"><i class="fas fa-search"></i> Apply</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- 结果卡片 -->
+        <section class="bento-card results-card gradient-card gradient-results">
+            <div class="results-header">
+                <span id="resultsCount">0 results</span>
+                <span id="searchTime"></span>
+                <div class="results-controls">
+                    <div class="sort-controls">
+                        <label for="sortBy">Sort by:</label>
+                        <select id="sortBy">
+                            <option value="relevance">Relevance</option>
+                            <option value="year">Year</option>
+                            <option value="length">Length</option>
+                            <option value="gc-content">GC Content</option>
+                            <option value="affinity">Affinity</option>
+                        </select>
+                    </div>
+                    <button class="export-btn" id="exportResults" title="Export CSV"><i class="fas fa-file-csv"></i></button>
+                    <button class="export-btn" id="saveResults" title="Save JSON"><i class="fas fa-save"></i></button>
+                    <button class="view-btn active" data-view="list"><i class="fas fa-list"></i></button>
+                    <button class="view-btn" data-view="table"><i class="fas fa-table"></i></button>
+                </div>
+            </div>
+            <div class="results-list" id="resultsList"></div>
+            <div class="pagination" id="paginationContainer">
+                <div class="page-numbers" id="pageNumbers"></div>
+            </div>
+        </section>
+    </main>
+
+    <!-- 浮动操作按钮 -->
+    <div class="bento-fab-group">
+        <button class="bento-fab bento-fab-top" id="backToTop" title="Back to top">
+            <i class="fas fa-arrow-up"></i>
+            <span class="fab-tooltip">Back to top</span>
+        </button>
+    </div>
+</div>
+
+<!-- Search functionality JavaScript -->
+<script src="/js/search-utils.js"></script>
+<script src="/js/advanced-search.js"></script>
+
+<!-- Apple风格Bento UI核心样式 -->
+<style>
+.bento-search-page {
+    min-height: calc(100vh - 200px);
+    background: linear-gradient(135deg, #f8fafc 0%, #e9e9f3 100%);
+    padding: 20px 0;
+    margin-top: 20px;
+    font-family: 'SF Pro Display', 'Segoe UI', Arial, sans-serif;
+}
+.bento-header {
+    text-align: center;
+    padding: 40px 20px 30px 20px;
+}
+.bento-title {
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: #222;
+    letter-spacing: -1px;
+    margin-bottom: 10px;
+}
+.bento-subtitle {
+    font-size: 1.2rem;
+    color: #666;
+    font-weight: 400;
+}
+.bento-main {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    max-width: 900px;
+    margin: 0 auto 60px auto;
+}
+.bento-card {
+    background: #fff;
+    border-radius: 28px;
+    box-shadow: 0 8px 32px rgba(60,60,60,0.08), 0 1.5px 4px rgba(0,0,0,0.03);
+    padding: 36px 32px;
+    margin: 0 12px;
+    transition: box-shadow 0.2s;
+}
+.bento-card:hover {
+    box-shadow: 0 16px 48px rgba(60,60,60,0.12), 0 2px 8px rgba(0,0,0,0.04);
+}
+.search-input-bento {
+    display: flex;
+    align-items: center;
+    background: #f5f6fa;
+    border-radius: 18px;
+    box-shadow: 0 2px 8px rgba(60,60,60,0.04);
+    padding: 0 20px;
+    height: 60px;
+    font-size: 1.2rem;
+    position: relative;
+}
+.search-input-bento:focus-within {
+    background: #fff;
+}
+.search-input-bento i {
+    color: #888;
+    font-size: 1.3em;
+    margin-right: 16px;
+}
+.search-input-bento input {
+    flex: 1;
+    border: none;
+    background: transparent;
+    font-size: 1.1em;
+    outline: none;
+    color: #222;
+}
+.search-input-bento button {
+    background: none;
+    border: none;
+    color: #bbb;
+    font-size: 1.2em;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: color 0.2s;
+}
+.search-input-bento button:hover {
+    color: #d00;
+}
+.filter-card {
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+.filter-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.1em;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 18px;
+}
+.filter-header button {
+    background: none;
+    border: none;
+    font-size: 1.2em;
+    color: #888;
+    cursor: pointer;
+    transition: color 0.2s;
+}
+.filter-header button:hover {
+    color: #222;
+}
+.filter-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    transition: max-height 0.3s;
+}
+.filter-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: #f5f6fa;
+    border-radius: 12px;
+    padding: 10px 16px;
+    margin-bottom: 8px;
+}
+.filter-group label {
+    font-weight: 500;
+    color: #555;
+    margin-right: 6px;
+}
+.filter-group input, .filter-group select {
+    width: 80px;
+    border: none;
+    background: #fff;
+    border-radius: 6px;
+    padding: 6px 8px;
+    font-size: 1em;
+    color: #222;
+    box-shadow: 0 1px 2px rgba(60,60,60,0.04);
+    outline: none;
+}
+.filter-actions {
+    display: flex;
+    gap: 16px;
+    margin-top: 10px;
+}
+.bento-btn {
+    border: none;
+    border-radius: 8px;
+    padding: 10px 22px;
+    font-size: 1em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s;
+}
+.bento-btn.primary {
+    background: #222;
+    color: #fff;
+}
+.bento-btn.secondary {
+    background: #f5f6fa;
+    color: #222;
+}
+.bento-btn.primary:hover {
+    background: #444;
+}
+.bento-btn.secondary:hover {
+    background: #e9e9f3;
+}
+.results-card {
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+.results-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 18px;
+    font-size: 1.1em;
+    color: #333;
+}
+.results-controls {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.results-list {
+    min-height: 200px;
+}
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 18px;
+}
+.bento-fab-group {
+    position: fixed;
+    right: 32px;
+    bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    z-index: 50;
+}
+.bento-fab {
+    width: 54px;
+    height: 54px;
+    border-radius: 50%;
+    background: #fff;
+    box-shadow: 0 4px 16px rgba(60,60,60,0.10);
+    color: #222;
+    font-size: 1.4em;
+    border: none;
+    cursor: pointer;
+    transition: box-shadow 0.2s, background 0.2s;
+}
+.bento-fab:hover {
+    background: #f5f6fa;
+    box-shadow: 0 8px 32px rgba(60,60,60,0.16);
+}
+.bento-fab.bento-fab-top {
+    background: linear-gradient(135deg, #fffbe6 0%, #ffd6e0 100%) !important;
+    color: #520049;
+    box-shadow: 0 4px 16px rgba(60,60,60,0.10);
+    border: 2px solid #ffd6e0;
+    transition: box-shadow 0.2s, background 0.2s, color 0.2s;
+}
+.bento-fab.bento-fab-top:hover {
+    background: linear-gradient(135deg, #ffd6e0 0%, #fffbe6 100%) !important;
+    color: #fff;
+    box-shadow: 0 8px 32px rgba(60,60,60,0.16);
+}
+@media (max-width: 900px) {
+    .bento-main { max-width: 100%; }
+    .bento-card { margin: 0 4px; }
+}
+@media (max-width: 600px) {
+    .bento-header { padding: 36px 8px 18px 8px; }
+    .bento-title { font-size: 2rem; }
+    .bento-main { gap: 18px; }
+    .bento-card { padding: 18px 8px; }
+    .bento-fab-group { right: 12px; bottom: 12px; }
+}
+
+/* 排序控件样式 */
+.sort-controls {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.sort-controls label {
+    font-weight: 500;
+    color: #555;
+}
+
+@media (max-width: 768px) {
+    .results-controls {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 12px;
+    }
+}
+
+/* 默认：两张卡片都与普通内容同层级 */
+.search-card,
+.filter-card{
+    z-index:1 !important;          /* 不再是 –1，也不会压住 header 结果 */
+}
+
+/* 获得焦点或 sticky 时：把 search-card 抬高 */
+.search-card.focused,
+.search-card.sticky{
+    z-index:1100 !important;       /* 高于 header 1020，始终在最上方 */
+}
+</style>

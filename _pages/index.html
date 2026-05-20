@@ -1,0 +1,805 @@
+---
+layout: homelay
+title: "Ribocentre Aptamer - Home"
+excerpt: "Ribocentre-aptamer: A aptamer database"
+sitemap: True
+permalink: /
+---
+<!-- External CSS -->
+<!-- 使用CDN加速的Molstar CSS -->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/pdbe-molstar@3.3.0/build/pdbe-molstar.css" />
+<link rel="stylesheet" type="text/css" href="/css/homepage.css">
+<!-- 引入dashboard专用CSS -->
+<link rel="stylesheet" href="/css/dashboard.css">
+<!-- 引入模块化CSS -->
+<link rel="stylesheet" href="/css/carousel.css">
+<link rel="stylesheet" href="/css/search.css">
+<link rel="stylesheet" href="/css/resources.css">
+<link rel="stylesheet" href="/css/stats.css">
+<link rel="stylesheet" href="/css/footer.css">
+<link rel="stylesheet" href="/css/overview.css">
+<!-- 搜索功能CSS -->
+<link rel="stylesheet" href="/css/search-override.css">
+
+<!-- 全局配置变量 -->
+<script>
+    window.DASHBOARD_CONFIG = {
+        baseurl: '',
+        siteUrl: '',
+        repoOwner: '{{ site.repo_owner }}',
+        repoName: '{{ site.repo_name }}',
+        releaseTag: '{{ site.colored_structures_release_tag }}',
+        dataPath: '/apidata/sequences_cleaned.json'
+    };
+    
+    // 搜索配置 - 可以通过修改这个配置来禁用hero section高度调整
+    window.SEARCH_CONFIG = {
+        disableHeroHeightFix: true, // 设置为 true 可以完全禁用hero section高度调整
+        searchDelay: 300, // 搜索延迟时间（毫秒）
+        minSearchLength: 2 // 最小搜索字符长度
+    };
+    
+    // 如果您想完全禁用hero section高度调整功能，请将上面的 disableHeroHeightFix 设置为 true
+    
+    // 为CSS样式识别添加页面标识
+    document.addEventListener('DOMContentLoaded', function() {
+        document.body.setAttribute('data-page', 'index');
+    });
+</script>
+
+<!-- 异步加载CDN Molstar JS -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/pdbe-molstar@3.3.0/build/pdbe-molstar-plugin.js" async></script>
+
+<!-- 性能监控脚本 -->
+<script src="/js/performance-monitor.js"></script>
+
+<!-- Hero Section -->
+<div class="hero-section">
+    <div class="hero-animation-container">
+        <div class="particles-background"></div>
+        
+        <!-- Molstar 3D分子结构查看器 -->
+        <div class="molstar-container" id="molstarContainer">
+            <div id="molstar-viewer" style="width: 100%; height: 100%; position: relative;"></div>
+            
+            <!-- 适配体基本信息卡片 - 左下角 -->
+            <div class="aptamer-info-card aptamer-basic-info" id="aptamerBasicInfo">
+                <a href="#" class="aptamer-name" id="aptamerName" target="_blank">Loading...</a>
+                <div class="aptamer-target" id="aptamerTarget">Target Protein: --</div>
+                <div class="aptamer-year" id="aptamerYear">Year: --</div>
+            </div>
+            
+            <!-- Description Info Card - Top Right -->
+            <div class="aptamer-info-card aptamer-description-info" id="aptamerDescriptionInfo">
+                <div class="description-title">Aptamer Description</div>
+                <div class="description-text" id="descriptionText">Loading...</div>
+            </div>
+            
+            <!-- Structure Info Card - Bottom Right -->
+            <div class="aptamer-info-card aptamer-structure-info" id="aptamerStructureInfo">
+                <div class="structure-pdb-id" id="structurePdbId">
+                    <a href="#" target="_blank" id="pdbLink">PDB: --</a>
+                </div>
+                <div class="structure-resolution" id="structureResolution">Resolution: --</div>
+                <div class="structure-method" id="structureMethod">Method: --</div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 文字内容 -->
+    <div class="container">
+        <h1 class="hero-title">
+            <span id="typewriter-title"></span>
+            <span class="typewriter-cursor" id="title-cursor">|</span>
+        </h1>
+        <p class="hero-subtitle">
+            <span id="typewriter-subtitle"></span>
+            <span class="typewriter-cursor" id="subtitle-cursor">|</span>
+        </p>
+    </div>
+</div>
+
+<!-- Overview Container -->
+<div class="overview-container">
+    <div class="overview-content">
+        <div class="overview-text">
+            <h3>About Ribocentre-Aptamer</h3>
+            <p class="description">
+                <strong style="color:#520049;">Ribocentre-Aptamer</strong> is a comprehensive platform dedicated to collecting, organizing, and presenting aptamer-related data. We are committed to providing researchers with comprehensive and accurate aptamer information resources.
+            </p>
+            <ul class="features">
+                <li>Contains over <strong>500+</strong> aptamer sequence data</li>
+                <li><strong>RNA Aptamers</strong> - Sequence analysis and prediction tools</li>
+                <li><strong>Structures</strong> - Detailed 3D structure information and analysis</li>
+                <li><strong>Sequences</strong> - Complete screening experimental data records</li>
+                <li><strong>Application Cases</strong> - Rich display of practical application scenarios</li>
+                <li><strong>Fluorescence Detection</strong> - Database of fluorescence labeling and detection methods</li>
+                <li><strong>Literature Search</strong> - Comprehensive collection of related research literature</li>
+                <li><strong>Data Download</strong> - Support for batch data export functionality</li>
+            </ul>
+        </div>
+        
+        <div class="carousel-container">
+            <div class="carousel">
+                <div class="carousel-slides" id="carouselSlides">
+                    <div class="carousel-slide">
+                        <img src="/images/home_page/home1.svg" alt="Aptamer Structure">
+                        <div class="slide-overlay">
+                            <h3>Aptamer Structure</h3>
+                            <p>3D Structure Analysis and Functional Studies</p>
+                        </div>
+                    </div>
+                    <div class="carousel-slide">
+                        <img src="/images/home_page/home2.svg" alt="SELEX Screening">
+                        <div class="slide-overlay">
+                            <h3>SELEX Screening</h3>
+                            <p>Systematic Evolution of Ligands by Exponential Enrichment</p>
+                        </div>
+                    </div>
+                    <div class="carousel-slide">
+                        <img src="/images/home_page/home3.svg" alt="Biological Applications">
+                        <div class="slide-overlay">
+                            <h3>Biological Applications</h3>
+                            <p>Diagnostic, Therapeutic and Detection Applications</p>
+                        </div>
+                    </div>
+                    <!-- <div class="carousel-slide">
+                        <img src="/images/home_page/home4.svg" alt="Fluorescence Detection">
+                        <div class="slide-overlay">
+                            <h3>Fluorescence Detection</h3>
+                            <p>Fluorescence-based Detection Technologies</p>
+                        </div>
+                    </div> -->
+                    <div class="carousel-slide">
+                        <img src="/images/home_page/home5.svg" alt="Data Analysis">
+                        <div class="slide-overlay">
+                            <h3>Data Analysis</h3>
+                            <p>Comprehensive Database and Analysis Tools</p>
+                        </div>
+                    </div>
+                    <div class="carousel-slide">
+                        <img src="/images/home_page/home6.svg" alt="Future Applications">
+                        <div class="slide-overlay">
+                            <h3>Future Applications</h3>
+                            <p>Future Development and Innovation Directions</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <button class="carousel-prev" onclick="prevSlide()">‹</button>
+                <button class="carousel-next" onclick="nextSlide()">›</button>
+                
+                <div class="carousel-nav">
+                    <span class="carousel-dot active" onclick="currentSlide(1)"></span>
+                    <span class="carousel-dot" onclick="currentSlide(2)"></span>
+                    <span class="carousel-dot" onclick="currentSlide(3)"></span>
+                    <span class="carousel-dot" onclick="currentSlide(4)"></span>
+                    <span class="carousel-dot" onclick="currentSlide(5)"></span>
+                    <span class="carousel-dot" onclick="currentSlide(6)"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Search Section -->
+<div class="homepage-search-section">
+    <div class="homepage-search-container">
+        <h2 class="homepage-search-title">Quick Search</h2>
+        <p class="homepage-search-subtitle">Search for aptamers, sequences, structures and related information in our database</p>
+        
+        <div class="homepage-search-box">
+            <input type="text" class="homepage-search-input" placeholder="Enter the aptamer name, sequence or ligand..." 
+                   id="mainSearch" 
+                   autocomplete="off">
+        </div>
+        
+        <!-- <div class="homepage-search-categories">
+            <a href="/Ribocentre-aptamer/" class="homepage-search-category">Aptamers</a>
+            <a href="/structures/" class="homepage-search-category">Structures</a>
+            <a href="/Ribocentre-aptamer/" class="homepage-search-category">SELEX</a>
+            <a href="/applications/" class="homepage-search-category">Applications</a>
+            <a href="/fluorescence/" class="homepage-search-category">Fluorescence</a>
+            <a href="/structures/" class="homepage-search-category">Dashboard</a>
+            <a href="/advanced-search/" class="homepage-search-category">Tools</a>
+        </div> -->
+    </div>
+</div>
+
+<!-- 搜索结果容器 -->
+<div class="search-results-overlay" id="searchResultsOverlay" style="display: none;">
+    <div class="search-results-container" id="searchResults">
+        <div class="search-results-header">
+            <span class="search-results-count" id="searchResultsCount">No results found</span>
+            <button class="close-search-btn" onclick="closeSearchResults()">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+        <div class="search-results-list" id="searchResultsList">
+            <!-- 搜索结果将动态显示在这里 -->
+        </div>
+    </div>
+</div>
+
+<!-- Dashboard Section -->
+<div class="dashboard-section" style="background: #f8f9fa; padding: 40px 0; margin-top: 20px;">
+    <div class="container">
+        <h2 style="text-align: center; margin-bottom: 30px; color: #520049;">Data Statistics Dashboard</h2>
+        
+        <div class="amir-container">
+            <div class="chart-container">
+                <!-- 年份分布图表 -->
+                <div class="chart-wrapper">
+                    <div class="chart-header">
+                        <h4 class="chart-title">Year Distribution</h4>
+                        <div class="chart-controls">
+                            <span class="chart-info">Click bars for multi-selection</span>
+                        </div>
+                    </div>
+                    <div class="chart-content">
+                        <div id="yearChart" class="amir-chart"></div>
+                    </div>
+                </div>
+                
+                <!-- GC区间分布图表 -->
+                <div class="chart-wrapper">
+                    <div class="chart-header">
+                        <h4 class="chart-title">Category Distribution</h4>
+                        <div class="chart-controls">
+                            <span class="chart-info">Click sectors for multi-selection</span>
+                        </div>
+                    </div>
+                    <div class="chart-content">
+                        <div id="ligandChart" class="amir-chart"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 数据筛选条，移动到柱状图和饼图下方 -->
+            <section class="filter-controls">
+                <div class="filter-header">
+                    <h4 class="filter-title">Data Filtering</h4>
+                    <div class="filter-actions">
+                        <button class="filter-btn reset-btn" id="resetAllFilters">Reset All</button>
+                        <button class="filter-btn export-btn" id="exportData">Export Data</button>
+                    </div>
+                </div>
+                <div class="filter-tags" id="filterTags">
+                    <!-- 筛选标签会动态显示在这里 -->
+                </div>
+            </section>
+
+            <!-- 先放数据详情表 -->
+            <section class="data-table-section">
+                <div class="chart-header">
+                    <h4 class="chart-title">Data Details</h4>
+                    <div class="chart-controls">
+                        <span class="chart-info" id="tableInfo">Showing all 555 entries</span>
+                    </div>
+                </div>
+                <div class="table-container">
+                    <div class="table-responsive">
+                        <table id="dataTable" class="table table-striped table-hover">
+                            <thead>
+                                <tr>
+                                    <th>No.</th>
+                                    <th>Sequence Name</th>
+                                    <th>Aptamer Name</th>
+                                    <th>Discovery Year</th>
+                                    <th>Category</th>
+                                    <th>Sequence (5'-3')</th>
+                                    <th>Description</th>
+                                </tr>
+                            </thead>
+                            <tbody id="tableBody">
+                                <!-- Table data will be dynamically populated -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 详细数据计数，移动到表格和散点图之间 -->
+            <section class="data-summary">
+                <div class="summary-cards">
+                    <div class="summary-card">
+                        <span class="summary-label">Currently Showing</span>
+                        <span class="summary-count" id="currentCount">555</span>
+                        <span class="summary-unit">entries</span>
+                    </div>
+                    <div class="summary-card">
+                        <span class="summary-label">Filter Ratio</span>
+                        <span class="summary-percentage" id="filterPercentage">100%</span>
+                        <span class="summary-unit">visible</span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 再放散点图分析 -->
+            <div class="analysis-wrapper">
+                <div class="chart-header">
+                    <h4 class="chart-title">Sequence Length vs GC Content Distribution</h4>
+                    <div class="chart-controls">
+                        <span class="chart-info">Drag to select area for filtering</span>
+                    </div>
+                </div>
+                <div class="chart-content">
+                    <div id="scatterChart" class="amir-chart-large"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 悬浮提示框 -->
+<div class="amir-tooltip" id="amirTooltip">
+    <div class="tooltip-content"></div>
+    <div class="tooltip-arrow"></div>
+</div>
+
+<!-- Statistics Section -->
+<div class="stats-section">
+    <div class="stats-container">
+        <div class="stat-item">
+            <span class="stat-number" data-count="191">0</span>
+            <div class="stat-label">Aptamers</div>
+        </div>
+        <div class="stat-item">
+            <span class="stat-number" data-count="52">0</span>
+            <div class="stat-label">3D Structures</div>
+        </div>
+        <div class="stat-item">
+            <span class="stat-number" data-count="509">0</span>
+            <div class="stat-label">Sequences</div>
+        </div>
+        <div class="stat-item">
+            <span class="stat-number" data-count="58">0</span>
+            <div class="stat-label">Application Cases</div>
+        </div>
+        <div class="stat-item">
+            <span class="stat-number" data-count="46">0</span>
+            <div class="stat-label">Fluorescence Detection</div>
+        </div>
+        <div class="stat-item">
+            <span class="stat-number" data-count="669">0</span>
+            <div class="stat-label">Related Publications</div>
+        </div>
+    </div>
+</div>
+
+<!-- Resources Section -->
+<div class="resources-section">
+    <h2 class="resources-title">Our Resources</h2>
+    <div class="resources-grid">
+        <div class="resource-card">
+            <div class="resource-icon" style="background: #667eea;">
+                <i class="fas fa-dna"></i>
+            </div>
+            <h3 class="resource-title"><a href="/Ribocentre-aptamer/">RNA Aptamers</a></h3>
+            <p class="resource-description">
+                Complete sequence information for DNA and RNA aptamers, supporting sequence search, alignment and analysis functions.
+            </p>
+        </div>
+        
+        <div class="resource-card">
+            <div class="resource-icon" style="background: #f093fb;">
+                <i class="fas fa-cube"></i>
+            </div>
+            <h3 class="resource-title"><a href="/structures/">Structure Data</a></h3>
+            <p class="resource-description">
+                Provides three-dimensional structure data of aptamers, including structures determined by NMR and X-ray crystallography.
+            </p>
+        </div>
+        
+        <div class="resource-card">
+            <div class="resource-icon" style="background: #4facfe;">
+                <i class="fas fa-code"></i>
+            </div>
+            <h3 class="resource-title"><a href="/sequences/">Sequences</a></h3>
+            <p class="resource-description">
+                A summary of the methods used for structure determination and phasing in RNA aptamer structure research
+            </p>
+        </div>
+
+        <div class="resource-card">
+            <div class="resource-icon" style="background: #43e97b;">
+                <i class="fas fa-flask"></i>
+            </div>
+            <h3 class="resource-title"><a href="/applications/">Applications</a></h3>
+            <p class="resource-description">
+                Showcases practical applications of aptamers in biosensing, drug delivery, diagnostics and other fields.
+            </p>
+        </div>
+        
+        <div class="resource-card">
+            <div class="resource-icon" style="background: #fa709a;">
+                <i class="fas fa-lightbulb"></i>
+            </div>
+            <h3 class="resource-title"><a href="/fluorescence/">Fluorescence Detection</a></h3>
+            <p class="resource-description">
+                Collection of aptamer-based fluorescence detection methods and related experimental data.
+            </p>
+        </div>
+        
+        <div class="resource-card">
+            <div class="resource-icon" style="background: #ffecd2;">
+                <i class="fas fa-book-open"></i>
+            </div>
+            <h3 class="resource-title"><a href="/publications/">Publications</a></h3>
+            <p class="resource-description">
+                This page list the reviews and articles about RNA aptamers. 
+            </p>
+        </div>
+    </div>
+</div>
+
+<!-- Citation and Footer Section -->
+<footer class="site-footer">
+    <div class="footer-container">
+        <!-- 引用部分 -->
+        <div class="citation-section">
+            <div class="citation-card">
+                <div class="citation-header">
+                    <i class="fas fa-quote-left citation-icon"></i>
+                    <h3 class="citation-title">Cite Us</h3>
+                </div>
+                <div class="citation-content">
+                    <div class="authors">Zhizhong Lu, Hao Sun, Bo Fu, Ying Ao, Jiali Wang, Ke Chen, Yuhang Luo, Linfei Li, Zhaoji Qiu, Jiaxin Zhao, Yuxuan Sun, Zhijie Tan, Qiaozhen Liu, Yangyi Ren, Ziyu Guo, Xiaoxue Chen, Yuanlin He, Yingying Zhao, Yixin Chen, Mengxiao Li, Xuemei Peng, Baowei Huang, Shuang Zhu, Lin Huang, Zhichao Miao</div>
+                    <div class="paper-title">Ribocentre-aptamer: an integrative, structure-focused database for RNA aptamers. <em>Nucleic Acids Research</em>. 2025; gkaf1016. <a href="https://doi.org/10.1093/nar/gkaf1016" target="_blank" rel="noopener">https://doi.org/10.1093/nar/gkaf1016</a></div>
+                    <div class="citation-actions">
+                        <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1016/8294352" class="citation-link" target="_blank" rel="noopener">
+                            <i class="fas fa-external-link-alt"></i>
+                            View Article
+                        </a>
+                        <button class="copy-citation-btn" onclick="copyCitation()">
+                            <i class="fas fa-copy"></i>
+                            Copy Citation
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 相关数据库部分 -->
+        <div class="related-section">
+            <h3 class="section-title">
+                <i class="fas fa-database"></i>
+                Related Databases
+            </h3>
+            <div class="related-databases">
+                <a href="/" target="_blank" class="database-card">
+                    <div class="db-logo">
+                        <img src="/images/ribocentre.svg" alt="Ribocentre">
+                    </div>
+                    <div class="db-info">
+                        <h4>Ribocentre</h4>
+                        <p>RNA Functional Elements Database</p>
+                    </div>
+                    <i class="fas fa-external-link-alt db-link-icon"></i>
+                </a>
+                <a href="/" target="_blank" class="database-card">
+                    <div class="db-logo">
+                        <img src="/images/riboswitch.svg" alt="Riboswitch">
+                    </div>
+                    <div class="db-info">
+                        <h4>Riboswitch</h4>
+                        <p>Riboswitch Database</p>
+                    </div>
+                    <i class="fas fa-external-link-alt db-link-icon"></i>
+                </a>
+            </div>
+        </div>
+
+        <!-- 支持与反馈部分 -->
+        <div class="support-section">
+            <div class="support-grid">
+                <div class="support-card">
+                    <div class="support-icon help-icon">
+                        <i class="fas fa-question-circle"></i>
+                    </div>
+                    <h4 class="support-title">Need Help?</h4>
+                    <p class="support-desc">Check our user guide and FAQs to get started with our platform.</p>
+                    <a href="/helps/" class="support-btn">
+                        <i class="fas fa-book-open"></i>
+                        User Guide
+                    </a>
+                </div>
+                
+                <div class="support-card">
+                    <div class="support-icon feedback-icon">
+                        <i class="fas fa-comments"></i>
+                    </div>
+                    <h4 class="support-title">Feedback</h4>
+                    <p class="support-desc">Share your suggestions to help us improve the platform</p>
+                    <a href="https://docs.google.com/spreadsheets/d/1YYWEy1PL9YyzxqsPtWUqqh5G2gbl4D9n7SeV7cqaSK8/edit?gid=0#gid=0" 
+                       class="support-btn" target="_blank">
+                        <i class="fas fa-paper-plane"></i>
+                        Submit Feedback
+                    </a>
+                </div>
+                
+                <div class="support-card">
+                    <div class="support-icon contact-icon">
+                        <i class="fas fa-envelope"></i>
+                    </div>
+                    <h4 class="support-title">Contact Us</h4>
+                    <p class="support-desc">Questions or collaboration? Feel free to reach out</p>
+                    <a href="mailto:miao_zhichao@gzlab.ac.cn" class="support-btn">
+                        <i class="fas fa-at"></i>
+                        Send Email
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- 页脚信息 -->
+        <div class="footer-bottom">
+            <div class="footer-info">
+                <div class="footer-left">
+                    <div class="logo-text">
+                        <span class="logo-main">Ribocentre</span>
+                        <span class="logo-sub">Aptamer</span>
+                    </div>
+                    <p class="footer-description">Professional Aptamer Database Platform</p>
+                </div>
+                <div class="footer-right">
+                    <div class="footer-links">
+                        <a href="./privacy/" class="footer-link">Privacy Policy</a>
+                        <a href="./terms/" class="footer-link">Terms of Use</a>
+                        <a href="./api/" class="footer-link">API Documentation</a>
+                    </div>
+                    <div class="copyright">
+                        <p>&copy; 2025 Ribocentre-Aptamer. All rights reserved.</p>
+                        <p>Developed and maintained by <span style="color: #520049;">Ribocentre Team</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- External JavaScript -->
+<script src="/js/homepage-data.js"></script>
+
+<!-- 搜索通用工具 -->
+<script src="/js/search-utils.js"></script>
+
+<!-- 搜索功能JavaScript - 优先加载，确保hero section搜索功能正常 -->
+<script src="/js/search.js"></script>
+
+<!-- 主页功能JavaScript - 后加载，包含仪表板和其他功能 -->
+<script src="/js/homepage-main.js"></script>
+
+<!-- 页脚JavaScript -->
+<!-- <script src="/js/footer.js"></script> -->
+
+<!-- Dashboard JavaScript -->
+<script src="https://cdn.plot.ly/plotly-3.0.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" integrity="sha512-fD9DI5bZwQxOi7MhYWnnNPlvXdp/2Pj3XSTRrFs5FQa4mizyGLnJcN6tuvUS6LbmgN1ut+XGSABKvjN0H6Aoow==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="/js/dashboard-config.js?v={{ site.time | date: '%s' }}"></script>
+<script src="/js/dashboard-main.js?v={{ site.time | date: '%s' }}"></script>
+
+
+<!-- Footer styles are now in css/footer.css -->
+
+<!-- 搜索功能样式和脚本 -->
+<style>
+.homepage-search-box {
+    position: relative;
+}
+
+.homepage-search-input {
+    width: 100%;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    background: white;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    outline: none;
+}
+
+.homepage-search-input:focus {
+    box-shadow: 0 6px 25px rgba(82, 0, 73, 0.15);
+    transform: translateY(-2px);
+}
+
+/* Hero Section 固定高度样式 */
+.hero-section.search-active {
+    height: var(--hero-fixed-height);
+    overflow: hidden;
+    transition: none; /* 禁用过渡动画避免闪烁 */
+}
+
+.overview-container.search-active {
+    height: var(--overview-fixed-height);
+    overflow: hidden;
+    transition: none;
+}
+
+/* 搜索结果覆盖层 - 固定定位，完全脱离文档流 */
+.search-results-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 10000;
+    background: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(2px);
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.search-results-overlay.show {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.search-results-container {
+    position: absolute;
+    width: 90%;
+    max-width: 600px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.2);
+    max-height: 1500px;
+    overflow: hidden;
+    margin-top: 20px;
+    animation: slideDown 0.3s ease;
+}
+
+/* 动态计算搜索框位置 */
+.search-results-container.positioned {
+    top: var(--search-top);
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateX(-50%) translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0);
+    }
+}
+
+.search-results-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    border-bottom: 1px solid #eee;
+    background: #f8f9fa;
+    border-radius: 15px 15px 0 0;
+}
+
+.search-results-count {
+    font-size: 14px;
+    color: #666;
+    font-weight: 500;
+}
+
+.close-search-btn {
+    background: none;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    color: #999;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+.close-search-btn:hover {
+    color: #520049;
+}
+
+.search-results-list {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.search-result-item {
+    padding: 15px 20px;
+    border-bottom: 1px solid #f0f0f0;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.search-result-item:hover {
+    background: #f8f9fa;
+}
+
+.search-result-item:last-child {
+    border-bottom: none;
+}
+
+.search-result-title {
+    font-weight: 600;
+    color: #520049;
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+
+.search-result-description {
+    color: #666;
+    font-size: 14px;
+    line-height: 1.4;
+    /* WebKit浏览器支持 */
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    /* 标准语法 */
+    display: box;
+    line-clamp: 2;
+    box-orient: vertical;
+    /* 确保溢出文本被隐藏 */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-height: 2.8em; /* 2行文本的高度 = line-height * 2 */
+}
+
+.search-no-results {
+    padding: 30px 20px;
+    text-align: center;
+    color: #999;
+}
+
+.search-no-results i {
+    font-size: 48px;
+    margin-bottom: 15px;
+    opacity: 0.5;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .search-results-container {
+        width: 95%;
+        margin-top: 10px;
+        border-radius: 10px;
+    }
+    
+    .search-results-header {
+        border-radius: 10px 10px 0 0;
+    }
+}
+</style>
+
+<script>
+// 为搜索模块提供关闭功能
+function closeSearchResults() {
+    // 优先使用search.js中的SearchModule
+    if (SearchModule && typeof SearchModule.closeSearchResults === 'function') {
+        SearchModule.closeSearchResults();
+    }
+    // 如果主页模块存在，也关闭它的搜索结果
+    if (homepageSearchModule && typeof homepageSearchModule.mainSearchResults !== 'undefined') {
+        homepageSearchModule.mainSearchResults.style.display = 'none';
+    }
+}
+
+// 复制引用功能
+function copyCitation() {
+    const citation = 'Zhizhong Lu, Hao Sun, Bo Fu, Ying Ao, Jiali Wang, Ke Chen, Yuhang Luo, Linfei Li, Zhaoji Qiu, Jiaxin Zhao, Yuxuan Sun, Zhijie Tan, Qiaozhen Liu, Yangyi Ren, Ziyu Guo, Xiaoxue Chen, Yuanlin He, Yingying Zhao, Yixin Chen, Mengxiao Li, Xuemei Peng, Baowei Huang, Shuang Zhu, Lin Huang, Zhichao Miao. Ribocentre-aptamer: an integrative, structure-focused database for RNA aptamers. Nucleic Acids Research. 2025; gkaf1016. https://doi.org/10.1093/nar/gkaf1016';
+    navigator.clipboard.writeText(citation).then(function() {
+        // 显示复制成功提示
+        const btn = document.querySelector('.copy-citation-btn');
+        const originalText = btn.innerHTML;
+        btn.innerHTML = '<i class="fas fa-check"></i> Copied';
+        btn.style.background = '#28a745';
+        
+        setTimeout(() => {
+            btn.innerHTML = originalText;
+            btn.style.background = '';
+        }, 2000);
+    }).catch(function(err) {
+        console.error('Copy failed:', err);
+        alert('Copy failed, please copy the citation manually');
+    });
+}
+</script>

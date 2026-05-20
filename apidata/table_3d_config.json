@@ -1,0 +1,20 @@
+{
+  "layout": {
+    "columns_per_row": 9,
+    "auto_layout": true,
+    "responsive": true
+  },
+  "styling": {
+    "cell_padding": "8px",
+    "border_radius": "4px",
+    "hover_effect": true,
+    "transition": "all 0.3s ease"
+  },
+  "interactions": {
+    "clickable": true,
+    "tooltip": true,
+    "new_tab": true
+  },
+  "title": "RNA Aptamers with 3D Structure",
+  "description": "This table lists the ligands of aptamers with identified 3D structures"
+} 

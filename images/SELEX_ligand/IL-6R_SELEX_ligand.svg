@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 400">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath-20);
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath-16);
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-33);
+      }
+
+      .cls-5, .cls-6 {
+        fill: #000;
+      }
+
+      .cls-5, .cls-7, .cls-8 {
+        stroke-width: 0px;
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-41);
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath-32);
+      }
+
+      .cls-11 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-13, .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-14 {
+        clip-path: url(#clippath-37);
+      }
+
+      .cls-15 {
+        clip-path: url(#clippath-25);
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath-40);
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-26);
+      }
+
+      .cls-6 {
+        font-family: ArialMT, Arial;
+        font-size: 20px;
+      }
+
+      .cls-7, .cls-20 {
+        fill: none;
+      }
+
+      .cls-21 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-22 {
+        clip-path: url(#clippath-21);
+      }
+
+      .cls-23 {
+        clip-path: url(#clippath-34);
+      }
+
+      .cls-24 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-25 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-26 {
+        clip-path: url(#clippath-38);
+      }
+
+      .cls-27 {
+        clip-path: url(#clippath-36);
+      }
+
+      .cls-28 {
+        clip-path: url(#clippath-27);
+      }
+
+      .cls-20 {
+        stroke: orange;
+        stroke-linecap: square;
+        stroke-linejoin: round;
+        stroke-width: 2.4px;
+      }
+
+      .cls-29 {
+        clip-path: url(#clippath-44);
+      }
+
+      .cls-30 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-8, .cls-31 {
+        fill: gray;
+      }
+
+      .cls-32 {
+        clip-path: url(#clippath-24);
+      }
+
+      .cls-33 {
+        clip-path: url(#clippath-30);
+      }
+
+      .cls-34 {
+        clip-path: url(#clippath-22);
+      }
+
+      .cls-35 {
+        fill: #20b2aa;
+        stroke: #20b2aa;
+      }
+
+      .cls-36 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-37 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-38 {
+        clip-path: url(#clippath-39);
+      }
+
+      .cls-39 {
+        clip-path: url(#clippath-19);
+      }
+
+      .cls-40 {
+        clip-path: url(#clippath-31);
+      }
+
+      .cls-41 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-42 {
+        clip-path: url(#clippath-43);
+      }
+
+      .cls-43 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-44 {
+        clip-path: url(#clippath-29);
+      }
+
+      .cls-45 {
+        clip-path: url(#clippath-18);
+      }
+
+      .cls-46 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-47 {
+        clip-path: url(#clippath-17);
+      }
+
+      .cls-48 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-31 {
+        stroke: gray;
+      }
+
+      .cls-49 {
+        clip-path: url(#clippath-42);
+      }
+
+      .cls-50 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-51 {
+        clip-path: url(#clippath-23);
+      }
+
+      .cls-52 {
+        clip-path: url(#clippath-28);
+      }
+
+      .cls-53 {
+        clip-path: url(#clippath-35);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-24">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-25">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-26">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-27">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-28">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-29">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-30">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-31">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-32">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-33">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-34">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-35">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-36">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-37">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-38">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-39">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-40">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-41">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-42">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-43">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+    <clipPath id="clippath-44">
+      <rect class="cls-7" x="166.9" y="33.9" width="876.4" height="696.6"/>
+    </clipPath>
+  </defs>
+  <g id="figure_1" data-name="figure 1">
+    <g id="axes_1" data-name="axes 1">
+      <g id="patch_2" data-name="patch 2">
+        <g class="cls-37">
+          <path class="cls-31" d="M166.1,86.2h123.6v-2.1h-123.6v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_3" data-name="patch 3">
+        <g class="cls-24">
+          <path class="cls-35" d="M289.6,96.6h137.7v-20.9h-137.7v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_4" data-name="patch 4">
+        <g class="cls-11">
+          <path class="cls-31" d="M429,86.2h88.5v-2.1h-88.5v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_5" data-name="patch 5">
+        <g class="cls-41">
+          <path class="cls-35" d="M517.5,96.6h85.1v-20.9h-85.1v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_6" data-name="patch 6">
+        <g class="cls-25">
+          <path class="cls-31" d="M604.3,86.2h158.6v-2.1h-158.6v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_7" data-name="patch 7">
+        <g class="cls-48">
+          <path class="cls-35" d="M762.9,96.6h137.7v-20.9h-137.7v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_8" data-name="patch 8">
+        <g class="cls-17">
+          <path class="cls-31" d="M902.2,86.2h35.9v-2.1h-35.9v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_9" data-name="patch 9">
+        <g class="cls-21">
+          <path class="cls-35" d="M938.2,96.6h32.5v-20.9h-32.5v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_10" data-name="patch 10">
+        <g class="cls-43">
+          <path class="cls-31" d="M972.4,86.2h53.5v-2.1h-53.5v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_11" data-name="patch 11">
+        <g class="cls-36">
+          <path class="cls-35" d="M1025.8,96.6h15v-20.9h-15v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_12" data-name="patch 12">
+        <g class="cls-50">
+          <path class="cls-31" d="M166.1,155.8h141.1v-2.1h-141.1v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_13" data-name="patch 13">
+        <g class="cls-2">
+          <path class="cls-35" d="M307.2,166.3h50v-20.9h-50v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_14" data-name="patch 14">
+        <g class="cls-30">
+          <path class="cls-31" d="M358.9,155.8h176.2v-2.1h-176.2v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_15" data-name="patch 15">
+        <g class="cls-12">
+          <path class="cls-35" d="M535,166.3h155.2v-20.9h-155.2v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_16" data-name="patch 16">
+        <g class="cls-46">
+          <path class="cls-31" d="M691.9,155.8h35.9v-2.1h-35.9v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_17" data-name="patch 17">
+        <g class="cls-16">
+          <path class="cls-35" d="M727.8,166.3h67.6v-20.9h-67.6v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_18" data-name="patch 18">
+        <g class="cls-3">
+          <path class="cls-31" d="M797.1,155.8h53.5v-2.1h-53.5v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_19" data-name="patch 19">
+        <g class="cls-47">
+          <path class="cls-35" d="M850.5,166.3h50v-20.9h-50v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_20" data-name="patch 20">
+        <g class="cls-45">
+          <path class="cls-31" d="M902.2,155.8h18.4v-2.1h-18.4v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_21" data-name="patch 21">
+        <g class="cls-39">
+          <path class="cls-31" d="M972.4,155.8h18.4v-2.1h-18.4v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_22" data-name="patch 22">
+        <g class="cls-1">
+          <path class="cls-35" d="M990.8,166.3h32.5v-20.9h-32.5v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_23" data-name="patch 23">
+        <g class="cls-22">
+          <path class="cls-31" d="M1024.9,155.8h18.4v-2.1h-18.4v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_24" data-name="patch 24">
+        <g class="cls-34">
+          <path class="cls-31" d="M166.1,225.5h53.5v-2.1h-53.5v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_25" data-name="patch 25">
+        <g class="cls-51">
+          <path class="cls-35" d="M219.5,236h102.6v-20.9h-102.6v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_26" data-name="patch 26">
+        <g class="cls-32">
+          <path class="cls-31" d="M323.8,225.5h123.6v-2.1h-123.6v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_27" data-name="patch 27">
+        <g class="cls-15">
+          <path class="cls-35" d="M447.4,236h102.6v-20.9h-102.6v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_28" data-name="patch 28">
+        <g class="cls-19">
+          <path class="cls-31" d="M551.7,225.5h35.9v-2.1h-35.9v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_29" data-name="patch 29">
+        <g class="cls-28">
+          <path class="cls-31" d="M656.8,225.5h53.5v-2.1h-53.5v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_30" data-name="patch 30">
+        <g class="cls-52">
+          <path class="cls-35" d="M710.3,236h155.2v-20.9h-155.2v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_31" data-name="patch 31">
+        <g class="cls-44">
+          <path class="cls-31" d="M867.2,225.5h123.6v-2.1h-123.6v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_32" data-name="patch 32">
+        <g class="cls-33">
+          <path class="cls-35" d="M990.8,236h15v-20.9h-15v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_33" data-name="patch 33">
+        <g class="cls-40">
+          <path class="cls-31" d="M1007.4,225.5h35.9v-2.1h-35.9v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_34" data-name="patch 34">
+        <g class="cls-10">
+          <path class="cls-31" d="M236.2,295.2h88.5v-2.1h-88.5v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_35" data-name="patch 35">
+        <g class="cls-4">
+          <path class="cls-35" d="M324.7,305.6h67.6v-20.9h-67.6v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_36" data-name="patch 36">
+        <g class="cls-23">
+          <path class="cls-31" d="M393.9,295.2h106v-2.1h-106v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_37" data-name="patch 37">
+        <g class="cls-53">
+          <path class="cls-35" d="M500,305.6h190.3v-20.9h-190.3v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_38" data-name="patch 38">
+        <g class="cls-27">
+          <path class="cls-31" d="M691.9,295.2h228.7v-2.1h-228.7v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_39" data-name="patch 39">
+        <g class="cls-14">
+          <path class="cls-35" d="M920.6,305.6h85.1v-20.9h-85.1v20.9Z"/>
+        </g>
+      </g>
+      <g id="patch_40" data-name="patch 40">
+        <g class="cls-26">
+          <path class="cls-31" d="M1007.4,295.2h35.9v-2.1h-35.9v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_41" data-name="patch 41">
+        <g class="cls-38">
+          <path class="cls-31" d="M166.1,364.8h18.4v-2.1h-18.4v2.1Z"/>
+        </g>
+      </g>
+      <g id="patch_42" data-name="patch 42">
+        <g class="cls-18">
+          <path class="cls-31" d="M306.3,364.8h18.4v-2.1h-18.4v2.1Z"/>
+        </g>
+      </g>
+      <g id="line2d_1" data-name="line2d 1">
+        <g class="cls-9">
+          <path class="cls-20" d="M922.8,155.8l.5.9.5.9.5.8.5.8.5.7.5.7.5.6.5.5.5.4.5.3.5.2h.5c0,0,.5,0,.5,0h.5c0-.1.5-.4.5-.4l.5-.3.5-.4.5-.5.5-.6.5-.7.5-.8.5-.8.5-.8.5-.9.5-.9.5-.9.5-.9.5-.8.5-.8.5-.7.5-.7.5-.6.5-.5.5-.4.5-.3.5-.2h.5c0,0,.5,0,.5,0l.5.2.5.3.5.4.5.5.5.6.5.6.5.7.5.8.5.8.5.9.5.9.5.9.5.9.5.9.5.8.5.8.5.7.5.6.5.6.5.5.5.4.5.3.5.2h.5s.5,0,.5,0l.5-.2.5-.3.5-.4.5-.5.5-.6.5-.7.5-.7.5-.8.5-.8.5-.9.5-.9.5-.9.5-.9.5-.8.5-.8.5-.8.5-.7.5-.6.5-.5.5-.4.5-.3.5-.2h.5c0-.1.5-.1.5-.1h.5c0,0,.5.3.5.3l.5.3.5.4.5.5.5.6.5.7.5.7.5.8.5.8.5.9.5.9"/>
+        </g>
+      </g>
+      <g id="line2d_2" data-name="line2d 2">
+        <g class="cls-49">
+          <path class="cls-20" d="M589.8,225.5l.7,1.3.7,1.3.7,1.2.7,1,.7.9.7.7.7.4.7.2h.7c0,0,.7-.4.7-.4l.7-.6.7-.8.7-1,.7-1.1.7-1.2.7-1.3.7-1.3.7-1.3.7-1.2.7-1.1.7-1,.7-.8.7-.6.7-.3h.7c0,0,.7.1.7.1l.7.4.7.7.7.9.7,1,.7,1.2.7,1.3.7,1.3.7,1.3.7,1.3.7,1.2.7,1,.7.9.7.7.7.4.7.2h.7c0,0,.7-.4.7-.4l.7-.6.7-.8.7-1,.7-1.1.7-1.2.7-1.3.7-1.3.7-1.3.7-1.2.7-1.1.7-1,.7-.8.7-.6.7-.3h.7c0,0,.7.1.7.1l.7.4.7.7.7.9.7,1,.7,1.2.7,1.3.7,1.3.7,1.3.7,1.3.7,1.2.7,1,.7.9.7.7.7.4.7.2h.7c0,0,.7-.4.7-.4l.7-.6.7-.8.7-1,.7-1.1.7-1.2.7-1.3.7-1.3.7-1.3.7-1.2.7-1.1.7-1,.7-.8.7-.6.7-.3h.7c0,0,.7.1.7.1l.7.4.7.7.7.9.7,1,.7,1.2.7,1.3.7,1.3"/>
+        </g>
+      </g>
+      <g id="line2d_3" data-name="line2d 3">
+        <g class="cls-42">
+          <path class="cls-20" d="M169.1,295.2l.7,1.3.7,1.3.7,1.2.7,1,.7.9.7.7.7.4.7.2h.7c0,0,.7-.4.7-.4l.7-.6.7-.8.7-1,.7-1.1.7-1.2.7-1.3.7-1.3.7-1.3.7-1.2.7-1.1.7-1,.7-.8.7-.6.7-.3h.7c0,0,.7.1.7.1l.7.4.7.7.7.9.7,1,.7,1.2.7,1.3.7,1.3.7,1.3.7,1.3.7,1.2.7,1,.7.9.7.7.7.4.7.2h.7c0,0,.7-.4.7-.4l.7-.6.7-.8.7-1,.7-1.1.7-1.2.7-1.3.7-1.3.7-1.3.7-1.2.7-1.1.7-1,.7-.8.7-.6.7-.3h.7c0,0,.7.1.7.1l.7.4.7.7.7.9.7,1,.7,1.2.7,1.3.7,1.3.7,1.3.7,1.3.7,1.2.7,1,.7.9.7.7.7.4.7.2h.7c0,0,.7-.4.7-.4l.7-.6.7-.8.7-1,.7-1.1.7-1.2.7-1.3.7-1.3.7-1.3.7-1.2.7-1.1.7-1,.7-.8.7-.6.7-.3h.7c0,0,.7.1.7.1l.7.4.7.7.7.9.7,1,.7,1.2.7,1.3.7,1.3"/>
+        </g>
+      </g>
+      <g id="line2d_4" data-name="line2d 4">
+        <g class="cls-29">
+          <path class="cls-20" d="M186.7,364.8l1.2,2.2,1.2,2,1.2,1.5,1.2,1,1.2.3,1.2-.4,1.2-1,1.2-1.6,1.2-2,1.2-2.2,1.2-2.2,1.2-1.9,1.2-1.5,1.2-.9,1.2-.2,1.2.5,1.2,1.1,1.2,1.6,1.2,2,1.2,2.2,1.2,2.1,1.2,1.9,1.2,1.4,1.2.9,1.2.2,1.2-.5,1.2-1.2,1.2-1.7,1.2-2,1.2-2.2,1.2-2.1,1.2-1.9,1.2-1.4,1.2-.8h1.2c0-.1,1.2.5,1.2.5l1.2,1.2,1.2,1.7,1.2,2.1,1.2,2.2,1.2,2.1,1.2,1.8,1.2,1.3,1.2.7h1.2s1.2-.6,1.2-.6l1.2-1.3,1.2-1.8,1.2-2.1,1.2-2.2,1.2-2.1,1.2-1.8,1.2-1.3,1.2-.7h1.2s1.2.8,1.2.8l1.2,1.3,1.2,1.8,1.2,2.1,1.2,2.2,1.2,2.1,1.2,1.7,1.2,1.2,1.2.6h1.2c0-.1,1.2-.9,1.2-.9l1.2-1.4,1.2-1.9,1.2-2.1,1.2-2.2,1.2-2,1.2-1.7,1.2-1.2,1.2-.5,1.2.2,1.2.9,1.2,1.4,1.2,1.9,1.2,2.1,1.2,2.2,1.2,2,1.2,1.6,1.2,1.1,1.2.5,1.2-.2,1.2-.9,1.2-1.5,1.2-1.9,1.2-2.2,1.2-2.2,1.2-2,1.2-1.6,1.2-1,1.2-.4,1.2.3,1.2,1,1.2,1.5,1.2,2,1.2,2.2"/>
+        </g>
+      </g>
+      <g id="text_1" data-name="text 1">
+        <g>
+          <path id="DejaVuSansMono-Bold-71" class="cls-5" d="M173.7,66.8v-2.1h-1.5v-1.8h3.3v4.9c-.4.4-.9.6-1.4.8-.5.2-1,.3-1.6.3-1.4,0-2.5-.5-3.2-1.5-.8-1-1.1-2.3-1.1-4.1s.4-3.2,1.1-4.2c.8-1,1.9-1.4,3.3-1.4s.9,0,1.3.2c.4.1.8.3,1.2.5v2.4c-.3-.4-.6-.7-1-.9-.4-.2-.8-.3-1.3-.3-.8,0-1.4.3-1.8.9-.4.6-.6,1.5-.6,2.8s.2,2.1.6,2.7c.4.6.9.9,1.7.9s.4,0,.6,0c.2,0,.3-.1.4-.2Z"/>
+          <path id="DejaVuSansMono-Bold-76" class="cls-5" d="M186.8,68.8v-10.8h2.1v8.9h4.5v1.9h-6.7Z"/>
+          <path id="DejaVuSansMono-Bold-80" class="cls-5" d="M206.2,59.8v3.2h.9c.7,0,1.2-.1,1.5-.4s.4-.6.4-1.2-.1-1-.4-1.2c-.3-.2-.8-.4-1.5-.4h-.9ZM204.1,58h2.9c1.5,0,2.6.3,3.2.8.7.5,1,1.4,1,2.6s-.3,2-1,2.6c-.7.5-1.7.8-3.2.8h-.8v4h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-80-2" data-name="DejaVuSansMono-Bold-80" class="cls-5" d="M224,59.8v3.2h.9c.7,0,1.2-.1,1.5-.4s.4-.6.4-1.2-.1-1-.4-1.2c-.3-.2-.8-.4-1.5-.4h-.9ZM221.9,58h2.9c1.5,0,2.6.3,3.2.8.7.5,1,1.4,1,2.6s-.3,2-1,2.6c-.7.5-1.7.8-3.2.8h-.8v4h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-69" class="cls-5" d="M246.4,68.8h-6.7v-10.8h6.7v1.9h-4.6v2.3h4.1v1.9h-4.1v2.8h4.6v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-75" class="cls-5" d="M257.1,58h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-80-3" data-name="DejaVuSansMono-Bold-80" class="cls-5" d="M277.3,59.8v3.2h.9c.7,0,1.2-.1,1.5-.4s.4-.6.4-1.2-.1-1-.4-1.2c-.3-.2-.8-.4-1.5-.4h-.9ZM275.2,58h2.9c1.5,0,2.6.3,3.2.8.7.5,1,1.4,1,2.6s-.3,2-1,2.6c-.7.5-1.7.8-3.2.8h-.8v4h-2.1v-10.8Z"/>
+        </g>
+      </g>
+      <g id="text_2" data-name="text 2">
+        <path id="DejaVuSans-124" class="cls-5" d="M168.6,47.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_3" data-name="text 3">
+        <path id="DejaVuSans-49" class="cls-5" d="M168.1,43.6h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+      </g>
+      <g id="text_4" data-name="text 4">
+        <g>
+          <path id="DejaVuSansMono-Bold-75-2" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M290.9,58h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-78" class="cls-5" d="M308.7,58h2.3l3,7.8v-7.8h1.9v10.8h-2.3l-3-7.8v7.8h-1.9v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-76-2" data-name="DejaVuSansMono-Bold-76" class="cls-5" d="M327.2,68.8v-10.8h2.1v8.9h4.5v1.9h-6.7Z"/>
+          <path id="DejaVuSansMono-Bold-83" class="cls-5" d="M347.1,64c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-67" class="cls-5" d="M369,68.5c-.3.2-.7.3-1.1.4-.4,0-.8.1-1.2.1-1.5,0-2.6-.5-3.3-1.4-.8-1-1.1-2.3-1.1-4.1s.4-3.2,1.1-4.2c.8-1,1.9-1.4,3.3-1.4s.8,0,1.2.1.7.2,1.1.4v2.4c-.4-.3-.7-.6-1.1-.7-.3-.2-.7-.2-1.1-.2-.8,0-1.4.3-1.8.9-.4.6-.6,1.5-.6,2.7s.2,2.1.6,2.7c.4.6,1,.9,1.8.9s.7,0,1.1-.2c.3-.2.7-.4,1.1-.7v2.4Z"/>
+          <path id="DejaVuSansMono-Bold-73" class="cls-5" d="M380.2,59.9v-1.9h6.4v1.9h-2.1v7h2.1v1.9h-6.4v-1.9h2.1v-7h-2.1Z"/>
+          <path id="DejaVuSansMono-Bold-86" class="cls-5" d="M401.2,67l1.9-9h2.1l-2.6,10.8h-2.9l-2.6-10.8h2.1l1.9,9Z"/>
+          <path id="DejaVuSansMono-Bold-78-2" data-name="DejaVuSansMono-Bold-78" class="cls-5" d="M415.4,58h2.3l3,7.8v-7.8h1.9v10.8h-2.3l-3-7.8v7.8h-1.9v-10.8Z"/>
+        </g>
+      </g>
+      <g id="text_5" data-name="text 5">
+        <path id="DejaVuSans-124-2" data-name="DejaVuSans-124" class="cls-5" d="M291.3,47.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_6" data-name="text 6">
+        <path id="DejaVuSans-56" class="cls-5" d="M292.6,41.1c-.4,0-.8.1-1,.4-.3.2-.4.6-.4,1s.1.7.4,1c.3.2.6.4,1,.4s.8-.1,1-.4c.3-.2.4-.6.4-1s-.1-.7-.4-1c-.3-.2-.6-.4-1-.4ZM291.7,40.7c-.4,0-.7-.3-.9-.6-.2-.3-.3-.6-.3-1s.2-1,.6-1.3c.4-.3.9-.5,1.6-.5s1.2.2,1.6.5.6.8.6,1.3-.1.7-.3,1c-.2.3-.5.5-.9.6.4.1.8.3,1,.6.3.3.4.7.4,1.1,0,.7-.2,1.2-.6,1.5-.4.4-1,.5-1.7.5s-1.3-.2-1.7-.5c-.4-.4-.6-.9-.6-1.5s.1-.8.4-1.1c.3-.3.6-.5,1-.6ZM291.4,39.3c0,.4.1.6.3.8.2.2.5.3.9.3s.7,0,.9-.3c.2-.2.3-.5.3-.8s-.1-.6-.3-.8c-.2-.2-.5-.3-.9-.3s-.7,0-.9.3c-.2.2-.3.5-.3.8Z"/>
+      </g>
+      <g id="text_7" data-name="text 7">
+        <g>
+          <path id="DejaVuSansMono-Bold-69-2" data-name="DejaVuSansMono-Bold-69" class="cls-5" d="M438.2,68.8h-6.7v-10.8h6.7v1.9h-4.6v2.3h4.1v1.9h-4.1v2.8h4.6v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-71-2" data-name="DejaVuSansMono-Bold-71" class="cls-5" d="M454.4,66.8v-2.1h-1.5v-1.8h3.3v4.9c-.4.4-.9.6-1.4.8-.5.2-1,.3-1.6.3-1.4,0-2.5-.5-3.2-1.5-.8-1-1.1-2.3-1.1-4.1s.4-3.2,1.1-4.2c.8-1,1.9-1.4,3.3-1.4s.9,0,1.3.2c.4.1.8.3,1.2.5v2.4c-.3-.4-.6-.7-1-.9-.4-.2-.8-.3-1.3-.3-.8,0-1.4.3-1.8.9-.4.6-.6,1.5-.6,2.8s.2,2.1.6,2.7c.4.6.9.9,1.7.9s.4,0,.6,0c.2,0,.3-.1.4-.2Z"/>
+          <path id="DejaVuSansMono-Bold-75-3" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M466.7,58h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-75-4" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M484.5,58h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-77" class="cls-5" d="M502,58h2.5l1.3,4.7,1.3-4.7h2.6v10.8h-1.8v-8.6l-1.1,4.7h-1.7l-1.2-4.7v8.6h-1.8v-10.8Z"/>
+        </g>
+      </g>
+      <g id="text_8" data-name="text 8">
+        <path id="DejaVuSans-124-3" data-name="DejaVuSans-124" class="cls-5" d="M431.5,47.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_9" data-name="text 9">
+        <g>
+          <path id="DejaVuSans-49-2" data-name="DejaVuSans-49" class="cls-5" d="M431,43.6h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-54" class="cls-5" d="M439,40.6c-.4,0-.7.1-1,.4-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4s.7-.1,1-.4c.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4ZM440.8,37.7v.8c-.2-.1-.5-.2-.7-.3-.2,0-.5,0-.7,0-.6,0-1.1.2-1.4.6-.3.4-.5,1-.6,1.9.2-.3.4-.5.7-.6.3-.1.6-.2.9-.2.7,0,1.2.2,1.6.6.4.4.6,1,.6,1.7s-.2,1.3-.6,1.7c-.4.4-1,.6-1.7.6s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.3-2,.8-2.6c.5-.6,1.2-1,2.1-1s.5,0,.7,0,.5.1.7.2Z"/>
+        </g>
+      </g>
+      <g id="text_10" data-name="text 10">
+        <g>
+          <path id="DejaVuSansMono-Bold-82" class="cls-5" d="M523.8,63.7c.2,0,.4.1.6.3.2.2.3.5.6.9l1.9,3.9h-2.3l-1.3-2.7c0,0,0-.2-.1-.3-.4-.8-.8-1.2-1.3-1.2h-.7v4.3h-2.1v-10.8h3.1c1.4,0,2.4.2,3,.7s.9,1.3.9,2.4-.2,1.3-.5,1.8c-.4.4-.9.7-1.6.8ZM521,59.8v2.9h1c.6,0,1-.1,1.3-.3.3-.2.4-.6.4-1.1s-.1-.9-.4-1.1c-.2-.2-.7-.3-1.3-.3h-1Z"/>
+          <path id="DejaVuSansMono-Bold-67-2" data-name="DejaVuSansMono-Bold-67" class="cls-5" d="M543.5,68.5c-.3.2-.7.3-1.1.4-.4,0-.8.1-1.2.1-1.5,0-2.6-.5-3.3-1.4-.8-1-1.1-2.3-1.1-4.1s.4-3.2,1.1-4.2c.8-1,1.9-1.4,3.3-1.4s.8,0,1.2.1.7.2,1.1.4v2.4c-.4-.3-.7-.6-1.1-.7-.3-.2-.7-.2-1.1-.2-.8,0-1.4.3-1.8.9-.4.6-.6,1.5-.6,2.7s.2,2.1.6,2.7c.4.6,1,.9,1.8.9s.7,0,1.1-.2c.3-.2.7-.4,1.1-.7v2.4Z"/>
+          <path id="DejaVuSansMono-Bold-69-3" data-name="DejaVuSansMono-Bold-69" class="cls-5" d="M561.4,68.8h-6.7v-10.8h6.7v1.9h-4.6v2.3h4.1v1.9h-4.1v2.8h4.6v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-87" class="cls-5" d="M571.3,58h1.9l.8,7.9.9-5.1h1.8l1.1,5.1.6-7.9h1.9l-1.2,10.8h-2l-1.2-5.7-1.1,5.7h-2l-1.3-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-68" class="cls-5" d="M592.2,59.9v6.9h.6c.8,0,1.4-.3,1.8-.8.4-.5.5-1.4.5-2.7s-.2-2.1-.5-2.7c-.4-.5-1-.8-1.8-.8h-.6ZM590,58h2.3c1.8,0,3,.4,3.8,1.3.8.8,1.2,2.2,1.2,4.1s-.4,3.3-1.2,4.1c-.8.8-2,1.3-3.8,1.3h-2.3v-10.8Z"/>
+        </g>
+      </g>
+      <g id="text_11" data-name="text 11">
+        <path id="DejaVuSans-124-4" data-name="DejaVuSans-124" class="cls-5" d="M519.1,47.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_12" data-name="text 12">
+        <g>
+          <path id="DejaVuSans-50" class="cls-5" d="M519.3,43.6h3.2v.8h-4.4v-.8c.4-.4.8-.9,1.4-1.5.6-.6,1-1,1.1-1.2.3-.3.5-.6.6-.8.1-.2.2-.5.2-.7,0-.4-.1-.7-.4-.9-.3-.2-.6-.3-1-.3s-.6,0-.9.2c-.3.1-.7.3-1,.5v-.9c.4-.2.7-.3,1-.3.3,0,.6-.1.9-.1.7,0,1.3.2,1.7.5.4.4.6.8.6,1.4s0,.6-.2.8c-.1.3-.3.6-.6.9,0,0-.3.3-.7.8-.4.4-1,1-1.7,1.8Z"/>
+          <path id="DejaVuSans-49-3" data-name="DejaVuSans-49" class="cls-5" d="M524.7,43.6h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+        </g>
+      </g>
+      <g id="text_13" data-name="text 13">
+        <g>
+          <path id="DejaVuSansMono-Bold-71-3" data-name="DejaVuSansMono-Bold-71" class="cls-5" d="M611.9,66.8v-2.1h-1.5v-1.8h3.3v4.9c-.4.4-.9.6-1.4.8-.5.2-1,.3-1.6.3-1.4,0-2.5-.5-3.2-1.5-.8-1-1.1-2.3-1.1-4.1s.4-3.2,1.1-4.2c.8-1,1.9-1.4,3.3-1.4s.9,0,1.3.2c.4.1.8.3,1.2.5v2.4c-.3-.4-.6-.7-1-.9-.4-.2-.8-.3-1.3-.3-.8,0-1.4.3-1.8.9-.4.6-.6,1.5-.6,2.8s.2,2.1.6,2.7c.4.6.9.9,1.7.9s.4,0,.6,0c.2,0,.3-.1.4-.2Z"/>
+          <path id="DejaVuSansMono-Bold-71-4" data-name="DejaVuSansMono-Bold-71" class="cls-5" d="M629.6,66.8v-2.1h-1.5v-1.8h3.3v4.9c-.4.4-.9.6-1.4.8-.5.2-1,.3-1.6.3-1.4,0-2.5-.5-3.2-1.5-.8-1-1.1-2.3-1.1-4.1s.4-3.2,1.1-4.2c.8-1,1.9-1.4,3.3-1.4s.9,0,1.3.2c.4.1.8.3,1.2.5v2.4c-.3-.4-.6-.7-1-.9-.4-.2-.8-.3-1.3-.3-.8,0-1.4.3-1.8.9-.4.6-.6,1.5-.6,2.8s.2,2.1.6,2.7c.4.6.9.9,1.7.9s.4,0,.6,0c.2,0,.3-.1.4-.2Z"/>
+          <path id="DejaVuSansMono-Bold-82-2" data-name="DejaVuSansMono-Bold-82" class="cls-5" d="M646.9,63.7c.2,0,.4.1.6.3.2.2.3.5.6.9l1.9,3.9h-2.3l-1.3-2.7c0,0,0-.2-.1-.3-.4-.8-.8-1.2-1.3-1.2h-.7v4.3h-2.1v-10.8h3.1c1.4,0,2.4.2,3,.7s.9,1.3.9,2.4-.2,1.3-.5,1.8c-.4.4-.9.7-1.6.8ZM644.2,59.8v2.9h1c.6,0,1-.1,1.3-.3.3-.2.4-.6.4-1.1s-.1-.9-.4-1.1c-.2-.2-.7-.3-1.3-.3h-1Z"/>
+          <path id="DejaVuSansMono-Bold-69-4" data-name="DejaVuSansMono-Bold-69" class="cls-5" d="M666.8,68.8h-6.7v-10.8h6.7v1.9h-4.6v2.3h4.1v1.9h-4.1v2.8h4.6v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-84" class="cls-5" d="M682.2,68.8h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+          <path id="DejaVuSansMono-Bold-72" class="cls-5" d="M695.5,58h2.1v4.1h2.7v-4.1h2.1v10.8h-2.1v-4.8h-2.7v4.8h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-76-3" data-name="DejaVuSansMono-Bold-76" class="cls-5" d="M713.9,68.8v-10.8h2.1v8.9h4.5v1.9h-6.7Z"/>
+          <path id="DejaVuSansMono-Bold-69-5" data-name="DejaVuSansMono-Bold-69" class="cls-5" d="M737.9,68.8h-6.7v-10.8h6.7v1.9h-4.6v2.3h4.1v1.9h-4.1v2.8h4.6v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-84-2" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M753.3,68.8h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+        </g>
+      </g>
+      <g id="text_14" data-name="text 14">
+        <path id="DejaVuSans-124-5" data-name="DejaVuSans-124" class="cls-5" d="M606.8,47.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_15" data-name="text 15">
+        <g>
+          <path id="DejaVuSans-50-2" data-name="DejaVuSans-50" class="cls-5" d="M606.9,43.6h3.2v.8h-4.4v-.8c.4-.4.8-.9,1.4-1.5.6-.6,1-1,1.1-1.2.3-.3.5-.6.6-.8.1-.2.2-.5.2-.7,0-.4-.1-.7-.4-.9-.3-.2-.6-.3-1-.3s-.6,0-.9.2c-.3.1-.7.3-1,.5v-.9c.4-.2.7-.3,1-.3.3,0,.6-.1.9-.1.7,0,1.3.2,1.7.5.4.4.6.8.6,1.4s0,.6-.2.8c-.1.3-.3.6-.6.9,0,0-.3.3-.7.8-.4.4-1,1-1.7,1.8Z"/>
+          <path id="DejaVuSans-54-2" data-name="DejaVuSans-54" class="cls-5" d="M614.2,40.6c-.4,0-.7.1-1,.4-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4s.7-.1,1-.4c.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4ZM616.1,37.7v.8c-.2-.1-.5-.2-.7-.3-.2,0-.5,0-.7,0-.6,0-1.1.2-1.4.6-.3.4-.5,1-.6,1.9.2-.3.4-.5.7-.6.3-.1.6-.2.9-.2.7,0,1.2.2,1.6.6.4.4.6,1,.6,1.7s-.2,1.3-.6,1.7c-.4.4-1,.6-1.7.6s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.3-2,.8-2.6c.5-.6,1.2-1,2.1-1s.5,0,.7,0,.5.1.7.2Z"/>
+        </g>
+      </g>
+      <g id="text_16" data-name="text 16">
+        <g>
+          <path id="DejaVuSansMono-Bold-78-3" data-name="DejaVuSansMono-Bold-78" class="cls-5" d="M764.2,58h2.3l3,7.8v-7.8h1.9v10.8h-2.3l-3-7.8v7.8h-1.9v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-70" class="cls-5" d="M789.1,59.9h-4.6v2.3h4.2v1.9h-4.2v4.7h-2.1v-10.8h6.7v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-84-3" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M804.4,68.8h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+          <path id="DejaVuSansMono-Bold-76-4" data-name="DejaVuSansMono-Bold-76" class="cls-5" d="M818.3,68.8v-10.8h2.1v8.9h4.5v1.9h-6.7Z"/>
+          <path id="DejaVuSansMono-Bold-75-5" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M835.3,58h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-83-2" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M855.9,64c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-69-6" data-name="DejaVuSansMono-Bold-69" class="cls-5" d="M877.9,68.8h-6.7v-10.8h6.7v1.9h-4.6v2.3h4.1v1.9h-4.1v2.8h4.6v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-87-2" data-name="DejaVuSansMono-Bold-87" class="cls-5" d="M887.8,58h1.9l.8,7.9.9-5.1h1.8l1.1,5.1.6-7.9h1.9l-1.2,10.8h-2l-1.2-5.7-1.1,5.7h-2l-1.3-10.8Z"/>
+        </g>
+      </g>
+      <g id="text_17" data-name="text 17">
+        <path id="DejaVuSans-124-6" data-name="DejaVuSans-124" class="cls-5" d="M764.5,47.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_18" data-name="text 18">
+        <g>
+          <path id="DejaVuSans-51" class="cls-5" d="M766.7,40.7c.4,0,.8.3,1,.6.3.3.4.7.4,1.1,0,.7-.2,1.2-.7,1.6-.5.4-1.1.6-2,.6s-.6,0-.9,0c-.3,0-.6-.1-.9-.3v-.9c.3.2.5.3.8.3.3,0,.6.1,1,.1.6,0,1-.1,1.3-.3s.5-.6.5-1-.1-.7-.4-.9c-.3-.2-.7-.3-1.2-.3h-.8v-.8h.8c.5,0,.8,0,1-.3s.4-.4.4-.8-.1-.6-.4-.8c-.2-.2-.6-.3-1.1-.3s-.5,0-.8,0c-.3,0-.6.1-1,.3v-.8c.4,0,.7-.2,1-.2s.6,0,.9,0c.7,0,1.3.2,1.7.5.4.3.6.8.6,1.3s-.1.7-.3,1-.5.4-.9.5Z"/>
+          <path id="DejaVuSans-53" class="cls-5" d="M769.9,37.5h3.6v.8h-2.8v1.7c.1,0,.3,0,.4-.1.1,0,.3,0,.4,0,.8,0,1.4.2,1.8.6.4.4.7,1,.7,1.7s-.2,1.3-.7,1.7c-.5.4-1.1.6-1.9.6s-.6,0-.9,0c-.3,0-.6-.1-.9-.2v-.9c.3.2.6.3.9.3s.6.1.9.1c.5,0,1-.1,1.3-.4.3-.3.5-.7.5-1.1s-.2-.9-.5-1.1c-.3-.3-.7-.4-1.3-.4s-.5,0-.7,0c-.2,0-.5.1-.8.3v-3.5Z"/>
+        </g>
+      </g>
+      <g id="text_19" data-name="text 19">
+        <g>
+          <path id="DejaVuSansMono-Bold-65" class="cls-5" d="M908,60l-1,4.4h2l-1-4.4ZM906.7,58h2.6l2.9,10.8h-2.1l-.7-2.7h-2.8l-.6,2.7h-2.1l2.9-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-84-4" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M926.8,68.8h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+        </g>
+      </g>
+      <g id="text_20" data-name="text 20">
+        <path id="DejaVuSans-124-7" data-name="DejaVuSans-124" class="cls-5" d="M904.8,47.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_21" data-name="text 21">
+        <g>
+          <path id="DejaVuSans-52" class="cls-5" d="M906.7,38.3l-2.3,3.7h2.3v-3.7ZM906.4,37.5h1.2v4.5h1v.8h-1v1.6h-.9v-1.6h-3.1v-.9l2.9-4.4Z"/>
+          <path id="DejaVuSans-51-2" data-name="DejaVuSans-51" class="cls-5" d="M912.9,40.7c.4,0,.8.3,1,.6.3.3.4.7.4,1.1,0,.7-.2,1.2-.7,1.6-.5.4-1.1.6-2,.6s-.6,0-.9,0c-.3,0-.6-.1-.9-.3v-.9c.3.2.5.3.8.3.3,0,.6.1,1,.1.6,0,1-.1,1.3-.3s.5-.6.5-1-.1-.7-.4-.9c-.3-.2-.7-.3-1.2-.3h-.8v-.8h.8c.5,0,.8,0,1-.3s.4-.4.4-.8-.1-.6-.4-.8c-.2-.2-.6-.3-1.1-.3s-.5,0-.8,0c-.3,0-.6.1-1,.3v-.8c.4,0,.7-.2,1-.2s.6,0,.9,0c.7,0,1.3.2,1.7.5.4.3.6.8.6,1.3s-.1.7-.3,1-.5.4-.9.5Z"/>
+        </g>
+      </g>
+      <g id="text_22" data-name="text 22">
+        <g>
+          <path id="DejaVuSansMono-Bold-72-2" data-name="DejaVuSansMono-Bold-72" class="cls-5" d="M939.6,58h2.1v4.1h2.7v-4.1h2.1v10.8h-2.1v-4.8h-2.7v4.8h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-75-6" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M957.2,58h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+        </g>
+      </g>
+      <g id="text_23" data-name="text 23">
+        <path id="DejaVuSans-124-8" data-name="DejaVuSans-124" class="cls-5" d="M939.8,47.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_24" data-name="text 24">
+        <g>
+          <path id="DejaVuSans-52-2" data-name="DejaVuSans-52" class="cls-5" d="M941.7,38.3l-2.3,3.7h2.3v-3.7ZM941.5,37.5h1.2v4.5h1v.8h-1v1.6h-.9v-1.6h-3.1v-.9l2.9-4.4Z"/>
+          <path id="DejaVuSans-53-2" data-name="DejaVuSans-53" class="cls-5" d="M945.2,37.5h3.6v.8h-2.8v1.7c.1,0,.3,0,.4-.1.1,0,.3,0,.4,0,.8,0,1.4.2,1.8.6.4.4.7,1,.7,1.7s-.2,1.3-.7,1.7c-.5.4-1.1.6-1.9.6s-.6,0-.9,0c-.3,0-.6-.1-.9-.2v-.9c.3.2.6.3.9.3s.6.1.9.1c.5,0,1-.1,1.3-.4.3-.3.5-.7.5-1.1s-.2-.9-.5-1.1c-.3-.3-.7-.4-1.3-.4s-.5,0-.7,0c-.2,0-.5.1-.8.3v-3.5Z"/>
+        </g>
+      </g>
+      <g id="text_25" data-name="text 25">
+        <g>
+          <path id="DejaVuSansMono-Bold-70-2" data-name="DejaVuSansMono-Bold-70" class="cls-5" d="M981.7,59.9h-4.6v2.3h4.2v1.9h-4.2v4.7h-2.1v-10.8h6.7v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-65-2" data-name="DejaVuSansMono-Bold-65" class="cls-5" d="M995.9,60l-1,4.4h2l-1-4.4ZM994.6,58h2.6l2.9,10.8h-2.1l-.7-2.7h-2.8l-.6,2.7h-2.1l2.9-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-68-2" data-name="DejaVuSansMono-Bold-68" class="cls-5" d="M1012.3,59.9v6.9h.6c.8,0,1.4-.3,1.8-.8.4-.5.5-1.4.5-2.7s-.2-2.1-.5-2.7c-.4-.5-1-.8-1.8-.8h-.6ZM1010.2,58h2.3c1.8,0,3,.4,3.8,1.3.8.8,1.2,2.2,1.2,4.1s-.4,3.3-1.2,4.1c-.8.8-2,1.3-3.8,1.3h-2.3v-10.8Z"/>
+        </g>
+      </g>
+      <g id="text_26" data-name="text 26">
+        <path id="DejaVuSans-124-9" data-name="DejaVuSans-124" class="cls-5" d="M974.9,47.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_27" data-name="text 27">
+        <g>
+          <path id="DejaVuSans-52-3" data-name="DejaVuSans-52" class="cls-5" d="M976.8,38.3l-2.3,3.7h2.3v-3.7ZM976.5,37.5h1.2v4.5h1v.8h-1v1.6h-.9v-1.6h-3.1v-.9l2.9-4.4Z"/>
+          <path id="DejaVuSans-55" class="cls-5" d="M980,37.5h4.4v.4l-2.5,6.5h-1l2.3-6.1h-3.3v-.8Z"/>
+        </g>
+      </g>
+      <g id="text_28" data-name="text 28">
+        <path id="DejaVuSansMono-Bold-67-3" data-name="DejaVuSansMono-Bold-67" class="cls-5" d="M1034,68.5c-.3.2-.7.3-1.1.4-.4,0-.8.1-1.2.1-1.5,0-2.6-.5-3.3-1.4-.8-1-1.1-2.3-1.1-4.1s.4-3.2,1.1-4.2c.8-1,1.9-1.4,3.3-1.4s.8,0,1.2.1.7.2,1.1.4v2.4c-.4-.3-.7-.6-1.1-.7-.3-.2-.7-.2-1.1-.2-.8,0-1.4.3-1.8.9-.4.6-.6,1.5-.6,2.7s.2,2.1.6,2.7c.4.6,1,.9,1.8.9s.7,0,1.1-.2c.3-.2.7-.4,1.1-.7v2.4Z"/>
+      </g>
+      <g id="text_29" data-name="text 29">
+        <path id="DejaVuSans-124-10" data-name="DejaVuSans-124" class="cls-5" d="M1027.5,47.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_30" data-name="text 30">
+        <g>
+          <path id="DejaVuSans-53-3" data-name="DejaVuSans-53" class="cls-5" d="M1026.8,37.5h3.6v.8h-2.8v1.7c.1,0,.3,0,.4-.1.1,0,.3,0,.4,0,.8,0,1.4.2,1.8.6.4.4.7,1,.7,1.7s-.2,1.3-.7,1.7c-.5.4-1.1.6-1.9.6s-.6,0-.9,0c-.3,0-.6-.1-.9-.2v-.9c.3.2.6.3.9.3s.6.1.9.1c.5,0,1-.1,1.3-.4.3-.3.5-.7.5-1.1s-.2-.9-.5-1.1c-.3-.3-.7-.4-1.3-.4s-.5,0-.7,0c-.2,0-.5.1-.8.3v-3.5Z"/>
+          <path id="DejaVuSans-48" class="cls-5" d="M1034.8,38.1c-.5,0-.8.2-1.1.7-.2.5-.4,1.2-.4,2.1s.1,1.6.4,2.1c.2.5.6.7,1.1.7s.8-.2,1.1-.7c.2-.5.4-1.2.4-2.1s-.1-1.7-.4-2.1c-.2-.5-.6-.7-1.1-.7ZM1034.8,37.4c.8,0,1.4.3,1.8.9.4.6.6,1.5.6,2.7s-.2,2-.6,2.6c-.4.6-1,.9-1.8.9s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.2-2,.6-2.7c.4-.6,1-.9,1.8-.9Z"/>
+        </g>
+      </g>
+      <g id="text_31" data-name="text 31">
+        <g>
+          <path id="DejaVuSansMono-Bold-75-7" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M168.2,127.7h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-65-3" data-name="DejaVuSansMono-Bold-65" class="cls-5" d="M189.6,129.6l-1,4.4h2l-1-4.4ZM188.3,127.7h2.6l2.9,10.8h-2.1l-.7-2.7h-2.8l-.6,2.7h-2.1l2.9-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-75-8" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M203.8,127.7h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-82-3" data-name="DejaVuSansMono-Bold-82" class="cls-5" d="M226.5,133.3c.2,0,.4.1.6.3.2.2.3.5.6.9l1.9,3.9h-2.3l-1.3-2.7c0,0,0-.2-.1-.3-.4-.8-.8-1.2-1.3-1.2h-.7v4.3h-2.1v-10.8h3.1c1.4,0,2.4.2,3,.7s.9,1.3.9,2.4-.2,1.3-.5,1.8c-.4.4-.9.7-1.6.8ZM223.8,129.5v2.9h1c.6,0,1-.1,1.3-.3.3-.2.4-.6.4-1.1s-.1-.9-.4-1.1c-.2-.2-.7-.3-1.3-.3h-1Z"/>
+          <path id="DejaVuSansMono-Bold-68-3" data-name="DejaVuSansMono-Bold-68" class="cls-5" d="M241.6,129.6v6.9h.6c.8,0,1.4-.3,1.8-.8.4-.5.5-1.4.5-2.7s-.2-2.1-.5-2.7c-.4-.5-1-.8-1.8-.8h-.6ZM239.5,127.7h2.3c1.8,0,3,.4,3.8,1.3.8.8,1.2,2.2,1.2,4.1s-.4,3.3-1.2,4.1c-.8.8-2,1.3-3.8,1.3h-2.3v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-84-5" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M261.8,138.4h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+          <path id="DejaVuSansMono-Bold-80-4" data-name="DejaVuSansMono-Bold-80" class="cls-5" d="M277.3,129.5v3.2h.9c.7,0,1.2-.1,1.5-.4s.4-.6.4-1.2-.1-1-.4-1.2c-.3-.2-.8-.4-1.5-.4h-.9ZM275.2,127.7h2.9c1.5,0,2.6.3,3.2.8.7.5,1,1.4,1,2.6s-.3,2-1,2.6c-.7.5-1.7.8-3.2.8h-.8v4h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-84-6" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M297.3,138.4h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+        </g>
+      </g>
+      <g id="text_32" data-name="text 32">
+        <path id="DejaVuSans-124-11" data-name="DejaVuSans-124" class="cls-5" d="M168.6,117.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_33" data-name="text 33">
+        <g>
+          <path id="DejaVuSans-53-4" data-name="DejaVuSans-53" class="cls-5" d="M168,107.2h3.6v.8h-2.8v1.7c.1,0,.3,0,.4-.1.1,0,.3,0,.4,0,.8,0,1.4.2,1.8.6.4.4.7,1,.7,1.7s-.2,1.3-.7,1.7c-.5.4-1.1.6-1.9.6s-.6,0-.9,0c-.3,0-.6-.1-.9-.2v-.9c.3.2.6.3.9.3s.6.1.9.1c.5,0,1-.1,1.3-.4.3-.3.5-.7.5-1.1s-.2-.9-.5-1.1c-.3-.3-.7-.4-1.3-.4s-.5,0-.7,0c-.2,0-.5.1-.8.3v-3.5Z"/>
+          <path id="DejaVuSans-49-4" data-name="DejaVuSans-49" class="cls-5" d="M174.1,113.3h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+        </g>
+      </g>
+      <g id="text_34" data-name="text 34">
+        <g>
+          <path id="DejaVuSansMono-Bold-83-3" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M311.3,133.7c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-67-4" data-name="DejaVuSansMono-Bold-67" class="cls-5" d="M333.2,138.1c-.3.2-.7.3-1.1.4-.4,0-.8.1-1.2.1-1.5,0-2.6-.5-3.3-1.4-.8-1-1.1-2.3-1.1-4.1s.4-3.2,1.1-4.2c.8-1,1.9-1.4,3.3-1.4s.8,0,1.2.1.7.2,1.1.4v2.4c-.4-.3-.7-.6-1.1-.7-.3-.2-.7-.2-1.1-.2-.8,0-1.4.3-1.8.9-.4.6-.6,1.5-.6,2.7s.2,2.1.6,2.7c.4.6,1,.9,1.8.9s.7,0,1.1-.2c.3-.2.7-.4,1.1-.7v2.4Z"/>
+          <path id="DejaVuSansMono-Bold-84-7" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M348.7,138.4h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+        </g>
+      </g>
+      <g id="text_35" data-name="text 35">
+        <path id="DejaVuSans-124-12" data-name="DejaVuSans-124" class="cls-5" d="M308.8,117.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_36" data-name="text 36">
+        <g>
+          <path id="DejaVuSans-53-5" data-name="DejaVuSans-53" class="cls-5" d="M308.2,107.2h3.6v.8h-2.8v1.7c.1,0,.3,0,.4-.1.1,0,.3,0,.4,0,.8,0,1.4.2,1.8.6.4.4.7,1,.7,1.7s-.2,1.3-.7,1.7c-.5.4-1.1.6-1.9.6s-.6,0-.9,0c-.3,0-.6-.1-.9-.2v-.9c.3.2.6.3.9.3s.6.1.9.1c.5,0,1-.1,1.3-.4.3-.3.5-.7.5-1.1s-.2-.9-.5-1.1c-.3-.3-.7-.4-1.3-.4s-.5,0-.7,0c-.2,0-.5.1-.8.3v-3.5Z"/>
+          <path id="DejaVuSans-57" class="cls-5" d="M314.2,113.9v-.8c.2.1.5.2.7.3.2,0,.5,0,.7,0,.6,0,1.1-.2,1.4-.6.3-.4.5-1,.6-1.9-.2.3-.4.5-.7.6-.3.1-.6.2-.9.2-.7,0-1.2-.2-1.6-.6-.4-.4-.6-1-.6-1.7s.2-1.3.6-1.7c.4-.4,1-.6,1.7-.6s1.4.3,1.8.9c.4.6.6,1.5.6,2.7s-.3,1.9-.8,2.6c-.5.6-1.2,1-2.1,1s-.5,0-.7,0c-.2,0-.5-.1-.7-.2ZM316,111c.4,0,.7-.1,1-.4.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4s-.7.1-1,.4c-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4Z"/>
+        </g>
+      </g>
+      <g id="text_37" data-name="text 37">
+        <g>
+          <path id="DejaVuSansMono-Bold-86-2" data-name="DejaVuSansMono-Bold-86" class="cls-5" d="M364.6,136.7l1.9-9h2.1l-2.6,10.8h-2.9l-2.6-10.8h2.1l1.9,9Z"/>
+          <path id="DejaVuSansMono-Bold-68-4" data-name="DejaVuSansMono-Bold-68" class="cls-5" d="M381.1,129.6v6.9h.6c.8,0,1.4-.3,1.8-.8.4-.5.5-1.4.5-2.7s-.2-2.1-.5-2.7c-.4-.5-1-.8-1.8-.8h-.6ZM378.9,127.7h2.3c1.8,0,3,.4,3.8,1.3.8.8,1.2,2.2,1.2,4.1s-.4,3.3-1.2,4.1c-.8.8-2,1.3-3.8,1.3h-2.3v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-89" class="cls-5" d="M395.8,127.7h2.3l2.1,4.3,2.1-4.3h2.3l-3.3,6.5v4.2h-2.1v-4.2l-3.3-6.5Z"/>
+          <path id="DejaVuSansMono-Bold-83-4" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M417.2,133.7c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-84-8" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M436.8,138.4h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+          <path id="DejaVuSansMono-Bold-86-3" data-name="DejaVuSansMono-Bold-86" class="cls-5" d="M453.5,136.7l1.9-9h2.1l-2.6,10.8h-2.9l-2.6-10.8h2.1l1.9,9Z"/>
+          <path id="DejaVuSansMono-Bold-89-2" data-name="DejaVuSansMono-Bold-89" class="cls-5" d="M466.9,127.7h2.3l2.1,4.3,2.1-4.3h2.3l-3.3,6.5v4.2h-2.1v-4.2l-3.3-6.5Z"/>
+          <path id="DejaVuSansMono-Bold-70-3" data-name="DejaVuSansMono-Bold-70" class="cls-5" d="M492.6,129.5h-4.6v2.3h4.2v1.9h-4.2v4.7h-2.1v-10.8h6.7v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-86-4" data-name="DejaVuSansMono-Bold-86" class="cls-5" d="M506.8,136.7l1.9-9h2.1l-2.6,10.8h-2.9l-2.6-10.8h2.1l1.9,9Z"/>
+          <path id="DejaVuSansMono-Bold-78-4" data-name="DejaVuSansMono-Bold-78" class="cls-5" d="M521,127.7h2.3l3,7.8v-7.8h1.9v10.8h-2.3l-3-7.8v7.8h-1.9v-10.8Z"/>
+        </g>
+      </g>
+      <g id="text_38" data-name="text 38">
+        <path id="DejaVuSans-124-13" data-name="DejaVuSans-124" class="cls-5" d="M361.4,117.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_39" data-name="text 39">
+        <g>
+          <path id="DejaVuSans-54-3" data-name="DejaVuSans-54" class="cls-5" d="M362.9,110.2c-.4,0-.7.1-1,.4-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4s.7-.1,1-.4c.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4ZM364.7,107.3v.8c-.2-.1-.5-.2-.7-.3-.2,0-.5,0-.7,0-.6,0-1.1.2-1.4.6-.3.4-.5,1-.6,1.9.2-.3.4-.5.7-.6.3-.1.6-.2.9-.2.7,0,1.2.2,1.6.6.4.4.6,1,.6,1.7s-.2,1.3-.6,1.7c-.4.4-1,.6-1.7.6s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.3-2,.8-2.6c.5-.6,1.2-1,2.1-1s.5,0,.7,0,.5.1.7.2Z"/>
+          <path id="DejaVuSans-50-3" data-name="DejaVuSans-50" class="cls-5" d="M367.5,113.3h3.2v.8h-4.4v-.8c.4-.4.8-.9,1.4-1.5.6-.6,1-1,1.1-1.2.3-.3.5-.6.6-.8.1-.2.2-.5.2-.7,0-.4-.1-.7-.4-.9-.3-.2-.6-.3-1-.3s-.6,0-.9.2c-.3.1-.7.3-1,.5v-.9c.4-.2.7-.3,1-.3.3,0,.6-.1.9-.1.7,0,1.3.2,1.7.5.4.4.6.8.6,1.4s0,.6-.2.8c-.1.3-.3.6-.6.9,0,0-.3.3-.7.8-.4.4-1,1-1.7,1.8Z"/>
+        </g>
+      </g>
+      <g id="text_40" data-name="text 40">
+        <g>
+          <path id="DejaVuSansMono-Bold-73-2" data-name="DejaVuSansMono-Bold-73" class="cls-5" d="M536.7,129.5v-1.9h6.4v1.9h-2.1v7h2.1v1.9h-6.4v-1.9h2.1v-7h-2.1Z"/>
+          <path id="DejaVuSansMono-Bold-69-7" data-name="DejaVuSansMono-Bold-69" class="cls-5" d="M561.2,138.4h-6.7v-10.8h6.7v1.9h-4.6v2.3h4.1v1.9h-4.1v2.8h4.6v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-86-5" data-name="DejaVuSansMono-Bold-86" class="cls-5" d="M575.5,136.7l1.9-9h2.1l-2.6,10.8h-2.9l-2.6-10.8h2.1l1.9,9Z"/>
+          <path id="DejaVuSansMono-Bold-87-3" data-name="DejaVuSansMono-Bold-87" class="cls-5" d="M588.8,127.7h1.9l.8,7.9.9-5.1h1.8l1.1,5.1.6-7.9h1.9l-1.2,10.8h-2l-1.2-5.7-1.1,5.7h-2l-1.3-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-86-6" data-name="DejaVuSansMono-Bold-86" class="cls-5" d="M611,136.7l1.9-9h2.1l-2.6,10.8h-2.9l-2.6-10.8h2.1l1.9,9Z"/>
+          <path id="DejaVuSansMono-Bold-69-8" data-name="DejaVuSansMono-Bold-69" class="cls-5" d="M632.3,138.4h-6.7v-10.8h6.7v1.9h-4.6v2.3h4.1v1.9h-4.1v2.8h4.6v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-65-4" data-name="DejaVuSansMono-Bold-65" class="cls-5" d="M646.6,129.6l-1,4.4h2l-1-4.4ZM645.3,127.7h2.6l2.9,10.8h-2.1l-.7-2.7h-2.8l-.6,2.7h-2.1l2.9-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-69-9" data-name="DejaVuSansMono-Bold-69" class="cls-5" d="M667.8,138.4h-6.7v-10.8h6.7v1.9h-4.6v2.3h4.1v1.9h-4.1v2.8h4.6v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-78-5" data-name="DejaVuSansMono-Bold-78" class="cls-5" d="M678.5,127.7h2.3l3,7.8v-7.8h1.9v10.8h-2.3l-3-7.8v7.8h-1.9v-10.8Z"/>
+        </g>
+      </g>
+      <g id="text_41" data-name="text 41">
+        <path id="DejaVuSans-124-14" data-name="DejaVuSans-124" class="cls-5" d="M536.7,117.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_42" data-name="text 42">
+        <g>
+          <path id="DejaVuSans-55-2" data-name="DejaVuSans-55" class="cls-5" d="M535.8,107.2h4.4v.4l-2.5,6.5h-1l2.3-6.1h-3.3v-.8Z"/>
+          <path id="DejaVuSans-50-4" data-name="DejaVuSans-50" class="cls-5" d="M542.8,113.3h3.2v.8h-4.4v-.8c.4-.4.8-.9,1.4-1.5.6-.6,1-1,1.1-1.2.3-.3.5-.6.6-.8.1-.2.2-.5.2-.7,0-.4-.1-.7-.4-.9-.3-.2-.6-.3-1-.3s-.6,0-.9.2c-.3.1-.7.3-1,.5v-.9c.4-.2.7-.3,1-.3.3,0,.6-.1.9-.1.7,0,1.3.2,1.7.5.4.4.6.8.6,1.4s0,.6-.2.8c-.1.3-.3.6-.6.9,0,0-.3.3-.7.8-.4.4-1,1-1.7,1.8Z"/>
+        </g>
+      </g>
+      <g id="text_43" data-name="text 43">
+        <g>
+          <path id="DejaVuSansMono-Bold-65-5" data-name="DejaVuSansMono-Bold-65" class="cls-5" d="M697.7,129.6l-1,4.4h2l-1-4.4ZM696.4,127.7h2.6l2.9,10.8h-2.1l-.7-2.7h-2.8l-.6,2.7h-2.1l2.9-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-76-5" data-name="DejaVuSansMono-Bold-76" class="cls-5" d="M712.6,138.4v-10.8h2.1v8.9h4.5v1.9h-6.7Z"/>
+        </g>
+      </g>
+      <g id="text_44" data-name="text 44">
+        <path id="DejaVuSans-124-15" data-name="DejaVuSans-124" class="cls-5" d="M694.4,117.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_45" data-name="text 45">
+        <g>
+          <path id="DejaVuSans-56-2" data-name="DejaVuSans-56" class="cls-5" d="M695.8,110.8c-.4,0-.8.1-1,.4-.3.2-.4.6-.4,1s.1.7.4,1c.3.2.6.4,1,.4s.8-.1,1-.4c.3-.2.4-.6.4-1s-.1-.7-.4-1c-.3-.2-.6-.4-1-.4ZM694.8,110.4c-.4,0-.7-.3-.9-.6-.2-.3-.3-.6-.3-1s.2-1,.6-1.3c.4-.3.9-.5,1.6-.5s1.2.2,1.6.5.6.8.6,1.3-.1.7-.3,1c-.2.3-.5.5-.9.6.4.1.8.3,1,.6.3.3.4.7.4,1.1,0,.7-.2,1.2-.6,1.5-.4.4-1,.5-1.7.5s-1.3-.2-1.7-.5c-.4-.4-.6-.9-.6-1.5s.1-.8.4-1.1c.3-.3.6-.5,1-.6ZM694.5,108.9c0,.4.1.6.3.8.2.2.5.3.9.3s.7,0,.9-.3c.2-.2.3-.5.3-.8s-.1-.6-.3-.8c-.2-.2-.5-.3-.9-.3s-.7,0-.9.3c-.2.2-.3.5-.3.8Z"/>
+          <path id="DejaVuSans-49-5" data-name="DejaVuSans-49" class="cls-5" d="M699.9,113.3h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+        </g>
+      </g>
+      <g id="text_46" data-name="text 46">
+        <g>
+          <path id="DejaVuSansMono-Bold-71-5" data-name="DejaVuSansMono-Bold-71" class="cls-5" d="M734.6,136.5v-2.1h-1.5v-1.8h3.3v4.9c-.4.4-.9.6-1.4.8-.5.2-1,.3-1.6.3-1.4,0-2.5-.5-3.2-1.5-.8-1-1.1-2.3-1.1-4.1s.4-3.2,1.1-4.2c.8-1,1.9-1.4,3.3-1.4s.9,0,1.3.2c.4.1.8.3,1.2.5v2.4c-.3-.4-.6-.7-1-.9-.4-.2-.8-.3-1.3-.3-.8,0-1.4.3-1.8.9-.4.6-.6,1.5-.6,2.8s.2,2.1.6,2.7c.4.6.9.9,1.7.9s.4,0,.6,0c.2,0,.3-.1.4-.2Z"/>
+          <path id="DejaVuSansMono-Bold-75-9" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M746.9,127.7h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-86-7" data-name="DejaVuSansMono-Bold-86" class="cls-5" d="M768.3,136.7l1.9-9h2.1l-2.6,10.8h-2.9l-2.6-10.8h2.1l1.9,9Z"/>
+          <path id="DejaVuSansMono-Bold-84-9" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M787.1,138.4h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+        </g>
+      </g>
+      <g id="text_47" data-name="text 47">
+        <path id="DejaVuSans-124-16" data-name="DejaVuSans-124" class="cls-5" d="M729.5,117.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_48" data-name="text 48">
+        <g>
+          <path id="DejaVuSans-56-3" data-name="DejaVuSans-56" class="cls-5" d="M730.8,110.8c-.4,0-.8.1-1,.4-.3.2-.4.6-.4,1s.1.7.4,1c.3.2.6.4,1,.4s.8-.1,1-.4c.3-.2.4-.6.4-1s-.1-.7-.4-1c-.3-.2-.6-.4-1-.4ZM729.9,110.4c-.4,0-.7-.3-.9-.6-.2-.3-.3-.6-.3-1s.2-1,.6-1.3c.4-.3.9-.5,1.6-.5s1.2.2,1.6.5.6.8.6,1.3-.1.7-.3,1c-.2.3-.5.5-.9.6.4.1.8.3,1,.6.3.3.4.7.4,1.1,0,.7-.2,1.2-.6,1.5-.4.4-1,.5-1.7.5s-1.3-.2-1.7-.5c-.4-.4-.6-.9-.6-1.5s.1-.8.4-1.1c.3-.3.6-.5,1-.6ZM729.6,108.9c0,.4.1.6.3.8.2.2.5.3.9.3s.7,0,.9-.3c.2-.2.3-.5.3-.8s-.1-.6-.3-.8c-.2-.2-.5-.3-.9-.3s-.7,0-.9.3c-.2.2-.3.5-.3.8Z"/>
+          <path id="DejaVuSans-51-3" data-name="DejaVuSans-51" class="cls-5" d="M737.7,110.3c.4,0,.8.3,1,.6.3.3.4.7.4,1.1,0,.7-.2,1.2-.7,1.6-.5.4-1.1.6-2,.6s-.6,0-.9,0c-.3,0-.6-.1-.9-.3v-.9c.3.2.5.3.8.3.3,0,.6.1,1,.1.6,0,1-.1,1.3-.3s.5-.6.5-1-.1-.7-.4-.9c-.3-.2-.7-.3-1.2-.3h-.8v-.8h.8c.5,0,.8,0,1-.3s.4-.4.4-.8-.1-.6-.4-.8c-.2-.2-.6-.3-1.1-.3s-.5,0-.8,0c-.3,0-.6.1-1,.3v-.8c.4,0,.7-.2,1-.2s.6,0,.9,0c.7,0,1.3.2,1.7.5.4.3.6.8.6,1.3s-.1.7-.3,1-.5.4-.9.5Z"/>
+        </g>
+      </g>
+      <g id="text_49" data-name="text 49">
+        <g>
+          <path id="DejaVuSansMono-Bold-83-5" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M802.1,133.7c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-68-5" data-name="DejaVuSansMono-Bold-68" class="cls-5" d="M819.3,129.6v6.9h.6c.8,0,1.4-.3,1.8-.8.4-.5.5-1.4.5-2.7s-.2-2.1-.5-2.7c-.4-.5-1-.8-1.8-.8h-.6ZM817.2,127.7h2.3c1.8,0,3,.4,3.8,1.3.8.8,1.2,2.2,1.2,4.1s-.4,3.3-1.2,4.1c-.8.8-2,1.3-3.8,1.3h-2.3v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-72-3" data-name="DejaVuSansMono-Bold-72" class="cls-5" d="M834.9,127.7h2.1v4.1h2.7v-4.1h2.1v10.8h-2.1v-4.8h-2.7v4.8h-2.1v-10.8Z"/>
+        </g>
+      </g>
+      <g id="text_50" data-name="text 50">
+        <path id="DejaVuSans-124-17" data-name="DejaVuSans-124" class="cls-5" d="M799.6,117.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_51" data-name="text 51">
+        <g>
+          <path id="DejaVuSans-56-4" data-name="DejaVuSans-56" class="cls-5" d="M800.9,110.8c-.4,0-.8.1-1,.4-.3.2-.4.6-.4,1s.1.7.4,1c.3.2.6.4,1,.4s.8-.1,1-.4c.3-.2.4-.6.4-1s-.1-.7-.4-1c-.3-.2-.6-.4-1-.4ZM800,110.4c-.4,0-.7-.3-.9-.6-.2-.3-.3-.6-.3-1s.2-1,.6-1.3c.4-.3.9-.5,1.6-.5s1.2.2,1.6.5.6.8.6,1.3-.1.7-.3,1c-.2.3-.5.5-.9.6.4.1.8.3,1,.6.3.3.4.7.4,1.1,0,.7-.2,1.2-.6,1.5-.4.4-1,.5-1.7.5s-1.3-.2-1.7-.5c-.4-.4-.6-.9-.6-1.5s.1-.8.4-1.1c.3-.3.6-.5,1-.6ZM799.7,108.9c0,.4.1.6.3.8.2.2.5.3.9.3s.7,0,.9-.3c.2-.2.3-.5.3-.8s-.1-.6-.3-.8c-.2-.2-.5-.3-.9-.3s-.7,0-.9.3c-.2.2-.3.5-.3.8Z"/>
+          <path id="DejaVuSans-55-3" data-name="DejaVuSans-55" class="cls-5" d="M804.7,107.2h4.4v.4l-2.5,6.5h-1l2.3-6.1h-3.3v-.8Z"/>
+        </g>
+      </g>
+      <g id="text_52" data-name="text 52">
+        <g>
+          <path id="DejaVuSansMono-Bold-73-3" data-name="DejaVuSansMono-Bold-73" class="cls-5" d="M852.2,129.5v-1.9h6.4v1.9h-2.1v7h2.1v1.9h-6.4v-1.9h2.1v-7h-2.1Z"/>
+          <path id="DejaVuSansMono-Bold-78-6" data-name="DejaVuSansMono-Bold-78" class="cls-5" d="M869.6,127.7h2.3l3,7.8v-7.8h1.9v10.8h-2.3l-3-7.8v7.8h-1.9v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-70-4" data-name="DejaVuSansMono-Bold-70" class="cls-5" d="M894.5,129.5h-4.6v2.3h4.2v1.9h-4.2v4.7h-2.1v-10.8h6.7v1.9Z"/>
+        </g>
+      </g>
+      <g id="text_53" data-name="text 53">
+        <path id="DejaVuSans-124-18" data-name="DejaVuSans-124" class="cls-5" d="M852.2,117.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_54" data-name="text 54">
+        <g>
+          <path id="DejaVuSans-57-2" data-name="DejaVuSans-57" class="cls-5" d="M851.6,113.9v-.8c.2.1.5.2.7.3.2,0,.5,0,.7,0,.6,0,1.1-.2,1.4-.6.3-.4.5-1,.6-1.9-.2.3-.4.5-.7.6-.3.1-.6.2-.9.2-.7,0-1.2-.2-1.6-.6-.4-.4-.6-1-.6-1.7s.2-1.3.6-1.7c.4-.4,1-.6,1.7-.6s1.4.3,1.8.9c.4.6.6,1.5.6,2.7s-.3,1.9-.8,2.6c-.5.6-1.2,1-2.1,1s-.5,0-.7,0c-.2,0-.5-.1-.7-.2ZM853.4,111c.4,0,.7-.1,1-.4.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4s-.7.1-1,.4c-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4Z"/>
+          <path id="DejaVuSans-48-2" data-name="DejaVuSans-48" class="cls-5" d="M859.5,107.8c-.5,0-.8.2-1.1.7-.2.5-.4,1.2-.4,2.1s.1,1.6.4,2.1c.2.5.6.7,1.1.7s.8-.2,1.1-.7c.2-.5.4-1.2.4-2.1s-.1-1.7-.4-2.1c-.2-.5-.6-.7-1.1-.7ZM859.5,107.1c.8,0,1.4.3,1.8.9.4.6.6,1.5.6,2.7s-.2,2-.6,2.6c-.4.6-1,.9-1.8.9s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.2-2,.6-2.7c.4-.6,1-.9,1.8-.9Z"/>
+        </g>
+      </g>
+      <g id="text_55" data-name="text 55">
+        <path id="DejaVuSansMono-Bold-68-6" data-name="DejaVuSansMono-Bold-68" class="cls-5" d="M906.7,129.6v6.9h.6c.8,0,1.4-.3,1.8-.8.4-.5.5-1.4.5-2.7s-.2-2.1-.5-2.7c-.4-.5-1-.8-1.8-.8h-.6ZM904.5,127.7h2.3c1.8,0,3,.4,3.8,1.3.8.8,1.2,2.2,1.2,4.1s-.4,3.3-1.2,4.1c-.8.8-2,1.3-3.8,1.3h-2.3v-10.8Z"/>
+      </g>
+      <g id="text_56" data-name="text 56">
+        <path id="DejaVuSans-124-19" data-name="DejaVuSans-124" class="cls-5" d="M904.8,117.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_57" data-name="text 57">
+        <g>
+          <path id="DejaVuSans-57-3" data-name="DejaVuSans-57" class="cls-5" d="M904.2,113.9v-.8c.2.1.5.2.7.3.2,0,.5,0,.7,0,.6,0,1.1-.2,1.4-.6.3-.4.5-1,.6-1.9-.2.3-.4.5-.7.6-.3.1-.6.2-.9.2-.7,0-1.2-.2-1.6-.6-.4-.4-.6-1-.6-1.7s.2-1.3.6-1.7c.4-.4,1-.6,1.7-.6s1.4.3,1.8.9c.4.6.6,1.5.6,2.7s-.3,1.9-.8,2.6c-.5.6-1.2,1-2.1,1s-.5,0-.7,0c-.2,0-.5-.1-.7-.2ZM906,111c.4,0,.7-.1,1-.4.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4s-.7.1-1,.4c-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4Z"/>
+          <path id="DejaVuSans-51-4" data-name="DejaVuSans-51" class="cls-5" d="M912.9,110.3c.4,0,.8.3,1,.6.3.3.4.7.4,1.1,0,.7-.2,1.2-.7,1.6-.5.4-1.1.6-2,.6s-.6,0-.9,0c-.3,0-.6-.1-.9-.3v-.9c.3.2.5.3.8.3.3,0,.6.1,1,.1.6,0,1-.1,1.3-.3s.5-.6.5-1-.1-.7-.4-.9c-.3-.2-.7-.3-1.2-.3h-.8v-.8h.8c.5,0,.8,0,1-.3s.4-.4.4-.8-.1-.6-.4-.8c-.2-.2-.6-.3-1.1-.3s-.5,0-.8,0c-.3,0-.6.1-1,.3v-.8c.4,0,.7-.2,1-.2s.6,0,.9,0c.7,0,1.3.2,1.7.5.4.3.6.8.6,1.3s-.1.7-.3,1-.5.4-.9.5Z"/>
+        </g>
+      </g>
+      <g id="text_58" data-name="text 58">
+        <g>
+          <path id="DejaVuSansMono-Bold-80-5" data-name="DejaVuSansMono-Bold-80" class="cls-5" d="M924.4,129.5v3.2h.9c.7,0,1.2-.1,1.5-.4s.4-.6.4-1.2-.1-1-.4-1.2c-.3-.2-.8-.4-1.5-.4h-.9ZM922.3,127.7h2.9c1.5,0,2.6.3,3.2.8.7.5,1,1.4,1,2.6s-.3,2-1,2.6c-.7.5-1.7.8-3.2.8h-.8v4h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-86-8" data-name="DejaVuSansMono-Bold-86" class="cls-5" d="M943.3,136.7l1.9-9h2.1l-2.6,10.8h-2.9l-2.6-10.8h2.1l1.9,9Z"/>
+          <path id="DejaVuSansMono-Bold-89-3" data-name="DejaVuSansMono-Bold-89" class="cls-5" d="M956.7,127.7h2.3l2.1,4.3,2.1-4.3h2.3l-3.3,6.5v4.2h-2.1v-4.2l-3.3-6.5Z"/>
+        </g>
+      </g>
+      <g id="text_59" data-name="text 59">
+        <path id="DejaVuSans-124-20" data-name="DejaVuSans-124" class="cls-5" d="M922.3,117.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_60" data-name="text 60">
+        <g>
+          <path id="DejaVuSans-57-4" data-name="DejaVuSans-57" class="cls-5" d="M921.7,113.9v-.8c.2.1.5.2.7.3.2,0,.5,0,.7,0,.6,0,1.1-.2,1.4-.6.3-.4.5-1,.6-1.9-.2.3-.4.5-.7.6-.3.1-.6.2-.9.2-.7,0-1.2-.2-1.6-.6-.4-.4-.6-1-.6-1.7s.2-1.3.6-1.7c.4-.4,1-.6,1.7-.6s1.4.3,1.8.9c.4.6.6,1.5.6,2.7s-.3,1.9-.8,2.6c-.5.6-1.2,1-2.1,1s-.5,0-.7,0c-.2,0-.5-.1-.7-.2ZM923.5,111c.4,0,.7-.1,1-.4.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4s-.7.1-1,.4c-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4Z"/>
+          <path id="DejaVuSans-52-4" data-name="DejaVuSans-52" class="cls-5" d="M930.2,108l-2.3,3.7h2.3v-3.7ZM930,107.2h1.2v4.5h1v.8h-1v1.6h-.9v-1.6h-3.1v-.9l2.9-4.4Z"/>
+        </g>
+      </g>
+      <g id="text_61" data-name="text 61">
+        <path id="DejaVuSansMono-Bold-75-10" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M974.5,127.7h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+      </g>
+      <g id="text_62" data-name="text 62">
+        <path id="DejaVuSans-124-21" data-name="DejaVuSans-124" class="cls-5" d="M974.9,117.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_63" data-name="text 63">
+        <g>
+          <path id="DejaVuSans-57-5" data-name="DejaVuSans-57" class="cls-5" d="M974.3,113.9v-.8c.2.1.5.2.7.3.2,0,.5,0,.7,0,.6,0,1.1-.2,1.4-.6.3-.4.5-1,.6-1.9-.2.3-.4.5-.7.6-.3.1-.6.2-.9.2-.7,0-1.2-.2-1.6-.6-.4-.4-.6-1-.6-1.7s.2-1.3.6-1.7c.4-.4,1-.6,1.7-.6s1.4.3,1.8.9c.4.6.6,1.5.6,2.7s-.3,1.9-.8,2.6c-.5.6-1.2,1-2.1,1s-.5,0-.7,0c-.2,0-.5-.1-.7-.2ZM976.1,111c.4,0,.7-.1,1-.4.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4s-.7.1-1,.4c-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4Z"/>
+          <path id="DejaVuSans-55-4" data-name="DejaVuSans-55" class="cls-5" d="M980,107.2h4.4v.4l-2.5,6.5h-1l2.3-6.1h-3.3v-.8Z"/>
+        </g>
+      </g>
+      <g id="text_64" data-name="text 64">
+        <g>
+          <path id="DejaVuSansMono-Bold-86-9" data-name="DejaVuSansMono-Bold-86" class="cls-5" d="M995.6,136.7l1.9-9h2.1l-2.6,10.8h-2.9l-2.6-10.8h2.1l1.9,9Z"/>
+          <path id="DejaVuSansMono-Bold-75-11" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M1009.8,127.7h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+        </g>
+      </g>
+      <g id="text_65" data-name="text 65">
+        <path id="DejaVuSans-124-22" data-name="DejaVuSans-124" class="cls-5" d="M992.4,117.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_66" data-name="text 66">
+        <g>
+          <path id="DejaVuSans-57-6" data-name="DejaVuSans-57" class="cls-5" d="M991.8,113.9v-.8c.2.1.5.2.7.3.2,0,.5,0,.7,0,.6,0,1.1-.2,1.4-.6.3-.4.5-1,.6-1.9-.2.3-.4.5-.7.6-.3.1-.6.2-.9.2-.7,0-1.2-.2-1.6-.6-.4-.4-.6-1-.6-1.7s.2-1.3.6-1.7c.4-.4,1-.6,1.7-.6s1.4.3,1.8.9c.4.6.6,1.5.6,2.7s-.3,1.9-.8,2.6c-.5.6-1.2,1-2.1,1s-.5,0-.7,0c-.2,0-.5-.1-.7-.2ZM993.6,111c.4,0,.7-.1,1-.4.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4s-.7.1-1,.4c-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4Z"/>
+          <path id="DejaVuSans-56-5" data-name="DejaVuSans-56" class="cls-5" d="M999.7,110.8c-.4,0-.8.1-1,.4-.3.2-.4.6-.4,1s.1.7.4,1c.3.2.6.4,1,.4s.8-.1,1-.4c.3-.2.4-.6.4-1s-.1-.7-.4-1c-.3-.2-.6-.4-1-.4ZM998.8,110.4c-.4,0-.7-.3-.9-.6-.2-.3-.3-.6-.3-1s.2-1,.6-1.3c.4-.3.9-.5,1.6-.5s1.2.2,1.6.5.6.8.6,1.3-.1.7-.3,1c-.2.3-.5.5-.9.6.4.1.8.3,1,.6.3.3.4.7.4,1.1,0,.7-.2,1.2-.6,1.5-.4.4-1,.5-1.7.5s-1.3-.2-1.7-.5c-.4-.4-.6-.9-.6-1.5s.1-.8.4-1.1c.3-.3.6-.5,1-.6ZM998.5,108.9c0,.4.1.6.3.8.2.2.5.3.9.3s.7,0,.9-.3c.2-.2.3-.5.3-.8s-.1-.6-.3-.8c-.2-.2-.5-.3-.9-.3s-.7,0-.9.3c-.2.2-.3.5-.3.8Z"/>
+        </g>
+      </g>
+      <g id="text_67" data-name="text 67">
+        <path id="DejaVuSansMono-Bold-80-6" data-name="DejaVuSansMono-Bold-80" class="cls-5" d="M1029.5,129.5v3.2h.9c.7,0,1.2-.1,1.5-.4s.4-.6.4-1.2-.1-1-.4-1.2c-.3-.2-.8-.4-1.5-.4h-.9ZM1027.4,127.7h2.9c1.5,0,2.6.3,3.2.8.7.5,1,1.4,1,2.6s-.3,2-1,2.6c-.7.5-1.7.8-3.2.8h-.8v4h-2.1v-10.8Z"/>
+      </g>
+      <g id="text_68" data-name="text 68">
+        <path id="DejaVuSans-124-23" data-name="DejaVuSans-124" class="cls-5" d="M1027.5,117.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_69" data-name="text 69">
+        <g>
+          <path id="DejaVuSans-49-6" data-name="DejaVuSans-49" class="cls-5" d="M1027,113.3h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-48-3" data-name="DejaVuSans-48" class="cls-5" d="M1034.8,107.8c-.5,0-.8.2-1.1.7-.2.5-.4,1.2-.4,2.1s.1,1.6.4,2.1c.2.5.6.7,1.1.7s.8-.2,1.1-.7c.2-.5.4-1.2.4-2.1s-.1-1.7-.4-2.1c-.2-.5-.6-.7-1.1-.7ZM1034.8,107.1c.8,0,1.4.3,1.8.9.4.6.6,1.5.6,2.7s-.2,2-.6,2.6c-.4.6-1,.9-1.8.9s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.2-2,.6-2.7c.4-.6,1-.9,1.8-.9Z"/>
+          <path id="DejaVuSans-48-4" data-name="DejaVuSans-48" class="cls-5" d="M1040.8,107.8c-.5,0-.8.2-1.1.7-.2.5-.4,1.2-.4,2.1s.1,1.6.4,2.1c.2.5.6.7,1.1.7s.8-.2,1.1-.7c.2-.5.4-1.2.4-2.1s-.1-1.7-.4-2.1c-.2-.5-.6-.7-1.1-.7ZM1040.8,107.1c.8,0,1.4.3,1.8.9.4.6.6,1.5.6,2.7s-.2,2-.6,2.6c-.4.6-1,.9-1.8.9s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.2-2,.6-2.7c.4-.6,1-.9,1.8-.9Z"/>
+        </g>
+      </g>
+      <g id="text_70" data-name="text 70">
+        <g>
+          <path id="DejaVuSansMono-Bold-78-7" data-name="DejaVuSansMono-Bold-78" class="cls-5" d="M168.2,197.3h2.3l3,7.8v-7.8h1.9v10.8h-2.3l-3-7.8v7.8h-1.9v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-80-7" data-name="DejaVuSansMono-Bold-80" class="cls-5" d="M188.4,199.1v3.2h.9c.7,0,1.2-.1,1.5-.4s.4-.6.4-1.2-.1-1-.4-1.2c-.3-.2-.8-.4-1.5-.4h-.9ZM186.3,197.3h2.9c1.5,0,2.6.3,3.2.8.7.5,1,1.4,1,2.6s-.3,2-1,2.6c-.7.5-1.7.8-3.2.8h-.8v4h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-80-8" data-name="DejaVuSansMono-Bold-80" class="cls-5" d="M206.2,199.1v3.2h.9c.7,0,1.2-.1,1.5-.4s.4-.6.4-1.2-.1-1-.4-1.2c-.3-.2-.8-.4-1.5-.4h-.9ZM204.1,197.3h2.9c1.5,0,2.6.3,3.2.8.7.5,1,1.4,1,2.6s-.3,2-1,2.6c-.7.5-1.7.8-3.2.8h-.8v4h-2.1v-10.8Z"/>
+        </g>
+      </g>
+      <g id="text_71" data-name="text 71">
+        <path id="DejaVuSans-124-24" data-name="DejaVuSans-124" class="cls-5" d="M168.6,186.8v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_72" data-name="text 72">
+        <g>
+          <path id="DejaVuSans-49-7" data-name="DejaVuSans-49" class="cls-5" d="M168.1,182.9h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-48-5" data-name="DejaVuSans-48" class="cls-5" d="M175.9,177.5c-.5,0-.8.2-1.1.7-.2.5-.4,1.2-.4,2.1s.1,1.6.4,2.1c.2.5.6.7,1.1.7s.8-.2,1.1-.7c.2-.5.4-1.2.4-2.1s-.1-1.7-.4-2.1c-.2-.5-.6-.7-1.1-.7ZM175.9,176.7c.8,0,1.4.3,1.8.9.4.6.6,1.5.6,2.7s-.2,2-.6,2.6c-.4.6-1,.9-1.8.9s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.2-2,.6-2.7c.4-.6,1-.9,1.8-.9Z"/>
+          <path id="DejaVuSans-49-8" data-name="DejaVuSans-49" class="cls-5" d="M180.1,182.9h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+        </g>
+      </g>
+      <g id="text_73" data-name="text 73">
+        <g>
+          <path id="DejaVuSansMono-Bold-72-4" data-name="DejaVuSansMono-Bold-72" class="cls-5" d="M220.9,197.3h2.1v4.1h2.7v-4.1h2.1v10.8h-2.1v-4.8h-2.7v4.8h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-78-8" data-name="DejaVuSansMono-Bold-78" class="cls-5" d="M238.6,197.3h2.3l3,7.8v-7.8h1.9v10.8h-2.3l-3-7.8v7.8h-1.9v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-76-6" data-name="DejaVuSansMono-Bold-76" class="cls-5" d="M257.1,208.1v-10.8h2.1v8.9h4.5v1.9h-6.7Z"/>
+          <path id="DejaVuSansMono-Bold-83-6" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M277,203.4c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-86-10" data-name="DejaVuSansMono-Bold-86" class="cls-5" d="M295.5,206.3l1.9-9h2.1l-2.6,10.8h-2.9l-2.6-10.8h2.1l1.9,9Z"/>
+          <path id="DejaVuSansMono-Bold-73-4" data-name="DejaVuSansMono-Bold-73" class="cls-5" d="M310.1,199.2v-1.9h6.4v1.9h-2.1v7h2.1v1.9h-6.4v-1.9h2.1v-7h-2.1Z"/>
+        </g>
+      </g>
+      <g id="text_74" data-name="text 74">
+        <path id="DejaVuSans-124-25" data-name="DejaVuSans-124" class="cls-5" d="M221.2,186.8v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_75" data-name="text 75">
+        <g>
+          <path id="DejaVuSans-49-9" data-name="DejaVuSans-49" class="cls-5" d="M220.7,182.9h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-48-6" data-name="DejaVuSans-48" class="cls-5" d="M228.5,177.5c-.5,0-.8.2-1.1.7-.2.5-.4,1.2-.4,2.1s.1,1.6.4,2.1c.2.5.6.7,1.1.7s.8-.2,1.1-.7c.2-.5.4-1.2.4-2.1s-.1-1.7-.4-2.1c-.2-.5-.6-.7-1.1-.7ZM228.5,176.7c.8,0,1.4.3,1.8.9.4.6.6,1.5.6,2.7s-.2,2-.6,2.6c-.4.6-1,.9-1.8.9s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.2-2,.6-2.7c.4-.6,1-.9,1.8-.9Z"/>
+          <path id="DejaVuSans-52-5" data-name="DejaVuSans-52" class="cls-5" d="M235.1,177.6l-2.3,3.7h2.3v-3.7ZM234.8,176.8h1.2v4.5h1v.8h-1v1.6h-.9v-1.6h-3.1v-.9l2.9-4.4Z"/>
+        </g>
+      </g>
+      <g id="text_76" data-name="text 76">
+        <g>
+          <path id="DejaVuSansMono-Bold-78-9" data-name="DejaVuSansMono-Bold-78" class="cls-5" d="M326,197.3h2.3l3,7.8v-7.8h1.9v10.8h-2.3l-3-7.8v7.8h-1.9v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-83-7" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M346.6,203.4c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-48" class="cls-5" d="M364.2,202.7c0-.3,0-.5.3-.6.2-.2.4-.3.6-.3s.5,0,.6.3c.2.2.3.4.3.6s0,.5-.3.6c-.2.2-.4.3-.6.3s-.5,0-.6-.3c-.2-.2-.3-.4-.3-.6ZM365.1,198.9c-.5,0-.8.3-1.1.9-.2.6-.3,1.6-.3,2.9s.1,2.3.3,2.9c.2.6.6.9,1.1.9s.9-.3,1.1-.9c.2-.6.3-1.6.3-2.9s-.1-2.3-.3-2.9c-.2-.6-.6-.9-1.1-.9ZM361.6,202.7c0-1.9.3-3.3.9-4.2.6-.9,1.5-1.4,2.7-1.4s2.1.5,2.7,1.4c.6.9.9,2.3.9,4.2s-.3,3.3-.9,4.2c-.6.9-1.5,1.4-2.7,1.4s-2.1-.5-2.7-1.4c-.6-.9-.9-2.3-.9-4.2Z"/>
+          <path id="DejaVuSansMono-Bold-76-7" data-name="DejaVuSansMono-Bold-76" class="cls-5" d="M380.1,208.1v-10.8h2.1v8.9h4.5v1.9h-6.7Z"/>
+          <path id="DejaVuSansMono-Bold-83-8" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M399.9,203.4c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-83-9" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M417.7,203.4c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-73-5" data-name="DejaVuSansMono-Bold-73" class="cls-5" d="M433,199.2v-1.9h6.4v1.9h-2.1v7h2.1v1.9h-6.4v-1.9h2.1v-7h-2.1Z"/>
+        </g>
+      </g>
+      <g id="text_77" data-name="text 77">
+        <path id="DejaVuSans-124-26" data-name="DejaVuSans-124" class="cls-5" d="M326.3,186.8v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_78" data-name="text 78">
+        <g>
+          <path id="DejaVuSans-49-10" data-name="DejaVuSans-49" class="cls-5" d="M325.9,182.9h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-49-11" data-name="DejaVuSans-49" class="cls-5" d="M331.9,182.9h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-48-7" data-name="DejaVuSans-48" class="cls-5" d="M339.7,177.5c-.5,0-.8.2-1.1.7-.2.5-.4,1.2-.4,2.1s.1,1.6.4,2.1c.2.5.6.7,1.1.7s.8-.2,1.1-.7c.2-.5.4-1.2.4-2.1s-.1-1.7-.4-2.1c-.2-.5-.6-.7-1.1-.7ZM339.7,176.7c.8,0,1.4.3,1.8.9.4.6.6,1.5.6,2.7s-.2,2-.6,2.6c-.4.6-1,.9-1.8.9s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.2-2,.6-2.7c.4-.6,1-.9,1.8-.9Z"/>
+        </g>
+      </g>
+      <g id="text_79" data-name="text 79">
+        <g>
+          <path id="DejaVuSansMono-Bold-76-8" data-name="DejaVuSansMono-Bold-76" class="cls-5" d="M449.4,208.1v-10.8h2.1v8.9h4.5v1.9h-6.7Z"/>
+          <path id="DejaVuSansMono-Bold-75-12" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M466.4,197.3h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-76-9" data-name="DejaVuSansMono-Bold-76" class="cls-5" d="M485,208.1v-10.8h2.1v8.9h4.5v1.9h-6.7Z"/>
+          <path id="DejaVuSansMono-Bold-84-10" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M506.7,208.1h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+          <path id="DejaVuSansMono-Bold-87-4" data-name="DejaVuSansMono-Bold-87" class="cls-5" d="M518.9,197.3h1.9l.8,7.9.9-5.1h1.8l1.1,5.1.6-7.9h1.9l-1.2,10.8h-2l-1.2-5.7-1.1,5.7h-2l-1.3-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-84-11" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M542.2,208.1h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+        </g>
+      </g>
+      <g id="text_80" data-name="text 80">
+        <path id="DejaVuSans-124-27" data-name="DejaVuSans-124" class="cls-5" d="M449,186.8v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_81" data-name="text 81">
+        <g>
+          <path id="DejaVuSans-49-12" data-name="DejaVuSans-49" class="cls-5" d="M448.6,182.9h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-49-13" data-name="DejaVuSans-49" class="cls-5" d="M454.6,182.9h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-55-5" data-name="DejaVuSans-55" class="cls-5" d="M460.2,176.8h4.4v.4l-2.5,6.5h-1l2.3-6.1h-3.3v-.8Z"/>
+        </g>
+      </g>
+      <g id="text_82" data-name="text 82">
+        <g>
+          <path id="DejaVuSansMono-Bold-78-10" data-name="DejaVuSansMono-Bold-78" class="cls-5" d="M553.9,197.3h2.3l3,7.8v-7.8h1.9v10.8h-2.3l-3-7.8v7.8h-1.9v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-80-9" data-name="DejaVuSansMono-Bold-80" class="cls-5" d="M574.1,199.1v3.2h.9c.7,0,1.2-.1,1.5-.4s.4-.6.4-1.2-.1-1-.4-1.2c-.3-.2-.8-.4-1.5-.4h-.9ZM571.9,197.3h2.9c1.5,0,2.6.3,3.2.8.7.5,1,1.4,1,2.6s-.3,2-1,2.6c-.7.5-1.7.8-3.2.8h-.8v4h-2.1v-10.8Z"/>
+        </g>
+      </g>
+      <g id="text_83" data-name="text 83">
+        <path id="DejaVuSans-124-28" data-name="DejaVuSans-124" class="cls-5" d="M554.2,186.8v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_84" data-name="text 84">
+        <g>
+          <path id="DejaVuSans-49-14" data-name="DejaVuSans-49" class="cls-5" d="M553.7,182.9h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-50-5" data-name="DejaVuSans-50" class="cls-5" d="M560.4,182.9h3.2v.8h-4.4v-.8c.4-.4.8-.9,1.4-1.5.6-.6,1-1,1.1-1.2.3-.3.5-.6.6-.8.1-.2.2-.5.2-.7,0-.4-.1-.7-.4-.9-.3-.2-.6-.3-1-.3s-.6,0-.9.2c-.3.1-.7.3-1,.5v-.9c.4-.2.7-.3,1-.3.3,0,.6-.1.9-.1.7,0,1.3.2,1.7.5.4.4.6.8.6,1.4s0,.6-.2.8c-.1.3-.3.6-.6.9,0,0-.3.3-.7.8-.4.4-1,1-1.7,1.8Z"/>
+          <path id="DejaVuSans-51-5" data-name="DejaVuSans-51" class="cls-5" d="M568.4,180c.4,0,.8.3,1,.6.3.3.4.7.4,1.1,0,.7-.2,1.2-.7,1.6-.5.4-1.1.6-2,.6s-.6,0-.9,0c-.3,0-.6-.1-.9-.3v-.9c.3.2.5.3.8.3.3,0,.6.1,1,.1.6,0,1-.1,1.3-.3s.5-.6.5-1-.1-.7-.4-.9c-.3-.2-.7-.3-1.2-.3h-.8v-.8h.8c.5,0,.8,0,1-.3s.4-.4.4-.8-.1-.6-.4-.8c-.2-.2-.6-.3-1.1-.3s-.5,0-.8,0c-.3,0-.6.1-1,.3v-.8c.4,0,.7-.2,1-.2s.6,0,.9,0c.7,0,1.3.2,1.7.5.4.3.6.8.6,1.3s-.1.7-.3,1-.5.4-.9.5Z"/>
+        </g>
+      </g>
+      <g id="text_85" data-name="text 85">
+        <g>
+          <path id="DejaVuSansMono-Bold-83-10" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M591.7,203.4c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-73-6" data-name="DejaVuSansMono-Bold-73" class="cls-5" d="M607.1,199.2v-1.9h6.4v1.9h-2.1v7h2.1v1.9h-6.4v-1.9h2.1v-7h-2.1Z"/>
+          <path id="DejaVuSansMono-Bold-75-13" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M624.4,197.3h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-83-11" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M645.1,203.4c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+        </g>
+      </g>
+      <g id="text_86" data-name="text 86">
+        <path id="DejaVuSans-124-29" data-name="DejaVuSans-124" class="cls-5" d="M589.3,186.8v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_87" data-name="text 87">
+        <g>
+          <path id="DejaVuSans-49-15" data-name="DejaVuSans-49" class="cls-5" d="M588.8,182.9h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-50-6" data-name="DejaVuSans-50" class="cls-5" d="M595.4,182.9h3.2v.8h-4.4v-.8c.4-.4.8-.9,1.4-1.5.6-.6,1-1,1.1-1.2.3-.3.5-.6.6-.8.1-.2.2-.5.2-.7,0-.4-.1-.7-.4-.9-.3-.2-.6-.3-1-.3s-.6,0-.9.2c-.3.1-.7.3-1,.5v-.9c.4-.2.7-.3,1-.3.3,0,.6-.1.9-.1.7,0,1.3.2,1.7.5.4.4.6.8.6,1.4s0,.6-.2.8c-.1.3-.3.6-.6.9,0,0-.3.3-.7.8-.4.4-1,1-1.7,1.8Z"/>
+          <path id="DejaVuSans-53-6" data-name="DejaVuSans-53" class="cls-5" d="M600.6,176.8h3.6v.8h-2.8v1.7c.1,0,.3,0,.4-.1.1,0,.3,0,.4,0,.8,0,1.4.2,1.8.6.4.4.7,1,.7,1.7s-.2,1.3-.7,1.7c-.5.4-1.1.6-1.9.6s-.6,0-.9,0c-.3,0-.6-.1-.9-.2v-.9c.3.2.6.3.9.3s.6.1.9.1c.5,0,1-.1,1.3-.4.3-.3.5-.7.5-1.1s-.2-.9-.5-1.1c-.3-.3-.7-.4-1.3-.4s-.5,0-.7,0c-.2,0-.5.1-.8.3v-3.5Z"/>
+        </g>
+      </g>
+      <g id="text_88" data-name="text 88">
+        <g>
+          <path id="DejaVuSansMono-Bold-86-11" data-name="DejaVuSansMono-Bold-86" class="cls-5" d="M662.6,206.3l1.9-9h2.1l-2.6,10.8h-2.9l-2.6-10.8h2.1l1.9,9Z"/>
+          <path id="DejaVuSansMono-Bold-73-7" data-name="DejaVuSansMono-Bold-73" class="cls-5" d="M677.2,199.2v-1.9h6.4v1.9h-2.1v7h2.1v1.9h-6.4v-1.9h2.1v-7h-2.1Z"/>
+          <path id="DejaVuSansMono-Bold-73-8" data-name="DejaVuSansMono-Bold-73" class="cls-5" d="M695,199.2v-1.9h6.4v1.9h-2.1v7h2.1v1.9h-6.4v-1.9h2.1v-7h-2.1Z"/>
+        </g>
+      </g>
+      <g id="text_89" data-name="text 89">
+        <path id="DejaVuSans-124-30" data-name="DejaVuSans-124" class="cls-5" d="M659.4,186.8v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_90" data-name="text 90">
+        <g>
+          <path id="DejaVuSans-49-16" data-name="DejaVuSans-49" class="cls-5" d="M658.9,182.9h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-50-7" data-name="DejaVuSans-50" class="cls-5" d="M665.5,182.9h3.2v.8h-4.4v-.8c.4-.4.8-.9,1.4-1.5.6-.6,1-1,1.1-1.2.3-.3.5-.6.6-.8.1-.2.2-.5.2-.7,0-.4-.1-.7-.4-.9-.3-.2-.6-.3-1-.3s-.6,0-.9.2c-.3.1-.7.3-1,.5v-.9c.4-.2.7-.3,1-.3.3,0,.6-.1.9-.1.7,0,1.3.2,1.7.5.4.4.6.8.6,1.4s0,.6-.2.8c-.1.3-.3.6-.6.9,0,0-.3.3-.7.8-.4.4-1,1-1.7,1.8Z"/>
+          <path id="DejaVuSans-57-7" data-name="DejaVuSans-57" class="cls-5" d="M670.8,183.6v-.8c.2.1.5.2.7.3.2,0,.5,0,.7,0,.6,0,1.1-.2,1.4-.6.3-.4.5-1,.6-1.9-.2.3-.4.5-.7.6-.3.1-.6.2-.9.2-.7,0-1.2-.2-1.6-.6-.4-.4-.6-1-.6-1.7s.2-1.3.6-1.7c.4-.4,1-.6,1.7-.6s1.4.3,1.8.9c.4.6.6,1.5.6,2.7s-.3,1.9-.8,2.6c-.5.6-1.2,1-2.1,1s-.5,0-.7,0c-.2,0-.5-.1-.7-.2ZM672.6,180.7c.4,0,.7-.1,1-.4.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4s-.7.1-1,.4c-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4Z"/>
+        </g>
+      </g>
+      <g id="text_91" data-name="text 91">
+        <g>
+          <path id="DejaVuSansMono-Bold-76-10" data-name="DejaVuSansMono-Bold-76" class="cls-5" d="M712.4,208.1v-10.8h2.1v8.9h4.5v1.9h-6.7Z"/>
+          <path id="DejaVuSansMono-Bold-75-14" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M729.4,197.3h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-89-4" data-name="DejaVuSansMono-Bold-89" class="cls-5" d="M746.4,197.3h2.3l2.1,4.3,2.1-4.3h2.3l-3.3,6.5v4.2h-2.1v-4.2l-3.3-6.5Z"/>
+          <path id="DejaVuSansMono-Bold-78-11" data-name="DejaVuSansMono-Bold-78" class="cls-5" d="M764.9,197.3h2.3l3,7.8v-7.8h1.9v10.8h-2.3l-3-7.8v7.8h-1.9v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-73-9" data-name="DejaVuSansMono-Bold-73" class="cls-5" d="M783.1,199.2v-1.9h6.4v1.9h-2.1v7h2.1v1.9h-6.4v-1.9h2.1v-7h-2.1Z"/>
+          <path id="DejaVuSansMono-Bold-81" class="cls-5" d="M804.4,208.3c0,0-.1,0-.2,0,0,0,0,0-.1,0-1.2,0-2.2-.5-2.8-1.4-.6-.9-1-2.3-1-4.2s.3-3.2,1-4.2c.6-.9,1.6-1.4,2.8-1.4s2.2.5,2.8,1.4c.6.9,1,2.3,1,4.2s-.2,2.3-.5,3.2c-.3.9-.7,1.5-1.3,1.8l1.3,1.3-1.5,1.1-1.6-1.9ZM804.1,199c-.5,0-.9.3-1.2.9-.2.6-.4,1.5-.4,2.8s.1,2.2.4,2.8c.3.6.6.9,1.2.9s.9-.3,1.2-.9c.3-.6.4-1.5.4-2.8s-.1-2.2-.4-2.8c-.2-.6-.6-.9-1.2-.9Z"/>
+          <path id="DejaVuSansMono-Bold-89-5" data-name="DejaVuSansMono-Bold-89" class="cls-5" d="M817.5,197.3h2.3l2.1,4.3,2.1-4.3h2.3l-3.3,6.5v4.2h-2.1v-4.2l-3.3-6.5Z"/>
+          <path id="DejaVuSansMono-Bold-82-4" data-name="DejaVuSansMono-Bold-82" class="cls-5" d="M841,203c.2,0,.4.1.6.3.2.2.3.5.6.9l1.9,3.9h-2.3l-1.3-2.7c0,0,0-.2-.1-.3-.4-.8-.8-1.2-1.3-1.2h-.7v4.3h-2.1v-10.8h3.1c1.4,0,2.4.2,3,.7s.9,1.3.9,2.4-.2,1.3-.5,1.8c-.4.4-.9.7-1.6.8ZM838.3,199.1v2.9h1c.6,0,1-.1,1.3-.3.3-.2.4-.6.4-1.1s-.1-.9-.4-1.1c-.2-.2-.7-.3-1.3-.3h-1Z"/>
+          <path id="DejaVuSansMono-Bold-84-12" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M858.5,208.1h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+        </g>
+      </g>
+      <g id="text_92" data-name="text 92">
+        <path id="DejaVuSans-124-31" data-name="DejaVuSans-124" class="cls-5" d="M712,186.8v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_93" data-name="text 93">
+        <g>
+          <path id="DejaVuSans-49-17" data-name="DejaVuSans-49" class="cls-5" d="M711.5,182.9h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-51-6" data-name="DejaVuSans-51" class="cls-5" d="M720.1,180c.4,0,.8.3,1,.6.3.3.4.7.4,1.1,0,.7-.2,1.2-.7,1.6-.5.4-1.1.6-2,.6s-.6,0-.9,0c-.3,0-.6-.1-.9-.3v-.9c.3.2.5.3.8.3.3,0,.6.1,1,.1.6,0,1-.1,1.3-.3s.5-.6.5-1-.1-.7-.4-.9c-.3-.2-.7-.3-1.2-.3h-.8v-.8h.8c.5,0,.8,0,1-.3s.4-.4.4-.8-.1-.6-.4-.8c-.2-.2-.6-.3-1.1-.3s-.5,0-.8,0c-.3,0-.6.1-1,.3v-.8c.4,0,.7-.2,1-.2s.6,0,.9,0c.7,0,1.3.2,1.7.5.4.3.6.8.6,1.3s-.1.7-.3,1-.5.4-.9.5Z"/>
+          <path id="DejaVuSans-50-8" data-name="DejaVuSans-50" class="cls-5" d="M724.1,182.9h3.2v.8h-4.4v-.8c.4-.4.8-.9,1.4-1.5.6-.6,1-1,1.1-1.2.3-.3.5-.6.6-.8.1-.2.2-.5.2-.7,0-.4-.1-.7-.4-.9-.3-.2-.6-.3-1-.3s-.6,0-.9.2c-.3.1-.7.3-1,.5v-.9c.4-.2.7-.3,1-.3.3,0,.6-.1.9-.1.7,0,1.3.2,1.7.5.4.4.6.8.6,1.4s0,.6-.2.8c-.1.3-.3.6-.6.9,0,0-.3.3-.7.8-.4.4-1,1-1.7,1.8Z"/>
+        </g>
+      </g>
+      <g id="text_94" data-name="text 94">
+        <g>
+          <path id="DejaVuSansMono-Bold-75-15" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M869.3,197.3h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-68-7" data-name="DejaVuSansMono-Bold-68" class="cls-5" d="M889.4,199.2v6.9h.6c.8,0,1.4-.3,1.8-.8.4-.5.5-1.4.5-2.7s-.2-2.1-.5-2.7c-.4-.5-1-.8-1.8-.8h-.6ZM887.3,197.3h2.3c1.8,0,3,.4,3.8,1.3.8.8,1.2,2.2,1.2,4.1s-.4,3.3-1.2,4.1c-.8.8-2,1.3-3.8,1.3h-2.3v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-65-6" data-name="DejaVuSansMono-Bold-65" class="cls-5" d="M908.5,199.3l-1,4.4h2l-1-4.4ZM907.2,197.3h2.6l2.9,10.8h-2.1l-.7-2.7h-2.8l-.6,2.7h-2.1l2.9-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-83-12" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M925.5,203.4c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-84-13" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M945.1,208.1h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+          <path id="DejaVuSansMono-Bold-87-5" data-name="DejaVuSansMono-Bold-87" class="cls-5" d="M957.4,197.3h1.9l.8,7.9.9-5.1h1.8l1.1,5.1.6-7.9h1.9l-1.2,10.8h-2l-1.2-5.7-1.1,5.7h-2l-1.3-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-83-13" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M978.8,203.4c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+        </g>
+      </g>
+      <g id="text_95" data-name="text 95">
+        <path id="DejaVuSans-124-32" data-name="DejaVuSans-124" class="cls-5" d="M869.7,186.8v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_96" data-name="text 96">
+        <g>
+          <path id="DejaVuSans-49-18" data-name="DejaVuSans-49" class="cls-5" d="M869.2,182.9h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-52-6" data-name="DejaVuSans-52" class="cls-5" d="M877.6,177.6l-2.3,3.7h2.3v-3.7ZM877.4,176.8h1.2v4.5h1v.8h-1v1.6h-.9v-1.6h-3.1v-.9l2.9-4.4Z"/>
+          <path id="DejaVuSans-49-19" data-name="DejaVuSans-49" class="cls-5" d="M881.2,182.9h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+        </g>
+      </g>
+      <g id="text_97" data-name="text 97">
+        <path id="DejaVuSansMono-Bold-81-2" data-name="DejaVuSansMono-Bold-81" class="cls-5" d="M995.9,208.3c0,0-.1,0-.2,0,0,0,0,0-.1,0-1.2,0-2.2-.5-2.8-1.4-.6-.9-1-2.3-1-4.2s.3-3.2,1-4.2c.6-.9,1.6-1.4,2.8-1.4s2.2.5,2.8,1.4c.6.9,1,2.3,1,4.2s-.2,2.3-.5,3.2c-.3.9-.7,1.5-1.3,1.8l1.3,1.3-1.5,1.1-1.6-1.9ZM995.6,199c-.5,0-.9.3-1.2.9-.2.6-.4,1.5-.4,2.8s.1,2.2.4,2.8c.3.6.6.9,1.2.9s.9-.3,1.2-.9c.3-.6.4-1.5.4-2.8s-.1-2.2-.4-2.8c-.2-.6-.6-.9-1.2-.9Z"/>
+      </g>
+      <g id="text_98" data-name="text 98">
+        <path id="DejaVuSans-124-33" data-name="DejaVuSans-124" class="cls-5" d="M992.4,186.8v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_99" data-name="text 99">
+        <g>
+          <path id="DejaVuSans-49-20" data-name="DejaVuSans-49" class="cls-5" d="M991.9,182.9h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-52-7" data-name="DejaVuSans-52" class="cls-5" d="M1000.3,177.6l-2.3,3.7h2.3v-3.7ZM1000.1,176.8h1.2v4.5h1v.8h-1v1.6h-.9v-1.6h-3.1v-.9l2.9-4.4Z"/>
+          <path id="DejaVuSans-56-6" data-name="DejaVuSans-56" class="cls-5" d="M1005.7,180.4c-.4,0-.8.1-1,.4-.3.2-.4.6-.4,1s.1.7.4,1c.3.2.6.4,1,.4s.8-.1,1-.4c.3-.2.4-.6.4-1s-.1-.7-.4-1c-.3-.2-.6-.4-1-.4ZM1004.8,180.1c-.4,0-.7-.3-.9-.6-.2-.3-.3-.6-.3-1s.2-1,.6-1.3c.4-.3.9-.5,1.6-.5s1.2.2,1.6.5.6.8.6,1.3-.1.7-.3,1c-.2.3-.5.5-.9.6.4.1.8.3,1,.6.3.3.4.7.4,1.1,0,.7-.2,1.2-.6,1.5-.4.4-1,.5-1.7.5s-1.3-.2-1.7-.5c-.4-.4-.6-.9-.6-1.5s.1-.8.4-1.1c.3-.3.6-.5,1-.6ZM1004.5,178.6c0,.4.1.6.3.8.2.2.5.3.9.3s.7,0,.9-.3c.2-.2.3-.5.3-.8s-.1-.6-.3-.8c-.2-.2-.5-.3-.9-.3s-.7,0-.9.3c-.2.2-.3.5-.3.8Z"/>
+        </g>
+      </g>
+      <g id="text_100" data-name="text 100">
+        <g>
+          <path id="DejaVuSansMono-Bold-73-10" data-name="DejaVuSansMono-Bold-73" class="cls-5" d="M1010,199.2v-1.9h6.4v1.9h-2.1v7h2.1v1.9h-6.4v-1.9h2.1v-7h-2.1Z"/>
+          <path id="DejaVuSansMono-Bold-80-10" data-name="DejaVuSansMono-Bold-80" class="cls-5" d="M1029.8,199.1v3.2h.9c.7,0,1.2-.1,1.5-.4s.4-.6.4-1.2-.1-1-.4-1.2c-.3-.2-.8-.4-1.5-.4h-.9ZM1027.7,197.3h2.9c1.5,0,2.6.3,3.2.8.7.5,1,1.4,1,2.6s-.3,2-1,2.6c-.7.5-1.7.8-3.2.8h-.8v4h-2.1v-10.8Z"/>
+        </g>
+      </g>
+      <g id="text_101" data-name="text 101">
+        <path id="DejaVuSans-124-34" data-name="DejaVuSans-124" class="cls-5" d="M1009.9,186.8v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_102" data-name="text 102">
+        <g>
+          <path id="DejaVuSans-49-21" data-name="DejaVuSans-49" class="cls-5" d="M1009.5,182.9h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-52-8" data-name="DejaVuSans-52" class="cls-5" d="M1017.8,177.6l-2.3,3.7h2.3v-3.7ZM1017.6,176.8h1.2v4.5h1v.8h-1v1.6h-.9v-1.6h-3.1v-.9l2.9-4.4Z"/>
+          <path id="DejaVuSans-57-8" data-name="DejaVuSans-57" class="cls-5" d="M1021.3,183.6v-.8c.2.1.5.2.7.3.2,0,.5,0,.7,0,.6,0,1.1-.2,1.4-.6.3-.4.5-1,.6-1.9-.2.3-.4.5-.7.6-.3.1-.6.2-.9.2-.7,0-1.2-.2-1.6-.6-.4-.4-.6-1-.6-1.7s.2-1.3.6-1.7c.4-.4,1-.6,1.7-.6s1.4.3,1.8.9c.4.6.6,1.5.6,2.7s-.3,1.9-.8,2.6c-.5.6-1.2,1-2.1,1s-.5,0-.7,0c-.2,0-.5-.1-.7-.2ZM1023.2,180.7c.4,0,.7-.1,1-.4.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4s-.7.1-1,.4c-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4Z"/>
+        </g>
+      </g>
+      <g id="text_103" data-name="text 103">
+        <g>
+          <path id="DejaVuSansMono-Bold-80-11" data-name="DejaVuSansMono-Bold-80" class="cls-5" d="M170.7,268.8v3.2h.9c.7,0,1.2-.1,1.5-.4s.4-.6.4-1.2-.1-1-.4-1.2c-.3-.2-.8-.4-1.5-.4h-.9ZM168.5,267h2.9c1.5,0,2.6.3,3.2.8.7.5,1,1.4,1,2.6s-.3,2-1,2.6c-.7.5-1.7.8-3.2.8h-.8v4h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-69-10" data-name="DejaVuSansMono-Bold-69" class="cls-5" d="M193.1,277.8h-6.7v-10.8h6.7v1.9h-4.6v2.3h4.1v1.9h-4.1v2.8h4.6v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-68-8" data-name="DejaVuSansMono-Bold-68" class="cls-5" d="M206,268.9v6.9h.6c.8,0,1.4-.3,1.8-.8.4-.5.5-1.4.5-2.7s-.2-2.1-.5-2.7c-.4-.5-1-.8-1.8-.8h-.6ZM203.9,267h2.3c1.8,0,3,.4,3.8,1.3.8.8,1.2,2.2,1.2,4.1s-.4,3.3-1.2,4.1c-.8.8-2,1.3-3.8,1.3h-2.3v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-84-14" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M226.2,277.8h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+        </g>
+      </g>
+      <g id="text_104" data-name="text 104">
+        <path id="DejaVuSans-124-35" data-name="DejaVuSans-124" class="cls-5" d="M168.6,256.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_105" data-name="text 105">
+        <g>
+          <path id="DejaVuSans-49-22" data-name="DejaVuSans-49" class="cls-5" d="M168.1,252.6h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-53-7" data-name="DejaVuSans-53" class="cls-5" d="M173.9,246.5h3.6v.8h-2.8v1.7c.1,0,.3,0,.4-.1.1,0,.3,0,.4,0,.8,0,1.4.2,1.8.6.4.4.7,1,.7,1.7s-.2,1.3-.7,1.7c-.5.4-1.1.6-1.9.6s-.6,0-.9,0c-.3,0-.6-.1-.9-.2v-.9c.3.2.6.3.9.3s.6.1.9.1c.5,0,1-.1,1.3-.4.3-.3.5-.7.5-1.1s-.2-.9-.5-1.1c-.3-.3-.7-.4-1.3-.4s-.5,0-.7,0c-.2,0-.5.1-.8.3v-3.5Z"/>
+          <path id="DejaVuSans-49-23" data-name="DejaVuSans-49" class="cls-5" d="M180.1,252.6h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+        </g>
+      </g>
+      <g id="text_106" data-name="text 106">
+        <g>
+          <path id="DejaVuSansMono-Bold-65-7" data-name="DejaVuSansMono-Bold-65" class="cls-5" d="M241.9,268.9l-1,4.4h2l-1-4.4ZM240.6,267h2.6l2.9,10.8h-2.1l-.7-2.7h-2.8l-.6,2.7h-2.1l2.9-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-83-14" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M258.9,273c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-84-15" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M278.6,277.8h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+          <path id="DejaVuSansMono-Bold-82-5" data-name="DejaVuSansMono-Bold-82" class="cls-5" d="M296.6,272.7c.2,0,.4.1.6.3.2.2.3.5.6.9l1.9,3.9h-2.3l-1.3-2.7c0,0,0-.2-.1-.3-.4-.8-.8-1.2-1.3-1.2h-.7v4.3h-2.1v-10.8h3.1c1.4,0,2.4.2,3,.7s.9,1.3.9,2.4-.2,1.3-.5,1.8c-.4.4-.9.7-1.6.8ZM293.9,268.8v2.9h1c.6,0,1-.1,1.3-.3.3-.2.4-.6.4-1.1s-.1-.9-.4-1.1c-.2-.2-.7-.3-1.3-.3h-1Z"/>
+          <path id="DejaVuSansMono-Bold-83-15" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M312.3,273c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+        </g>
+      </g>
+      <g id="text_107" data-name="text 107">
+        <path id="DejaVuSans-124-36" data-name="DejaVuSans-124" class="cls-5" d="M238.7,256.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_108" data-name="text 108">
+        <g>
+          <path id="DejaVuSans-49-24" data-name="DejaVuSans-49" class="cls-5" d="M238.2,252.6h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-53-8" data-name="DejaVuSans-53" class="cls-5" d="M244.1,246.5h3.6v.8h-2.8v1.7c.1,0,.3,0,.4-.1.1,0,.3,0,.4,0,.8,0,1.4.2,1.8.6.4.4.7,1,.7,1.7s-.2,1.3-.7,1.7c-.5.4-1.1.6-1.9.6s-.6,0-.9,0c-.3,0-.6-.1-.9-.2v-.9c.3.2.6.3.9.3s.6.1.9.1c.5,0,1-.1,1.3-.4.3-.3.5-.7.5-1.1s-.2-.9-.5-1.1c-.3-.3-.7-.4-1.3-.4s-.5,0-.7,0c-.2,0-.5.1-.8.3v-3.5Z"/>
+          <path id="DejaVuSans-53-9" data-name="DejaVuSans-53" class="cls-5" d="M250.1,246.5h3.6v.8h-2.8v1.7c.1,0,.3,0,.4-.1.1,0,.3,0,.4,0,.8,0,1.4.2,1.8.6.4.4.7,1,.7,1.7s-.2,1.3-.7,1.7c-.5.4-1.1.6-1.9.6s-.6,0-.9,0c-.3,0-.6-.1-.9-.2v-.9c.3.2.6.3.9.3s.6.1.9.1c.5,0,1-.1,1.3-.4.3-.3.5-.7.5-1.1s-.2-.9-.5-1.1c-.3-.3-.7-.4-1.3-.4s-.5,0-.7,0c-.2,0-.5.1-.8.3v-3.5Z"/>
+        </g>
+      </g>
+      <g id="text_109" data-name="text 109">
+        <g>
+          <path id="DejaVuSansMono-Bold-83-16" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M328.8,273c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-70-5" data-name="DejaVuSansMono-Bold-70" class="cls-5" d="M350.9,268.9h-4.6v2.3h4.2v1.9h-4.2v4.7h-2.1v-10.8h6.7v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-84-16" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M366.2,277.8h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+          <path id="DejaVuSansMono-Bold-86-12" data-name="DejaVuSansMono-Bold-86" class="cls-5" d="M382.9,276l1.9-9h2.1l-2.6,10.8h-2.9l-2.6-10.8h2.1l1.9,9Z"/>
+        </g>
+      </g>
+      <g id="text_110" data-name="text 110">
+        <path id="DejaVuSans-124-37" data-name="DejaVuSans-124" class="cls-5" d="M326.3,256.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_111" data-name="text 111">
+        <g>
+          <path id="DejaVuSans-49-25" data-name="DejaVuSans-49" class="cls-5" d="M325.9,252.6h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-54-4" data-name="DejaVuSans-54" class="cls-5" d="M333.8,249.6c-.4,0-.7.1-1,.4-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4s.7-.1,1-.4c.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4ZM335.6,246.7v.8c-.2-.1-.5-.2-.7-.3-.2,0-.5,0-.7,0-.6,0-1.1.2-1.4.6-.3.4-.5,1-.6,1.9.2-.3.4-.5.7-.6.3-.1.6-.2.9-.2.7,0,1.2.2,1.6.6.4.4.6,1,.6,1.7s-.2,1.3-.6,1.7c-.4.4-1,.6-1.7.6s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.3-2,.8-2.6c.5-.6,1.2-1,2.1-1s.5,0,.7,0,.5.1.7.2Z"/>
+          <path id="DejaVuSans-48-8" data-name="DejaVuSans-48" class="cls-5" d="M339.7,247.1c-.5,0-.8.2-1.1.7-.2.5-.4,1.2-.4,2.1s.1,1.6.4,2.1c.2.5.6.7,1.1.7s.8-.2,1.1-.7c.2-.5.4-1.2.4-2.1s-.1-1.7-.4-2.1c-.2-.5-.6-.7-1.1-.7ZM339.7,246.4c.8,0,1.4.3,1.8.9.4.6.6,1.5.6,2.7s-.2,2-.6,2.6c-.4.6-1,.9-1.8.9s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.2-2,.6-2.7c.4-.6,1-.9,1.8-.9Z"/>
+        </g>
+      </g>
+      <g id="text_112" data-name="text 112">
+        <g>
+          <path id="DejaVuSansMono-Bold-81-3" data-name="DejaVuSansMono-Bold-81" class="cls-5" d="M400,277.9c0,0-.1,0-.2,0,0,0,0,0-.1,0-1.2,0-2.2-.5-2.8-1.4-.6-.9-1-2.3-1-4.2s.3-3.2,1-4.2c.6-.9,1.6-1.4,2.8-1.4s2.2.5,2.8,1.4c.6.9,1,2.3,1,4.2s-.2,2.3-.5,3.2c-.3.9-.7,1.5-1.3,1.8l1.3,1.3-1.5,1.1-1.6-1.9ZM399.7,268.7c-.5,0-.9.3-1.2.9-.2.6-.4,1.5-.4,2.8s.1,2.2.4,2.8c.3.6.6.9,1.2.9s.9-.3,1.2-.9c.3-.6.4-1.5.4-2.8s-.1-2.2-.4-2.8c-.2-.6-.6-.9-1.2-.9Z"/>
+          <path id="DejaVuSansMono-Bold-68-9" data-name="DejaVuSansMono-Bold-68" class="cls-5" d="M416.1,268.9v6.9h.6c.8,0,1.4-.3,1.8-.8.4-.5.5-1.4.5-2.7s-.2-2.1-.5-2.7c-.4-.5-1-.8-1.8-.8h-.6ZM414,267h2.3c1.8,0,3,.4,3.8,1.3.8.8,1.2,2.2,1.2,4.1s-.4,3.3-1.2,4.1c-.8.8-2,1.3-3.8,1.3h-2.3v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-76-11" data-name="DejaVuSansMono-Bold-76" class="cls-5" d="M432.4,277.8v-10.8h2.1v8.9h4.5v1.9h-6.7Z"/>
+          <path id="DejaVuSansMono-Bold-75-16" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M449.4,267h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-80-12" data-name="DejaVuSansMono-Bold-80" class="cls-5" d="M469.6,268.8v3.2h.9c.7,0,1.2-.1,1.5-.4s.4-.6.4-1.2-.1-1-.4-1.2c-.3-.2-.8-.4-1.5-.4h-.9ZM467.5,267h2.9c1.5,0,2.6.3,3.2.8.7.5,1,1.4,1,2.6s-.3,2-1,2.6c-.7.5-1.7.8-3.2.8h-.8v4h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-70-6" data-name="DejaVuSansMono-Bold-70" class="cls-5" d="M492.1,268.9h-4.6v2.3h4.2v1.9h-4.2v4.7h-2.1v-10.8h6.7v1.9Z"/>
+        </g>
+      </g>
+      <g id="text_113" data-name="text 113">
+        <path id="DejaVuSans-124-38" data-name="DejaVuSans-124" class="cls-5" d="M396.5,256.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_114" data-name="text 114">
+        <g>
+          <path id="DejaVuSans-49-26" data-name="DejaVuSans-49" class="cls-5" d="M396,252.6h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-54-5" data-name="DejaVuSans-54" class="cls-5" d="M403.9,249.6c-.4,0-.7.1-1,.4-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4s.7-.1,1-.4c.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4ZM405.8,246.7v.8c-.2-.1-.5-.2-.7-.3-.2,0-.5,0-.7,0-.6,0-1.1.2-1.4.6-.3.4-.5,1-.6,1.9.2-.3.4-.5.7-.6.3-.1.6-.2.9-.2.7,0,1.2.2,1.6.6.4.4.6,1,.6,1.7s-.2,1.3-.6,1.7c-.4.4-1,.6-1.7.6s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.3-2,.8-2.6c.5-.6,1.2-1,2.1-1s.5,0,.7,0,.5.1.7.2Z"/>
+          <path id="DejaVuSans-52-9" data-name="DejaVuSans-52" class="cls-5" d="M410.4,247.3l-2.3,3.7h2.3v-3.7ZM410.1,246.5h1.2v4.5h1v.8h-1v1.6h-.9v-1.6h-3.1v-.9l2.9-4.4Z"/>
+        </g>
+      </g>
+      <g id="text_115" data-name="text 115">
+        <g>
+          <path id="DejaVuSansMono-Bold-84-17" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M505.9,277.8h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+          <path id="DejaVuSansMono-Bold-69-11" data-name="DejaVuSansMono-Bold-69" class="cls-5" d="M526.1,277.8h-6.7v-10.8h6.7v1.9h-4.6v2.3h4.1v1.9h-4.1v2.8h4.6v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-89-6" data-name="DejaVuSansMono-Bold-89" class="cls-5" d="M536,267h2.3l2.1,4.3,2.1-4.3h2.3l-3.3,6.5v4.2h-2.1v-4.2l-3.3-6.5Z"/>
+          <path id="DejaVuSansMono-Bold-86-13" data-name="DejaVuSansMono-Bold-86" class="cls-5" d="M558.2,276l1.9-9h2.1l-2.6,10.8h-2.9l-2.6-10.8h2.1l1.9,9Z"/>
+          <path id="DejaVuSansMono-Bold-70-7" data-name="DejaVuSansMono-Bold-70" class="cls-5" d="M579.5,268.9h-4.6v2.3h4.2v1.9h-4.2v4.7h-2.1v-10.8h6.7v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-82-6" data-name="DejaVuSansMono-Bold-82" class="cls-5" d="M595.1,272.7c.2,0,.4.1.6.3.2.2.3.5.6.9l1.9,3.9h-2.3l-1.3-2.7c0,0,0-.2-.1-.3-.4-.8-.8-1.2-1.3-1.2h-.7v4.3h-2.1v-10.8h3.1c1.4,0,2.4.2,3,.7s.9,1.3.9,2.4-.2,1.3-.5,1.8c-.4.4-.9.7-1.6.8ZM592.4,268.8v2.9h1c.6,0,1-.1,1.3-.3.3-.2.4-.6.4-1.1s-.1-.9-.4-1.1c-.2-.2-.7-.3-1.3-.3h-1Z"/>
+          <path id="DejaVuSansMono-Bold-73-11" data-name="DejaVuSansMono-Bold-73" class="cls-5" d="M608.3,268.9v-1.9h6.4v1.9h-2.1v7h2.1v1.9h-6.4v-1.9h2.1v-7h-2.1Z"/>
+          <path id="DejaVuSansMono-Bold-82-7" data-name="DejaVuSansMono-Bold-82" class="cls-5" d="M630.7,272.7c.2,0,.4.1.6.3.2.2.3.5.6.9l1.9,3.9h-2.3l-1.3-2.7c0,0,0-.2-.1-.3-.4-.8-.8-1.2-1.3-1.2h-.7v4.3h-2.1v-10.8h3.1c1.4,0,2.4.2,3,.7s.9,1.3.9,2.4-.2,1.3-.5,1.8c-.4.4-.9.7-1.6.8ZM627.9,268.8v2.9h1c.6,0,1-.1,1.3-.3.3-.2.4-.6.4-1.1s-.1-.9-.4-1.1c-.2-.2-.7-.3-1.3-.3h-1Z"/>
+          <path id="DejaVuSansMono-Bold-67-5" data-name="DejaVuSansMono-Bold-67" class="cls-5" d="M650.4,277.4c-.3.2-.7.3-1.1.4-.4,0-.8.1-1.2.1-1.5,0-2.6-.5-3.3-1.4-.8-1-1.1-2.3-1.1-4.1s.4-3.2,1.1-4.2c.8-1,1.9-1.4,3.3-1.4s.8,0,1.2.1.7.2,1.1.4v2.4c-.4-.3-.7-.6-1.1-.7-.3-.2-.7-.2-1.1-.2-.8,0-1.4.3-1.8.9-.4.6-.6,1.5-.6,2.7s.2,2.1.6,2.7c.4.6,1,.9,1.8.9s.7,0,1.1-.2c.3-.2.7-.4,1.1-.7v2.4Z"/>
+          <path id="DejaVuSansMono-Bold-77-2" data-name="DejaVuSansMono-Bold-77" class="cls-5" d="M661,267h2.5l1.3,4.7,1.3-4.7h2.6v10.8h-1.8v-8.6l-1.1,4.7h-1.7l-1.2-4.7v8.6h-1.8v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-75-17" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M679,267h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+        </g>
+      </g>
+      <g id="text_116" data-name="text 116">
+        <path id="DejaVuSans-124-39" data-name="DejaVuSans-124" class="cls-5" d="M501.6,256.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_117" data-name="text 117">
+        <g>
+          <path id="DejaVuSans-49-27" data-name="DejaVuSans-49" class="cls-5" d="M501.1,252.6h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-55-6" data-name="DejaVuSans-55" class="cls-5" d="M506.7,246.5h4.4v.4l-2.5,6.5h-1l2.3-6.1h-3.3v-.8Z"/>
+          <path id="DejaVuSans-48-9" data-name="DejaVuSans-48" class="cls-5" d="M515,247.1c-.5,0-.8.2-1.1.7-.2.5-.4,1.2-.4,2.1s.1,1.6.4,2.1c.2.5.6.7,1.1.7s.8-.2,1.1-.7c.2-.5.4-1.2.4-2.1s-.1-1.7-.4-2.1c-.2-.5-.6-.7-1.1-.7ZM515,246.4c.8,0,1.4.3,1.8.9.4.6.6,1.5.6,2.7s-.2,2-.6,2.6c-.4.6-1,.9-1.8.9s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.2-2,.6-2.7c.4-.6,1-.9,1.8-.9Z"/>
+        </g>
+      </g>
+      <g id="text_118" data-name="text 118">
+        <g>
+          <path id="DejaVuSansMono-Bold-69-12" data-name="DejaVuSansMono-Bold-69" class="cls-5" d="M701.1,277.8h-6.7v-10.8h6.7v1.9h-4.6v2.3h4.1v1.9h-4.1v2.8h4.6v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-68-10" data-name="DejaVuSansMono-Bold-68" class="cls-5" d="M714.1,268.9v6.9h.6c.8,0,1.4-.3,1.8-.8.4-.5.5-1.4.5-2.7s-.2-2.1-.5-2.7c-.4-.5-1-.8-1.8-.8h-.6ZM712,267h2.3c1.8,0,3,.4,3.8,1.3.8.8,1.2,2.2,1.2,4.1s-.4,3.3-1.2,4.1c-.8.8-2,1.3-3.8,1.3h-2.3v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-71-6" data-name="DejaVuSansMono-Bold-71" class="cls-5" d="M735.1,275.8v-2.1h-1.5v-1.8h3.3v4.9c-.4.4-.9.6-1.4.8-.5.2-1,.3-1.6.3-1.4,0-2.5-.5-3.2-1.5-.8-1-1.1-2.3-1.1-4.1s.4-3.2,1.1-4.2c.8-1,1.9-1.4,3.3-1.4s.9,0,1.3.2c.4.1.8.3,1.2.5v2.4c-.3-.4-.6-.7-1-.9-.4-.2-.8-.3-1.3-.3-.8,0-1.4.3-1.8.9-.4.6-.6,1.5-.6,2.8s.2,2.1.6,2.7c.4.6.9.9,1.7.9s.4,0,.6,0c.2,0,.3-.1.4-.2Z"/>
+          <path id="DejaVuSansMono-Bold-75-18" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M747.4,267h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-71-7" data-name="DejaVuSansMono-Bold-71" class="cls-5" d="M770.6,275.8v-2.1h-1.5v-1.8h3.3v4.9c-.4.4-.9.6-1.4.8-.5.2-1,.3-1.6.3-1.4,0-2.5-.5-3.2-1.5-.8-1-1.1-2.3-1.1-4.1s.4-3.2,1.1-4.2c.8-1,1.9-1.4,3.3-1.4s.9,0,1.3.2c.4.1.8.3,1.2.5v2.4c-.3-.4-.6-.7-1-.9-.4-.2-.8-.3-1.3-.3-.8,0-1.4.3-1.8.9-.4.6-.6,1.5-.6,2.8s.2,2.1.6,2.7c.4.6.9.9,1.7.9s.4,0,.6,0c.2,0,.3-.1.4-.2Z"/>
+          <path id="DejaVuSansMono-Bold-89-7" data-name="DejaVuSansMono-Bold-89" class="cls-5" d="M782.2,267h2.3l2.1,4.3,2.1-4.3h2.3l-3.3,6.5v4.2h-2.1v-4.2l-3.3-6.5Z"/>
+          <path id="DejaVuSansMono-Bold-87-6" data-name="DejaVuSansMono-Bold-87" class="cls-5" d="M799.9,267h1.9l.8,7.9.9-5.1h1.8l1.1,5.1.6-7.9h1.9l-1.2,10.8h-2l-1.2-5.7-1.1,5.7h-2l-1.3-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-83-17" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M821.3,273c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-68-11" data-name="DejaVuSansMono-Bold-68" class="cls-5" d="M838.5,268.9v6.9h.6c.8,0,1.4-.3,1.8-.8.4-.5.5-1.4.5-2.7s-.2-2.1-.5-2.7c-.4-.5-1-.8-1.8-.8h-.6ZM836.4,267h2.3c1.8,0,3,.4,3.8,1.3.8.8,1.2,2.2,1.2,4.1s-.4,3.3-1.2,4.1c-.8.8-2,1.3-3.8,1.3h-2.3v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-87-7" data-name="DejaVuSansMono-Bold-87" class="cls-5" d="M853.2,267h1.9l.8,7.9.9-5.1h1.8l1.1,5.1.6-7.9h1.9l-1.2,10.8h-2l-1.2-5.7-1.1,5.7h-2l-1.3-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-83-18" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M874.7,273c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-69-13" data-name="DejaVuSansMono-Bold-69" class="cls-5" d="M896.7,277.8h-6.7v-10.8h6.7v1.9h-4.6v2.3h4.1v1.9h-4.1v2.8h4.6v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-69-14" data-name="DejaVuSansMono-Bold-69" class="cls-5" d="M914.5,277.8h-6.7v-10.8h6.7v1.9h-4.6v2.3h4.1v1.9h-4.1v2.8h4.6v1.9Z"/>
+        </g>
+      </g>
+      <g id="text_119" data-name="text 119">
+        <path id="DejaVuSans-124-40" data-name="DejaVuSans-124" class="cls-5" d="M694.4,256.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_120" data-name="text 120">
+        <g>
+          <path id="DejaVuSans-49-28" data-name="DejaVuSans-49" class="cls-5" d="M693.9,252.6h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-56-7" data-name="DejaVuSans-56" class="cls-5" d="M701.8,250.1c-.4,0-.8.1-1,.4-.3.2-.4.6-.4,1s.1.7.4,1c.3.2.6.4,1,.4s.8-.1,1-.4c.3-.2.4-.6.4-1s-.1-.7-.4-1c-.3-.2-.6-.4-1-.4ZM700.8,249.7c-.4,0-.7-.3-.9-.6-.2-.3-.3-.6-.3-1s.2-1,.6-1.3c.4-.3.9-.5,1.6-.5s1.2.2,1.6.5.6.8.6,1.3-.1.7-.3,1c-.2.3-.5.5-.9.6.4.1.8.3,1,.6.3.3.4.7.4,1.1,0,.7-.2,1.2-.6,1.5-.4.4-1,.5-1.7.5s-1.3-.2-1.7-.5c-.4-.4-.6-.9-.6-1.5s.1-.8.4-1.1c.3-.3.6-.5,1-.6ZM700.5,248.2c0,.4.1.6.3.8.2.2.5.3.9.3s.7,0,.9-.3c.2-.2.3-.5.3-.8s-.1-.6-.3-.8c-.2-.2-.5-.3-.9-.3s-.7,0-.9.3c-.2.2-.3.5-.3.8Z"/>
+          <path id="DejaVuSans-49-29" data-name="DejaVuSans-49" class="cls-5" d="M705.9,252.6h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+        </g>
+      </g>
+      <g id="text_121" data-name="text 121">
+        <g>
+          <path id="DejaVuSansMono-Bold-65-8" data-name="DejaVuSansMono-Bold-65" class="cls-5" d="M925.5,268.9l-1,4.4h2l-1-4.4ZM924.2,267h2.6l2.9,10.8h-2.1l-.7-2.7h-2.8l-.6,2.7h-2.1l2.9-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-83-19" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M942.5,273c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-71-8" data-name="DejaVuSansMono-Bold-71" class="cls-5" d="M962.9,275.8v-2.1h-1.5v-1.8h3.3v4.9c-.4.4-.9.6-1.4.8-.5.2-1,.3-1.6.3-1.4,0-2.5-.5-3.2-1.5-.8-1-1.1-2.3-1.1-4.1s.4-3.2,1.1-4.2c.8-1,1.9-1.4,3.3-1.4s.9,0,1.3.2c.4.1.8.3,1.2.5v2.4c-.3-.4-.6-.7-1-.9-.4-.2-.8-.3-1.3-.3-.8,0-1.4.3-1.8.9-.4.6-.6,1.5-.6,2.8s.2,2.1.6,2.7c.4.6.9.9,1.7.9s.4,0,.6,0c.2,0,.3-.1.4-.2Z"/>
+          <path id="DejaVuSansMono-Bold-73-12" data-name="DejaVuSansMono-Bold-73" class="cls-5" d="M975.7,268.9v-1.9h6.4v1.9h-2.1v7h2.1v1.9h-6.4v-1.9h2.1v-7h-2.1Z"/>
+          <path id="DejaVuSansMono-Bold-84-18" data-name="DejaVuSansMono-Bold-84" class="cls-5" d="M997.7,277.8h-2.1v-8.9h-2.7v-1.9h7.6v1.9h-2.7v8.9Z"/>
+        </g>
+      </g>
+      <g id="text_122" data-name="text 122">
+        <path id="DejaVuSans-124-41" data-name="DejaVuSans-124" class="cls-5" d="M922.3,256.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_123" data-name="text 123">
+        <g>
+          <path id="DejaVuSans-49-30" data-name="DejaVuSans-49" class="cls-5" d="M921.8,252.6h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-57-9" data-name="DejaVuSans-57" class="cls-5" d="M927.7,253.2v-.8c.2.1.5.2.7.3.2,0,.5,0,.7,0,.6,0,1.1-.2,1.4-.6.3-.4.5-1,.6-1.9-.2.3-.4.5-.7.6-.3.1-.6.2-.9.2-.7,0-1.2-.2-1.6-.6-.4-.4-.6-1-.6-1.7s.2-1.3.6-1.7c.4-.4,1-.6,1.7-.6s1.4.3,1.8.9c.4.6.6,1.5.6,2.7s-.3,1.9-.8,2.6c-.5.6-1.2,1-2.1,1s-.5,0-.7,0c-.2,0-.5-.1-.7-.2ZM929.5,250.3c.4,0,.7-.1,1-.4.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4s-.7.1-1,.4c-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4Z"/>
+          <path id="DejaVuSans-52-10" data-name="DejaVuSans-52" class="cls-5" d="M936.2,247.3l-2.3,3.7h2.3v-3.7ZM936,246.5h1.2v4.5h1v.8h-1v1.6h-.9v-1.6h-3.1v-.9l2.9-4.4Z"/>
+        </g>
+      </g>
+      <g id="text_124" data-name="text 124">
+        <g>
+          <path id="DejaVuSansMono-Bold-89-8" data-name="DejaVuSansMono-Bold-89" class="cls-5" d="M1008.8,267h2.3l2.1,4.3,2.1-4.3h2.3l-3.3,6.5v4.2h-2.1v-4.2l-3.3-6.5Z"/>
+          <path id="DejaVuSansMono-Bold-69-15" data-name="DejaVuSansMono-Bold-69" class="cls-5" d="M1034.4,277.8h-6.7v-10.8h6.7v1.9h-4.6v2.3h4.1v1.9h-4.1v2.8h4.6v1.9Z"/>
+        </g>
+      </g>
+      <g id="text_125" data-name="text 125">
+        <path id="DejaVuSans-124-42" data-name="DejaVuSans-124" class="cls-5" d="M1009.9,256.4v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_126" data-name="text 126">
+        <g>
+          <path id="DejaVuSans-49-31" data-name="DejaVuSans-49" class="cls-5" d="M1009.5,252.6h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+          <path id="DejaVuSans-57-10" data-name="DejaVuSans-57" class="cls-5" d="M1015.3,253.2v-.8c.2.1.5.2.7.3.2,0,.5,0,.7,0,.6,0,1.1-.2,1.4-.6.3-.4.5-1,.6-1.9-.2.3-.4.5-.7.6-.3.1-.6.2-.9.2-.7,0-1.2-.2-1.6-.6-.4-.4-.6-1-.6-1.7s.2-1.3.6-1.7c.4-.4,1-.6,1.7-.6s1.4.3,1.8.9c.4.6.6,1.5.6,2.7s-.3,1.9-.8,2.6c-.5.6-1.2,1-2.1,1s-.5,0-.7,0c-.2,0-.5-.1-.7-.2ZM1017.2,250.3c.4,0,.7-.1,1-.4.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4s-.7.1-1,.4c-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4Z"/>
+          <path id="DejaVuSans-57-11" data-name="DejaVuSans-57" class="cls-5" d="M1021.3,253.2v-.8c.2.1.5.2.7.3.2,0,.5,0,.7,0,.6,0,1.1-.2,1.4-.6.3-.4.5-1,.6-1.9-.2.3-.4.5-.7.6-.3.1-.6.2-.9.2-.7,0-1.2-.2-1.6-.6-.4-.4-.6-1-.6-1.7s.2-1.3.6-1.7c.4-.4,1-.6,1.7-.6s1.4.3,1.8.9c.4.6.6,1.5.6,2.7s-.3,1.9-.8,2.6c-.5.6-1.2,1-2.1,1s-.5,0-.7,0c-.2,0-.5-.1-.7-.2ZM1023.2,250.3c.4,0,.7-.1,1-.4.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4s-.7.1-1,.4c-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4Z"/>
+        </g>
+      </g>
+      <g id="text_127" data-name="text 127">
+        <path id="DejaVuSansMono-Bold-68-12" data-name="DejaVuSansMono-Bold-68" class="cls-5" d="M170.5,338.6v6.9h.6c.8,0,1.4-.3,1.8-.8.4-.5.5-1.4.5-2.7s-.2-2.1-.5-2.7c-.4-.5-1-.8-1.8-.8h-.6ZM168.4,336.6h2.3c1.8,0,3,.4,3.8,1.3.8.8,1.2,2.2,1.2,4.1s-.4,3.3-1.2,4.1c-.8.8-2,1.3-3.8,1.3h-2.3v-10.8Z"/>
+      </g>
+      <g id="text_128" data-name="text 128">
+        <path id="DejaVuSans-124-43" data-name="DejaVuSans-124" class="cls-5" d="M168.6,326.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_129" data-name="text 129">
+        <g>
+          <path id="DejaVuSans-50-9" data-name="DejaVuSans-50" class="cls-5" d="M168.7,322.2h3.2v.8h-4.4v-.8c.4-.4.8-.9,1.4-1.5.6-.6,1-1,1.1-1.2.3-.3.5-.6.6-.8.1-.2.2-.5.2-.7,0-.4-.1-.7-.4-.9-.3-.2-.6-.3-1-.3s-.6,0-.9.2c-.3.1-.7.3-1,.5v-.9c.4-.2.7-.3,1-.3.3,0,.6-.1.9-.1.7,0,1.3.2,1.7.5.4.4.6.8.6,1.4s0,.6-.2.8c-.1.3-.3.6-.6.9,0,0-.3.3-.7.8-.4.4-1,1-1.7,1.8Z"/>
+          <path id="DejaVuSans-48-10" data-name="DejaVuSans-48" class="cls-5" d="M175.9,316.8c-.5,0-.8.2-1.1.7-.2.5-.4,1.2-.4,2.1s.1,1.6.4,2.1c.2.5.6.7,1.1.7s.8-.2,1.1-.7c.2-.5.4-1.2.4-2.1s-.1-1.7-.4-2.1c-.2-.5-.6-.7-1.1-.7ZM175.9,316c.8,0,1.4.3,1.8.9.4.6.6,1.5.6,2.7s-.2,2-.6,2.6c-.4.6-1,.9-1.8.9s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.2-2,.6-2.7c.4-.6,1-.9,1.8-.9Z"/>
+          <path id="DejaVuSans-49-32" data-name="DejaVuSans-49" class="cls-5" d="M180.1,322.2h1.5v-5.2l-1.7.3v-.8l1.6-.3h.9v6.1h1.5v.8h-4v-.8Z"/>
+        </g>
+      </g>
+      <g id="text_130" data-name="text 130">
+        <g>
+          <path id="DejaVuSansMono-Bold-82-8" data-name="DejaVuSansMono-Bold-82" class="cls-5" d="M190.7,342.3c.2,0,.4.1.6.3.2.2.3.5.6.9l1.9,3.9h-2.3l-1.3-2.7c0,0,0-.2-.1-.3-.4-.8-.8-1.2-1.3-1.2h-.7v4.3h-2.1v-10.8h3.1c1.4,0,2.4.2,3,.7s.9,1.3.9,2.4-.2,1.3-.5,1.8c-.4.4-.9.7-1.6.8ZM188,338.4v2.9h1c.6,0,1-.1,1.3-.3.3-.2.4-.6.4-1.1s-.1-.9-.4-1.1c-.2-.2-.7-.3-1.3-.3h-1Z"/>
+          <path id="DejaVuSansMono-Bold-80-13" data-name="DejaVuSansMono-Bold-80" class="cls-5" d="M206,338.4v3.2h.9c.7,0,1.2-.1,1.5-.4s.4-.6.4-1.2-.1-1-.4-1.2c-.3-.2-.8-.4-1.5-.4h-.9ZM203.8,336.6h2.9c1.5,0,2.6.3,3.2.8.7.5,1,1.4,1,2.6s-.3,2-1,2.6c-.7.5-1.7.8-3.2.8h-.8v4h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-83-20" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M224.1,342.7c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+          <path id="DejaVuSansMono-Bold-75-19" data-name="DejaVuSansMono-Bold-75" class="cls-5" d="M239.1,336.6h2.1v4.3l3.3-4.3h2.4l-3.4,4.2,3.5,6.5h-2.4l-2.6-4.8-.9,1.2v3.6h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-69-16" data-name="DejaVuSansMono-Bold-69" class="cls-5" d="M263.9,347.4h-6.7v-10.8h6.7v1.9h-4.6v2.3h4.1v1.9h-4.1v2.8h4.6v1.9Z"/>
+          <path id="DejaVuSansMono-Bold-80-14" data-name="DejaVuSansMono-Bold-80" class="cls-5" d="M277.1,338.4v3.2h.9c.7,0,1.2-.1,1.5-.4s.4-.6.4-1.2-.1-1-.4-1.2c-.3-.2-.8-.4-1.5-.4h-.9ZM275,336.6h2.9c1.5,0,2.6.3,3.2.8.7.5,1,1.4,1,2.6s-.3,2-1,2.6c-.7.5-1.7.8-3.2.8h-.8v4h-2.1v-10.8Z"/>
+          <path id="DejaVuSansMono-Bold-83-21" data-name="DejaVuSansMono-Bold-83" class="cls-5" d="M295.2,342.7c-1.1-.4-1.8-.8-2.2-1.3-.4-.4-.6-1.1-.6-1.8s.3-1.7.9-2.3c.6-.6,1.5-.8,2.6-.8s1,0,1.5.2c.5.1,1,.3,1.5.5v2.1c-.5-.3-.9-.6-1.4-.7-.5-.2-.9-.3-1.4-.3s-.9.1-1.2.3c-.3.2-.4.5-.4.9s0,.5.3.7c.2.2.6.4,1.3.6l.9.3c.9.3,1.5.7,1.9,1.3.4.5.6,1.2.6,2s-.3,1.9-1,2.4c-.6.5-1.6.8-2.9.8s-1.1,0-1.6-.2c-.5-.1-1.1-.3-1.6-.6v-2.2c.6.4,1.1.7,1.6.9s1.1.3,1.6.3.9-.1,1.2-.4c.3-.2.4-.6.4-1s0-.6-.3-.8c-.2-.2-.5-.4-.8-.6l-1-.4Z"/>
+        </g>
+      </g>
+      <g id="text_131" data-name="text 131">
+        <path id="DejaVuSans-124-44" data-name="DejaVuSans-124" class="cls-5" d="M186.1,326.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_132" data-name="text 132">
+        <g>
+          <path id="DejaVuSans-50-10" data-name="DejaVuSans-50" class="cls-5" d="M186.3,322.2h3.2v.8h-4.4v-.8c.4-.4.8-.9,1.4-1.5.6-.6,1-1,1.1-1.2.3-.3.5-.6.6-.8.1-.2.2-.5.2-.7,0-.4-.1-.7-.4-.9-.3-.2-.6-.3-1-.3s-.6,0-.9.2c-.3.1-.7.3-1,.5v-.9c.4-.2.7-.3,1-.3.3,0,.6-.1.9-.1.7,0,1.3.2,1.7.5.4.4.6.8.6,1.4s0,.6-.2.8c-.1.3-.3.6-.6.9,0,0-.3.3-.7.8-.4.4-1,1-1.7,1.8Z"/>
+          <path id="DejaVuSans-48-11" data-name="DejaVuSans-48" class="cls-5" d="M193.5,316.8c-.5,0-.8.2-1.1.7-.2.5-.4,1.2-.4,2.1s.1,1.6.4,2.1c.2.5.6.7,1.1.7s.8-.2,1.1-.7c.2-.5.4-1.2.4-2.1s-.1-1.7-.4-2.1c-.2-.5-.6-.7-1.1-.7ZM193.5,316c.8,0,1.4.3,1.8.9.4.6.6,1.5.6,2.7s-.2,2-.6,2.6c-.4.6-1,.9-1.8.9s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.2-2,.6-2.7c.4-.6,1-.9,1.8-.9Z"/>
+          <path id="DejaVuSans-50-11" data-name="DejaVuSans-50" class="cls-5" d="M198.3,322.2h3.2v.8h-4.4v-.8c.4-.4.8-.9,1.4-1.5.6-.6,1-1,1.1-1.2.3-.3.5-.6.6-.8.1-.2.2-.5.2-.7,0-.4-.1-.7-.4-.9-.3-.2-.6-.3-1-.3s-.6,0-.9.2c-.3.1-.7.3-1,.5v-.9c.4-.2.7-.3,1-.3.3,0,.6-.1.9-.1.7,0,1.3.2,1.7.5.4.4.6.8.6,1.4s0,.6-.2.8c-.1.3-.3.6-.6.9,0,0-.3.3-.7.8-.4.4-1,1-1.7,1.8Z"/>
+        </g>
+      </g>
+      <g id="text_133" data-name="text 133">
+        <path id="DejaVuSansMono-Bold-70-8" data-name="DejaVuSansMono-Bold-70" class="cls-5" d="M315.6,338.5h-4.6v2.3h4.2v1.9h-4.2v4.7h-2.1v-10.8h6.7v1.9Z"/>
+      </g>
+      <g id="text_134" data-name="text 134">
+        <path id="DejaVuSans-124-45" data-name="DejaVuSans-124" class="cls-5" d="M308.8,326.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_135" data-name="text 135">
+        <g>
+          <path id="DejaVuSans-50-12" data-name="DejaVuSans-50" class="cls-5" d="M309,322.2h3.2v.8h-4.4v-.8c.4-.4.8-.9,1.4-1.5.6-.6,1-1,1.1-1.2.3-.3.5-.6.6-.8.1-.2.2-.5.2-.7,0-.4-.1-.7-.4-.9-.3-.2-.6-.3-1-.3s-.6,0-.9.2c-.3.1-.7.3-1,.5v-.9c.4-.2.7-.3,1-.3.3,0,.6-.1.9-.1.7,0,1.3.2,1.7.5.4.4.6.8.6,1.4s0,.6-.2.8c-.1.3-.3.6-.6.9,0,0-.3.3-.7.8-.4.4-1,1-1.7,1.8Z"/>
+          <path id="DejaVuSans-48-12" data-name="DejaVuSans-48" class="cls-5" d="M316.2,316.8c-.5,0-.8.2-1.1.7-.2.5-.4,1.2-.4,2.1s.1,1.6.4,2.1c.2.5.6.7,1.1.7s.8-.2,1.1-.7c.2-.5.4-1.2.4-2.1s-.1-1.7-.4-2.1c-.2-.5-.6-.7-1.1-.7ZM316.2,316c.8,0,1.4.3,1.8.9.4.6.6,1.5.6,2.7s-.2,2-.6,2.6c-.4.6-1,.9-1.8.9s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.2-2,.6-2.7c.4-.6,1-.9,1.8-.9Z"/>
+          <path id="DejaVuSans-57-12" data-name="DejaVuSans-57" class="cls-5" d="M320.2,322.9v-.8c.2.1.5.2.7.3.2,0,.5,0,.7,0,.6,0,1.1-.2,1.4-.6.3-.4.5-1,.6-1.9-.2.3-.4.5-.7.6-.3.1-.6.2-.9.2-.7,0-1.2-.2-1.6-.6-.4-.4-.6-1-.6-1.7s.2-1.3.6-1.7c.4-.4,1-.6,1.7-.6s1.4.3,1.8.9c.4.6.6,1.5.6,2.7s-.3,1.9-.8,2.6c-.5.6-1.2,1-2.1,1s-.5,0-.7,0c-.2,0-.5-.1-.7-.2ZM322,320c.4,0,.7-.1,1-.4.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4s-.7.1-1,.4c-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4Z"/>
+        </g>
+      </g>
+      <g id="text_136" data-name="text 136">
+        <g>
+          <path id="DejaVuSansMono-67" class="cls-8" d="M336.8,368.6c-.4.2-.7.3-1.1.4-.4,0-.8.1-1.2.1-1.4,0-2.5-.5-3.2-1.5-.8-1-1.1-2.3-1.1-4.1s.4-3.1,1.1-4.1c.8-1,1.8-1.5,3.2-1.5s.8,0,1.2.1c.4,0,.8.2,1.1.4v1.5c-.4-.3-.7-.5-1.1-.7-.4-.2-.8-.2-1.2-.2-.9,0-1.7.4-2.1,1.1s-.7,1.8-.7,3.3.2,2.6.7,3.3c.5.7,1.2,1.1,2.1,1.1s.8,0,1.2-.2c.4-.2.8-.4,1.1-.7v1.5Z"/>
+          <path id="DejaVuSansMono-108" class="cls-8" d="M351.5,366.1c0,.6.1,1,.3,1.3.2.3.5.5,1,.5h1.6v1.1h-1.7c-.8,0-1.4-.3-1.8-.8-.4-.5-.7-1.2-.7-2.2v-7.3h-2.1v-1h3.5v8.4Z"/>
+          <path id="DejaVuSansMono-111" class="cls-8" d="M360.2,361.9c-.7,0-1.2.3-1.5.8-.3.5-.5,1.3-.5,2.3s.2,1.8.5,2.3.9.8,1.5.8,1.2-.3,1.5-.8.5-1.3.5-2.3-.2-1.8-.5-2.3c-.3-.5-.9-.8-1.5-.8ZM360.2,360.7c1.1,0,2,.4,2.6,1.1.6.7.9,1.8.9,3.1s-.3,2.4-.9,3.2c-.6.7-1.4,1.1-2.6,1.1s-2-.4-2.6-1.1c-.6-.7-.9-1.8-.9-3.2s.3-2.4.9-3.1c.6-.7,1.4-1.1,2.6-1.1Z"/>
+          <path id="DejaVuSansMono-111-2" data-name="DejaVuSansMono-111" class="cls-8" d="M369.1,361.9c-.7,0-1.2.3-1.5.8-.3.5-.5,1.3-.5,2.3s.2,1.8.5,2.3.9.8,1.5.8,1.2-.3,1.5-.8.5-1.3.5-2.3-.2-1.8-.5-2.3c-.3-.5-.9-.8-1.5-.8ZM369.1,360.7c1.1,0,2,.4,2.6,1.1.6.7.9,1.8.9,3.1s-.3,2.4-.9,3.2c-.6.7-1.4,1.1-2.6,1.1s-2-.4-2.6-1.1c-.6-.7-.9-1.8-.9-3.2s.3-2.4.9-3.1c.6-.7,1.4-1.1,2.6-1.1Z"/>
+          <path id="DejaVuSansMono-112" class="cls-8" d="M376.2,368v4.1h-1.3v-11.1h1.3v1c.2-.4.5-.7.9-.9.4-.2.8-.3,1.3-.3,1,0,1.7.4,2.3,1.1.6.8.8,1.8.8,3.1s-.3,2.3-.8,3.1c-.6.7-1.3,1.1-2.3,1.1s-.9-.1-1.3-.3c-.4-.2-.7-.5-.9-.9ZM380.1,365c0-1-.2-1.8-.5-2.3-.3-.5-.8-.8-1.4-.8s-1.1.3-1.5.8c-.3.5-.5,1.3-.5,2.3s.2,1.8.5,2.3c.3.5.8.8,1.5.8s1.1-.3,1.4-.8c.3-.5.5-1.3.5-2.3Z"/>
+        </g>
+      </g>
+      <g id="text_137" data-name="text 137">
+        <path id="DejaVuSans-124-46" data-name="DejaVuSans-124" class="cls-5" d="M308.8,326.1v7.9h-.7v-7.9h.7Z"/>
+      </g>
+      <g id="text_138" data-name="text 138">
+        <g>
+          <path id="DejaVuSans-50-13" data-name="DejaVuSans-50" class="cls-5" d="M309,322.2h3.2v.8h-4.4v-.8c.4-.4.8-.9,1.4-1.5.6-.6,1-1,1.1-1.2.3-.3.5-.6.6-.8.1-.2.2-.5.2-.7,0-.4-.1-.7-.4-.9-.3-.2-.6-.3-1-.3s-.6,0-.9.2c-.3.1-.7.3-1,.5v-.9c.4-.2.7-.3,1-.3.3,0,.6-.1.9-.1.7,0,1.3.2,1.7.5.4.4.6.8.6,1.4s0,.6-.2.8c-.1.3-.3.6-.6.9,0,0-.3.3-.7.8-.4.4-1,1-1.7,1.8Z"/>
+          <path id="DejaVuSans-48-13" data-name="DejaVuSans-48" class="cls-5" d="M316.2,316.8c-.5,0-.8.2-1.1.7-.2.5-.4,1.2-.4,2.1s.1,1.6.4,2.1c.2.5.6.7,1.1.7s.8-.2,1.1-.7c.2-.5.4-1.2.4-2.1s-.1-1.7-.4-2.1c-.2-.5-.6-.7-1.1-.7ZM316.2,316c.8,0,1.4.3,1.8.9.4.6.6,1.5.6,2.7s-.2,2-.6,2.6c-.4.6-1,.9-1.8.9s-1.4-.3-1.8-.9c-.4-.6-.6-1.5-.6-2.6s.2-2,.6-2.7c.4-.6,1-.9,1.8-.9Z"/>
+          <path id="DejaVuSans-57-13" data-name="DejaVuSans-57" class="cls-5" d="M320.2,322.9v-.8c.2.1.5.2.7.3.2,0,.5,0,.7,0,.6,0,1.1-.2,1.4-.6.3-.4.5-1,.6-1.9-.2.3-.4.5-.7.6-.3.1-.6.2-.9.2-.7,0-1.2-.2-1.6-.6-.4-.4-.6-1-.6-1.7s.2-1.3.6-1.7c.4-.4,1-.6,1.7-.6s1.4.3,1.8.9c.4.6.6,1.5.6,2.7s-.3,1.9-.8,2.6c-.5.6-1.2,1-2.1,1s-.5,0-.7,0c-.2,0-.5-.1-.7-.2ZM322,320c.4,0,.7-.1,1-.4.2-.3.4-.7.4-1.2s-.1-.9-.4-1.2c-.2-.3-.6-.4-1-.4s-.7.1-1,.4c-.2.3-.4.7-.4,1.2s.1.9.4,1.2c.2.3.6.4,1,.4Z"/>
+        </g>
+      </g>
+    </g>
+    <g class="cls-13">
+      <text class="cls-6" transform="translate(47.2 30.9)"><tspan x="0" y="0">Interleukin-6 receptor domain 3</tspan></text>
+    </g>
+  </g>
+</svg>

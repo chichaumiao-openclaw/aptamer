@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 130">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #000;
+      }
+
+      .cls-4, .cls-2, .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        font-size: 8.24px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-3 {
+        font-size: 5.07px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="55.88 119.59 72.02 110.52 72.36 110.75 72.35 111.19 56.25 120.24 56.06 119.91 55.88 119.59"/>
+  <polygon class="cls-1" points="72.02 110.52 74.4 96.18 74.77 96.25 75.14 96.31 72.77 110.56 72.36 110.75 72.02 110.52"/>
+  <polygon class="cls-1" points="74.06 109.64 72.15 96.27 72.53 96.22 72.9 96.17 74.8 109.54 74.43 109.59 74.06 109.64"/>
+  <g class="cls-4">
+    <text class="cls-2" transform="translate(69.56 95.37) rotate(.66)"><tspan x="0" y="0">N</tspan></text>
+  </g>
+  <polygon class="cls-1" points="76.14 89.63 88.5 82.68 88.87 82.9 89.24 83.12 76.5 90.28 76.32 89.96 76.14 89.63"/>
+  <polygon class="cls-1" points="88.5 82.68 88.71 63.99 89.08 64.21 89.45 64.43 89.24 83.12 88.87 82.9 88.5 82.68"/>
+  <polygon class="cls-1" points="88.71 63.99 105.01 54.83 105.38 55.05 105.75 55.27 89.45 64.43 89.08 64.21 88.71 63.99"/>
+  <polygon class="cls-1" points="105.01 54.83 105.21 36.57 105.59 36.36 105.96 36.58 105.75 55.27 105.38 55.05 105.01 54.83"/>
+  <polygon class="cls-1" points="105.6 35.93 121.51 26.98 121.89 27.2 122.26 27.42 105.96 36.58 105.59 36.36 105.6 35.93"/>
+  <polygon class="cls-1" points="122.09 25.58 134.8 33.12 134.61 33.44 134.42 33.76 121.71 26.23 121.9 25.9 122.09 25.58"/>
+  <polygon class="cls-1" points="120.95 27.51 133.66 35.05 133.47 35.37 133.28 35.69 120.57 28.16 120.76 27.83 120.95 27.51"/>
+  <g class="cls-4">
+    <text class="cls-2" transform="translate(134.72 40.03) rotate(.66)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <polygon class="cls-1" points="121.51 26.98 121.68 12.66 122.05 12.67 122.43 12.67 122.26 27.42 121.89 27.2 121.51 26.98"/>
+  <g class="cls-4">
+    <text class="cls-2" transform="translate(118.85 11.81) rotate(.66)"><tspan x="0" y="0">O</tspan></text>
+    <text class="cls-2" transform="translate(125.27 11.88) rotate(.66)"><tspan x="0" y="0">H</tspan></text>
+  </g>
+  <polygon class="cls-1" points="105.21 36.57 93.02 29.34 93.21 29.02 93.4 28.7 105.6 35.93 105.59 36.36 105.21 36.57"/>
+  <g class="cls-4">
+    <text class="cls-2" transform="translate(77.81 28.97) rotate(.66)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-3" transform="translate(83.75 30.31) rotate(.66)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-2" transform="translate(86.58 29.07) rotate(.66)"><tspan x="0" y="0">N</tspan></text>
+  </g>
+  <polygon class="cls-1" points="72.77 110.56 84.93 117.77 84.74 118.09 84.55 118.41 72.35 111.19 72.36 110.75 72.77 110.56"/>
+  <g class="cls-4">
+    <text class="cls-2" transform="translate(85.44 122.53) rotate(.66)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-2" transform="translate(91.39 122.6) rotate(.66)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-3" transform="translate(97.33 123.93) rotate(.66)"><tspan x="0" y="0">2</tspan></text>
+  </g>
+</svg>

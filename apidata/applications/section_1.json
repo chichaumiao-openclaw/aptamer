@@ -1,0 +1,156 @@
+[
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/ligand-1.1-aptamer",
+    "new Linker name":"HIV-1 RT aptamer",
+    "Section":"Viral",
+    "Target":"HIV-1",
+    "Sequence":"5'-GGGAGCAUCAGACUUUUAAUCUGACAAUCAAGAAUUCCGUUUUCAGUCGGGAAAAACUGAACAAUCUAUGAAAGAAUUUUAUAUCUCUAUUGAAAC-3'",
+    "Length":96,
+    "GC content":0.33,
+    "Affinity":"Kd: 5 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/1379730\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/10G-1-aptamer",
+    "new Linker name":"HCV NS3 protease_10G-1 aptamer",
+    "Section":"Viral",
+    "Target":"HCV",
+    "Sequence":"5'-GGGAACUCGAUGAAGCGAAUUCUGUUGGCGAACUGUACGCAAGUACACUGGAUGACAGCCUAUCUAUCGGAUCCACG-3'",
+    "Length":78,
+    "GC content":0.51,
+    "Affinity":"Kd: 650 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/9356339\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/HSV-1-US11-aptamer",
+    "new Linker name":"HSV-1 US11 aptamer",
+    "Section":"Viral",
+    "Target":"HSV",
+    "Sequence":"5'-GGGAAUGGAUCCACAUCUACGAAUUCGCAAUCCUGUAUUGAACUUCUCACUAAAACUUCACUGCAGACUUGACGAAGCUU-3'",
+    "Length":80,
+    "GC content":0.43,
+    "Affinity":"Kd: 70 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/16246910\/"
+  },
+  {
+    "Linker":" https:\/\/aptamer.ribocentre.org\/_posts\/HPV-16-E7-oncoprotein-aptamer",
+    "new Linker name":"HPV-16 E7 oncoprotein aptamer",
+    "Section":"Viral",
+    "Target":"HPV-16",
+    "Sequence":"5'-GGAGACCCAAGCCGAUUUAUUUUGUGCAGCUUUUGUUCCCUUUAGUGAGGGUUAAUU-3'",
+    "Length":57,
+    "GC content":0.42,
+    "Affinity":"Kd: 1.9 µM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/21565620\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/HIRRV-aptamer.html",
+    "new Linker name":"HIRRV aptamer",
+    "Section":"Viral",
+    "Target":"Hirame rhabdovirus",
+    "Sequence":"H1 aptamer: 5'-GGGCCAGGCAGCGAGGGUGUAUAGGUAUUGAAUCAAUUGUUUUAGCGUUGUCUUACCGACCACACGCGUCCGAGA-3'\nH2 aptamer: 5'-GGGCCAGGCAGCGAGGGAACGCGAGCUUAGAUUUCGGAGAACAGUUUGUAAUUGUUCCGACCACACGCGUCCGAGA-3'",
+    "Length":"75\n76",
+    "GC content":"52%\n56%",
+    "Affinity":null,
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/22943666\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/HBV-P-protein-aptamer",
+    "new Linker name":"HBV P protein aptamer",
+    "Section":"Viral",
+    "Target":"HBV",
+    "Sequence":"5'-UGUUCAUGUCCUACUGUUCAAACAAAAAAACUGUGCACAAAAAUAAAUUGGGGCAUGGACA-3'",
+    "Length":61,
+    "GC content":0.36,
+    "Affinity":null,
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/22125633\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/H3N2-aptamer",
+    "new Linker name":"H3N2 aptamer",
+    "Section":"Viral",
+    "Target":"H3N2（Influenza virus）",
+    "Sequence":"5'-GGGAGAAUUCCGACCAGAAGGGUUAAGCAGUCGGCAUGCGGUACAGACAGACCUUUCCUCUCUCCUUCCUCUUCU-3'",
+    "Length":74,
+    "GC content":0.5333,
+    "Affinity":"Kd: 188 pM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/16476969\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Escherichia-coli-aptamer",
+    "new Linker name":"Escherichia coli aptamer",
+    "Section":"Bacteria",
+    "Target":"Escherichia coli",
+    "Sequence":"5'-GGGAUACCAGCUUAUUCAAUUUGAUUCCAUCUUCCUGGACUGUCGAAAAUUCAGUAUCGGGAGGUUACGUAUUUGGUUUAUAGAUAGUAAGUGCAAUCU-3'",
+    "Length":99,
+    "GC content":0.3838,
+    "Affinity":"Kd: 110 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/9192624\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Protein-tyrosine-phosphatases-aptamer.html",
+    "new Linker name":"Protein tyrosine phosphatases aptamer",
+    "Section":"Bacteria",
+    "Target":"Yersinia",
+    "Sequence":"5'-GGGAGAUACCAGCUUAUUCAAUUCUGGCAAUGGGCUAUCCCAAGUGCUAGGCUUCAGGGAGCGAGGACCAGACGACGUACCUAACCCUAAGGUGAGAUAGUAAGUGCAAUCU-3'",
+    "Length":112,
+    "GC content":0.5,
+    "Affinity":"Kd: 18±2.9 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/9603938\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Type-IVB-Pili-aptamer.html",
+    "new Linker name":"Type IVB Pili aptamer",
+    "Section":"Bacteria",
+    "Target":"Salmonella enterica",
+    "Sequence":"5'-GGGAACAGUCCGAACUGUUAUCCGAUAGCAGCGCGGGAUGAGGGUCAAUGGAUCCCGC-3'",
+    "Length":58,
+    "GC content":0.59,
+    "Affinity":"Kd: 8.56 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/16189080\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Trypanosome-VSG-aptamer.html",
+    "new Linker name":"Trypanosome VSG aptamer",
+    "Section":"Parasite",
+    "Target":"Trypanosome",
+    "Sequence":"5'-CGUCCAUCGGGUGGCCCGUGUCUGAGCGGGGACGGGGACUUGAGCGCCGCUGUCCGACUGAAUU-3'",
+    "Length":80,
+    "GC content":0.6375,
+    "Affinity":"Kd: 60±17 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/10198434\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/CED-9-aptamer.html",
+    "new Linker name":"CED-9 aptamer",
+    "Section":"Parasite",
+    "Target":"Caenorhabditis elegans",
+    "Sequence":"R9-2 aptamer: 5'-AGGGAGGACGAUGCGGGGUGCUUCGAGCGUAGGAAGAAAGCCGGGGGCUGCAGAUAAUGUAUAGCCAGACGACGGA-3'\nR9-7 aptamer: 5'-AGGGAGGACGAUGCGGGAUGGACGCUUAUCCGCAUAGAGGUUUACUACUUCGGAGACUGCCGAUACAGACGACGGA-3'",
+    "Length":"76\n76",
+    "GC content":"59%\n55%",
+    "Affinity":"Kd: ~4nM\nKd: ~16nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/16467303\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Bovine-prion-protein-aptamer",
+    "new Linker name":"Bovine prion protein aptamer",
+    "Section":"Infectious disease",
+    "Target":"Bovine Prion Protein",
+    "Sequence":"5'-GGAGGAGGAGGA-3'",
+    "Length":12,
+    "GC content":0.66,
+    "Affinity":null,
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/19098441\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/C.albicans aptamer",
+    "new Linker name":"C.albicans aptamer",
+    "Section":"Fungi",
+    "Target":"Candida albicans",
+    "Sequence":"Ca-apt-1 aptamer: 5'-GGGAGUCGACCGACCAGAACGAAAGACCAACGCAGCCAAACUGAAGCCCCAGUCGCCCCGUAUGUGCGUCUACAUCUAGACUCAU-3'\nCa-apt-12 aptamer: 5'-GGGAGUCGACCGACCAGAAAGCCCUCAACCCAGACACCCCCAACCUUCCUCGCCCCCCCUAUGUGCGUCUACAUCUAGACUCAU-3'",
+    "Length":"85\n84",
+    "GC content":"56%\n60%",
+    "Affinity":"Binding percentage: ≈8%\nBinding percentage: ≈10%",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/30779315\/"
+  }
+]

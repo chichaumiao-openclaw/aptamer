@@ -1,0 +1,122 @@
+[
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Thrombin-aptamer",
+    "New Linker name":"Thrombin aptamer",
+    "Clinical sample":"Adtevak",
+    "Target":"α Thrombin",
+    "Disease indication":"Thrombosis",
+    "Sequence":"5'-GGGAACAAAGCUGAAGUACUUACCC-3'",
+    "Length":25,
+    "GC content":0.48,
+    "Affinity":"Kd:  0.54±0.1 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/7518917\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Interleukin-6-receptor-domain-3-(IL-6R-D3)-aptamer.html",
+    "New Linker name":"Interleukin-6 receptor domain 3 (IL-6R D3)-aptamer",
+    "Clinical sample":"Serum",
+    "Target":"IL-6R",
+    "Disease indication":"Immune diseases",
+    "Sequence":"5'-GGAAGAAAGAGGUCUGAGACAUUCUUAAAAACGGCCCAUCGUUUGGCGCUGUGGGAGUGGAGGGUGGAUGGUGUUAAGCGAUUGGCUUCUGGAGUUGACGUUGCUU-3'",
+    "Length":106,
+    "GC content":0.51,
+    "Affinity":"Kd: 34.8±5.8 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/26383776\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/IL-17A-aptamer.html",
+    "New Linker name":"IL-17A aptamer",
+    "Clinical sample":"Serum",
+    "Target":"IL‐17A",
+    "Disease indication":"Inflammation",
+    "Sequence":"5'-GGUCUAGCCGGAGGAGUCAGUAAUCGGUAGACC-3'",
+    "Length":33,
+    "GC content":0.58,
+    "Affinity":"Kd: 48.5 pM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/20967861\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/E2-aptamer",
+    "New Linker name":"Aβ aptamer",
+    "Clinical sample":"Cerebrospinal fluid",
+    "Target":"Amyloid beta-peptide",
+    "Disease indication":"Alzheimers disease",
+    "Sequence":"5'-GGGAUGUUCUAGGCGGUUGAUGAUUUGGGGUGUCGGGCGAUUUUUAGGGUUGGGCCAGGCCGUCAUCCAGAGUAGCAUAAUUGAUCCGA-3'",
+    "Length":89,
+    "GC content":0.5281,
+    "Affinity":"Kd: 10.9 μM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/19668864\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/CEA-aptamer.html",
+    "New Linker name":"CEA aptamer",
+    "Clinical sample":"Excrement，Serum ect.",
+    "Target":"CEA",
+    "Disease indication":"Gastric cancer",
+    "Sequence":"5'-GGGUCGUGUCGGAUCCUGCGAAGGGGGGCAGAGGUUUGACGCGAGAAAGCUUCUAAGGUAACGAU-3'",
+    "Length":65,
+    "GC content":0.5692,
+    "Affinity":"Kd: 16.5 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/30303958\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Escherichia-coli-aptamer",
+    "New Linker name":"Escherichia coli aptamer",
+    "Clinical sample":"Urine",
+    "Target":"Escherichia coli",
+    "Disease indication":"Infection",
+    "Sequence":"5'-GGGAUACCAGCUUAUUCAAUUUGAUUCCAUCUUCCUGGACUGUCGAAAAUUCAGUAUCGGGAGGUUACGUAUUUGGUUUAUAGAUAGUAAGUGCAAUCU-3'",
+    "Length":99,
+    "GC content":0.3838,
+    "Affinity":"Kd: 110 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/22166202\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Dopamine-aptamer.html",
+    "New Linker name":"Dopamine aptamer",
+    "Clinical sample":"Serum",
+    "Target":"Dopamine",
+    "Disease indication":"Parkinson's Disease",
+    "Sequence":"5'-GGGAAUUCCGCGUGUGCGCCGCGGAAGACGUUGGAAGGAUAGAUACCUACAACGGGGAAUAUAGAGGCCAGCACAUAGUGAGGCCCUCCUCCC-3'",
+    "Length":93,
+    "GC content":0.5856,
+    "Affinity":"Kd: 2.8 µM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/9245404\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Tyr-1-aptamer",
+    "New Linker name":"L-tyrosine aptamer",
+    "Clinical sample":"Serum",
+    "Target":"L-tyrosine",
+    "Disease indication":"Phenylketonuria",
+    "Sequence":"5'-GGGAAGCUUGUACAGGGGGCAGUCAACUCGUGCGAUCGUGAAAACGGGGCAAGAUGGCCUUACAGCGGUCAAUACGGGGGUCAUCAGAUAGGGAGGCCCUCCUGGUGGUCCGUUCGGGAUCCUC-3'",
+    "Length":124,
+    "GC content":0.5968,
+    "Affinity":"Kd: 35 μM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/10786843\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/DP3-aptamer",
+    "New Linker name":"Neuropeptide Y aptamer",
+    "Clinical sample":"Serum",
+    "Target":"Neuropeptide Y",
+    "Disease indication":"Angiocardiopathy",
+    "Sequence":"5'-UCGGAGAAAGGGAAGCUUGAGCAGCAGGAGGGCCGGCGUUAGGGUUAGCGAGCCGAUUGAAAGAAGAAGGAACGAGCGUACGGAUCCGAUC-3'",
+    "Length":91,
+    "GC content":0.5714,
+    "Affinity":"Kd: 0.37 μM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/11756401\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Cell-line-Hep3B-CD133-aptamer",
+    "New Linker name":"Cell line Hep3B CD133 aptamer",
+    "Clinical sample":"Cellular tissue",
+    "Target":"CD133",
+    "Disease indication":"Cancer",
+    "Sequence":"A15 aptamer: 5'-CCCUCCUACAUAGGG-3'\nB19 aptamer: 5'-CAGAACGUAUACUAUUCUG-3'",
+    "Length":"15\n19",
+    "GC content":"60%\n37%",
+    "Affinity":"Kd: 83.2±82.9 nM\nKd: 145.1±75.4 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/23196060\/"
+  }
+]

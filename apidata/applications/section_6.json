@@ -1,0 +1,86 @@
+[
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/DFHBI-1T-aptamer.html",
+    "New Linker name":"Broccoli aptamer",
+    "Fields":"Clinical test",
+    "Target":"SAM",
+    "Method":"Fluorescence",
+    "Sequence":"5'-GAGACGGUCGGGUCCAGAUAUUCGUAUCUGUCGAGUAGAGUGUGGGCUC-3'",
+    "Length":49,
+    "GC content":0.551,
+    "Affinity":"Kd: 360 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/30962542\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/cAMP-aptamer.html",
+    "New Linker name":"cAMP  aptamer",
+    "Fields":"Clinical test and Foods inspection",
+    "Target":"cAMP",
+    "Method":"Electrochemical impedance spectroscopy ",
+    "Sequence":"5'-GGAAGAGAUGGCGACUAAAACGACUUGUCGC-3'",
+    "Length":31,
+    "GC content":0.5161,
+    "Affinity":"Kd: 10 μM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/25437358\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Dopamine-aptamer.html",
+    "New Linker name":"Dopamine aptamer",
+    "Fields":"Clinical test",
+    "Target":"Dopamine",
+    "Method":"Electrochemical",
+    "Sequence":"5'-GGGAAUUCCGCGUGUGCGCCGCGGAAGACGUUGGAAGGAUAGAUACCUACAACGGGGAAUAUAGAGGCCAGCACAUAGUGAGGCCCUCCUCCC-3'",
+    "Length":93,
+    "GC content":0.5856,
+    "Affinity":"Kd: 2.8 µM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/23210972\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Escherichia-coli-aptamer",
+    "New Linker name":"Escherichia coli aptamer",
+    "Fields":"Foods and Environment",
+    "Target":"Escherichia coli ",
+    "Method":"Electrochemical Impedance Spectroscopy",
+    "Sequence":"5'-GGGAUACCAGCUUAUUCAAUUUGAUUCCAUCUUCCUGGACUGUCGAAAAUUCAGUAUCGGGAGGUUACGUAUUUGGUUUAUAGAUAGUAAGUGCAAUCU-3'",
+    "Length":99,
+    "GC content":0.3838,
+    "Affinity":"Kd: 110 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/27871171\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Theophylline-aptamer.html",
+    "New Linker name":"Theophylline aptamer",
+    "Fields":"Clinical test",
+    "Target":"Theophylline",
+    "Method":"Electrochemical",
+    "Sequence":"5'-GGCAUACCAGCCGAAAGGCCCUUGGCAGCGCC-3'",
+    "Length":32,
+    "GC content":0.67,
+    "Affinity":"Kd: 0.67 μM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/18324816\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/NeomycinB-aptamer.html",
+    "New Linker name":"NeomycinB aptamer",
+    "Fields":"Foods",
+    "Target":"Neomycin B",
+    "Method":"Gold nanoparticle (AuNP) sensor",
+    "Sequence":"5'-GGACUGGGCGAGAAGUUUAGUCC-3'",
+    "Length":23,
+    "GC content":0.57,
+    "Affinity":"Kd: 100 nM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/26942739\/"
+  },
+  {
+    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/HPV-16-E7-oncoprotein-aptamer",
+    "New Linker name":"HPV-16 E7 oncoprotein aptamer",
+    "Fields":"Clinical test",
+    "Target":"HPV-16 E7 protein",
+    "Method":"Field effect transistor",
+    "Sequence":"5'-GGAGACCCAAGCCGAUUUAUUUUGUGCAGCUUUUGUUCCCUUUAGUGAGGGUUAAUU-3'",
+    "Length":57,
+    "GC content":0.42,
+    "Affinity":"Kd: 1.9 µM",
+    "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/32816088\/"
+  }
+]

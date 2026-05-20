@@ -1,0 +1,88 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        font-size: 18.57px;
+      }
+
+      .cls-1 {
+        fill: #3fa9f5;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-2 {
+        fill: #ff931e;
+      }
+
+      .cls-3 {
+        fill: #242424;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+
+      .cls-5 {
+        font-size: 20px;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(399.53 388.1)">G</text>
+  <text class="cls-1" transform="translate(399.53 359.86)">G</text>
+  <text class="cls-1" transform="translate(399.53 331.62)">C</text>
+  <text class="cls-1" transform="translate(399.53 303.38)">U</text>
+  <text class="cls-1" transform="translate(380.8 293)">U</text>
+  <text class="cls-1" transform="translate(371.5 275.17)">U</text>
+  <text class="cls-1" transform="translate(379.87 255.97)">C</text>
+  <text class="cls-1" transform="translate(398.77 241.79)">G</text>
+  <text class="cls-2" transform="translate(398.77 213.55)">G</text>
+  <text class="cls-2" transform="translate(398.77 185.31)">G</text>
+  <text class="cls-2" transform="translate(398.77 157.07)">C</text>
+  <text class="cls-2" transform="translate(398.77 128.84)">U</text>
+  <text class="cls-2" transform="translate(382.27 113.1)">U</text>
+  <text class="cls-2" transform="translate(367.97 95.47)">U</text>
+  <text class="cls-2" transform="translate(362.06 71.93)">C</text>
+  <text class="cls-2" transform="translate(369.43 49.27)">G</text>
+  <text class="cls-2" transform="translate(383.74 35.75)">G</text>
+  <text class="cls-2" transform="translate(426.01 24.73)">A</text>
+  <text class="cls-2" transform="translate(446.08 35.97)">A</text>
+  <text class="cls-2" transform="translate(460.96 55.85)">C</text>
+  <text class="cls-2" transform="translate(464.26 79.33)">A</text>
+  <text class="cls-2" transform="translate(457.82 99.8)">U</text>
+  <text class="cls-2" transform="translate(442.79 115.54)">C</text>
+  <text class="cls-2" transform="translate(427.01 128.84)">A</text>
+  <text class="cls-2" transform="translate(427.01 157.07)">G</text>
+  <text class="cls-2" transform="translate(427.01 185.31)">C</text>
+  <text class="cls-2" transform="translate(427.01 213.55)">C</text>
+  <text class="cls-1" transform="translate(427.01 241.79)">C</text>
+  <text class="cls-1" transform="translate(446.05 256.19)">C</text>
+  <text class="cls-1" transform="translate(454.82 275.17)">U</text>
+  <text class="cls-1" transform="translate(444.8 294.31)">C</text>
+  <text class="cls-1" transform="translate(427.77 303.38)">A</text>
+  <text class="cls-1" transform="translate(427.77 331.62)">G</text>
+  <text class="cls-1" transform="translate(427.77 359.86)">C</text>
+  <text class="cls-1" transform="translate(427.77 388.1)">C</text>
+  <text class="cls-3" transform="translate(372.82 391.2)">5’</text>
+  <text class="cls-3" transform="translate(452.64 391.2)">3’</text>
+  <text class="cls-3" transform="translate(356.41 185.31)">10</text>
+  <text class="cls-3" transform="translate(483.48 238.85)">30</text>
+  <line class="cls-4" x1="413.5" y1="382.88" x2="428.14" y2="382.88"/>
+  <line class="cls-4" x1="413.5" y1="353.55" x2="428.14" y2="353.55"/>
+  <line class="cls-4" x1="413.5" y1="324.23" x2="428.14" y2="324.23"/>
+  <line class="cls-4" x1="413.5" y1="294.91" x2="428.14" y2="294.91"/>
+  <line class="cls-4" x1="413.82" y1="235.74" x2="428.46" y2="235.74"/>
+  <line class="cls-4" x1="412.73" y1="206.42" x2="427.38" y2="206.42"/>
+  <line class="cls-4" x1="412.73" y1="178.26" x2="427.38" y2="178.26"/>
+  <line class="cls-4" x1="411.57" y1="150.1" x2="426.22" y2="150.1"/>
+  <line class="cls-4" x1="412.53" y1="123.1" x2="427.17" y2="123.1"/>
+  <text class="cls-2" transform="translate(404.69 24.51)">C</text>
+  <line class="cls-4" x1="382.36" y1="178.26" x2="397" y2="178.26"/>
+  <line class="cls-4" x1="463.78" y1="246.49" x2="476.28" y2="238.85"/>
+  <text class="cls-5" transform="translate(19.52 28.96)">Prostate cancer cells_E3 aptamer</text>
+</svg>

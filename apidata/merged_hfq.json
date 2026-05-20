@@ -1,0 +1,873 @@
+{
+  "metadata": {
+    "merged_at": "2025-09-07T16:32:23.381768",
+    "source_files": {
+      "posts": "apidata/posts_data.json",
+      "sequences": "apidata/sequences_cleaned.json",
+      "structures": "apidata/structure-6.20.split.json"
+    },
+    "counts": {
+      "posts": 183,
+      "sequences_groups": 183,
+      "structures": 48,
+      "unique_slugs": 191
+    },
+    "presence_counts": {
+      "all_three": 1,
+      "post_and_sequences": 0,
+      "post_and_structure": 0,
+      "sequences_and_structure": 0,
+      "only_post": 0,
+      "only_sequences": 0,
+      "only_structure": 0
+    }
+  },
+  "aptamers": {
+    "Hfq-aptamer": {
+      "slug": "Hfq-aptamer",
+      "title": "Hfq aptamer",
+      "post": {
+        "meta": {
+          "title": "Hfq aptamer",
+          "type": "Proteins",
+          "categories": "Aptamer",
+          "date": "2024-03-26 00:00:00",
+          "authors": "Qiaozhen Liu, Zhijie Tan",
+          "tags_map": {
+            "Category": [
+              "Bacteria"
+            ],
+            "GC": [
+              "40.0",
+              "54.0"
+            ],
+            "Length": [
+              "10",
+              "63"
+            ],
+            "Named": [
+              "Hfq (host factor required for phage Qβ RNA replication)_AGr aptamer",
+              "Hfq (host factor required for phage Qβ RNA replication)_m49f aptamer"
+            ],
+            "Type": [
+              "Proteins"
+            ],
+            "Year": [
+              "2012"
+            ]
+          },
+          "filename": "Hfq-aptamer.md"
+        },
+        "description": "In 2010, Seiki Baba et al. reported the expression, crystallization and preliminary X-ray studies of the complex of BsHfq(Bacillus subtilis Hfq) with A/G-repeat RNA. In 2012, Tatsuhiko Someya et al. described RNA aptamers including fragment (AG)3A that are recognized by BsHfq and crystal structures of the BsHfq-(AG)3A complex at 2.2 Å resolution [ 1 , 2 ] .",
+        "timeline": {
+          "entries": [],
+          "text": "2010 The expression of BsHfq and A/G-repeat RNA complex, crys_x005f_x005f_x005f_x0002_tallization and preliminary X-ray study were reported [ 1 ] 2012 Describe RNA aptamers including fragment (AG)(3)A that are recognized by BsHfq and crystal structures of the BsHfq-(AG)(3)A complex at 2.2 Å [ 2 ] 2014 With an emphasis on Hfq, this review compares the RNA-binding properties of the various (L)Sm rings that were recently [ 4 ] 2023 The structures of Hfq were reviewed and biochemical data on interactions between Gram-negative and Gram-positive homologs were defined to highlight similarities and differences in interactions with RNA [ 5 ]"
+        },
+        "structure": {
+          "images": {
+            "2d": [
+              {
+                "src": "/images/2D/Hfq_aptamer_2D.svg",
+                "alt": "",
+                "type": "2d_structure",
+                "filename": "Hfq_aptamer_2D.svg"
+              }
+            ],
+            "3d": [
+              {
+                "src": "/images/3D/Hfq_aptamer_3D1.svg",
+                "alt": "",
+                "type": "3d_structure",
+                "filename": "Hfq_aptamer_3D1.svg"
+              }
+            ],
+            "binding_pocket": [
+              {
+                "src": "/images/Binding_pocket/Hfq_aptamer_binding_pocket1.svg",
+                "alt": "",
+                "type": "binding_pocket",
+                "filename": "Hfq_aptamer_binding_pocket1.svg"
+              },
+              {
+                "src": "/images/Binding_pocket/Hfq_aptamer_binding_pocket2.svg",
+                "alt": "",
+                "type": "binding_pocket",
+                "filename": "Hfq_aptamer_binding_pocket2.svg"
+              }
+            ]
+          },
+          "viewer": {
+            "pdb_info": {
+              "pdb_id": "structure",
+              "pdb_file_path": "/pdbfiles/3hsb-3D.pdb"
+            },
+            "molstar_config": {
+              "background_color": "r:255, g:255, b:255",
+              "hidden_controls": [
+                "expand",
+                "selection",
+                "animation",
+                "controlToggle"
+              ]
+            },
+            "color_schemes": [
+              {
+                "struct_asym_id": "A",
+                "start_residue_number": 5,
+                "end_residue_number": 71,
+                "color": {
+                  "r": 133,
+                  "g": 39,
+                  "b": 181
+                }
+              },
+              {
+                "struct_asym_id": "B",
+                "start_residue_number": 4,
+                "end_residue_number": 72,
+                "color": {
+                  "r": 133,
+                  "g": 39,
+                  "b": 181
+                }
+              },
+              {
+                "struct_asym_id": "C",
+                "start_residue_number": 5,
+                "end_residue_number": 70,
+                "color": {
+                  "r": 133,
+                  "g": 39,
+                  "b": 181
+                }
+              },
+              {
+                "struct_asym_id": "D",
+                "start_residue_number": 5,
+                "end_residue_number": 71,
+                "color": {
+                  "r": 133,
+                  "g": 39,
+                  "b": 181
+                }
+              },
+              {
+                "struct_asym_id": "E",
+                "start_residue_number": 5,
+                "end_residue_number": 72,
+                "color": {
+                  "r": 133,
+                  "g": 39,
+                  "b": 181
+                }
+              },
+              {
+                "struct_asym_id": "F",
+                "start_residue_number": 5,
+                "end_residue_number": 71,
+                "color": {
+                  "r": 133,
+                  "g": 39,
+                  "b": 181
+                }
+              },
+              {
+                "struct_asym_id": "X",
+                "start_residue_number": 1,
+                "end_residue_number": 4,
+                "color": {
+                  "r": 46,
+                  "g": 161,
+                  "b": 3
+                }
+              },
+              {
+                "struct_asym_id": "X",
+                "start_residue_number": 5,
+                "end_residue_number": 6,
+                "color": {
+                  "r": 241,
+                  "g": 125,
+                  "b": 7
+                }
+              },
+              {
+                "struct_asym_id": "X",
+                "start_residue_number": 7,
+                "end_residue_number": 7,
+                "color": {
+                  "r": 46,
+                  "g": 161,
+                  "b": 3
+                }
+              }
+            ],
+            "interactive_controls": [
+              {
+                "text": "Color Selection",
+                "action": "color_selection"
+              },
+              {
+                "text": "Clear Selection",
+                "action": "color_selection"
+              }
+            ]
+          },
+          "subsections_present": [
+            "2d_representation",
+            "3d_visualisation",
+            "3d_visualization",
+            "binding_pocket"
+          ]
+        },
+        "ligand": {
+          "selex_ligand": {
+            "text": "Tatsuhiko Someya et al. et al. used EMSA to analyze the relationship between AG repeat sequences and BsHfq binding ability. Nucleotides in lower-case letters indicate constant flanking sequences [ 2 ] . Name Sequence Ligand Affinity m49f aptamer 5'-gggacacaauggacgUAGAGAGAGAUUAGAUCCUGUCCGCGGCUAuaacggccgacaugagag-3' Bacillus subtilis Hfq 10 nM AG repeat sequence(AGr aptamer) 5'-UAGAGAGAGA-3' Bacillus subtilis Hfq 1 μM",
+            "images": [],
+            "tables": [
+              {
+                "headers": [
+                  "Name",
+                  "Sequence",
+                  "Ligand",
+                  "Affinity"
+                ],
+                "rows": [
+                  [
+                    {
+                      "text": "m49f aptamer",
+                      "html": "<td name=\"td0\">m49f aptamer</td>",
+                      "links": []
+                    },
+                    {
+                      "text": "5'-gggacacaauggacgUAGAGAGAGAUUAGAUCCUGUCCGCGGCUAuaacggccgacaugagag-3'",
+                      "html": "<td name=\"td1\">5'-gggacacaauggacgUAGAGAGAGAUUAGAUCCUGUCCGCGGCUAuaacggccgacaugagag-3'</td>",
+                      "links": []
+                    },
+                    {
+                      "text": "Bacillus subtilis Hfq",
+                      "html": "<td name=\"td3\">Bacillus subtilis Hfq</td>",
+                      "links": []
+                    },
+                    {
+                      "text": "10 nM",
+                      "html": "<td name=\"td4\">10 nM</td>",
+                      "links": []
+                    }
+                  ],
+                  [
+                    {
+                      "text": "AG repeat sequence(AGr aptamer)",
+                      "html": "<td name=\"td0\">AG repeat sequence(AGr aptamer)</td>",
+                      "links": []
+                    },
+                    {
+                      "text": "5'-UAGAGAGAGA-3'",
+                      "html": "<td name=\"td1\">5'-UAGAGAGAGA-3'</td>",
+                      "links": []
+                    },
+                    {
+                      "text": "Bacillus subtilis Hfq",
+                      "html": "<td name=\"td3\">Bacillus subtilis Hfq</td>",
+                      "links": []
+                    },
+                    {
+                      "text": "1 μM",
+                      "html": "<td name=\"td4\">1 μM</td>",
+                      "links": []
+                    }
+                  ]
+                ],
+                "class": [
+                  "table",
+                  "table-bordered"
+                ],
+                "style": "table-layout:fixed;width:auto;margin-left:auto;margin-right:auto;"
+              }
+            ],
+            "sequences": [
+              "5'-gggacacaauggacgUAGAGAGAGAUUAGAUCCUGUCCGCGGCUAuaacggccgacaugagag-3'",
+              "5'-UAGAGAGAGA-3'"
+            ]
+          },
+          "structure_ligand": {
+            "text": "This entry represents the RNA-binding pleiotropic regulator Hfq, a small, Sm-like protein of bacteria. It helps pair regulatory non-coding RNAs with complementary mRNA target regions. It enhances the elongation of poly(A) tails on mRNA. It appears also to protect RNase E recognition sites (A/U-rich sequences with adjacent stem-loop structures) from cleavage. The Hfq protein is conserved in a wide range of bacteria and varies in length from 70 to 100 amino acids. In all cases, a conserved Sm motif is located in the N-terminal halves of the molecules. The architecture of the Hfq-RNA complex suggests two, not mutually exclusive, mechanisms by which Hfq might exert its function as modulator of RNA-RNA interactions. First, when Hfq binds single-stranded RNA, the target site is unwound in a circular manner. This would greatly destabilise surrounding RNA structures that are located several nucleotides on either side of the binding site, thereby permitting new RNA-RNA interactions. Secondly, the repetition of identical BPs on the Hfq hexamer implies that the binding surface can accommodate more than just a single RNA target. This would allow simultaneous binding of two RNA strands and could greatly enhance interaction between the strands.-----from Pfam UniProt ID: uniquely identifies protein sequences in the UniProt database , a resource for protein information. Pfam : a widely recognised database of protein families and domains. GenBank : maintained by NCBI (National Center for Biotechnology Information), is a database of nucleotide sequences from various organisms, vital for genetic and molecular biology research. Mass : an intrinsic property of a body. Uniprot ID Pfam Mass Protein sequence PDB ID GenBank A0A7U4HWX3 PF17209 49.40 kDa GAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHS 1HK9 940073",
+            "images": [
+              {
+                "src": "/images/Structure_ligand/Hfq_stru_ligand.svg",
+                "alt": "",
+                "type": "structure_ligand",
+                "filename": "Hfq_stru_ligand.svg"
+              }
+            ],
+            "tables": [
+              {
+                "headers": [
+                  "Uniprot ID",
+                  "Pfam",
+                  "Mass",
+                  "Protein sequence",
+                  "PDB ID",
+                  "GenBank"
+                ],
+                "rows": [
+                  [
+                    {
+                      "text": "A0A7U4HWX3",
+                      "html": "<td name=\"td0\"><a href=\"https://www.uniprot.org/uniprotkb/A0A7U4HWX3/entry\" style=\"color:#520049\" target=\"_blank\"><b>A0A7U4HWX3</b></a></td>",
+                      "links": [
+                        {
+                          "url": "https://www.uniprot.org/uniprotkb/A0A7U4HWX3/entry",
+                          "text": "A0A7U4HWX3"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "PF17209",
+                      "html": "<td name=\"td1\"><a href=\"https://www.ebi.ac.uk/interpro/entry/pfam/PF17209/\" style=\"color:#520049\" target=\"_blank\"><b>PF17209</b></a></td>",
+                      "links": [
+                        {
+                          "url": "https://www.ebi.ac.uk/interpro/entry/pfam/PF17209/",
+                          "text": "PF17209"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "49.40 kDa",
+                      "html": "<td name=\"td2\">49.40 kDa</td>",
+                      "links": []
+                    },
+                    {
+                      "text": "GAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHS",
+                      "html": "<td name=\"td3\">\n<div class=\"sequence-container\">\n<span class=\"full-sequence\">GAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHS</span>\n</div>\n</td>",
+                      "links": []
+                    },
+                    {
+                      "text": "1HK9",
+                      "html": "<td name=\"td4\"><a href=\"https://www.rcsb.org/structure/1HK9\" style=\"color:#520049\" target=\"_blank\"><b>1HK9</b></a></td>",
+                      "links": [
+                        {
+                          "url": "https://www.rcsb.org/structure/1HK9",
+                          "text": "1HK9"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "940073",
+                      "html": "<td name=\"td5\"><a href=\"https://www.ncbi.nlm.nih.gov/gene/940073\" style=\"color:#520049\" target=\"_blank\"><b>940073</b> </a></td>",
+                      "links": [
+                        {
+                          "url": "https://www.ncbi.nlm.nih.gov/gene/940073",
+                          "text": "940073"
+                        }
+                      ]
+                    }
+                  ]
+                ],
+                "class": [
+                  "table",
+                  "table-bordered"
+                ],
+                "style": "table-layout:fixed;width:auto;margin-left:auto;margin-right:auto;"
+              },
+              {
+                "headers": [],
+                "rows": [
+                  [
+                    {
+                      "text": "",
+                      "html": "<td style=\"text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px\"><img alt=\"drawing\" px=\"\" src=\"/images/Structure_ligand/Hfq_stru_ligand.svg\" style=\"width:800px\"/></td>",
+                      "links": []
+                    }
+                  ]
+                ],
+                "class": [
+                  "table",
+                  "table-bordered"
+                ],
+                "style": "table-layout:fixed;width:auto;margin-left:auto;margin-right:auto;"
+              }
+            ],
+            "sequences": []
+          }
+        },
+        "references": [
+          {
+            "id": "1",
+            "number": "1",
+            "title": "Expression, crystallization and preliminary crystallographic analysis of RNA-binding protein Hfq (YmaH) from Bacillus subtilis in complex with an RNA.",
+            "authors": "Baba, S., Someya, T., Kawai, G., Nakamura, K., & Kumasaka, T.",
+            "journal": "Acta crystallographica. Section F, Structural biology and crystallization communications, 66(Pt 5), 563–566. (2010)"
+          },
+          {
+            "id": "2",
+            "number": "2",
+            "title": "Crystal structure of Hfq from Bacillus subtilis in complex with SELEX-derived RNA aptamer: insight into RNA-binding properties of bacterial Hfq.",
+            "authors": "Someya, T., Baba, S., Fujimoto, M., Kawai, G., Kumasaka, T., & Nakamura, K.",
+            "journal": "Nucleic acids research, 40(4), 1856-1867. (2012)"
+          },
+          {
+            "id": "3",
+            "number": "3",
+            "title": "Structural mechanism of Staphylococcus aureus Hfq binding to an RNA A-tract.",
+            "authors": "Horstmann, N., Orans, J., Valentin-Hansen, P., Shelburne, S. A., 3rd, & Brennan, R. G.",
+            "journal": "Nucleic acids research, 40(21), 11023–11035. (2012)"
+          },
+          {
+            "id": "4",
+            "number": "4",
+            "title": "RNA binding by Hfq and ring-forming (L)Sm proteins: a trade-off between optimal sequence readout and RNA backbone conformation.",
+            "authors": "Weichenrieder O.",
+            "journal": "RNA biology, 11(5), 537–549. (2014)"
+          },
+          {
+            "id": "5",
+            "number": "5",
+            "title": "Models of Hfq interactions with small non-coding RNA in Gram-negative and Gram-positive bacteria.",
+            "authors": "Watkins, D., & Arya, D.",
+            "journal": "Frontiers in cellular and infection microbiology, 13, 1282258. (2023)"
+          }
+        ],
+        "post_sequences_extracted": [
+          "5'-AGAGAGA-3'",
+          "5'-UAGAGAGAGA-3'",
+          "5'-gggacacaauggacgUAGAGAGAGAUUAGAUCCUGUCCGCGGCUAuaacggccgacaugagag-3'"
+        ]
+      },
+      "sequences": {
+        "records": [
+          {
+            "id": "Hfq_Nakamura_1",
+            "page_name": "Hfq aptamer",
+            "type": "Proteins",
+            "category": "Bacteria",
+            "named": "Hfq (host factor required for phage Qβ RNA replication)_m49f aptamer",
+            "article_name": "m49f aptamer",
+            "ligand": "Hfq (host factor required for phage Qβ RNA replication)",
+            "ligand_description": "Hfq（host factor required for phage Qβ RNA replication） binds to the loop structure formed by the AG repeat sequence, which regulates gene expression.",
+            "ligand_info": "GAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHS",
+            "sequence": "GGGACACAAUGGACGUAGAGAGAGAUUAGAUCCUGUCCGCGGCUAUAACGGCCGACAUGAGAG",
+            "length": 63,
+            "gc_content": 0.54,
+            "affinity": "Kd: 10 nM",
+            "year": 2012,
+            "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/22053080/",
+            "linker": "/_posts/Hfq-aptamer",
+            "source": "sequences_cleaned"
+          },
+          {
+            "id": "Hfq_Nakamura_2",
+            "page_name": "Hfq aptamer",
+            "type": "Proteins",
+            "category": "Bacteria",
+            "named": "Hfq (host factor required for phage Qβ RNA replication)_AGr aptamer",
+            "article_name": "AGr aptamer",
+            "ligand": "Hfq (host factor required for phage Qβ RNA replication)",
+            "ligand_description": "Hfq（host factor required for phage Qβ RNA replication） binds to the loop structure formed by the AG repeat sequence, which regulates gene expression.",
+            "ligand_info": "GAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHS",
+            "sequence": "UAGAGAGAGA",
+            "length": 10,
+            "gc_content": 0.4,
+            "affinity": "Kd: 1 μM",
+            "year": 2012,
+            "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/22053080/",
+            "linker": "/_posts/Hfq-aptamer",
+            "source": "sequences_cleaned"
+          }
+        ],
+        "extracted_from_post": [
+          "5'-AGAGAGA-3'",
+          "5'-UAGAGAGAGA-3'",
+          "5'-gggacacaauggacgUAGAGAGAGAUUAGAUCCUGUCCGCGGCUAuaacggccgacaugagag-3'"
+        ]
+      },
+      "structure": {
+        "summary": {
+          "name": "Hfq aptamer",
+          "aptamer_linker": "https://aptamer.ribocentre.org/_posts/Hfq-aptamer.html",
+          "ligand": "YmaH (Hfq)",
+          "method": "X-ray",
+          "pdb_ids": [
+            "3HSB",
+            "3AHU"
+          ],
+          "pdb_primary_url": "https://www.rcsb.org/structure/3HSB",
+          "phase_determination": "Molecular replacement(MR)",
+          "resolution_A": 2.2,
+          "year": 2012,
+          "pubmed_year_text": "2012",
+          "pubmed_urls": [
+            "https://pubmed.ncbi.nlm.nih.gov/22053080/"
+          ]
+        },
+        "viewer": {
+          "pdb_info": {
+            "pdb_id": "structure",
+            "pdb_file_path": "/pdbfiles/3hsb-3D.pdb"
+          },
+          "molstar_config": {
+            "background_color": "r:255, g:255, b:255",
+            "hidden_controls": [
+              "expand",
+              "selection",
+              "animation",
+              "controlToggle"
+            ]
+          },
+          "color_schemes": [
+            {
+              "struct_asym_id": "A",
+              "start_residue_number": 5,
+              "end_residue_number": 71,
+              "color": {
+                "r": 133,
+                "g": 39,
+                "b": 181
+              }
+            },
+            {
+              "struct_asym_id": "B",
+              "start_residue_number": 4,
+              "end_residue_number": 72,
+              "color": {
+                "r": 133,
+                "g": 39,
+                "b": 181
+              }
+            },
+            {
+              "struct_asym_id": "C",
+              "start_residue_number": 5,
+              "end_residue_number": 70,
+              "color": {
+                "r": 133,
+                "g": 39,
+                "b": 181
+              }
+            },
+            {
+              "struct_asym_id": "D",
+              "start_residue_number": 5,
+              "end_residue_number": 71,
+              "color": {
+                "r": 133,
+                "g": 39,
+                "b": 181
+              }
+            },
+            {
+              "struct_asym_id": "E",
+              "start_residue_number": 5,
+              "end_residue_number": 72,
+              "color": {
+                "r": 133,
+                "g": 39,
+                "b": 181
+              }
+            },
+            {
+              "struct_asym_id": "F",
+              "start_residue_number": 5,
+              "end_residue_number": 71,
+              "color": {
+                "r": 133,
+                "g": 39,
+                "b": 181
+              }
+            },
+            {
+              "struct_asym_id": "X",
+              "start_residue_number": 1,
+              "end_residue_number": 4,
+              "color": {
+                "r": 46,
+                "g": 161,
+                "b": 3
+              }
+            },
+            {
+              "struct_asym_id": "X",
+              "start_residue_number": 5,
+              "end_residue_number": 6,
+              "color": {
+                "r": 241,
+                "g": 125,
+                "b": 7
+              }
+            },
+            {
+              "struct_asym_id": "X",
+              "start_residue_number": 7,
+              "end_residue_number": 7,
+              "color": {
+                "r": 46,
+                "g": 161,
+                "b": 3
+              }
+            }
+          ],
+          "interactive_controls": [
+            {
+              "text": "Color Selection",
+              "action": "color_selection"
+            },
+            {
+              "text": "Clear Selection",
+              "action": "color_selection"
+            }
+          ]
+        },
+        "images": {
+          "2d": [
+            {
+              "src": "/images/2D/Hfq_aptamer_2D.svg",
+              "alt": "",
+              "type": "2d_structure",
+              "filename": "Hfq_aptamer_2D.svg"
+            }
+          ],
+          "3d": [
+            {
+              "src": "/images/3D/Hfq_aptamer_3D1.svg",
+              "alt": "",
+              "type": "3d_structure",
+              "filename": "Hfq_aptamer_3D1.svg"
+            }
+          ],
+          "binding_pocket": [
+            {
+              "src": "/images/Binding_pocket/Hfq_aptamer_binding_pocket1.svg",
+              "alt": "",
+              "type": "binding_pocket",
+              "filename": "Hfq_aptamer_binding_pocket1.svg"
+            },
+            {
+              "src": "/images/Binding_pocket/Hfq_aptamer_binding_pocket2.svg",
+              "alt": "",
+              "type": "binding_pocket",
+              "filename": "Hfq_aptamer_binding_pocket2.svg"
+            }
+          ]
+        }
+      },
+      "ligand": {
+        "selex_ligand": {
+          "text": "Tatsuhiko Someya et al. et al. used EMSA to analyze the relationship between AG repeat sequences and BsHfq binding ability. Nucleotides in lower-case letters indicate constant flanking sequences [ 2 ] . Name Sequence Ligand Affinity m49f aptamer 5'-gggacacaauggacgUAGAGAGAGAUUAGAUCCUGUCCGCGGCUAuaacggccgacaugagag-3' Bacillus subtilis Hfq 10 nM AG repeat sequence(AGr aptamer) 5'-UAGAGAGAGA-3' Bacillus subtilis Hfq 1 μM",
+          "images": [],
+          "tables": [
+            {
+              "headers": [
+                "Name",
+                "Sequence",
+                "Ligand",
+                "Affinity"
+              ],
+              "rows": [
+                [
+                  {
+                    "text": "m49f aptamer",
+                    "html": "<td name=\"td0\">m49f aptamer</td>",
+                    "links": []
+                  },
+                  {
+                    "text": "5'-gggacacaauggacgUAGAGAGAGAUUAGAUCCUGUCCGCGGCUAuaacggccgacaugagag-3'",
+                    "html": "<td name=\"td1\">5'-gggacacaauggacgUAGAGAGAGAUUAGAUCCUGUCCGCGGCUAuaacggccgacaugagag-3'</td>",
+                    "links": []
+                  },
+                  {
+                    "text": "Bacillus subtilis Hfq",
+                    "html": "<td name=\"td3\">Bacillus subtilis Hfq</td>",
+                    "links": []
+                  },
+                  {
+                    "text": "10 nM",
+                    "html": "<td name=\"td4\">10 nM</td>",
+                    "links": []
+                  }
+                ],
+                [
+                  {
+                    "text": "AG repeat sequence(AGr aptamer)",
+                    "html": "<td name=\"td0\">AG repeat sequence(AGr aptamer)</td>",
+                    "links": []
+                  },
+                  {
+                    "text": "5'-UAGAGAGAGA-3'",
+                    "html": "<td name=\"td1\">5'-UAGAGAGAGA-3'</td>",
+                    "links": []
+                  },
+                  {
+                    "text": "Bacillus subtilis Hfq",
+                    "html": "<td name=\"td3\">Bacillus subtilis Hfq</td>",
+                    "links": []
+                  },
+                  {
+                    "text": "1 μM",
+                    "html": "<td name=\"td4\">1 μM</td>",
+                    "links": []
+                  }
+                ]
+              ],
+              "class": [
+                "table",
+                "table-bordered"
+              ],
+              "style": "table-layout:fixed;width:auto;margin-left:auto;margin-right:auto;"
+            }
+          ],
+          "sequences": [
+            "5'-gggacacaauggacgUAGAGAGAGAUUAGAUCCUGUCCGCGGCUAuaacggccgacaugagag-3'",
+            "5'-UAGAGAGAGA-3'"
+          ]
+        },
+        "structure_ligand": {
+          "text": "This entry represents the RNA-binding pleiotropic regulator Hfq, a small, Sm-like protein of bacteria. It helps pair regulatory non-coding RNAs with complementary mRNA target regions. It enhances the elongation of poly(A) tails on mRNA. It appears also to protect RNase E recognition sites (A/U-rich sequences with adjacent stem-loop structures) from cleavage. The Hfq protein is conserved in a wide range of bacteria and varies in length from 70 to 100 amino acids. In all cases, a conserved Sm motif is located in the N-terminal halves of the molecules. The architecture of the Hfq-RNA complex suggests two, not mutually exclusive, mechanisms by which Hfq might exert its function as modulator of RNA-RNA interactions. First, when Hfq binds single-stranded RNA, the target site is unwound in a circular manner. This would greatly destabilise surrounding RNA structures that are located several nucleotides on either side of the binding site, thereby permitting new RNA-RNA interactions. Secondly, the repetition of identical BPs on the Hfq hexamer implies that the binding surface can accommodate more than just a single RNA target. This would allow simultaneous binding of two RNA strands and could greatly enhance interaction between the strands.-----from Pfam UniProt ID: uniquely identifies protein sequences in the UniProt database , a resource for protein information. Pfam : a widely recognised database of protein families and domains. GenBank : maintained by NCBI (National Center for Biotechnology Information), is a database of nucleotide sequences from various organisms, vital for genetic and molecular biology research. Mass : an intrinsic property of a body. Uniprot ID Pfam Mass Protein sequence PDB ID GenBank A0A7U4HWX3 PF17209 49.40 kDa GAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHS 1HK9 940073",
+          "images": [
+            {
+              "src": "/images/Structure_ligand/Hfq_stru_ligand.svg",
+              "alt": "",
+              "type": "structure_ligand",
+              "filename": "Hfq_stru_ligand.svg"
+            }
+          ],
+          "tables": [
+            {
+              "headers": [
+                "Uniprot ID",
+                "Pfam",
+                "Mass",
+                "Protein sequence",
+                "PDB ID",
+                "GenBank"
+              ],
+              "rows": [
+                [
+                  {
+                    "text": "A0A7U4HWX3",
+                    "html": "<td name=\"td0\"><a href=\"https://www.uniprot.org/uniprotkb/A0A7U4HWX3/entry\" style=\"color:#520049\" target=\"_blank\"><b>A0A7U4HWX3</b></a></td>",
+                    "links": [
+                      {
+                        "url": "https://www.uniprot.org/uniprotkb/A0A7U4HWX3/entry",
+                        "text": "A0A7U4HWX3"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "PF17209",
+                    "html": "<td name=\"td1\"><a href=\"https://www.ebi.ac.uk/interpro/entry/pfam/PF17209/\" style=\"color:#520049\" target=\"_blank\"><b>PF17209</b></a></td>",
+                    "links": [
+                      {
+                        "url": "https://www.ebi.ac.uk/interpro/entry/pfam/PF17209/",
+                        "text": "PF17209"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "49.40 kDa",
+                    "html": "<td name=\"td2\">49.40 kDa</td>",
+                    "links": []
+                  },
+                  {
+                    "text": "GAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHS",
+                    "html": "<td name=\"td3\">\n<div class=\"sequence-container\">\n<span class=\"full-sequence\">GAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHSGAMAKGQSLQDPFLNALRRERVPVSIYLVNGIKLQGQIESFDQFVILLKNTVSQMVYKHAISTVVPSRPVSHHS</span>\n</div>\n</td>",
+                    "links": []
+                  },
+                  {
+                    "text": "1HK9",
+                    "html": "<td name=\"td4\"><a href=\"https://www.rcsb.org/structure/1HK9\" style=\"color:#520049\" target=\"_blank\"><b>1HK9</b></a></td>",
+                    "links": [
+                      {
+                        "url": "https://www.rcsb.org/structure/1HK9",
+                        "text": "1HK9"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "940073",
+                    "html": "<td name=\"td5\"><a href=\"https://www.ncbi.nlm.nih.gov/gene/940073\" style=\"color:#520049\" target=\"_blank\"><b>940073</b> </a></td>",
+                    "links": [
+                      {
+                        "url": "https://www.ncbi.nlm.nih.gov/gene/940073",
+                        "text": "940073"
+                      }
+                    ]
+                  }
+                ]
+              ],
+              "class": [
+                "table",
+                "table-bordered"
+              ],
+              "style": "table-layout:fixed;width:auto;margin-left:auto;margin-right:auto;"
+            },
+            {
+              "headers": [],
+              "rows": [
+                [
+                  {
+                    "text": "",
+                    "html": "<td style=\"text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px\"><img alt=\"drawing\" px=\"\" src=\"/images/Structure_ligand/Hfq_stru_ligand.svg\" style=\"width:800px\"/></td>",
+                    "links": []
+                  }
+                ]
+              ],
+              "class": [
+                "table",
+                "table-bordered"
+              ],
+              "style": "table-layout:fixed;width:auto;margin-left:auto;margin-right:auto;"
+            }
+          ],
+          "sequences": []
+        }
+      },
+      "description": "In 2010, Seiki Baba et al. reported the expression, crystallization and preliminary X-ray studies of the complex of BsHfq(Bacillus subtilis Hfq) with A/G-repeat RNA. In 2012, Tatsuhiko Someya et al. described RNA aptamers including fragment (AG)3A that are recognized by BsHfq and crystal structures of the BsHfq-(AG)3A complex at 2.2 Å resolution [ 1 , 2 ] .",
+      "timeline": {
+        "entries": [],
+        "text": "2010 The expression of BsHfq and A/G-repeat RNA complex, crys_x005f_x005f_x005f_x0002_tallization and preliminary X-ray study were reported [ 1 ] 2012 Describe RNA aptamers including fragment (AG)(3)A that are recognized by BsHfq and crystal structures of the BsHfq-(AG)(3)A complex at 2.2 Å [ 2 ] 2014 With an emphasis on Hfq, this review compares the RNA-binding properties of the various (L)Sm rings that were recently [ 4 ] 2023 The structures of Hfq were reviewed and biochemical data on interactions between Gram-negative and Gram-positive homologs were defined to highlight similarities and differences in interactions with RNA [ 5 ]"
+      },
+      "references": [
+        {
+          "id": "1",
+          "number": "1",
+          "title": "Expression, crystallization and preliminary crystallographic analysis of RNA-binding protein Hfq (YmaH) from Bacillus subtilis in complex with an RNA.",
+          "authors": "Baba, S., Someya, T., Kawai, G., Nakamura, K., & Kumasaka, T.",
+          "journal": "Acta crystallographica. Section F, Structural biology and crystallization communications, 66(Pt 5), 563–566. (2010)"
+        },
+        {
+          "id": "2",
+          "number": "2",
+          "title": "Crystal structure of Hfq from Bacillus subtilis in complex with SELEX-derived RNA aptamer: insight into RNA-binding properties of bacterial Hfq.",
+          "authors": "Someya, T., Baba, S., Fujimoto, M., Kawai, G., Kumasaka, T., & Nakamura, K.",
+          "journal": "Nucleic acids research, 40(4), 1856-1867. (2012)"
+        },
+        {
+          "id": "3",
+          "number": "3",
+          "title": "Structural mechanism of Staphylococcus aureus Hfq binding to an RNA A-tract.",
+          "authors": "Horstmann, N., Orans, J., Valentin-Hansen, P., Shelburne, S. A., 3rd, & Brennan, R. G.",
+          "journal": "Nucleic acids research, 40(21), 11023–11035. (2012)"
+        },
+        {
+          "id": "4",
+          "number": "4",
+          "title": "RNA binding by Hfq and ring-forming (L)Sm proteins: a trade-off between optimal sequence readout and RNA backbone conformation.",
+          "authors": "Weichenrieder O.",
+          "journal": "RNA biology, 11(5), 537–549. (2014)"
+        },
+        {
+          "id": "5",
+          "number": "5",
+          "title": "Models of Hfq interactions with small non-coding RNA in Gram-negative and Gram-positive bacteria.",
+          "authors": "Watkins, D., & Arya, D.",
+          "journal": "Frontiers in cellular and infection microbiology, 13, 1282258. (2023)"
+        }
+      ],
+      "presence": {
+        "has_post": true,
+        "has_sequences": true,
+        "has_structure": true
+      }
+    }
+  }
+}

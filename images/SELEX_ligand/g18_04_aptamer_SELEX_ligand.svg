@@ -1,0 +1,665 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 400">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-14, .cls-15, .cls-16, .cls-17, .cls-2, .cls-4, .cls-5, .cls-6, .cls-7, .cls-9 {
+        isolation: isolate;
+      }
+
+      .cls-1 {
+        font-size: 15px;
+      }
+
+      .cls-1, .cls-15, .cls-16, .cls-17 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-10, .cls-11, .cls-2, .cls-4, .cls-5, .cls-6, .cls-7, .cls-9 {
+        font-size: 6.99px;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-2, .cls-4, .cls-5, .cls-6, .cls-7, .cls-9 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-13, .cls-3, .cls-8 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-13, .cls-3 {
+        stroke-width: 1.35px;
+      }
+
+      .cls-12, .cls-4, .cls-5 {
+        fill: lime;
+      }
+
+      .cls-11, .cls-5, .cls-6 {
+        letter-spacing: -0.08em;
+      }
+
+      .cls-7 {
+        fill: #ccc;
+      }
+
+      .cls-13, .cls-8 {
+        stroke: #ccc;
+      }
+
+      .cls-8 {
+        stroke-width: 0.68px;
+      }
+
+      .cls-9 {
+        fill: blue;
+      }
+
+      .cls-10, .cls-11 {
+        fill: #f0f;
+      }
+
+      .cls-12 {
+        font-size: 6.21px;
+      }
+
+      .cls-15, .cls-16, .cls-17 {
+        font-size: 20px;
+      }
+
+      .cls-16 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-17 {
+        letter-spacing: -0.11em;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(130.31 346.09) scale(1.17 1)">5&apos;</text>
+  <text class="cls-2" transform="translate(144.49 353.93) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="147.74" y1="357.9" x2="147.83" y2="364.24"/>
+  <text class="cls-2" transform="translate(153.91 354.1) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="156.86" y1="358.07" x2="156.84" y2="364.24"/>
+  <text class="cls-4" transform="translate(162.61 354.1) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="165.63" y1="358.07" x2="165.71" y2="364.24"/>
+  <text class="cls-4" transform="translate(171.56 354.27) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="174.52" y1="358.24" x2="174.53" y2="364.24"/>
+  <text class="cls-4" transform="translate(179.67 354.27) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="182.9" y1="358.23" x2="183.23" y2="364.08"/>
+  <text class="cls-2" transform="translate(188.48 354.1) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="191.68" y1="358.06" x2="191.97" y2="364.08"/>
+  <text class="cls-5" transform="translate(197.36 354.1) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="200.32" y1="358.07" x2="200.32" y2="364.08"/>
+  <text class="cls-6" transform="translate(206.31 354.27) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="209.3" y1="358.24" x2="209.33" y2="363.57"/>
+  <text class="cls-4" transform="translate(215.14 354.1) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="218.07" y1="358.07" x2="218.04" y2="363.57"/>
+  <text class="cls-2" transform="translate(223.97 353.6) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="227.09" y1="357.56" x2="227.01" y2="363.39"/>
+  <text class="cls-7" transform="translate(221.97 337.86) scale(1.17 1)">10</text>
+  <text class="cls-7" transform="translate(221.97 337.86) scale(1.17 1)">10</text>
+  <line class="cls-8" x1="226.99" y1="349.4" x2="226.67" y2="341.35"/>
+  <line class="cls-8" x1="226.99" y1="349.4" x2="226.67" y2="341.35"/>
+  <text class="cls-4" transform="translate(232.94 353.6) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="235.9" y1="357.56" x2="235.9" y2="363.39"/>
+  <text class="cls-2" transform="translate(241.74 353.42) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="244.68" y1="357.39" x2="244.66" y2="363.39"/>
+  <text class="cls-2" transform="translate(250.62 353.42) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="253.64" y1="357.39" x2="253.73" y2="363.39"/>
+  <text class="cls-4" transform="translate(260.17 353.42) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="263.73" y1="357.38" x2="264.21" y2="363.4"/>
+  <text class="cls-2" transform="translate(270.16 353.76) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="278.82" y1="353.17" x2="285.6" y2="353.3"/>
+  <text class="cls-2" transform="translate(269.75 346.09) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="278.39" y1="345.61" x2="285.36" y2="345.87"/>
+  <text class="cls-4" transform="translate(270.54 339.28) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="278.97" y1="338.63" x2="285.35" y2="338.69"/>
+  <text class="cls-6" transform="translate(270.18 331.61) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="278.61" y1="330.85" x2="285.5" y2="330.79"/>
+  <text class="cls-6" transform="translate(270.18 324.11) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="278.61" y1="323.37" x2="285.5" y2="323.3"/>
+  <text class="cls-2" transform="translate(270.33 316.44) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="278.76" y1="315.8" x2="285.35" y2="315.86"/>
+  <text class="cls-7" transform="translate(250.27 316.44) scale(1.17 1)">20</text>
+  <text class="cls-7" transform="translate(250.27 316.44) scale(1.17 1)">20</text>
+  <line class="cls-8" x1="268.37" y1="316.44" x2="259.75" y2="316.44"/>
+  <line class="cls-8" x1="268.37" y1="316.44" x2="259.75" y2="316.44"/>
+  <text class="cls-2" transform="translate(270.18 308.95) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="278.61" y1="308.25" x2="285.35" y2="308.25"/>
+  <text class="cls-2" transform="translate(261.21 304.35) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(260.4 296.17) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="263.36" y1="290.81" x2="263.36" y2="284.63"/>
+  <text class="cls-2" transform="translate(251.61 295.99) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="254.52" y1="290.63" x2="254.46" y2="284.8"/>
+  <text class="cls-2" transform="translate(242.28 295.99) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="245.51" y1="290.63" x2="245.57" y2="284.63"/>
+  <text class="cls-2" transform="translate(233.98 296.17) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="236.81" y1="290.81" x2="236.65" y2="284.63"/>
+  <text class="cls-5" transform="translate(225.86 295.99) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="228.76" y1="290.63" x2="228.68" y2="284.63"/>
+  <text class="cls-2" transform="translate(216.89 296.17) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="220.02" y1="290.81" x2="219.94" y2="284.63"/>
+  <text class="cls-5" transform="translate(208.18 296.17) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="211.14" y1="290.81" x2="211.14" y2="284.8"/>
+  <text class="cls-4" transform="translate(199.02 295.99) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="202.05" y1="290.63" x2="202.12" y2="284.8"/>
+  <text class="cls-7" transform="translate(197.42 311.75) scale(1.17 1)">30</text>
+  <text class="cls-7" transform="translate(197.42 311.75) scale(1.17 1)">30</text>
+  <line class="cls-8" x1="201.98" y1="300.2" x2="201.98" y2="308.25"/>
+  <line class="cls-8" x1="201.98" y1="300.2" x2="201.98" y2="308.25"/>
+  <text class="cls-4" transform="translate(190.28 296.17) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="193.24" y1="290.81" x2="193.24" y2="284.63"/>
+  <text class="cls-9" transform="translate(183.86 293.9) scale(1.17 1)">U</text>
+  <text class="cls-9" transform="translate(181.19 288.42) scale(1.17 1)">U</text>
+  <text class="cls-4" transform="translate(183.62 282.93) scale(1.17 1)">G</text>
+  <text class="cls-5" transform="translate(190.28 280.66) scale(1.17 1)">A</text>
+  <text class="cls-5" transform="translate(199.23 280.84) scale(1.17 1)">A</text>
+  <text class="cls-4" transform="translate(208.18 280.84) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(216.92 280.66) scale(1.17 1)">C</text>
+  <text class="cls-4" transform="translate(225.65 280.66) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(233.33 280.66) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(242.66 280.66) scale(1.17 1)">U</text>
+  <text class="cls-6" transform="translate(251.45 280.84) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(260.17 280.66) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(260.4 272.66) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(260.17 264.13) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(260.17 255.79) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(260.61 247.77) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(266.64 240.96) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(260.61 233.29) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(260.38 224.6) scale(1.17 1)">G</text>
+  <text class="cls-7" transform="translate(241.62 219.33) scale(1.17 1)">50</text>
+  <text class="cls-7" transform="translate(241.62 219.33) scale(1.17 1)">51</text>
+  <line class="cls-8" x1="258.94" y1="223.2" x2="251.1" y2="220.82"/>
+  <line class="cls-8" x1="258.94" y1="223.2" x2="251.1" y2="220.82"/>
+  <text class="cls-2" transform="translate(267.43 216.94) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(260.4 210.97) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(260.4 201.43) scale(1.17 1)">C</text>
+  <text class="cls-6" transform="translate(260.4 192.73) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(260.35 183.37) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(260.17 174.34) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(260.4 165.81) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="263.3" y1="160.44" x2="263.22" y2="154.45"/>
+  <text class="cls-2" transform="translate(251.4 165.81) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="254.38" y1="160.44" x2="254.4" y2="154.45"/>
+  <text class="cls-2" transform="translate(242.51 165.81) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="245.47" y1="160.44" x2="245.47" y2="154.45"/>
+  <text class="cls-2" transform="translate(233.54 165.81) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="236.79" y1="160.44" x2="236.87" y2="154.45"/>
+  <text class="cls-2" transform="translate(224.83 165.81) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="227.85" y1="160.44" x2="227.93" y2="154.45"/>
+  <text class="cls-6" transform="translate(225.52 174.5) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="223.01" y1="173.92" x2="216.89" y2="174.04"/>
+  <text class="cls-2" transform="translate(225.45 182.17) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="222.94" y1="181.58" x2="216.6" y2="181.71"/>
+  <text class="cls-2" transform="translate(224.8 190.01) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="222.52" y1="189.2" x2="216.6" y2="189.08"/>
+  <text class="cls-2" transform="translate(224.59 197.68) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="222.33" y1="196.7" x2="216.39" y2="196.4"/>
+  <text class="cls-2" transform="translate(233.09 202.45) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(224.59 206.54) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="222.32" y1="205.84" x2="215.77" y2="205.84"/>
+  <text class="cls-2" transform="translate(224.83 214.04) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="222.32" y1="213.34" x2="215.36" y2="213.34"/>
+  <text class="cls-2" transform="translate(230.17 221.7) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(227.3 229.72) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(220.46 234.65) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(211.15 234.65) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(203.6 229.54) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(202.71 221.36) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(206.7 214.04) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(207.35 206.54) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(207.97 196.82) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(208.18 189.67) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(207.95 182.51) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(208.47 174.84) scale(1.17 1)">U</text>
+  <text class="cls-6" transform="translate(200.72 176.89) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(192.63 179.11) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(187.37 174) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(191.95 168.2) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(200.12 167.52) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(206.46 163.43) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="212.22" y1="158.72" x2="216.03" y2="153.28"/>
+  <text class="cls-2" transform="translate(199.23 158.99) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="204.96" y1="154.28" x2="208.36" y2="149.37"/>
+  <text class="cls-2" transform="translate(191.09 155.25) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="197.2" y1="150.6" x2="200.81" y2="145.71"/>
+  <text class="cls-4" transform="translate(183.7 151.67) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="189.57" y1="147.02" x2="193.66" y2="141.46"/>
+  <text class="cls-2" transform="translate(176.11 146.56) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="182.41" y1="142.02" x2="185.57" y2="138.11"/>
+  <text class="cls-2" transform="translate(167.39 148.26) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="165.64" y1="145.19" x2="159.87" y2="142.27"/>
+  <text class="cls-2" transform="translate(161.98 154.23) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="160.3" y1="151.06" x2="155.44" y2="148.49"/>
+  <text class="cls-2" transform="translate(157.35 160.88) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="155.78" y1="157.55" x2="150.12" y2="154.28"/>
+  <text class="cls-6" transform="translate(153.66 167.01) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="151.76" y1="164.16" x2="146.02" y2="161.63"/>
+  <text class="cls-2" transform="translate(148.44 174) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="146.9" y1="170.95" x2="141.17" y2="168.13"/>
+  <text class="cls-2" transform="translate(143.26 181.15) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="141.73" y1="177.79" x2="136.35" y2="174.59"/>
+  <text class="cls-2" transform="translate(146.36 188.48) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(144.93 196.66) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(138.89 203.13) scale(1.17 1)">A</text>
+  <text class="cls-4" transform="translate(129.87 206.54) scale(1.17 1)">G</text>
+  <text class="cls-7" transform="translate(129.66 222.01) scale(1.17 1)">100</text>
+  <text class="cls-7" transform="translate(129.66 222.01) scale(1.17 1)">101</text>
+  <line class="cls-8" x1="133.97" y1="210.67" x2="135.72" y2="218.51"/>
+  <line class="cls-8" x1="133.97" y1="210.67" x2="135.72" y2="218.51"/>
+  <text class="cls-4" transform="translate(119.96 206.19) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(111.42 201.26) scale(1.17 1)">C</text>
+  <text class="cls-6" transform="translate(106.85 194.62) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(107.21 186.43) scale(1.17 1)">U</text>
+  <text class="cls-6" transform="translate(111.42 178.59) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(119.33 173.14) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(128.68 172.63) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(133.48 166.5) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(138.2 160.19) scale(1.17 1)">U</text>
+  <text class="cls-6" transform="translate(142.63 152.35) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(147.6 146.73) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(151.97 140.6) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(150.11 132.42) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="156.17" y1="127.74" x2="159.16" y2="123.59"/>
+  <text class="cls-2" transform="translate(141.88 132.42) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="144.68" y1="127.06" x2="144.51" y2="122.24"/>
+  <text class="cls-6" transform="translate(132.44 132.42) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="135.45" y1="127.05" x2="135.5" y2="122.07"/>
+  <text class="cls-2" transform="translate(123.47 132.42) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="126.66" y1="127.05" x2="126.66" y2="122.07"/>
+  <text class="cls-2" transform="translate(114.96 132.25) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="117.85" y1="126.88" x2="117.78" y2="122.07"/>
+  <text class="cls-2" transform="translate(106.85 132.42) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="109.67" y1="127.06" x2="109.53" y2="122.06"/>
+  <text class="cls-9" transform="translate(100.1 135.15) scale(1.17 1)">U</text>
+  <text class="cls-4" transform="translate(92.81 133.76) scale(1.17 1)">U</text>
+  <text class="cls-10" transform="translate(87.84 128.84) scale(1.17 1)">G</text>
+  <text class="cls-11" transform="translate(87.88 122.47) scale(1.17 1)">A</text>
+  <text class="cls-9" transform="translate(92.33 117.35) scale(1.17 1)">U</text>
+  <text class="cls-5" transform="translate(99.53 115.65) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(106.21 118.1) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(114.53 118.1) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(123.7 118.1) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(132.59 118.1) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(141.16 118.27) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(151.16 115.72) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(159.07 120.31) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(168.83 118.27) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="176.65" y1="120.05" x2="182.36" y2="123.11"/>
+  <text class="cls-2" transform="translate(173.2 112.14) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="181.07" y1="113.85" x2="186.9" y2="116.86"/>
+  <text class="cls-2" transform="translate(167.19 105.66) scale(1.17 1)">C</text>
+  <text class="cls-5" transform="translate(160.32 99.18) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="164.73" y1="93.99" x2="166.48" y2="88.5"/>
+  <text class="cls-2" transform="translate(151.49 97.15) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="156.18" y1="91.96" x2="158.03" y2="86.44"/>
+  <text class="cls-2" transform="translate(142.75 94.93) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="147.64" y1="89.79" x2="149.66" y2="84.52"/>
+  <text class="cls-5" transform="translate(134.31 92.54) scale(1.17 1)">A</text>
+  <text class="cls-5" transform="translate(126.26 90.5) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="131.41" y1="85.52" x2="133.99" y2="80.44"/>
+  <text class="cls-6" transform="translate(117.87 88.28) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(110.1 86.23) scale(1.17 1)">A</text>
+  <text class="cls-5" transform="translate(101.93 84.36) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="106.28" y1="79.15" x2="108.01" y2="73.51"/>
+  <text class="cls-6" transform="translate(94.36 81.98) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="98.6" y1="76.74" x2="100.02" y2="71.67"/>
+  <text class="cls-4" transform="translate(86.02 79.93) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="90.55" y1="74.7" x2="92.05" y2="69.61"/>
+  <text class="cls-2" transform="translate(78.62 78.06) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="82.78" y1="72.81" x2="84.19" y2="67.42"/>
+  <text class="cls-2" transform="translate(70.36 75.84) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="74.72" y1="70.63" x2="76.36" y2="65.34"/>
+  <text class="cls-2" transform="translate(62.33 73.97) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="66.41" y1="68.7" x2="67.84" y2="62.84"/>
+  <text class="cls-6" transform="translate(57.05 79.08) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(50.32 78.06) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(49.05 70.73) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="53.73" y1="65.54" x2="55.55" y2="60.03"/>
+  <text class="cls-7" transform="translate(31.12 80.71) scale(1.17 1)">150</text>
+  <text class="cls-7" transform="translate(31.12 80.71) scale(1.17 1)">157</text>
+  <line class="cls-8" x1="48.44" y1="73.39" x2="42.97" y2="77.21"/>
+  <line class="cls-8" x1="48.44" y1="73.39" x2="42.97" y2="77.21"/>
+  <text class="cls-2" transform="translate(41.31 68.69) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="45.63" y1="63.47" x2="47.42" y2="57.51"/>
+  <text class="cls-2" transform="translate(33.26 66.3) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="37.69" y1="61.11" x2="39.39" y2="55.95"/>
+  <text class="cls-2" transform="translate(25.08 63.91) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="29.4" y1="58.7" x2="31.05" y2="53.25"/>
+  <text class="cls-4" transform="translate(19.72 60.47) scale(1.17 1)">U</text>
+  <text class="cls-9" transform="translate(18.78 54.81) scale(1.17 1)">U</text>
+  <text class="cls-4" transform="translate(22.8 50.24) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(29.22 49.43) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(37.68 52.15) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(45.81 53.69) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(54.07 56.24) scale(1.17 1)">U</text>
+  <text class="cls-6" transform="translate(65.99 58.97) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(71.23 54.88) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(74.57 61.53) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(82.21 63.57) scale(1.17 1)">G</text>
+  <text class="cls-4" transform="translate(90.42 65.8) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(98.33 67.83) scale(1.17 1)">U</text>
+  <text class="cls-4" transform="translate(106.21 69.71) scale(1.17 1)">G</text>
+  <text class="cls-5" transform="translate(113.71 71.92) scale(1.17 1)">A</text>
+  <text class="cls-4" transform="translate(121.81 73.45) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(128.22 69.37) scale(1.17 1)">U</text>
+  <text class="cls-5" transform="translate(133.21 76.86) scale(1.17 1)">A</text>
+  <text class="cls-4" transform="translate(140.34 78.56) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(148.4 80.79) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(156.57 82.65) scale(1.17 1)">C</text>
+  <text class="cls-4" transform="translate(164.96 84.7) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(169.63 78.23) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(177.15 74.99) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(182.79 82.32) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(181.34 89.82) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(182.17 97.65) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(190.05 102.26) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="195.42" y1="105.83" x2="197.73" y2="110.4"/>
+  <text class="cls-2" transform="translate(198.34 98.34) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="203.42" y1="101.93" x2="205.48" y2="106.12"/>
+  <text class="cls-2" transform="translate(207.53 93.56) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="213.26" y1="96.99" x2="216.45" y2="102.19"/>
+  <text class="cls-2" transform="translate(215.87 89.82) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="221.08" y1="93.37" x2="223.25" y2="97.47"/>
+  <text class="cls-2" transform="translate(223.79 85.89) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="228.77" y1="89.53" x2="231.17" y2="94.67"/>
+  <text class="cls-6" transform="translate(223.37 78.23) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(223.79 71.24) scale(1.17 1)">C</text>
+  <text class="cls-6" transform="translate(225.65 63.91) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(229.38 57.96) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(236.2 52.66) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(242.28 48.24) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(250.83 46.37) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(258.12 45.51) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(265.37 46.37) scale(1.17 1)">G</text>
+  <text class="cls-5" transform="translate(273.3 48.75) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(280.17 52.15) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(286.18 57.61) scale(1.17 1)">G</text>
+  <text class="cls-4" transform="translate(291.4 63.91) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="296.61" y1="67.47" x2="299.41" y2="72.77"/>
+  <text class="cls-4" transform="translate(299.08 61.19) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="304.32" y1="64.74" x2="307.07" y2="69.88"/>
+  <text class="cls-4" transform="translate(307.42 58.12) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="312.55" y1="61.7" x2="315.29" y2="67.12"/>
+  <text class="cls-7" transform="translate(296.2 43.67) scale(1.17 1)">200</text>
+  <text class="cls-7" transform="translate(296.2 43.67) scale(1.17 1)">209</text>
+  <line class="cls-8" x1="308.42" y1="54.27" x2="304.82" y2="47.17"/>
+  <line class="cls-8" x1="308.42" y1="54.27" x2="304.82" y2="47.17"/>
+  <text class="cls-4" transform="translate(315.69 55.05) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="320.75" y1="58.66" x2="323.27" y2="63.85"/>
+  <text class="cls-6" transform="translate(323.44 52.15) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="328.52" y1="55.76" x2="331.51" y2="61.81"/>
+  <text class="cls-4" transform="translate(331.77 49.43) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="336.74" y1="53.07" x2="339.52" y2="59.04"/>
+  <text class="cls-4" transform="translate(339.47 46.19) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="344.48" y1="49.82" x2="347.24" y2="55.66"/>
+  <text class="cls-5" transform="translate(347.79 43.46) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="352.66" y1="47.14" x2="355.09" y2="52.7"/>
+  <text class="cls-2" transform="translate(355.05 38.87) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(365.06 40.91) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(368.6 49.26) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(362.77 55.91) scale(1.17 1)">A</text>
+  <text class="cls-4" transform="translate(354.03 57.77) scale(1.17 1)">U</text>
+  <text class="cls-4" transform="translate(346.1 60.68) scale(1.17 1)">G</text>
+  <text class="cls-4" transform="translate(338.35 64.08) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(330.67 66.81) scale(1.17 1)">U</text>
+  <text class="cls-4" transform="translate(322.18 68.86) scale(1.17 1)">G</text>
+  <text class="cls-5" transform="translate(314.5 72.09) scale(1.17 1)">A</text>
+  <text class="cls-4" transform="translate(306.15 74.82) scale(1.17 1)">G</text>
+  <text class="cls-5" transform="translate(298.69 77.72) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(295.75 85.56) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(293.84 93.9) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(288.05 101.23) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(280.77 107.71) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(272.47 111.29) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(262.89 112.14) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(253.74 111.63) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(244.78 109.07) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(237.72 104.47) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(230 99.7) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(222.3 102.43) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(216.02 107.02) scale(1.17 1)">U</text>
+  <text class="cls-6" transform="translate(216.5 114.02) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(209.64 116.05) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(204.64 111.11) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(196.94 115.38) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(188.62 119.97) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(184.04 126.28) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(185.71 134.97) scale(1.17 1)">C</text>
+  <text class="cls-4" transform="translate(193.61 138.21) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(200.76 142.46) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(207.95 146.04) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(215.87 149.97) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(224.8 150.48) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(233.98 150.48) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(242.28 150.48) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(251.45 150.48) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(259.97 150.48) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(268.31 145.88) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(278.08 143.84) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(287.03 145.03) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(295.77 149.63) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="298.8" y1="153.59" x2="298.87" y2="159.6"/>
+  <text class="cls-2" transform="translate(304.72 149.46) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="307.68" y1="153.42" x2="307.67" y2="159.77"/>
+  <text class="cls-7" transform="translate(300.84 133.71) scale(1.17 1)">250</text>
+  <text class="cls-7" transform="translate(300.84 133.71) scale(1.17 1)">259</text>
+  <line class="cls-8" x1="307.68" y1="145.26" x2="307.68" y2="137.21"/>
+  <line class="cls-8" x1="307.68" y1="145.26" x2="307.68" y2="137.21"/>
+  <text class="cls-2" transform="translate(312.62 149.63) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="315.65" y1="153.59" x2="315.72" y2="159.77"/>
+  <text class="cls-6" transform="translate(320.71 149.63) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(328.2 150.1) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="331.16" y1="154.07" x2="331.15" y2="159.63"/>
+  <text class="cls-6" transform="translate(335.99 144.93) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(345.85 144.74) scale(1.17 1)">U</text>
+  <text class="cls-4" transform="translate(353.9 149.6) scale(1.17 1)">U</text>
+  <text class="cls-4" transform="translate(356.98 157.59) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(353.87 165.57) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(345.57 170.41) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(335.71 170.19) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(328.18 165) scale(1.17 1)">U</text>
+  <text class="cls-6" transform="translate(321.01 164.97) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(312.59 165.13) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(304.47 165.13) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(295.74 164.97) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(295.53 173.31) scale(1.17 1)">G</text>
+  <text class="cls-5" transform="translate(295.77 181.83) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(295.77 189.84) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(295.77 198.53) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="298.74" y1="202.5" x2="298.74" y2="207.99"/>
+  <text class="cls-2" transform="translate(304.72 198.53) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="307.68" y1="202.5" x2="307.68" y2="207.99"/>
+  <text class="cls-2" transform="translate(313.81 198.53) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="316.73" y1="202.5" x2="316.67" y2="207.99"/>
+  <text class="cls-2" transform="translate(322.34 198.53) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="325.32" y1="202.5" x2="325.35" y2="207.99"/>
+  <text class="cls-2" transform="translate(330.52 198.53) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="333.55" y1="202.5" x2="333.62" y2="207.99"/>
+  <text class="cls-4" transform="translate(339.25 198.53) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="342.35" y1="202.5" x2="342.5" y2="207.99"/>
+  <text class="cls-4" transform="translate(348.21 198.71) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="351.1" y1="202.67" x2="351.02" y2="207.99"/>
+  <text class="cls-5" transform="translate(356.53 198.53) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="359.36" y1="202.5" x2="359.2" y2="208.16"/>
+  <text class="cls-6" transform="translate(365.06 198.71) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="367.63" y1="202.66" x2="367.17" y2="208"/>
+  <text class="cls-4" transform="translate(373.18 198.87) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="375.73" y1="202.83" x2="375.29" y2="207.83"/>
+  <text class="cls-2" transform="translate(380.43 199.21) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="383.63" y1="203.18" x2="383.63" y2="207.99"/>
+  <text class="cls-2" transform="translate(388.76 198.87) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="391.81" y1="202.84" x2="391.67" y2="207.99"/>
+  <text class="cls-6" transform="translate(394.6 191.2) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(399.19 198.87) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="401.88" y1="202.83" x2="401.58" y2="208.17"/>
+  <text class="cls-4" transform="translate(407.51 200.57) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(414.73 206.71) scale(1.17 1)">U</text>
+  <text class="cls-4" transform="translate(406.88 212.33) scale(1.17 1)">C</text>
+  <text class="cls-6" transform="translate(398.35 213.52) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(388.57 213.36) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(380.67 213.36) scale(1.17 1)">C</text>
+  <text class="cls-4" transform="translate(371.69 213.18) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(363.59 213.36) scale(1.17 1)">G</text>
+  <text class="cls-5" transform="translate(356.11 213.52) scale(1.17 1)">A</text>
+  <text class="cls-4" transform="translate(347.77 213.36) scale(1.17 1)">G</text>
+  <text class="cls-5" transform="translate(339.67 213.36) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(330.5 213.36) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(322.4 213.36) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(313.66 213.36) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(304.49 213.36) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(295.55 213.36) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(296.18 221.87) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="296.68" y1="225.34" x2="293.44" y2="230.81"/>
+  <text class="cls-2" transform="translate(303.88 225.8) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="304.4" y1="229.26" x2="301.39" y2="234.39"/>
+  <text class="cls-7" transform="translate(335.85 224.53) scale(1.17 1)">300</text>
+  <text class="cls-7" transform="translate(335.85 224.53) scale(1.17 1)">309</text>
+  <line class="cls-8" x1="309.2" y1="222.11" x2="335.31" y2="224.79"/>
+  <line class="cls-8" x1="309.2" y1="222.11" x2="335.31" y2="224.79"/>
+  <text class="cls-6" transform="translate(311.58 229.03) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="312.23" y1="232.56" x2="309.31" y2="237.9"/>
+  <text class="cls-2" transform="translate(319.68 232.44) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="320.2" y1="235.8" x2="316.59" y2="241.3"/>
+  <text class="cls-5" transform="translate(327.81 236.01) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="328.1" y1="239.38" x2="324.71" y2="244.54"/>
+  <text class="cls-5" transform="translate(335.51 239.43) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="335.85" y1="242.82" x2="332.57" y2="247.93"/>
+  <text class="cls-4" transform="translate(342.59 243.01) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(343.63 260.05) scale(1.17 1)">C</text>
+  <text class="cls-4" transform="translate(335.51 255.96) scale(1.17 1)">U</text>
+  <text class="cls-4" transform="translate(326.98 252.71) scale(1.17 1)">U</text>
+  <text class="cls-4" transform="translate(319.07 249.31) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(310.96 246.07) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(304.04 242.83) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(295.75 239.26) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(288.01 235.68) scale(1.17 1)">U</text>
+  <text class="cls-6" transform="translate(287.86 243.17) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(288.61 251.35) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(291.1 259.53) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(291.25 267.89) scale(1.17 1)">U</text>
+  <text class="cls-6" transform="translate(291.1 276.23) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(290.43 284.75) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(291.1 293.28) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(291.37 301.28) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(287.63 308.95) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(287.86 316.61) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(288.01 323.95) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(288.01 331.44) scale(1.17 1)">U</text>
+  <text class="cls-4" transform="translate(287.63 339.45) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(287.86 346.78) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(288.1 354.1) scale(1.17 1)">C</text>
+  <text class="cls-4" transform="translate(296.85 354.62) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="303.79" y1="357.32" x2="309.07" y2="362.1"/>
+  <text class="cls-2" transform="translate(304.74 349.34) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="311.4" y1="352.07" x2="316.48" y2="356.78"/>
+  <text class="cls-2" transform="translate(311.81 344.56) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="318.29" y1="347.43" x2="322.69" y2="351.89"/>
+  <text class="cls-4" transform="translate(317.82 339.11) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="324.46" y1="341.86" x2="330.2" y2="347.23"/>
+  <text class="cls-2" transform="translate(324.01 334.17) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="330.83" y1="336.96" x2="336.67" y2="342.58"/>
+  <text class="cls-6" transform="translate(331.65 328.72) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(337.85 325.14) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="344.67" y1="327.93" x2="349.28" y2="332.37"/>
+  <text class="cls-2" transform="translate(344.85 319.86) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="351.43" y1="322.65" x2="356.36" y2="327.42"/>
+  <text class="cls-6" transform="translate(352.29 314.74) scale(1.17 1)">A</text>
+  <line class="cls-3" x1="358.46" y1="317.82" x2="362.75" y2="322.87"/>
+  <text class="cls-2" transform="translate(358.68 310.3) scale(1.17 1)">C</text>
+  <line class="cls-3" x1="365.32" y1="313.06" x2="369.61" y2="317.07"/>
+  <text class="cls-2" transform="translate(360.54 302.65) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(368.45 297.36) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(377.18 296.51) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="383.99" y1="299.31" x2="388.4" y2="303.55"/>
+  <text class="cls-2" transform="translate(384.46 291.23) scale(1.17 1)">G</text>
+  <line class="cls-3" x1="391.19" y1="294.08" x2="395.33" y2="298.22"/>
+  <text class="cls-4" transform="translate(391.55 286.79) scale(1.17 1)">U</text>
+  <line class="cls-3" x1="397.9" y1="289.76" x2="401.53" y2="293.69"/>
+  <text class="cls-2" transform="translate(394.65 279.13) scale(1.17 1)">G</text>
+  <text class="cls-5" transform="translate(405.08 276.92) scale(1.17 1)">A</text>
+  <text class="cls-4" transform="translate(413.82 280.66) scale(1.17 1)">U</text>
+  <text class="cls-12" transform="translate(417.62 290.09) scale(1.58 1)">G</text>
+  <text class="cls-6" transform="translate(411.74 295.65) scale(1.17 1)">A</text>
+  <text class="cls-4" transform="translate(401.73 298.04) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(395.92 302.47) scale(1.17 1)">C</text>
+  <text class="cls-7" transform="translate(404.25 314.28) scale(1.17 1)">350</text>
+  <text class="cls-7" transform="translate(404.25 314.28) scale(1.17 1)">366</text>
+  <line class="cls-8" x1="402.14" y1="305.62" x2="407.47" y2="310.78"/>
+  <line class="cls-8" x1="402.14" y1="305.62" x2="407.47" y2="310.78"/>
+  <text class="cls-2" transform="translate(389.05 307.76) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(396.73 311.85) scale(1.17 1)">G</text>
+  <text class="cls-4" transform="translate(403.2 318.49) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(403.35 326.84) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(397.42 334) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(388.51 337.06) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(380.6 336.04) scale(1.17 1)">C</text>
+  <text class="cls-6" transform="translate(373.61 329.56) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(370.1 321.22) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(362.99 327.35) scale(1.17 1)">U</text>
+  <text class="cls-6" transform="translate(357.01 331.61) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(349.94 336.56) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(343.12 342) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(337.33 346.78) scale(1.17 1)">A</text>
+  <text class="cls-4" transform="translate(330.93 351.37) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(323.02 356.16) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(316.99 360.92) scale(1.17 1)">G</text>
+  <text class="cls-5" transform="translate(309.85 366.21) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(315.17 372.67) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(324.24 373.02) scale(1.17 1)">C</text>
+  <text class="cls-6" transform="translate(333.55 373.7) scale(1.17 1)">A</text>
+  <text class="cls-5" transform="translate(342.38 375.75) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(350.57 381.2) scale(1.17 1)">A</text>
+  <text class="cls-6" transform="translate(349.04 389.54) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(339.88 391.76) scale(1.17 1)">C</text>
+  <text class="cls-6" transform="translate(330.73 391.93) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(321.9 392.1) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(312.19 392.28) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(302.41 392.1) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(292.86 392.1) scale(1.17 1)">C</text>
+  <text class="cls-2" transform="translate(284.22 388.01) scale(1.17 1)">U</text>
+  <text class="cls-2" transform="translate(276.41 381.53) scale(1.17 1)">U</text>
+  <text class="cls-6" transform="translate(269.59 374.39) scale(1.17 1)">A</text>
+  <text class="cls-4" transform="translate(261.62 368.75) scale(1.17 1)">C</text>
+  <text class="cls-6" transform="translate(257.08 374.89) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(250.6 368.75) scale(1.17 1)">G</text>
+  <text class="cls-6" transform="translate(241.67 368.75) scale(1.17 1)">A</text>
+  <text class="cls-5" transform="translate(232.94 368.75) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(223.99 368.75) scale(1.17 1)">C</text>
+  <text class="cls-4" transform="translate(214.81 368.93) scale(1.17 1)">G</text>
+  <text class="cls-2" transform="translate(206.4 368.93) scale(1.17 1)">U</text>
+  <text class="cls-4" transform="translate(197.36 369.44) scale(1.17 1)">U</text>
+  <text class="cls-6" transform="translate(189.24 369.44) scale(1.17 1)">A</text>
+  <text class="cls-4" transform="translate(180.31 369.44) scale(1.17 1)">G</text>
+  <text class="cls-5" transform="translate(171.58 369.61) scale(1.17 1)">A</text>
+  <text class="cls-10" transform="translate(167.2 373.35) scale(1.17 1)">C</text>
+  <text class="cls-4" transform="translate(162.82 369.61) scale(1.17 1)">C</text>
+  <text class="cls-6" transform="translate(153.87 369.61) scale(1.17 1)">A</text>
+  <text class="cls-2" transform="translate(144.93 369.61) scale(1.17 1)">C</text>
+  <text class="cls-4" transform="translate(145.11 377.07) scale(1.17 1)">U</text>
+  <text class="cls-7" transform="translate(124.18 383.07) scale(1.17 1)">400</text>
+  <text class="cls-7" transform="translate(124.18 383.07) scale(1.17 1)">415</text>
+  <line class="cls-8" x1="143.53" y1="378.67" x2="138.4" y2="380.48"/>
+  <line class="cls-8" x1="143.53" y1="378.67" x2="138.4" y2="380.48"/>
+  <text class="cls-2" transform="translate(151.15 382.47) scale(1.17 1)">U</text>
+  <text class="cls-1" transform="translate(161.98 396.09) scale(1.17 1)">3&apos;</text>
+  <line class="cls-13" x1="266.87" y1="220.18" x2="267.08" y2="219.95"/>
+  <line class="cls-13" x1="263.36" y1="205.6" x2="263.36" y2="205.39"/>
+  <line class="cls-13" x1="263.33" y1="187.37" x2="263.33" y2="187.33"/>
+  <line class="cls-13" x1="210.6" y1="201.19" x2="210.63" y2="200.78"/>
+  <line class="cls-13" x1="62.32" y1="56.76" x2="63.68" y2="57.07"/>
+  <line class="cls-13" x1="206" y1="95.25" x2="206.02" y2="95.24"/>
+  <line class="cls-13" x1="345.83" y1="246.97" x2="346.3" y2="254.69"/>
+  <g class="cls-14">
+    <text class="cls-15" transform="translate(37.45 21.26)">Bacillus subtilis RNase </text>
+    <text class="cls-16" transform="translate(245.3 21.26)">P</text>
+    <text class="cls-15" transform="translate(258.28 21.26)"><tspan xml:space="preserve"> RN</tspan></text>
+    <text class="cls-17" transform="translate(292.72 21.26)">A</text>
+  </g>
+  <image width="271" height="346" transform="translate(486.73 33.77) scale(0.98)" xlink:href="data:image/png;base64,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"/>
+</svg>

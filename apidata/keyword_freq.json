@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "selection",
+    "count": 59
+  },
+  {
+    "keyword": "vitro",
+    "count": 46
+  },
+  {
+    "keyword": "complex",
+    "count": 45
+  },
+  {
+    "keyword": "specific",
+    "count": 44
+  },
+  {
+    "keyword": "affinity",
+    "count": 43
+  },
+  {
+    "keyword": "hiv",
+    "count": 38
+  },
+  {
+    "keyword": "receptor",
+    "count": 34
+  },
+  {
+    "keyword": "recognition",
+    "count": 32
+  },
+  {
+    "keyword": "against",
+    "count": 31
+  },
+  {
+    "keyword": "human",
+    "count": 30
+  },
+  {
+    "keyword": "imaging",
+    "count": 30
+  },
+  {
+    "keyword": "factor",
+    "count": 27
+  },
+  {
+    "keyword": "ligands",
+    "count": 25
+  },
+  {
+    "keyword": "fluorescent",
+    "count": 24
+  },
+  {
+    "keyword": "ligand",
+    "count": 23
+  },
+  {
+    "keyword": "expression",
+    "count": 22
+  },
+  {
+    "keyword": "amyloid",
+    "count": 22
+  },
+  {
+    "keyword": "virus",
+    "count": 21
+  },
+  {
+    "keyword": "rev",
+    "count": 20
+  },
+  {
+    "keyword": "its",
+    "count": 20
+  },
+  {
+    "keyword": "basis",
+    "count": 20
+  },
+  {
+    "keyword": "small",
+    "count": 20
+  },
+  {
+    "keyword": "fluorogenic",
+    "count": 20
+  },
+  {
+    "keyword": "bind",
+    "count": 19
+  },
+  {
+    "keyword": "transcription",
+    "count": 19
+  },
+  {
+    "keyword": "targeting",
+    "count": 19
+  },
+  {
+    "keyword": "live",
+    "count": 19
+  },
+  {
+    "keyword": "anti",
+    "count": 18
+  },
+  {
+    "keyword": "mediated",
+    "count": 18
+  },
+  {
+    "keyword": "cancer",
+    "count": 18
+  },
+  {
+    "keyword": "green",
+    "count": 18
+  },
+  {
+    "keyword": "peptide",
+    "count": 17
+  },
+  {
+    "keyword": "beta",
+    "count": 17
+  },
+  {
+    "keyword": "synthetic",
+    "count": 17
+  },
+  {
+    "keyword": "fluorescence",
+    "count": 17
+  },
+  {
+    "keyword": "between",
+    "count": 16
+  },
+  {
+    "keyword": "riboswitch",
+    "count": 16
+  },
+  {
+    "keyword": "inhibits",
+    "count": 15
+  },
+  {
+    "keyword": "selex",
+    "count": 15
+  },
+  {
+    "keyword": "interactions",
+    "count": 15
+  },
+  {
+    "keyword": "spinach",
+    "count": 15
+  },
+  {
+    "keyword": "crystal",
+    "count": 15
+  },
+  {
+    "keyword": "hepatitis",
+    "count": 14
+  },
+  {
+    "keyword": "dependent",
+    "count": 14
+  },
+  {
+    "keyword": "acid",
+    "count": 14
+  },
+  {
+    "keyword": "motif",
+    "count": 14
+  },
+  {
+    "keyword": "domain",
+    "count": 14
+  },
+  {
+    "keyword": "interaction",
+    "count": 14
+  },
+  {
+    "keyword": "fluorophore",
+    "count": 14
+  },
+  {
+    "keyword": "vegf",
+    "count": 14
+  },
+  {
+    "keyword": "malachite",
+    "count": 14
+  },
+  {
+    "keyword": "specifically",
+    "count": 13
+  },
+  {
+    "keyword": "polymerase",
+    "count": 13
+  },
+  {
+    "keyword": "identification",
+    "count": 13
+  },
+  {
+    "keyword": "binds",
+    "count": 13
+  },
+  {
+    "keyword": "dynamics",
+    "count": 13
+  },
+  {
+    "keyword": "prion",
+    "count": 13
+  },
+  {
+    "keyword": "nucleic",
+    "count": 13
+  },
+  {
+    "keyword": "molecule",
+    "count": 13
+  },
+  {
+    "keyword": "mammalian",
+    "count": 13
+  },
+  {
+    "keyword": "gene",
+    "count": 13
+  },
+  {
+    "keyword": "neomycin",
+    "count": 13
+  },
+  {
+    "keyword": "protease",
+    "count": 12
+  },
+  {
+    "keyword": "element",
+    "count": 12
+  },
+  {
+    "keyword": "selected",
+    "count": 12
+  },
+  {
+    "keyword": "inhibit",
+    "count": 12
+  },
+  {
+    "keyword": "free",
+    "count": 12
+  },
+  {
+    "keyword": "ampa",
+    "count": 12
+  },
+  {
+    "keyword": "single",
+    "count": 12
+  },
+  {
+    "keyword": "isolation",
+    "count": 11
+  },
+  {
+    "keyword": "sequence",
+    "count": 11
+  },
+  {
+    "keyword": "activation",
+    "count": 11
+  },
+  {
+    "keyword": "specificity",
+    "count": 11
+  },
+  {
+    "keyword": "potential",
+    "count": 11
+  },
+  {
+    "keyword": "sensing",
+    "count": 11
+  },
+  {
+    "keyword": "rnas",
+    "count": 11
+  },
+  {
+    "keyword": "mango",
+    "count": 11
+  },
+  {
+    "keyword": "riboswitches",
+    "count": 11
+  },
+  {
+    "keyword": "tetracycline",
+    "count": 11
+  },
+  {
+    "keyword": "tar",
+    "count": 11
+  },
+  {
+    "keyword": "site",
+    "count": 10
+  },
+  {
+    "keyword": "inhibitor",
+    "count": 10
+  },
+  {
+    "keyword": "surface",
+    "count": 10
+  },
+  {
+    "keyword": "growth",
+    "count": 10
+  },
+  {
+    "keyword": "drug",
+    "count": 10
+  },
+  {
+    "keyword": "engineering",
+    "count": 10
+  },
+  {
+    "keyword": "atp",
+    "count": 10
+  },
+  {
+    "keyword": "yeast",
+    "count": 10
+  },
+  {
+    "keyword": "structures",
+    "count": 10
+  },
+  {
+    "keyword": "leukemia",
+    "count": 10
+  },
+  {
+    "keyword": "gtp",
+    "count": 10
+  },
+  {
+    "keyword": "type",
+    "count": 9
+  },
+  {
+    "keyword": "vivo",
+    "count": 9
+  },
+  {
+    "keyword": "amino",
+    "count": 9
+  },
+  {
+    "keyword": "quadruplex",
+    "count": 9
+  },
+  {
+    "keyword": "base",
+    "count": 9
+  },
+  {
+    "keyword": "trna",
+    "count": 9
+  },
+  {
+    "keyword": "disease",
+    "count": 9
+  },
+  {
+    "keyword": "broccoli",
+    "count": 9
+  },
+  {
+    "keyword": "serum",
+    "count": 9
+  },
+  {
+    "keyword": "arginine",
+    "count": 9
+  },
+  {
+    "keyword": "loop",
+    "count": 9
+  },
+  {
+    "keyword": "vascular",
+    "count": 9
+  },
+  {
+    "keyword": "endothelial",
+    "count": 9
+  },
+  {
+    "keyword": "alzheimer",
+    "count": 9
+  },
+  {
+    "keyword": "control",
+    "count": 9
+  },
+  {
+    "keyword": "dopamine",
+    "count": 9
+  },
+  {
+    "keyword": "mll",
+    "count": 9
+  },
+  {
+    "keyword": "streptomycin",
+    "count": 9
+  },
+  {
+    "keyword": "oligonucleotide",
+    "count": 8
+  },
+  {
+    "keyword": "tat",
+    "count": 8
+  },
+  {
+    "keyword": "efficient",
+    "count": 8
+  },
+  {
+    "keyword": "living",
+    "count": 8
+  },
+  {
+    "keyword": "nmr",
+    "count": 8
+  },
+  {
+    "keyword": "coupled",
+    "count": 8
+  },
+  {
+    "keyword": "modified",
+    "count": 8
+  },
+  {
+    "keyword": "membrane",
+    "count": 8
+  },
+  {
+    "keyword": "signal",
+    "count": 8
+  },
+  {
+    "keyword": "therapeutic",
+    "count": 8
+  },
+  {
+    "keyword": "reveals",
+    "count": 8
+  },
+  {
+    "keyword": "kinase",
+    "count": 8
+  },
+  {
+    "keyword": "bacteriophage",
+    "count": 8
+  },
+  {
+    "keyword": "core",
+    "count": 8
+  },
+  {
+    "keyword": "activated",
+    "count": 8
+  },
+  {
+    "keyword": "electrochemical",
+    "count": 8
+  },
+  {
+    "keyword": "regulation",
+    "count": 8
+  },
+  {
+    "keyword": "tobramycin",
+    "count": 8
+  },
+  {
+    "keyword": "conformational",
+    "count": 7
+  },
+  {
+    "keyword": "complexes",
+    "count": 7
+  },
+  {
+    "keyword": "label",
+    "count": 7
+  },
+  {
+    "keyword": "highly",
+    "count": 7
+  },
+  {
+    "keyword": "through",
+    "count": 7
+  },
+  {
+    "keyword": "potent",
+    "count": 7
+  },
+  {
+    "keyword": "ccl",
+    "count": 7
+  },
+  {
+    "keyword": "interleukin",
+    "count": 7
+  },
+  {
+    "keyword": "receptors",
+    "count": 7
+  },
+  {
+    "keyword": "containing",
+    "count": 7
+  },
+  {
+    "keyword": "molecules",
+    "count": 7
+  },
+  {
+    "keyword": "split",
+    "count": 7
+  },
+  {
+    "keyword": "regulated",
+    "count": 7
+  },
+  {
+    "keyword": "cellular",
+    "count": 7
+  },
+  {
+    "keyword": "pegaptanib",
+    "count": 7
+  },
+  {
+    "keyword": "therapy",
+    "count": 7
+  },
+  {
+    "keyword": "properties",
+    "count": 7
+  },
+  {
+    "keyword": "allosteric",
+    "count": 7
+  },
+  {
+    "keyword": "adenine",
+    "count": 7
+  },
+  {
+    "keyword": "tool",
+    "count": 7
+  },
+  {
+    "keyword": "folding",
+    "count": 7
+  },
+  {
+    "keyword": "biosensors",
+    "count": 7
+  },
+  {
+    "keyword": "ribozymes",
+    "count": 7
+  },
+  {
+    "keyword": "theophylline",
+    "count": 7
+  },
+  {
+    "keyword": "amp",
+    "count": 7
+  },
+  {
+    "keyword": "three",
+    "count": 6
+  },
+  {
+    "keyword": "derived",
+    "count": 6
+  },
+  {
+    "keyword": "ribozyme",
+    "count": 6
+  },
+  {
+    "keyword": "selectively",
+    "count": 6
+  },
+  {
+    "keyword": "viral",
+    "count": 6
+  },
+  {
+    "keyword": "screening",
+    "count": 6
+  },
+  {
+    "keyword": "replication",
+    "count": 6
+  },
+  {
+    "keyword": "formation",
+    "count": 6
+  },
+  {
+    "keyword": "reverse",
+    "count": 6
+  },
+  {
+    "keyword": "transcriptase",
+    "count": 6
+  },
+  {
+    "keyword": "inhibitors",
+    "count": 6
+  },
+  {
+    "keyword": "evolution",
+    "count": 6
+  },
+  {
+    "keyword": "resonance",
+    "count": 6
+  },
+  {
+    "keyword": "related",
+    "count": 6
+  },
+  {
+    "keyword": "signaling",
+    "count": 6
+  },
+  {
+    "keyword": "ribosomal",
+    "count": 6
+  },
+  {
+    "keyword": "motifs",
+    "count": 6
+  },
+  {
+    "keyword": "bovine",
+    "count": 6
+  },
+  {
+    "keyword": "mimics",
+    "count": 6
+  },
+  {
+    "keyword": "bound",
+    "count": 6
+  },
+  {
+    "keyword": "form",
+    "count": 6
+  },
+  {
+    "keyword": "kappab",
+    "count": 6
+  },
+  {
+    "keyword": "light",
+    "count": 6
+  },
+  {
+    "keyword": "prostate",
+    "count": 6
+  },
+  {
+    "keyword": "dual",
+    "count": 6
+  },
+  {
+    "keyword": "time",
+    "count": 6
+  },
+  {
+    "keyword": "macugen",
+    "count": 6
+  },
+  {
+    "keyword": "patients",
+    "count": 6
+  },
+  {
+    "keyword": "purification",
+    "count": 6
+  },
+  {
+    "keyword": "conformation",
+    "count": 6
+  },
+  {
+    "keyword": "kinetics",
+    "count": 6
+  },
+  {
+    "keyword": "channel",
+    "count": 6
+  },
+  {
+    "keyword": "abeta",
+    "count": 6
+  },
+  {
+    "keyword": "force",
+    "count": 6
+  },
+  {
+    "keyword": "plasminogen",
+    "count": 6
+  },
+  {
+    "keyword": "large",
+    "count": 6
+  },
+  {
+    "keyword": "spectroscopy",
+    "count": 6
+  },
+  {
+    "keyword": "rapid",
+    "count": 6
+  },
+  {
+    "keyword": "dynamic",
+    "count": 6
+  },
+  {
+    "keyword": "self",
+    "count": 6
+  },
+  {
+    "keyword": "solution",
+    "count": 6
+  },
+  {
+    "keyword": "pepper",
+    "count": 6
+  },
+  {
+    "keyword": "hfq",
+    "count": 6
+  },
+  {
+    "keyword": "coat",
+    "count": 6
+  },
+  {
+    "keyword": "hcv",
+    "count": 5
+  },
+  {
+    "keyword": "are",
+    "count": 5
+  },
+  {
+    "keyword": "responsive",
+    "count": 5
+  },
+  {
+    "keyword": "generation",
+    "count": 5
+  }
+]

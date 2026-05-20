@@ -1,0 +1,1924 @@
+{
+  "metadata": {
+    "description": "增强的无3D模型适配体表格数据",
+    "version": "2.0",
+    "last_updated": "2024-06-26",
+    "total_items": 128,
+    "categories": 17
+  },
+  "category_config": {
+    "Fluorophores": {
+      "primary_color": "#AEE1D6",
+      "colors": [
+        "#AEE1D6"
+      ],
+      "description": "Fluorophores"
+    },
+    "Biologics & Signaling Molecules": {
+      "primary_color": "#7CCCCC",
+      "colors": [
+        "#7CCCCC"
+      ],
+      "description": "Biologics & Signaling Molecules"
+    },
+    "Nucleosides & Nucleotides": {
+      "primary_color": "#A6D1F2",
+      "colors": [
+        "#A6D1F2"
+      ],
+      "description": "Nucleosides & Nucleotides"
+    },
+    "Amino Acids & Peptides": {
+      "primary_color": "#B5C7ED",
+      "colors": [
+        "#B5C7ED"
+      ],
+      "description": "Amino Acids & Peptides"
+    },
+    "Viral": {
+      "primary_color": "#90A7E6",
+      "colors": [
+        "#90A7E6"
+      ],
+      "description": "Viral"
+    },
+    "Pharmaceuticals": {
+      "primary_color": "#C4B1E0",
+      "colors": [
+        "#C4B1E0"
+      ],
+      "description": "Pharmaceuticals"
+    },
+    "Mammalian": {
+      "primary_color": "#E7B7E8",
+      "colors": [
+        "#E7B7E8"
+      ],
+      "description": "Mammalian"
+    },
+    "Bacteria": {
+      "primary_color": "#F7B7A3",
+      "colors": [
+        "#F7B7A3"
+      ],
+      "description": "Bacteria"
+    },
+    "Other": {
+      "primary_color": "#F5A6A6",
+      "colors": [
+        "#F5A6A6"
+      ],
+      "description": "Other"
+    },
+    "RNA": {
+      "primary_color": "#FFD3B4",
+      "colors": [
+        "#FFD3B4"
+      ],
+      "description": "RNA"
+    },
+    "Prion": {
+      "primary_color": "#F7E6AD",
+      "colors": [
+        "#F7E6AD"
+      ],
+      "description": "Prion"
+    },
+    "Proteins": {
+      "primary_color": "#D9E89D",
+      "colors": [
+        "#D9E89D"
+      ],
+      "description": "Proteins"
+    },
+    "cell": {
+      "primary_color": "#AEE392",
+      "colors": [
+        "#AEE392"
+      ],
+      "description": "cell"
+    },
+    "Parasite": {
+      "primary_color": "#8EC46C",
+      "colors": [
+        "#8EC46C"
+      ],
+      "description": "Parasite"
+    },
+    "Nucleic Acids": {
+      "primary_color": "#B8D0C5",
+      "colors": [
+        "#B8D0C5"
+      ],
+      "description": "Nucleic Acids"
+    },
+    "Toxin": {
+      "primary_color": "#C0E6BA",
+      "colors": [
+        "#C0E6BA"
+      ],
+      "description": "Toxin"
+    },
+    "Synthetic": {
+      "primary_color": "#C1C8E4",
+      "colors": [
+        "#C1C8E4"
+      ],
+      "description": "Synthetic"
+    }
+  },
+  "data": [
+    {
+      "name": "Fluorescein_FB-1 aptamer",
+      "link": "https://aptamer.ribocentre.org/_posts/FB-1-aptamer",
+      "background_color": "#AEE1D6",
+      "position": {
+        "row": 1,
+        "column": 5
+      },
+      "category": "Fluorophores",
+      "category_info": {
+        "name": "Fluorophores",
+        "primary_color": "#AEE1D6"
+      }
+    },
+    {
+      "name": "Hoechst_II-min 3-4 aptamer",
+      "link": "https://aptamer.ribocentre.org/_posts/II-mini3-4-aptamer",
+      "background_color": "#AEE1D6",
+      "position": {
+        "row": 1,
+        "column": 6
+      },
+      "category": "Fluorophores",
+      "category_info": {
+        "name": "Fluorophores",
+        "primary_color": "#AEE1D6"
+      }
+    },
+    {
+      "name": "Okra",
+      "link": "https://aptamer.ribocentre.org/_posts/Okra-aptamer",
+      "background_color": "#AEE1D6",
+      "position": {
+        "row": 1,
+        "column": 7
+      },
+      "category": "Fluorophores",
+      "category_info": {
+        "name": "Fluorophores",
+        "primary_color": "#AEE1D6"
+      }
+    },
+    {
+      "name": "Dopamine",
+      "link": "https://aptamer.ribocentre.org/_posts/Dopamine-aptamer",
+      "background_color": "#7CCCCC",
+      "position": {
+        "row": 1,
+        "column": 8
+      },
+      "category": "Biologics & Signaling Molecules",
+      "category_info": {
+        "name": "Biologics & Signaling Molecules",
+        "primary_color": "#7CCCCC"
+      }
+    },
+    {
+      "name": "Sialyl Lewis X_Clone 5 aptamer",
+      "link": "https://aptamer.ribocentre.org/_posts/Clone-5-aptamer",
+      "background_color": "#7CCCCC",
+      "position": {
+        "row": 1,
+        "column": 9
+      },
+      "category": "Biologics & Signaling Molecules",
+      "category_info": {
+        "name": "Biologics & Signaling Molecules",
+        "primary_color": "#7CCCCC"
+      }
+    },
+    {
+      "name": "Sphingosylphosphorylcholine aptamer",
+      "link": "https://aptamer.ribocentre.org/_posts/SPC-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 2,
+        "column": 1
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Xanthine_XBA RNA aptamer",
+      "link": "https://aptamer.ribocentre.org/_posts/XBA-RNA-aptamer",
+      "background_color": "#A6D1F2",
+      "position": {
+        "row": 8,
+        "column": 2
+      },
+      "category": "Nucleosides & Nucleotides",
+      "category_info": {
+        "name": "Nucleosides & Nucleotides",
+        "primary_color": "#A6D1F2"
+      }
+    },
+    {
+      "name": "cAMP",
+      "link": "https://aptamer.ribocentre.org/_posts/cAMP-aptamer",
+      "background_color": "#A6D1F2",
+      "position": {
+        "row": 8,
+        "column": 3
+      },
+      "category": "Nucleosides & Nucleotides",
+      "category_info": {
+        "name": "Nucleosides & Nucleotides",
+        "primary_color": "#A6D1F2"
+      }
+    },
+    {
+      "name": "ATP_rafl7s aptamer",
+      "link": "https://aptamer.ribocentre.org/_posts/rafl7s-aptamer",
+      "background_color": "#A6D1F2",
+      "position": {
+        "row": 8,
+        "column": 4
+      },
+      "category": "Nucleosides & Nucleotides",
+      "category_info": {
+        "name": "Nucleosides & Nucleotides",
+        "primary_color": "#A6D1F2"
+      }
+    },
+    {
+      "name": "ATP_bG40min aptamer",
+      "link": "https://aptamer.ribocentre.org/_posts/bG40min-aptamer",
+      "background_color": "#A6D1F2",
+      "position": {
+        "row": 8,
+        "column": 5
+      },
+      "category": "Nucleosides & Nucleotides",
+      "category_info": {
+        "name": "Nucleosides & Nucleotides",
+        "primary_color": "#A6D1F2"
+      }
+    },
+    {
+      "name": "Adenine",
+      "link": "https://aptamer.ribocentre.org/_posts/Adenine-aptamer",
+      "background_color": "#A6D1F2",
+      "position": {
+        "row": 8,
+        "column": 6
+      },
+      "category": "Nucleosides & Nucleotides",
+      "category_info": {
+        "name": "Nucleosides & Nucleotides",
+        "primary_color": "#A6D1F2"
+      }
+    },
+    {
+      "name": "Chloramphenicol",
+      "link": "https://aptamer.ribocentre.org/_posts/Chloramphenicol-aptamer",
+      "background_color": "#C4B1E0",
+      "position": {
+        "row": 8,
+        "column": 7
+      },
+      "category": "Pharmaceuticals",
+      "category_info": {
+        "name": "Pharmaceuticals",
+        "primary_color": "#C4B1E0"
+      }
+    },
+    {
+      "name": "Lividomycin",
+      "link": "https://aptamer.ribocentre.org/_posts/Lividomycin-aptamer",
+      "background_color": "#C4B1E0",
+      "position": {
+        "row": 8,
+        "column": 8
+      },
+      "category": "Pharmaceuticals",
+      "category_info": {
+        "name": "Pharmaceuticals",
+        "primary_color": "#C4B1E0"
+      }
+    },
+    {
+      "name": "SRB-2 aptamer",
+      "link": "https://aptamer.ribocentre.org/_posts/SRB-2-aptamer",
+      "background_color": "#AEE1D6",
+      "position": {
+        "row": 8,
+        "column": 9
+      },
+      "category": "Fluorophores",
+      "category_info": {
+        "name": "Fluorophores",
+        "primary_color": "#AEE1D6"
+      }
+    },
+    {
+      "name": "Tobramycin—J6f1 aptamer",
+      "link": "https://aptamer.ribocentre.org/_posts/J6f1-aptamer",
+      "background_color": "#C4B1E0",
+      "position": {
+        "row": 9,
+        "column": 1
+      },
+      "category": "Pharmaceuticals",
+      "category_info": {
+        "name": "Pharmaceuticals",
+        "primary_color": "#C4B1E0"
+      }
+    },
+    {
+      "name": "Doxycyline",
+      "link": "https://aptamer.ribocentre.org/_posts/Doxycyline-aptamer",
+      "background_color": "#C4B1E0",
+      "position": {
+        "row": 9,
+        "column": 2
+      },
+      "category": "Pharmaceuticals",
+      "category_info": {
+        "name": "Pharmaceuticals",
+        "primary_color": "#C4B1E0"
+      }
+    },
+    {
+      "name": "Codeine",
+      "link": "https://aptamer.ribocentre.org/_posts/Codeine-aptamer",
+      "background_color": "#C4B1E0",
+      "position": {
+        "row": 9,
+        "column": 3
+      },
+      "category": "Pharmaceuticals",
+      "category_info": {
+        "name": "Pharmaceuticals",
+        "primary_color": "#C4B1E0"
+      }
+    },
+    {
+      "name": "T4 DNA polymerase",
+      "link": "https://aptamer.ribocentre.org/_posts/Gp43-aptamer",
+      "background_color": "#F5A6A6",
+      "position": {
+        "row": 2,
+        "column": 2
+      },
+      "category": "Other",
+      "category_info": {
+        "name": "Other",
+        "primary_color": "#F5A6A6"
+      }
+    },
+    {
+      "name": "Basic fibroblast growth factor (bFGF)",
+      "link": "https://aptamer.ribocentre.org/_posts/bFGF-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 2,
+        "column": 3
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Protein kinase C (PKC)",
+      "link": "https://aptamer.ribocentre.org/_posts/PKC-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 2,
+        "column": 4
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Vascular Endothelial Growth Factor",
+      "link": "https://aptamer.ribocentre.org/_posts/VEGF-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 2,
+        "column": 5
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "L-selectin",
+      "link": "https://aptamer.ribocentre.org/_posts/L-selectin-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 2,
+        "column": 6
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "E2F",
+      "link": "https://aptamer.ribocentre.org/_posts/E2F1-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 2,
+        "column": 7
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Complement component 5",
+      "link": "https://aptamer.ribocentre.org/_posts/Complement-component-5-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 2,
+        "column": 8
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Raf-1",
+      "link": "https://aptamer.ribocentre.org/_posts/Raf-1-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 2,
+        "column": 9
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Human activated protein C",
+      "link": "https://aptamer.ribocentre.org/_posts/Human-activated-protein-C-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 2,
+        "column": 10
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "CSDE1",
+      "link": "https://aptamer.ribocentre.org/_posts/Upstream-of-N-Ras-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 3,
+        "column": 1
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "CD18 aptamer",
+      "link": "https://aptamer.ribocentre.org/_posts/Integrin-beta-chain-2-(CD18)-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 3,
+        "column": 2
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Neurotensin receptor",
+      "link": "https://aptamer.ribocentre.org/_posts/Neurotensin-receptor-NTS-1-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 3,
+        "column": 3
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Angiopoietin-2",
+      "link": "https://aptamer.ribocentre.org/_posts/Angiopoietin-2-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 3,
+        "column": 4
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "HER3_A30 aptamer",
+      "link": "https://aptamer.ribocentre.org/_posts/A30-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 3,
+        "column": 5
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Eukaryotic initiation factor 4A(eIF4A)",
+      "link": "https://aptamer.ribocentre.org/_posts/eIF4A-aptamer",
+      "background_color": "#D9E89D",
+      "position": {
+        "row": 3,
+        "column": 6
+      },
+      "category": "Proteins",
+      "category_info": {
+        "name": "Proteins",
+        "primary_color": "#D9E89D"
+      }
+    },
+    {
+      "name": "Bovine thrombin",
+      "link": "https://aptamer.ribocentre.org/_posts/Bovine-thrombin-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 3,
+        "column": 7
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Rat monoclonal antibody",
+      "link": "https://aptamer.ribocentre.org/_posts/tMG-RNA-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 3,
+        "column": 8
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "T-cell factor 1 (TCF-1)",
+      "link": "https://aptamer.ribocentre.org/_posts/TCF-1-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 3,
+        "column": 9
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "RANK",
+      "link": "https://aptamer.ribocentre.org/_posts/RANK-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 4,
+        "column": 1
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Cytohesin-2",
+      "link": "https://aptamer.ribocentre.org/_posts/Cytohesin-2-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 4,
+        "column": 2
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Nuclear factor of activated T-cells (NFAT)",
+      "link": "https://aptamer.ribocentre.org/_posts/NFAT-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 4,
+        "column": 3
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "hTNF α",
+      "link": "https://aptamer.ribocentre.org/_posts/hTNF-α-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 4,
+        "column": 4
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Engineered FKBP protein",
+      "link": "https://aptamer.ribocentre.org/_posts/s23-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 4,
+        "column": 5
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "eIF4E",
+      "link": "https://aptamer.ribocentre.org/_posts/eIF4E-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 4,
+        "column": 6
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "RNA-dependent RNA polymerase",
+      "link": "https://aptamer.ribocentre.org/_posts/RNA-dependent-RNA-polymerase-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 4,
+        "column": 7
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "BACE1 (B1-CT)",
+      "link": "https://aptamer.ribocentre.org/_posts/B1-CT-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 4,
+        "column": 8
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Bovine factor IX",
+      "link": "https://aptamer.ribocentre.org/_posts/Bovine-factor-IX-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 4,
+        "column": 9
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "DNA polymerase β(polβ)",
+      "link": "https://aptamer.ribocentre.org/_posts/polβ-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 5,
+        "column": 1
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Transforming growth factor-β type III(TbRIII)",
+      "link": "https://aptamer.ribocentre.org/_posts/TbRIII-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 5,
+        "column": 2
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "AMPA receptors",
+      "link": "https://aptamer.ribocentre.org/_posts/AMPA-receptors-Aptamer",
+      "background_color": "#D9E89D",
+      "position": {
+        "row": 5,
+        "column": 3
+      },
+      "category": "Proteins",
+      "category_info": {
+        "name": "Proteins",
+        "primary_color": "#D9E89D"
+      }
+    },
+    {
+      "name": "Ca2+-binding protein",
+      "link": "https://aptamer.ribocentre.org/_posts/Ca2+-binding-protein-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 5,
+        "column": 4
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "β2-microglobulin fibrils",
+      "link": "https://aptamer.ribocentre.org/_posts/β2-microglobulin-fibrils_WL-2-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 5,
+        "column": 5
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "GluR2 AMPA receptors",
+      "link": "https://aptamer.ribocentre.org/_posts/GluR2-AMPA-receptors_AN58-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 5,
+        "column": 6
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Transferrin receptor protein 1",
+      "link": "https://aptamer.ribocentre.org/_posts/TfR-ECD-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 5,
+        "column": 7
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Amyloid beta-peptide",
+      "link": "https://aptamer.ribocentre.org/_posts/E2-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 5,
+        "column": 8
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Plasminogen activator inhibitor-1",
+      "link": "https://aptamer.ribocentre.org/_posts/PAI-1-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 5,
+        "column": 9
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Epithelial Growth Factor Receptor",
+      "link": "https://aptamer.ribocentre.org/_posts/Epithelial-growth-factor-receptor_Epithelial-growth-factor-receptor_J18-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 6,
+        "column": 1
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Zinc-finger antiviral protein (ZAP)",
+      "link": "https://aptamer.ribocentre.org/_posts/ZAP-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 6,
+        "column": 2
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Protein tyrosine phosphatase 1B (PTP1B)",
+      "link": "https://aptamer.ribocentre.org/_posts/PTP1B-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 6,
+        "column": 3
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "IL-17A",
+      "link": "https://aptamer.ribocentre.org/_posts/IL-17A-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 6,
+        "column": 4
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Cyclophilin B (CypB)",
+      "link": "https://aptamer.ribocentre.org/_posts/CypB-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 6,
+        "column": 5
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "OX40",
+      "link": "https://aptamer.ribocentre.org/_posts/OX40-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 6,
+        "column": 6
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Glycoprotein 2",
+      "link": "https://aptamer.ribocentre.org/_posts/GP2-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 6,
+        "column": 7
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Estrogen receptor α (ERα)",
+      "link": "https://aptamer.ribocentre.org/_posts/ERα-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 6,
+        "column": 8
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Carcinoembryonic antigen",
+      "link": "https://aptamer.ribocentre.org/_posts/CEA-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 6,
+        "column": 9
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Interleukin-6 receptor domain 3(IL-6R-D3)",
+      "link": "https://aptamer.ribocentre.org/_posts/Interleukin-6-receptor-domain-3-(IL-6R-D3)-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 7,
+        "column": 1
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "REases KpnI",
+      "link": "https://aptamer.ribocentre.org/_posts/REases-KpnI-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 7,
+        "column": 2
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Ubiquitin carboxyl-terminal hydrolase37",
+      "link": "https://aptamer.ribocentre.org/_posts/Ubiquitin-carboxyl-terminal-hydrolase37-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 7,
+        "column": 3
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "AMPA and kainate receptors",
+      "link": "https://aptamer.ribocentre.org/_posts/AMPA-and-kainate-receptors_AB9-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 7,
+        "column": 4
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Gastrointestinal cancer antigen 50",
+      "link": "https://aptamer.ribocentre.org/_posts/Gastrointestinal-cancer-antigen-50-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 7,
+        "column": 5
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Cancer antigen 72–4",
+      "link": "https://aptamer.ribocentre.org/_posts/Cancer-antigen-72–4-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 7,
+        "column": 6
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Chemokine CCL17",
+      "link": "https://aptamer.ribocentre.org/_posts/Chemokine-CCL17-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 7,
+        "column": 7
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "IL2–CD25",
+      "link": "https://aptamer.ribocentre.org/_posts/IL2-CD25-aptermer",
+      "background_color": "#AEE392",
+      "position": {
+        "row": 7,
+        "column": 8
+      },
+      "category": "cell",
+      "category_info": {
+        "name": "cell",
+        "primary_color": "#AEE392"
+      }
+    },
+    {
+      "name": "Mixed lineage leukemia proteins",
+      "link": "https://aptamer.ribocentre.org/_posts/Mixed-lineage-leukemia-proteins-aptermer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 7,
+        "column": 9
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Aβ42",
+      "link": "https://aptamer.ribocentre.org/_posts/Aβ42-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 8,
+        "column": 1
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Escherichia coli(E.Coil)",
+      "link": "https://aptamer.ribocentre.org/_posts/Escherichia-coli-aptamer",
+      "background_color": "#F7B7A3",
+      "position": {
+        "row": 9,
+        "column": 4
+      },
+      "category": "Bacteria",
+      "category_info": {
+        "name": "Bacteria",
+        "primary_color": "#F7B7A3"
+      }
+    },
+    {
+      "name": "Protein tyrosine phosphatases",
+      "link": "https://aptamer.ribocentre.org/_posts/Protein-tyrosine-phosphatases-aptamer",
+      "background_color": "#F7B7A3",
+      "position": {
+        "row": 9,
+        "column": 5
+      },
+      "category": "Bacteria",
+      "category_info": {
+        "name": "Bacteria",
+        "primary_color": "#F7B7A3"
+      }
+    },
+    {
+      "name": "Subtilisin",
+      "link": "https://aptamer.ribocentre.org/_posts/Subtilisin-aptamer",
+      "background_color": "#F7B7A3",
+      "position": {
+        "row": 9,
+        "column": 6
+      },
+      "category": "Bacteria",
+      "category_info": {
+        "name": "Bacteria",
+        "primary_color": "#F7B7A3"
+      }
+    },
+    {
+      "name": "Peptide release factor 1",
+      "link": "https://aptamer.ribocentre.org/_posts/Peptide-release-factor-1-aptamer",
+      "background_color": "#F7B7A3",
+      "position": {
+        "row": 9,
+        "column": 7
+      },
+      "category": "Bacteria",
+      "category_info": {
+        "name": "Bacteria",
+        "primary_color": "#F7B7A3"
+      }
+    },
+    {
+      "name": "Colicin E3",
+      "link": "https://aptamer.ribocentre.org/_posts/Colicin-Prostate-cancer-cells_E3-aptamer",
+      "background_color": "#F7B7A3",
+      "position": {
+        "row": 9,
+        "column": 8
+      },
+      "category": "Bacteria",
+      "category_info": {
+        "name": "Bacteria",
+        "primary_color": "#F7B7A3"
+      }
+    },
+    {
+      "name": "Type IVB Pili",
+      "link": "https://aptamer.ribocentre.org/_posts/Type-IVB-Pili-aptamer",
+      "background_color": "#F7B7A3",
+      "position": {
+        "row": 9,
+        "column": 9
+      },
+      "category": "Bacteria",
+      "category_info": {
+        "name": "Bacteria",
+        "primary_color": "#F7B7A3"
+      }
+    },
+    {
+      "name": "CsrA",
+      "link": "https://aptamer.ribocentre.org/_posts/CsrA-aptamer",
+      "background_color": "#F7B7A3",
+      "position": {
+        "row": 10,
+        "column": 1
+      },
+      "category": "Bacteria",
+      "category_info": {
+        "name": "Bacteria",
+        "primary_color": "#F7B7A3"
+      }
+    },
+    {
+      "name": "Escherichia coli release factor 1",
+      "link": "https://aptamer.ribocentre.org/_posts/RF-1-aptamer",
+      "background_color": "#F7B7A3",
+      "position": {
+        "row": 10,
+        "column": 2
+      },
+      "category": "Bacteria",
+      "category_info": {
+        "name": "Bacteria",
+        "primary_color": "#F7B7A3"
+      }
+    },
+    {
+      "name": "Elongation factor SelB",
+      "link": "https://aptamer.ribocentre.org/_posts/Elongation-factor-SelB-aptamer",
+      "background_color": "#F7B7A3",
+      "position": {
+        "row": 10,
+        "column": 3
+      },
+      "category": "Bacteria",
+      "category_info": {
+        "name": "Bacteria",
+        "primary_color": "#F7B7A3"
+      }
+    },
+    {
+      "name": "Serine/arginine-rich (SR) proteins",
+      "link": "https://aptamer.ribocentre.org/_posts/Serine_arginine-rich-(SR)-proteins_B52-aptamer",
+      "background_color": "#F5A6A6",
+      "position": {
+        "row": 12,
+        "column": 9
+      },
+      "category": "Other",
+      "category_info": {
+        "name": "Other",
+        "primary_color": "#F5A6A6"
+      }
+    },
+    {
+      "name": "Mitochondrion",
+      "link": "https://aptamer.ribocentre.org/_posts/Mitochondrion-aptamer",
+      "background_color": "#F5A6A6",
+      "position": {
+        "row": 13,
+        "column": 1
+      },
+      "category": "Other",
+      "category_info": {
+        "name": "Other",
+        "primary_color": "#F5A6A6"
+      }
+    },
+    {
+      "name": "Drosophila muscleblind protein Mbl",
+      "link": "https://aptamer.ribocentre.org/_posts/Drosophila-muscleblind-protein-Mbl-aptamer",
+      "background_color": "#F5A6A6",
+      "position": {
+        "row": 13,
+        "column": 2
+      },
+      "category": "Other",
+      "category_info": {
+        "name": "Other",
+        "primary_color": "#F5A6A6"
+      }
+    },
+    {
+      "name": "Cell death abnormality gene 9 (CED-9)",
+      "link": "https://aptamer.ribocentre.org/_posts/CED-9-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 14,
+        "column": 1
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Trypanosome variant surface glycoprotein (Trypanosome VSG)",
+      "link": "https://aptamer.ribocentre.org/_posts/Trypanosome-VSG-aptamer",
+      "background_color": "#8EC46C",
+      "position": {
+        "row": 14,
+        "column": 2
+      },
+      "category": "Parasite",
+      "category_info": {
+        "name": "Parasite",
+        "primary_color": "#8EC46C"
+      }
+    },
+    {
+      "name": "Hamster prion protein",
+      "link": "https://aptamer.ribocentre.org/_posts/Hamster-prion-protein-aptamer",
+      "background_color": "#F7E6AD",
+      "position": {
+        "row": 14,
+        "column": 3
+      },
+      "category": "Prion",
+      "category_info": {
+        "name": "Prion",
+        "primary_color": "#F7E6AD"
+      }
+    },
+    {
+      "name": "Sheep prion protein",
+      "link": "https://aptamer.ribocentre.org/_posts/Sheep-prion-protein-aptamer",
+      "background_color": "#F7E6AD",
+      "position": {
+        "row": 14,
+        "column": 4
+      },
+      "category": "Prion",
+      "category_info": {
+        "name": "Prion",
+        "primary_color": "#F7E6AD"
+      }
+    },
+    {
+      "name": "HIV-1 RT",
+      "link": "https://aptamer.ribocentre.org/_posts/HIV-1-RT-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 10,
+        "column": 4
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "HIV-1 Rev protein (1)",
+      "link": "https://aptamer.ribocentre.org/_posts/HIV-1-Rev-protein_59-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 10,
+        "column": 5
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "HIV-1 Rev protein (2)",
+      "link": "https://aptamer.ribocentre.org/_posts/HIV-1-Rev-protein_C52-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 10,
+        "column": 6
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "HIV-1 integrase",
+      "link": "https://aptamer.ribocentre.org/_posts/HIV-1-integrase-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 10,
+        "column": 7
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "HTLV-1 Tax protein",
+      "link": "https://aptamer.ribocentre.org/_posts/HTLV-1-Tax-protein_YT1-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 10,
+        "column": 8
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "HIV-1 Tat protein",
+      "link": "https://aptamer.ribocentre.org/_posts/HIV-1-Tat-protein_Clone-31-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 10,
+        "column": 9
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "HCV NS3 protease (1)",
+      "link": "https://aptamer.ribocentre.org/_posts/10G-1-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 11,
+        "column": 1
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "HCV NS3 protease (2)",
+      "link": "https://aptamer.ribocentre.org/_posts/HCV-NS3-protease_G9-II-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 11,
+        "column": 2
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "R5 helix peptide",
+      "link": "https://aptamer.ribocentre.org/_posts/R5-helix-peptide-aptamer",
+      "background_color": "#F5A6A6",
+      "position": {
+        "row": 11,
+        "column": 3
+      },
+      "category": "Other",
+      "category_info": {
+        "name": "Other",
+        "primary_color": "#F5A6A6"
+      }
+    },
+    {
+      "name": "Wilms tumor protein",
+      "link": "https://aptamer.ribocentre.org/_posts/Wilms-tumor-protein-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 11,
+        "column": 4
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "HCV NS5B protein",
+      "link": "https://aptamer.ribocentre.org/_posts/HCV-NS5B-protein-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 11,
+        "column": 5
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "HCV NS5B ΔC55",
+      "link": "https://aptamer.ribocentre.org/_posts/HCV-NS5BΔC55-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 11,
+        "column": 6
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "HSV-1 US11",
+      "link": "https://aptamer.ribocentre.org/_posts/HSV-1-US11-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 11,
+        "column": 7
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "Hemagglutinin",
+      "link": "https://aptamer.ribocentre.org/_posts/Hemagglutinin-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 11,
+        "column": 8
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "H3N2 Haemagglutinin",
+      "link": "https://aptamer.ribocentre.org/_posts/H3N2-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 11,
+        "column": 9
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "SARS-CoV N protein",
+      "link": "https://aptamer.ribocentre.org/_posts/SARS-CoV-N-protein-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 12,
+        "column": 1
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "HPV-16 E7 protein",
+      "link": "https://aptamer.ribocentre.org/_posts/HPV-16-E7-oncoprotein-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 12,
+        "column": 2
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "HBV P protein",
+      "link": "https://aptamer.ribocentre.org/_posts/HBV-P-protein-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 12,
+        "column": 3
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "Hirame rhabdovirus(HIRRV)",
+      "link": "https://aptamer.ribocentre.org/_posts/HIRRV-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 12,
+        "column": 4
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "H5N1/H7N7 Hemagglutinin (HA)",
+      "link": "https://aptamer.ribocentre.org/_posts/H5N1_H7N7-Hemagglutinin-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 12,
+        "column": 5
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "gHA1",
+      "link": "https://aptamer.ribocentre.org/_posts/Hemagglutinin-(HA)-protein-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 12,
+        "column": 6
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "HIV-1 protease",
+      "link": "https://aptamer.ribocentre.org/_posts/HIV-1-PR-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 12,
+        "column": 7
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "HIV-1 capsid",
+      "link": "https://aptamer.ribocentre.org/_posts/HIV-1-CA-aptamer",
+      "background_color": "#90A7E6",
+      "position": {
+        "row": 12,
+        "column": 8
+      },
+      "category": "Viral",
+      "category_info": {
+        "name": "Viral",
+        "primary_color": "#90A7E6"
+      }
+    },
+    {
+      "name": "16S rRNA decoding region",
+      "link": "https://aptamer.ribocentre.org/_posts/16S-rRNA-decoding-region-aptamer",
+      "background_color": "#FFD3B4",
+      "position": {
+        "row": 13,
+        "column": 7
+      },
+      "category": "RNA",
+      "category_info": {
+        "name": "RNA",
+        "primary_color": "#FFD3B4"
+      }
+    },
+    {
+      "name": "Yeast phenylalanine tRNA",
+      "link": "https://aptamer.ribocentre.org/_posts/Yeast-phenylalanine-tRNA-aptamer",
+      "background_color": "#B8D0C5",
+      "position": {
+        "row": 13,
+        "column": 8
+      },
+      "category": "Nucleic Acids",
+      "category_info": {
+        "name": "Nucleic Acids",
+        "primary_color": "#B8D0C5"
+      }
+    },
+    {
+      "name": "RNA stem-loop",
+      "link": "https://aptamer.ribocentre.org/_posts/RNA-stem-loop-aptamer",
+      "background_color": "#FFD3B4",
+      "position": {
+        "row": 13,
+        "column": 9
+      },
+      "category": "RNA",
+      "category_info": {
+        "name": "RNA",
+        "primary_color": "#FFD3B4"
+      }
+    },
+    {
+      "name": "β-catenin",
+      "link": "https://aptamer.ribocentre.org/_posts/β-catenin_pUC19-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 14,
+        "column": 5
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Breast cancer cells",
+      "link": "https://aptamer.ribocentre.org/_posts/Breast-cancer-cells_HER2-aptamer",
+      "background_color": "#AEE392",
+      "position": {
+        "row": 14,
+        "column": 6
+      },
+      "category": "cell",
+      "category_info": {
+        "name": "cell",
+        "primary_color": "#AEE392"
+      }
+    },
+    {
+      "name": "Prostate cancer cells",
+      "link": "https://aptamer.ribocentre.org/_posts/Prostate-cancer-cells_E3-aptamer",
+      "background_color": "#AEE392",
+      "position": {
+        "row": 14,
+        "column": 7
+      },
+      "category": "cell",
+      "category_info": {
+        "name": "cell",
+        "primary_color": "#AEE392"
+      }
+    },
+    {
+      "name": "Triple-negative breast cancer(TNBC)",
+      "link": "https://aptamer.ribocentre.org/_posts/TNBC-aptamer",
+      "background_color": "#AEE392",
+      "position": {
+        "row": 14,
+        "column": 8
+      },
+      "category": "cell",
+      "category_info": {
+        "name": "cell",
+        "primary_color": "#AEE392"
+      }
+    },
+    {
+      "name": "Cell line Hep3B CD133",
+      "link": "https://aptamer.ribocentre.org/_posts/Cell-line-Hep3B-CD133-aptamer",
+      "background_color": "#AEE392",
+      "position": {
+        "row": 14,
+        "column": 9
+      },
+      "category": "cell",
+      "category_info": {
+        "name": "cell",
+        "primary_color": "#AEE392"
+      }
+    },
+    {
+      "name": "Glioma cells",
+      "link": "https://aptamer.ribocentre.org/_posts/Glioma-cells_GL56-aptamer",
+      "background_color": "#E7B7E8",
+      "position": {
+        "row": 15,
+        "column": 1
+      },
+      "category": "Mammalian",
+      "category_info": {
+        "name": "Mammalian",
+        "primary_color": "#E7B7E8"
+      }
+    },
+    {
+      "name": "Pepocin",
+      "link": "https://aptamer.ribocentre.org/_posts/Pepocin-aptamer",
+      "background_color": "#C0E6BA",
+      "position": {
+        "row": 13,
+        "column": 3
+      },
+      "category": "Toxin",
+      "category_info": {
+        "name": "Toxin",
+        "primary_color": "#C0E6BA"
+      }
+    },
+    {
+      "name": "Reactive Blue 4_B4-25 aptamer",
+      "link": "https://aptamer.ribocentre.org/_posts/B4-25-aptamer",
+      "background_color": "#C1C8E4",
+      "position": {
+        "row": 13,
+        "column": 4
+      },
+      "category": "Synthetic",
+      "category_info": {
+        "name": "Synthetic",
+        "primary_color": "#C1C8E4"
+      }
+    },
+    {
+      "name": "Cibacron Blue 3GA_CB-42 aptamer",
+      "link": "https://aptamer.ribocentre.org/_posts/B4-25-aptamer",
+      "background_color": "#C1C8E4",
+      "position": {
+        "row": 13,
+        "column": 5
+      },
+      "category": "Synthetic",
+      "category_info": {
+        "name": "Synthetic",
+        "primary_color": "#C1C8E4"
+      }
+    },
+    {
+      "name": "Sephadex G-100",
+      "link": "https://aptamer.ribocentre.org/_posts/D8-aptamer",
+      "background_color": "#C1C8E4",
+      "position": {
+        "row": 13,
+        "column": 6
+      },
+      "category": "Synthetic",
+      "category_info": {
+        "name": "Synthetic",
+        "primary_color": "#C1C8E4"
+      }
+    },
+    {
+      "name": "Neuropeptide Y",
+      "link": "https://aptamer.ribocentre.org/_posts/DP3-aptamer",
+      "background_color": "#B5C7ED",
+      "position": {
+        "row": 1,
+        "column": 1
+      },
+      "category": "Amino Acids & Peptides",
+      "category_info": {
+        "name": "Amino Acids & Peptides",
+        "primary_color": "#B5C7ED"
+      }
+    },
+    {
+      "name": "L-tyrosine",
+      "link": "https://aptamer.ribocentre.org/_posts/Tyr-1-aptamer",
+      "background_color": "#B5C7ED",
+      "position": {
+        "row": 1,
+        "column": 2
+      },
+      "category": "Amino Acids & Peptides",
+      "category_info": {
+        "name": "Amino Acids & Peptides",
+        "primary_color": "#B5C7ED"
+      }
+    },
+    {
+      "name": "Amyloid beta-peptide",
+      "link": "https://aptamer.ribocentre.org/_posts/%CE%B255-aptamer",
+      "background_color": "#F5A6A6",
+      "position": {
+        "row": 1,
+        "column": 3
+      },
+      "category": "Other",
+      "category_info": {
+        "name": "Other",
+        "primary_color": "#F5A6A6"
+      }
+    },
+    {
+      "name": "Substance P",
+      "link": "https://aptamer.ribocentre.org/_posts/L-SUP-A-004-aptamer",
+      "background_color": "#B5C7ED",
+      "position": {
+        "row": 1,
+        "column": 4
+      },
+      "category": "Amino Acids & Peptides",
+      "category_info": {
+        "name": "Amino Acids & Peptides",
+        "primary_color": "#B5C7ED"
+      }
+    }
+  ]
+}

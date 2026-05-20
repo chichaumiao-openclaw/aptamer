@@ -1,0 +1,82 @@
+<header class="rna-header">
+  <div class="rna-institutional">
+<a class="rna-institutional-link" href="https://www.gznl.org/" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/header/home.svg" alt="">
+  <span>Home</span>
+</a>
+<a class="rna-institutional-link" href="https://www.gznl.org/database/" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/header/database.svg" alt="">
+  <span>Database</span>
+</a>
+<a class="rna-institutional-link" href="https://www.gznl.org/research/" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/header/research.svg" alt="">
+  <span>Research</span>
+</a>
+<a class="rna-institutional-link" href="https://www.gznl.org/aboutus/" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/header/aboutus.svg" alt="">
+  <span>About us</span>
+</a>
+<a class="rna-institutional-link" href="https://gzlab.ac.cn/" target="_blank" rel="noopener noreferrer">
+  <img src="/assets/header/gznl2.svg" alt="">
+  <span>GZNL-RDC</span>
+</a>
+  </div>
+  <div class="rna-main-nav">
+    <div class="rna-main-nav-inner">
+      <div class="rna-brand">
+        <div class="rna-brand-mark">
+          {% if site.logo_path and site.logo_path != "" %}
+          <img src="{{ site.logo_path }}" alt="Aptamer logo">
+          {% else %}
+          <span class="rna-brand-fallback">AP</span>
+          {% endif %}
+        </div>
+        <div class="rna-brand-copy">
+          <p class="rna-kicker">{{ site.site_family_label }}</p>
+          <h1 class="rna-title">Aptamer</h1>
+          <p class="rna-paper-line"><a href="{{ site.paper_url }}" target="_blank" rel="noopener noreferrer">{{ site.paper_title }}</a></p>
+        </div>
+      </div>
+      <div class="rna-nav-group">
+        <div class="rna-family-row">
+<a class="rna-family-pill" href="https://www.ribocentre.org/" >
+  <strong>Ribocentre</strong>
+  <small>Ribozyme database</small>
+</a>
+<a class="rna-family-pill" href="https://switch.ribocentre.org/" >
+  <strong>Switch</strong>
+  <small>Riboswitch database</small>
+</a>
+<a class="rna-family-pill is-active" href="/" aria-current="page">
+  <strong>Aptamer</strong>
+  <small>Aptamer database</small>
+</a>
+<a class="rna-family-pill" href="https://foldbridge.ribocentre.org/" >
+  <strong>FoldBridge</strong>
+  <small>Probing-to-structure bridge</small>
+</a>
+        </div>
+        <div class="rna-page-row">
+          <button type="button" class="rna-mode-toggle" data-mode-toggle>Dark mode</button>
+          <button type="button" class="rna-nav-toggle" data-nav-toggle aria-expanded="false">Menu</button>
+          <nav class="rna-page-links" data-page-links>
+<a class="rna-page-link {% if page.url == '/' %}is-active{% endif %}" href="/" {% if page.url == '/' %}aria-current="page"{% endif %}>Home</a>
+<details class="rna-page-dropdown" {% if page.url == '/Ribocentre-aptamer/' or page.url == '/fluorescence/' %}open{% endif %}>
+  <summary>Database</summary>
+  <div class="rna-page-dropdown-menu">
+<a href="/Ribocentre-aptamer/" class="{% if page.url == '/Ribocentre-aptamer/' %}is-active{% endif %}">All Aptamers</a>
+<a href="/fluorescence/" class="{% if page.url == '/fluorescence/' %}is-active{% endif %}">Fluorescence Aptamers</a>
+  </div>
+</details>
+<a class="rna-page-link {% if page.url == '/applications/' %}is-active{% endif %}" href="/applications/" {% if page.url == '/applications/' %}aria-current="page"{% endif %}>Applications</a>
+<a class="rna-page-link {% if page.url == '/publications/' %}is-active{% endif %}" href="/publications/" {% if page.url == '/publications/' %}aria-current="page"{% endif %}>Publications</a>
+<a class="rna-page-link {% if page.url == '/sequences/' %}is-active{% endif %}" href="/sequences/" {% if page.url == '/sequences/' %}aria-current="page"{% endif %}>Sequences</a>
+<a class="rna-page-link {% if page.url == '/structures/' %}is-active{% endif %}" href="/structures/" {% if page.url == '/structures/' %}aria-current="page"{% endif %}>Structures</a>
+<a class="rna-page-link {% if page.url == '/advanced-search/' %}is-active{% endif %}" href="/advanced-search/" {% if page.url == '/advanced-search/' %}aria-current="page"{% endif %}>Search</a>
+<a class="rna-page-link {% if page.url == '/helps/' %}is-active{% endif %}" href="/helps/" {% if page.url == '/helps/' %}aria-current="page"{% endif %}>Help</a>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>

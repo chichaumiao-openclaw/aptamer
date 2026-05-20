@@ -1,0 +1,118 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-15, .cls-16, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        isolation: isolate;
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-2, .cls-3, .cls-4 {
+        font-size: 25.61px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #369848;
+      }
+
+      .cls-2, .cls-4 {
+        letter-spacing: -0.23em;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #d4792b;
+      }
+
+      .cls-5, .cls-6 {
+        font-size: 20.49px;
+      }
+
+      .cls-15, .cls-5, .cls-6, .cls-8 {
+        fill: #251e1c;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.16em;
+      }
+
+      .cls-14, .cls-7 {
+        fill: none;
+      }
+
+      .cls-14, .cls-7, .cls-8 {
+        stroke: #251e1c;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-9 {
+        fill: #8527b5;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13 {
+        fill: #fff;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-12 {
+        letter-spacing: -0.13em;
+      }
+
+      .cls-13 {
+        letter-spacing: -0.23em;
+      }
+
+      .cls-14 {
+        stroke-width: 0.25px;
+      }
+
+      .cls-15 {
+        font-size: 19.21px;
+      }
+
+      .cls-16 {
+        font-size: 20px;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(222.71 198.24)">C</text>
+  <text class="cls-2" transform="translate(248.36 198.24)">A</text>
+  <text class="cls-1" transform="translate(273.93 198.24)">C</text>
+  <text class="cls-1" transform="translate(299.55 198.24)">G</text>
+  <text class="cls-1" transform="translate(325.16 198.24)">G</text>
+  <text class="cls-1" transform="translate(350.77 191.84)">U</text>
+  <text class="cls-3" transform="translate(379.43 182.88)">C</text>
+  <text class="cls-3" transform="translate(402.06 208.54)">C</text>
+  <text class="cls-3" transform="translate(402.06 245.83)">C</text>
+  <text class="cls-4" transform="translate(379.47 271.24)">A</text>
+  <text class="cls-3" transform="translate(350.77 262.28)">G</text>
+  <text class="cls-2" transform="translate(325.2 255.87)">A</text>
+  <text class="cls-1" transform="translate(273.93 255.87)">G</text>
+  <text class="cls-1" transform="translate(299.55 255.87)">C</text>
+  <text class="cls-1" transform="translate(248.32 255.87)">U</text>
+  <text class="cls-1" transform="translate(222.71 255.87)">G</text>
+  <text class="cls-5" transform="translate(194.51 197.27)">5</text>
+  <text class="cls-6" transform="translate(208.75 197.27)">’</text>
+  <text class="cls-5" transform="translate(194.51 256.18)">3</text>
+  <text class="cls-6" transform="translate(208.75 256.18)">’</text>
+  <line class="cls-7" x1="232.26" y1="202.89" x2="232.26" y2="232.99"/>
+  <line class="cls-7" x1="283.78" y1="202.89" x2="283.78" y2="232.99"/>
+  <line class="cls-7" x1="257.27" y1="202.89" x2="257.27" y2="232.99"/>
+  <line class="cls-7" x1="309.18" y1="202.89" x2="309.18" y2="232.99"/>
+  <line class="cls-7" x1="333.84" y1="232.99" x2="336.72" y2="232.99"/>
+  <line class="cls-7" x1="333.74" y1="202.89" x2="333.74" y2="232.99"/>
+  <line class="cls-7" x1="333.84" y1="202.89" x2="336.72" y2="202.89"/>
+  <circle class="cls-8" cx="333.74" cy="224.98" r="2.56"/>
+  <rect class="cls-9" x="441.44" y="202.89" width="193.44" height="30.09"/>
+  <text class="cls-10" transform="translate(446.79 226.97)">HI</text>
+  <text class="cls-11" transform="translate(472.41 226.97)">V</text>
+  <text class="cls-10" transform="translate(488.08 226.97)">-1</text>
+  <text class="cls-12" transform="translate(517.5 226.97)">T</text>
+  <text class="cls-10" transform="translate(531.25 226.97)">AR RN</text>
+  <text class="cls-13" transform="translate(610.93 226.97)">A</text>
+  <line class="cls-14" x1="388.15" y1="275.17" x2="388.15" y2="289.67"/>
+  <text class="cls-15" transform="translate(377.29 307.76)">10</text>
+  <circle class="cls-8" cx="333.74" cy="211.75" r="2.56"/>
+  <text class="cls-16" transform="translate(312.49 106.99)">LR06(GA) aptamer</text>
+</svg>

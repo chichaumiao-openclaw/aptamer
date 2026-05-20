@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #000;
+      }
+
+      .cls-6 {
+        stroke: #304ff7;
+      }
+
+      .cls-6, .cls-7 {
+        fill: none;
+        stroke-width: .94px;
+      }
+
+      .cls-8, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        font-size: 18px;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-4 {
+        font-size: 31.2px;
+      }
+
+      .cls-9 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-5 {
+        font-size: 25.69px;
+      }
+
+      .cls-7 {
+        stroke: #ff0d0d;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-2" points="335.82 162.68 387.93 133.68 387.93 135.04 387.89 136.36 338.14 164.04 336.98 163.34 335.82 162.68"/>
+  <polygon class="cls-2" points="343.35 166.49 387.23 142.1 387.8 143.09 388.36 144.12 344.48 168.51 343.91 167.52 343.35 166.49"/>
+  <polygon class="cls-2" points="387.93 133.68 437.94 163.64 437.91 164.97 436.75 165.63 387.89 136.36 387.93 135.04 387.93 133.68"/>
+  <polygon class="cls-2" points="439.07 165.66 438.14 223.97 436.98 223.27 435.82 222.57 436.75 165.63 437.91 164.97 439.07 165.66"/>
+  <polygon class="cls-2" points="432.04 168.91 431.21 219.13 430.05 219.09 428.89 219.09 429.69 168.88 430.85 168.91 432.04 168.91"/>
+  <polygon class="cls-2" points="438.14 223.97 386.04 252.93 386.04 251.57 386.07 250.25 435.82 222.57 436.98 223.27 438.14 223.97"/>
+  <polygon class="cls-2" points="386.04 252.93 336.02 222.97 336.06 221.65 337.22 220.98 386.07 250.25 386.04 251.57 386.04 252.93"/>
+  <polygon class="cls-2" points="385.57 244.51 342.52 218.73 343.12 217.7 343.71 216.71 386.77 242.49 386.17 243.52 385.57 244.51"/>
+  <polygon class="cls-2" points="336.02 222.97 286.34 250.61 285.11 249.95 285.15 248.62 334.9 220.95 336.06 221.65 336.02 222.97"/>
+  <polygon class="cls-2" points="283.89 250.58 235.13 221.38 235.1 220.02 236.29 219.36 285.15 248.62 285.11 249.95 283.89 250.58"/>
+  <polygon class="cls-2" points="235.13 221.38 188.1 252.04 184.19 248.33 180.05 244.51 233.97 219.26 235.1 220.02 235.13 221.38"/>
+  <polygon class="cls-2" points="188.1 252.04 145.91 226.78 146.5 225.79 147.1 224.79 180.05 244.51 184.19 248.33 188.1 252.04"/>
+  <g class="cls-8">
+    <text class="cls-5" transform="translate(105.64 228.81)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-5" transform="translate(124.2 228.81)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <polygon class="cls-2" points="233.97 219.26 234.67 174.68 235.83 174.71 237.02 174.71 236.29 219.36 235.1 220.02 233.97 219.26"/>
+  <g class="cls-8">
+    <text class="cls-5" transform="translate(226.78 172.16)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-5" transform="translate(245.34 172.16)"><tspan x="0" y="0">H</tspan></text>
+  </g>
+  <polygon class="cls-2" points="223.83 155.79 184.89 132.45 186.05 131.79 187.24 131.13 225.02 153.8 224.43 154.79 223.83 155.79"/>
+  <polygon class="cls-2" points="190.09 134.87 149.72 157.34 149.16 156.32 148.59 155.29 188.96 132.85 189.53 133.88 190.09 134.87"/>
+  <polygon class="cls-2" points="186.68 128.77 146.31 151.21 145.74 150.22 145.18 149.19 185.55 126.75 186.11 127.75 186.68 128.77"/>
+  <g class="cls-8">
+    <text class="cls-5" transform="translate(125.13 170.54)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <polygon class="cls-2" points="184.89 132.45 185.81 74.15 186.97 73.52 188.13 74.22 187.24 131.13 186.05 131.79 184.89 132.45"/>
+  <polygon class="cls-2" points="185.81 74.15 150.85 53.24 151.44 52.24 152.04 51.22 187.01 72.16 186.97 73.52 185.81 74.15"/>
+  <g class="cls-8">
+    <text class="cls-5" transform="translate(124.86 53.97)"><tspan x="0" y="0">Cl</tspan></text>
+  </g>
+  <polygon class="cls-2" points="187.01 72.16 222.9 52.21 223.47 53.24 224.03 54.27 188.13 74.22 186.97 73.52 187.01 72.16"/>
+  <g class="cls-8">
+    <text class="cls-5" transform="translate(225.79 55.59)"><tspan x="0" y="0">Cl</tspan></text>
+  </g>
+  <polygon class="cls-2" points="286.34 250.61 289.62 295.36 284.38 295.26 279.15 295.19 283.89 250.58 285.11 249.95 286.34 250.61"/>
+  <g class="cls-8">
+    <text class="cls-5" transform="translate(274.18 318.66)"><tspan x="0" y="0">O</tspan></text>
+    <text class="cls-5" transform="translate(294.17 318.66)"><tspan x="0" y="0">H</tspan></text>
+  </g>
+  <polygon class="cls-2" points="334.9 220.95 335.82 162.68 336.98 163.34 338.14 164.04 337.22 220.98 336.06 221.65 334.9 220.95"/>
+  <polygon class="cls-2" points="437.94 163.64 476.69 142.1 477.25 143.09 477.82 144.12 439.07 165.66 437.91 164.97 437.94 163.64"/>
+  <g class="cls-8">
+    <text class="cls-5" transform="translate(479.57 147.07)"><tspan x="0" y="0">N</tspan></text>
+  </g>
+  <polygon class="cls-2" points="484.41 123.6 484.91 91.26 486.1 91.29 487.26 91.29 486.73 123.67 485.57 123.64 484.41 123.6"/>
+  <polygon class="cls-2" points="491.4 123.74 491.9 91.39 493.09 91.39 494.25 91.42 493.72 123.77 492.56 123.74 491.4 123.74"/>
+  <g class="cls-8">
+    <text class="cls-5" transform="translate(479.81 88.8)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <polygon class="cls-2" points="501.08 142.6 527.13 158.21 526.54 159.2 525.94 160.23 499.86 144.62 500.45 143.59 501.08 142.6"/>
+  <g class="cls-8">
+    <text class="cls-5" transform="translate(528.86 177)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <line class="cls-7" x1="547.75" y1="152.84" x2="557.46" y2="152.84"/>
+  <line class="cls-6" x1="497.4" y1="123.24" x2="507.11" y2="123.24"/>
+  <line class="cls-6" x1="502.28" y1="118.37" x2="502.28" y2="128.11"/>
+  <text class="cls-4" transform="translate(146.91 360.45)"><tspan x="0" y="0">Chloramphenicol</tspan></text>
+  <text class="cls-3" transform="translate(668.42 26.58) scale(.96 1)"><tspan x="0" y="0">70Cm6: 2.1±0.3 μM</tspan><tspan x="0" y="21.6">70Cm9: 8±4 μM</tspan><tspan x="0" y="43.2">70Cm12: 50±10 μM</tspan><tspan x="0" y="64.8">70Cm15: 140±50 μM</tspan><tspan x="0" y="86.4">70Cm19: 66±10 μM</tspan><tspan x="0" y="108">70Cm29: 130±30 μM</tspan><tspan x="0" y="129.6">70Cm42: 275±150 μM</tspan><tspan x="0" y="151.2">70Cm45: 17±10 μM</tspan><tspan x="0" y="172.8">70Cm53: 7±2 μM</tspan><tspan x="0" y="194.4">80Cm1: </tspan><tspan class="cls-9" x="68.03" y="194.4">1</tspan><tspan x="76.7" y="194.4">10±60 μM</tspan><tspan x="0" y="216">80Cm19: </tspan><tspan class="cls-1" x="78.04" y="216">1</tspan><tspan x="86.71" y="216">10±60 μM</tspan><tspan x="0" y="237.6" xml:space="preserve">80Cm30: 30±5  μM</tspan><tspan x="0" y="259.2">80Cm33: 165±50 μM</tspan><tspan x="0" y="280.8">80Cm46: 216±75 μM</tspan><tspan x="0" y="302.4">80Cm50: 25±3 μM</tspan><tspan x="0" y="324">80Cm55: 195±75 μM</tspan></text>
+  <text/>
+  <text></text>
+  <text class="cls-3" transform="translate(669.38 374.63) scale(.96 1)"><tspan x="0" y="0">80Cm59: 96±20 μM</tspan></text>
+</svg>

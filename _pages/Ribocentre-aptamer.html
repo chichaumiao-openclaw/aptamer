@@ -1,0 +1,1562 @@
+---
+layout: piclay
+title: "Aptamer - Aptamers"
+permalink: /Ribocentre-aptamer/
+---
+
+<!-- 首页搜索区域 -->
+<!-- 原本设计高级搜索界面没有header，现在放出来。 -->
+<div class="full-width-image">
+  <div class="search-box">
+    <div class="search">
+      <h1>GZNL's Respiratory Data Centre, GZNL-RDC</h1>
+      <div class="i"><img src="/images/logo.svg">
+        <h1><b>Ribocentre-aptamer</b></h1>
+      </div>
+      <p>A database of RNA aptamers</p>
+
+      <!-- Google 风格搜索框 -->
+      <div class="google-search-container">
+        <div class="search-input-container">
+          <div class="search-icon" id="search-button-header">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#9aa0a6" class="bi bi-search"
+              viewBox="0 0 16 16">
+              <path
+                d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+            </svg>
+          </div>
+          <input type="text" id="search-box-header" class="google-search-input" placeholder="Search RNA aptamers..."
+            aria-label="Search keywords" autocomplete="off">
+        </div>
+        <div class="search-results-wrapper">
+          <div id="search-results-header" class="search-results-container" style="display: none;"></div>
+        </div>
+      </div>
+
+      <p>Example:
+        <a class="tip" href="/Ribocentre-aptamer/">RNA aptamer</a>&nbsp;&nbsp;
+        <!-- <a class="tip" href="https://aptamer.ribocentre.org/SELEX/">SELEX</a>&nbsp;&nbsp; -->
+        <a class="tip" href="/_posts/ATP-aptamer.html" target="_blank">ATP aptamer</a>&nbsp;&nbsp;
+        <a class="tip" href="/structures/">Structure</a>&nbsp;&nbsp;
+      </p>
+    </div>
+  </div>
+</div>
+
+<style>
+  /* 首页搜索区域样式 */
+  .full-width-image {
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    border-radius: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    position: relative;
+    background: url(/images/homepicture2.jpeg) no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .search-box {
+    height: 100%;
+    width: 72%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+  }
+
+  .search {
+    padding: 0 20px;
+    background: #fff;
+    position: absolute;
+    width: 100%;
+    max-width: 600px;
+  }
+
+  .search h1 {
+    font-size: 20px;
+  }
+
+  .search .i {
+    display: flex;
+    align-items: center;
+  }
+
+  .search .i img {
+    width: 70px;
+    object-fit: contain;
+  }
+
+  .search .i h1 {
+    font-size: 28px;
+    font-weight: 700;
+    margin-left: 10px;
+  }
+
+  .search .tip {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+
+  /* Google风格搜索框 */
+  .google-search-container {
+    position: relative;
+    width: 100%;
+    margin-bottom: 20px;
+    z-index: 1015; /* 适当的z-index */
+  }
+
+  .search-input-container {
+    display: flex;
+    width: 100%;
+    position: relative;
+    align-items: center;
+    background-color: white;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+    height: 44px;
+  }
+
+  .search-input-container:hover,
+  .search-input-container:focus-within {
+    box-shadow: 0 1px 6px rgba(32, 33, 36, 0.38);
+    border-color: rgba(223, 225, 229, 0);
+  }
+
+  .search-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 14px;
+    cursor: pointer;
+  }
+
+  .google-search-input {
+    flex: 1;
+    height: 100%;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    background: transparent;
+    width: 100%;
+    padding: 0 16px 0 0;
+    margin-bottom: 0;
+  }
+
+  /* 搜索结果样式 */
+  .search-results-wrapper {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    z-index: 1020; /* 确保高于导航菜单 */
+    margin-top: 5px;
+  }
+
+  .search-results-container {
+    position: relative;
+    width: 100%;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.25);
+    z-index: 1020; /* 确保高于导航菜单 */
+    margin-top: 5px;
+    max-height: 80vh;
+    overflow-y: auto;
+  }
+
+  .search-result-item {
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    transition: background-color 0.2s ease;
+  }
+
+  .search-result-item:last-child {
+    border-bottom: none;
+  }
+
+  .search-result-item:hover {
+    background-color: #f8f9fa;
+  }
+
+  .search-result-item h4 {
+    margin: 0 0 5px 0;
+    color: #1a73e8;
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+  .search-result-item h4 a {
+    color: #520049;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .search-result-item h4 a:hover {
+    color: #3d0037;
+    text-decoration: underline;
+  }
+
+  .search-result-item .category {
+    color: #70757a;
+    font-size: 12px;
+    margin-bottom: 8px;
+    font-weight: 500;
+  }
+
+  .search-result-item .content-preview {
+    margin: 5px 0 8px 0;
+    color: #4d5156;
+    font-size: 14px;
+    line-height: 1.58;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .search-result-item .tags {
+    font-size: 12px;
+    font-weight: 500;
+  }
+
+  .search-result-item .date {
+    font-size: 12px;
+    color: #999;
+  }
+
+  .search-result-meta {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    font-size: 12px;
+    color: #70757a;
+  }
+
+  .keyword-highlight {
+    background-color: #ffeaa7;
+    font-weight: bold;
+    padding: 0 2px;
+  }
+
+  .no-results-message {
+    padding: 20px;
+    text-align: center;
+    color: #4d5156;
+    font-size: 16px;
+  }
+
+  /* 分页样式 */
+  .search-pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 20px;
+    border-top: 1px solid #eee;
+    background: #f8f9fa;
+    gap: 8px;
+  }
+
+  .page-btn {
+    margin: 0;
+    padding: 8px 12px;
+    background: white;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    color: #520049;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    min-width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+  }
+
+  .page-btn:hover {
+    background: #e8f0fe;
+    border-color: #520049;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(82, 0, 73, 0.2);
+  }
+
+  .page-btn.active {
+    background: #520049;
+    color: white;
+    border-color: #520049;
+    box-shadow: 0 2px 8px rgba(82, 0, 73, 0.3);
+  }
+
+  .page-btn:active {
+    transform: translateY(0);
+  }
+
+  /* 搜索统计样式 */
+  .search-stats {
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    color: #6c757d;
+    background: #f8f9fa;
+    border-top: 1px solid #eee;
+    font-style: italic;
+  }
+
+  /* 导航栏样式 */
+  .nav-link-1 {
+    font-size: 20px !important;
+    color: #ffffff !important;
+    text-decoration: none;
+    padding: 15px 15px 5px 5px;
+    line-height: 30px;
+    transition: color 0.3s ease;
+  }
+
+  .nav-link-1:hover {
+    color: #520049 !important;
+    text-decoration: none;
+  }
+
+  /* 下拉菜单样式 */
+  .dropdown {
+    position: relative;
+  }
+  
+  .dropdown-toggle {
+    cursor: pointer;
+  }
+
+  .dropdown-toggle:focus {
+    outline: none;
+  }
+  
+  /* 修复焦点状态问题 */
+  .dropdown-toggle:not(:hover):not(.open) {
+    color: #ffffff !important;
+    background-color: transparent !important;
+  }
+  
+  /* 确保按钮鼠标移走时会恢复原状 */
+  .nav-link-1:not(:hover):not(.open) {
+    color: #ffffff !important;
+    background-color: transparent !important;
+  }
+  
+  .caret {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 5px;
+    vertical-align: middle;
+    border-top: 4px solid;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+    transition: transform 0.3s ease;
+  }
+  
+  .dropdown.open .caret {
+    transform: rotate(180deg);
+  }
+  
+  .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 160px;
+    padding: 8px 0;
+    margin: 2px 0 0;
+    font-size: 16px;
+    text-align: left;
+    list-style: none;
+    background-color: #ffffff;
+    border: 1px solid rgba(0, 0, 0, .15);
+    border-radius: 6px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+    opacity: 0;
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+  }
+  
+  .dropdown.open .dropdown-menu {
+    display: block;
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .dropdown-menu > li > a {
+    display: block;
+    padding: 10px 20px;
+    color: #333;
+    text-decoration: none;
+    font-size: 16px;
+    transition: all 0.3s ease;
+        }
+
+  .dropdown-menu > li > a:hover {
+    color: #520049;
+    background-color: #f5f5f5;
+    text-decoration: none;
+  }
+
+  /* 下拉菜单状态控制 */
+  .dropdown.open > .nav-link-1 {
+    color: #520049 !important;
+    text-decoration: none;
+  }
+  /* 新增：如果按钮本身没被 hover，则保持白色 */
+  .dropdown.open > .nav-link-1:not(:hover) {
+    color: #ffffff !important;
+  }
+  .dropdown:not(.open) > .nav-link-1:not(:hover) {
+    color: #ffffff !important;
+  }
+
+  /* 修复导航栏底部间距，否则这是一个默认的逻辑22px */
+  .navbar {
+    margin-bottom: 0 !important;
+}
+
+  /* Logo样式 */
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+    transition: all 0.3s ease;
+  }
+  
+  .navbar-brand img {
+    transition: all 0.3s ease;
+  }
+  
+  /* 响应式设计 */
+  @media (max-width: 1200px) {
+    .navbar-brand img {
+      max-height: 40px;
+    }
+    
+    .nav-link-1 {
+      font-size: 16px !important;
+      padding: 10px 8px !important;
+    }
+
+    .dropdown-menu {
+      position: static;
+      display: none;
+      float: none;
+      width: auto;
+      margin-top: 0;
+      background-color: rgba(0, 0, 0, 0.1);
+      border: 0;
+      box-shadow: none;
+      border-radius: 0;
+    }
+    
+    .dropdown.open .dropdown-menu {
+      display: block;
+      opacity: 1;
+      transform: none;
+    }
+    
+    .dropdown-menu > li > a {
+      padding: 8px 20px;
+      color: #ffffff;
+    }
+    
+    .dropdown-menu > li > a:hover {
+      color: #ffffff; 
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+    
+    /* 外部导航栏响应式 */
+    .navbar-toggler.external-toggler {
+      display: block !important;
+      z-index: 1001;
+      background: transparent;
+      border: none;
+      cursor: pointer;
+      position: absolute;
+      right: 10px;
+      top: 3px;
+    }
+    
+    /* 这是外部导航栏折叠按钮的样式 */
+    .external-nav {
+      display: none;
+      position: absolute;
+      top: 30px;
+      right: 0;
+      background-color: #333333;
+      z-index: 10000;
+      width: 200px;
+      height: auto !important;
+      padding: 10px 0;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+    
+    .external-nav.show {
+      display: block;
+      position: absolute;
+      max-height: calc(100vh - 50px);
+      overflow-y: auto;
+    }
+    
+    .external-nav li {
+      display: block;
+      width: 100%;
+    }
+    
+    .external-nav li a {
+      display: block !important;
+      padding: 8px 15px !important;
+      line-height: 20px !important;
+    }
+    
+    /* 内部导航栏响应式 */
+    .navbar-toggle.internal-toggler {
+      display: block !important;
+      margin-right: 0;
+      margin-top: 0;
+      border: 1px solid rgba(255,255,255,0.5);
+      padding: 7px 10px;
+      position: absolute;
+      right: 10px;
+      top: 10px;
+      z-index: 1001;
+    }
+    
+    .navbar-toggle.internal-toggler .icon-bar {
+      display: block;
+      width: 22px;
+      height: 2px;
+      background-color: #fff;
+      margin: 4px 0;
+    }
+    
+    #navbar-collapse-1 {
+      position: absolute;
+      top: 50px;
+      left: 0;
+      right: 0;
+      background-color: #520049;
+      z-index: 10000;
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.3s ease;
+      pointer-events: none; /* 禁用交互 */
+      visibility: hidden; /* 完全隐藏元素 */
+    }
+    
+    #navbar-collapse-1.show {
+      max-height: 500px;
+      pointer-events: auto; /* 恢复交互 */
+      visibility: visible; /* 显示元素 */
+    }
+    
+    #navbar-collapse-1 ul.navbar-nav {
+      margin: 0;
+      padding: 10px 0;
+      width: 100%;
+    }
+    
+    #navbar-collapse-1 ul.navbar-nav > li {
+      display: block;
+      float: none;
+      width: 100%;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .navbar-brand img {
+      max-height: 35px;
+    }
+    
+    .nav-link-1 {
+      font-size: 14px !important;
+      padding: 8px 6px !important;
+    }
+  }
+</style>
+
+<!-- JavaScript -->
+<script src="/js/search-utils.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // 初始化Simple Jekyll Search
+  var searchInput = document.getElementById('search-box-header');
+  var resultsContainer = document.getElementById('search-results-header');
+  var searchButton = document.getElementById('search-button-header');
+
+  // 使用改进的搜索模块（基于现有的SearchModule）
+  if (searchInput && resultsContainer && searchButton) {
+    // 创建简化的搜索处理器
+    var headerSearchHandler = {
+      searchTimeout: null,
+      
+      async performSearch(query) {
+        if (!query) {
+          resultsContainer.style.display = 'none';
+          return;
+        }
+
+        // 显示加载状态
+        resultsContainer.innerHTML = '<div class="no-results-message">Searching...</div>';
+        resultsContainer.style.display = 'block';
+
+        const searchPaths = ['/search.json', './search.json', '/search.json', 'search.json'];
+        try {
+          let data = await SearchUtils.fetchData(searchPaths);
+          data = this.enhanceRecords(data);
+          this.processSearchResults(data, query);
+        } catch (err) {
+          console.error('搜索数据加载失败:', err);
+          resultsContainer.innerHTML = '<div class="no-results-message">Unable to load search data, please try the standalone search page</div>';
+        }
+      },
+
+      processSearchResults(data, query) {
+
+        // 限制结果数量
+        const results = SearchUtils.processResults(data, query);
+        const limitedResults = results.slice(0, 1000);
+        this.renderResults(limitedResults, query);
+      },
+
+      enhanceRecords(records) {
+        return records.map(item => {
+          if (!item.result_type) {
+            item.result_type = item.is_sequence ? 'sequence' : 'page';
+          }
+          const rawTags = item.meta_tags || item.tags;
+          if (rawTags) {
+            const tagMap = this.parseTagsToMap(rawTags);
+            item.structured_tags = tagMap;
+            if (!item.target_type && tagMap['Type']) item.target_type = tagMap['Type'];
+            if (!item.pub_year && tagMap['Year']) item.pub_year = parseInt(tagMap['Year']);
+
+            const lenMatches = rawTags.match(/Length\s*:\s*(\d+)/gi);
+            if (lenMatches && lenMatches.length) {
+              const vals = lenMatches.map(m => parseInt(m.split(':')[1])).filter(v => !isNaN(v));
+              if (vals.length) {
+                const min = Math.min(...vals);
+                const max = Math.max(...vals);
+                if (!item.sequence_length) item.sequence_length = min;
+                item.sequence_length_range = min === max ? `${min}` : `${min}-${max}`;
+              }
+            }
+
+            const gcMatches = rawTags.match(/GC\s*:\s*([\d\.]+)/gi);
+            if (gcMatches && gcMatches.length) {
+              const vals = gcMatches.map(m => parseFloat(m.split(':')[1])).filter(v => !isNaN(v));
+              if (vals.length) {
+                const min = Math.min(...vals);
+                const max = Math.max(...vals);
+                const gcVal = Number(min.toFixed(2));
+                if (item.gc_content === undefined) item.gc_content = gcVal;
+                item.gc_content_range = min === max ? `${gcVal}` : `${min.toFixed(2)}-${max.toFixed(2)}`;
+              }
+            }
+
+          if (tagMap['Category'] && !item.category_value) item.category_value = tagMap['Category'];
+
+          const namedMatches = (item.meta_tags || rawTags).match(/Named\s*:/gi);
+          if (namedMatches && namedMatches.length) {
+            item.aptamer_count = namedMatches.length;
+          }
+        }
+        return item;
+      });
+      },
+
+      parseTagsToMap(tagsStr) {
+        if (!tagsStr) return {};
+        const tagMap = {};
+        if (tagsStr.includes('Category:') || tagsStr.includes('Type:')) {
+          const tagLines = tagsStr.split(/\n|,/).filter(line => line.trim());
+          tagLines.forEach(line => {
+            const cleanLine = line.replace(/^\s*-\s*/, '').trim();
+            const colonMatch = cleanLine.match(/^([^:]+):\s*(.+)$/);
+            if (colonMatch) {
+              const [, key, value] = colonMatch;
+              const keyTrimmed = key.trim();
+              if (tagMap[keyTrimmed] === undefined) {
+                tagMap[keyTrimmed] = value.trim();
+              }
+            } else if (cleanLine) {
+              tagMap[cleanLine] = true;
+            }
+          });
+          return tagMap;
+        }
+
+        const tagItems = tagsStr.split(/,\s*/g);
+        tagItems.forEach(tag => {
+          const colonMatch = tag.match(/^([^:]+):\s*(.+)$/);
+          if (colonMatch) {
+            const [, key, value] = colonMatch;
+            tagMap[key.trim()] = value.trim();
+            return;
+          }
+          tagMap[tag.trim()] = true;
+        });
+        return tagMap;
+      },
+
+      generateSequenceSearchQuery(item) {
+        if (item.structured_tags && item.structured_tags['Ligand']) {
+          return item.structured_tags['Ligand'];
+        }
+        if (item.content && item.content.includes('Ligand:')) {
+          const m = item.content.match(/Ligand:\s*([^|,]+)/i);
+          if (m && m[1]) return m[1].trim();
+        }
+        if (item.title) {
+          let titleQuery = item.title
+            .replace(/\s*aptamer\s*/gi, ' ')
+            .replace(/\s*binding\s*/gi, ' ')
+            .replace(/\s*RNA\s*/gi, ' ')
+            .replace(/\s*DNA\s*/gi, ' ')
+            .replace(/\s*sequence\s*/gi, ' ')
+            .replace(/\s+/g, ' ')
+            .trim();
+          const words = titleQuery.split(' ').filter(w => w.length > 2);
+          if (words.length) return words.slice(0, 2).join(' ');
+        }
+        if (item.structured_tags && item.structured_tags['Type']) {
+          return item.structured_tags['Type'];
+        }
+        return item.title ? item.title.split(' ').slice(0, 2).join(' ') : 'aptamer';
+      },
+
+      setupSequencesAccessHandlers(container) {
+        if (this.sequencesAccessHandler) {
+          container.removeEventListener('click', this.sequencesAccessHandler);
+        }
+        this.sequencesAccessHandler = (event) => {
+          const btn = event.target.closest('.tag-sequences-btn');
+          if (!btn) return;
+          event.preventDefault();
+          event.stopPropagation();
+          const searchQuery = btn.getAttribute('data-search-query');
+          if (searchQuery) {
+            const url = `/sequences/?search=${encodeURIComponent(searchQuery)}`;
+            window.open(url, '_blank');
+          }
+        };
+        container.addEventListener('click', this.sequencesAccessHandler);
+      },
+
+      setupSequenceToggleHandlers(container) {
+        container.removeEventListener('click', this.sequenceToggleHandler);
+        this.sequenceToggleHandler = (e) => {
+          if (!e.target.classList.contains('btn-toggle-sequence')) return;
+          e.preventDefault();
+          e.stopPropagation();
+          const btn = e.target;
+          const seqContainer = btn.closest('.sequence-content');
+          const fullSequence = btn.getAttribute('data-full');
+          if (!fullSequence) return;
+          const isMore = btn.textContent.includes('Show more') || btn.textContent.includes('Show full');
+          if (isMore) {
+            const isMatchView = btn.closest('.sequence-matched') !== null;
+            seqContainer.innerHTML = `<div class="sequence-info-row"><strong>Sequence:</strong><span class="sequence-text">${fullSequence}</span><button class="btn-toggle-sequence" data-full="${fullSequence}" data-mode="${isMatchView ? 'match' : 'truncate'}">Show less</button></div>`;
+          } else {
+            const truncated = fullSequence.substring(0, 42);
+            seqContainer.innerHTML = `<div class="sequence-info-row"><strong>Sequence:</strong><span class="sequence-text">${truncated}...</span><button class="btn-toggle-sequence" data-full="${fullSequence}">Show more</button></div>`;
+          }
+        };
+        container.addEventListener('click', this.sequenceToggleHandler);
+      },
+
+             currentPage: 1,
+       resultsPerPage: 2,
+       allResults: [],
+
+       renderResults(results, query) {
+         this.allResults = results;
+         this.currentPage = 1;
+         
+         if (results.length === 0) {
+           resultsContainer.innerHTML = '<div class="no-results-message">No relevant results found, please try other keywords.</div>';
+           return;
+         }
+
+         this.renderPage();
+       },
+
+       renderPage() {
+         const query = searchInput.value.trim();
+         const totalPages = Math.ceil(this.allResults.length / this.resultsPerPage);
+         const startIndex = (this.currentPage - 1) * this.resultsPerPage;
+         const endIndex = Math.min(startIndex + this.resultsPerPage, this.allResults.length);
+         const currentResults = this.allResults.slice(startIndex, endIndex);
+
+        let html = '';
+        currentResults.forEach((item, index) => {
+          const highlightedTitle = this.highlightKeywords(item.title || 'Untitled', query);
+          let contentPreview = '';
+          if (item.content) {
+            if (item.result_type === 'sequence' && item.content.includes('Sequence:')) {
+              const seqMatch = item.content.match(/Sequence:\s*([ACGTU\s]+)/i);
+              if (seqMatch && seqMatch[1]) {
+                const sequence = seqMatch[1].trim();
+                const maxVisibleLength =42;
+                const isSearchingSequence = query && /[ACGTU]{2,}/i.test(query);
+                if (isSearchingSequence) {
+                  const queryRegex = new RegExp(query.replace(/[ACGTU]+/ig, m => m.split('').join('[\\s]*')), 'ig');
+                  let match; const matches = [];
+                  while ((match = queryRegex.exec(sequence)) !== null) {
+                    matches.push({ index: match.index, length: match[0].length, text: match[0] });
+                  }
+                  if (matches.length > 0) {
+                    const firstMatch = matches[0];
+                    const contextBefore = 10, contextAfter = 10;
+                    const startIdx = Math.max(0, firstMatch.index - contextBefore);
+                    const endIdx = Math.min(sequence.length, firstMatch.index + firstMatch.length + contextAfter);
+                    const before = sequence.substring(startIdx, firstMatch.index);
+                    const matchText = sequence.substring(firstMatch.index, firstMatch.index + firstMatch.length);
+                    const after = sequence.substring(firstMatch.index + firstMatch.length, endIdx);
+                    const displaySeq = `${startIdx > 0 ? '...' : ''}${before}<span class="sequence-match">${matchText}</span>${after}${endIdx < sequence.length ? '...' : ''}`;
+                    contentPreview = `<div class="sequence-content"><div class="sequence-info-row"><strong>Sequence Match:</strong><span class="sequence-text">${displaySeq}</span><button class="btn-toggle-sequence" data-full="${sequence}">Show full</button></div></div>`;
+                  } else if (sequence.length > maxVisibleLength) {
+                    contentPreview = `<div class="sequence-content"><div class="sequence-info-row"><strong>Sequence:</strong><span class="sequence-text">${sequence.substring(0, maxVisibleLength)}...</span><button class="btn-toggle-sequence" data-full="${sequence}">Show more</button></div></div>`;
+                  } else {
+                    contentPreview = `<div class="sequence-content"><div class="sequence-info-row"><strong>Sequence:</strong><span class="sequence-text">${sequence}</span></div></div>`;
+                  }
+                } else if (sequence.length > maxVisibleLength) {
+                  contentPreview = `<div class="sequence-content"><div class="sequence-info-row"><strong>Sequence:</strong><span class="sequence-text">${sequence.substring(0, maxVisibleLength)}...</span><button class="btn-toggle-sequence" data-full="${sequence}">Show more</button></div></div>`;
+                } else {
+                  contentPreview = `<div class="sequence-content"><div class="sequence-info-row"><strong>Sequence:</strong><span class="sequence-text">${sequence}</span></div></div>`;
+                }
+
+                const info = [];
+                let infoHtml = '';
+
+                if (item.named && item.named.trim()) {
+                  info.push(`<strong>Sequence Name:</strong> ${this.highlightKeywords(item.named.trim(), query)}`);
+                }
+                if (item.content.includes('Ligand:')) {
+                  const lm = item.content.match(/Ligand:\s*([^|]+)/i); if (lm && lm[1]) info.push(`<strong>Ligand:</strong> ${this.highlightKeywords(lm[1].trim(), query)}`);
+                }
+                if (info.length >= 2) {
+                  infoHtml += `<div class="sequence-info-row">${info.slice(0,2).join(' | ')}</div>`;
+                  for (let i=2;i<info.length;i++) infoHtml += `<div class="sequence-info-row">${info[i]}</div>`;
+                } else if (info.length === 1) {
+                  infoHtml += `<div class="sequence-info-row">${info[0]}</div>`;
+                }
+                if (item.content.includes('Affinity:')) {
+                  const am = item.content.match(/Affinity:\s*([^|]+)/i); if (am && am[1]) infoHtml += `<div class="sequence-info-row"><strong>Affinity:</strong> ${this.highlightKeywords(am[1].trim(), query)}</div>`;
+                }
+                contentPreview += infoHtml;
+              } else {
+                contentPreview = this.getContentPreview(item.content, query);
+              }
+            } else {
+              contentPreview = this.getContentPreview(item.content, query);
+            }
+          }
+
+          // ===== Tags (show Target type and multi-aptamer flag) =====
+          const tags = [];
+          if (item.structured_tags && item.structured_tags['Type']) {
+            tags.push(`<span class="tag tag-type">Target: ${item.structured_tags['Type']}</span>`);
+          } else if (item.tags && item.tags.includes('Type:')) {
+            const typeMatch = item.tags.match(/Type:([^,]+)/i);
+            if (typeMatch && typeMatch[1]) {
+              tags.push(`<span class="tag tag-type">Target: ${typeMatch[1].trim()}</span>`);
+            }
+          }
+          if (item.result_type === 'page' && item.aptamer_count) {
+            const searchQuery = this.generateSequenceSearchQuery(item);
+            const label = item.aptamer_count > 1 ? `${item.aptamer_count} Sequences` : '1 Sequence';
+            tags.push(`<button class="tag tag-sequences-btn" data-search-query="${searchQuery}" title="View all ${item.aptamer_count} sequences from this page"><i class="fas fa-dna"></i> ${label}</button>`);
+          }
+
+          // ===== Meta information =====
+          const metaItems = [];
+          const yearInfo = item.pub_year || (item.date ? item.date.split('-')[0] : 'Unknown');
+          metaItems.push(`<span class="meta-item"><i class="fas fa-calendar"></i> Year: ${yearInfo}</span>`);
+
+          if (item.sequence_length_range) {
+            metaItems.push(`<span class="meta-item"><i class="fas fa-ruler"></i> Length: ${item.sequence_length_range} bp</span>`);
+          } else if (item.sequence_length) {
+            metaItems.push(`<span class="meta-item"><i class="fas fa-ruler"></i> Length: ${item.sequence_length} bp</span>`);
+          }
+
+          if (item.gc_content_range) {
+            metaItems.push(`<span class="meta-item"><i class="fas fa-percentage"></i> GC: ${item.gc_content_range}%</span>`);
+          } else if (item.gc_content !== undefined) {
+            metaItems.push(`<span class="meta-item"><i class="fas fa-percentage"></i> GC: ${item.gc_content}%</span>`);
+          }
+
+          let typeIcon = 'fa-file-alt';
+          let typeLabel = 'Page';
+          if (item.result_type === 'sequence') {
+            typeIcon = 'fa-dna';
+            typeLabel = 'Sequence';
+          }
+          metaItems.push(`<span class="meta-item result-type"><i class="fas ${typeIcon}"></i> ${typeLabel}</span>`);
+
+          html += `<div class="result-item-list ${item.result_type === 'sequence' ? 'result-sequence' : 'result-page'}">
+            <div class="result-header">
+              <h3 class="result-title"><a href="${item.url}" target="_blank">${highlightedTitle}</a></h3>
+              <div class="result-tags">${tags.join('')}</div>
+            </div>
+            <div class="result-meta">${metaItems.join('')}</div>
+            <div class="result-description">${contentPreview}</div>
+          </div>`;
+        });
+
+         // 添加分页控件
+         if (totalPages > 1) {
+           html += '<div class="search-pagination">';
+           
+           // 上一页按钮
+           if (this.currentPage > 1) {
+             html += `<button class="page-btn" onclick="event.stopPropagation(); headerSearchHandler.goToPage(${this.currentPage - 1})">‹ Previous Page</button>`;
+           }
+           
+           // 页码
+           const maxVisiblePages = 3;
+           let startPage = Math.max(1, this.currentPage - Math.floor(maxVisiblePages / 2));
+           let endPage = Math.min(totalPages, startPage + maxVisiblePages - 1);
+           
+           if (endPage - startPage + 1 < maxVisiblePages) {
+             startPage = Math.max(1, endPage - maxVisiblePages + 1);
+           }
+           
+           for (let i = startPage; i <= endPage; i++) {
+             const activeClass = i === this.currentPage ? 'active' : '';
+             html += `<button class="page-btn ${activeClass}" onclick="event.stopPropagation(); headerSearchHandler.goToPage(${i})">${i}</button>`;
+           }
+           
+           // 下一页按钮
+           if (this.currentPage < totalPages) {
+             html += `<button class="page-btn" onclick="event.stopPropagation(); headerSearchHandler.goToPage(${this.currentPage + 1})">Next Page ›</button>`;
+           }
+           
+           html += '</div>';
+           
+           // 添加结果统计
+           html += `<div class="search-stats">
+             Showing items ${startIndex + 1}-${endIndex} , total ${this.allResults.length} results
+           </div>`;
+         }
+
+         resultsContainer.innerHTML = html;
+         this.setupSequenceToggleHandlers(resultsContainer);
+         this.setupSequencesAccessHandlers(resultsContainer);
+      },
+
+       goToPage(page) {
+         this.currentPage = page;
+         this.renderPage();
+       },
+
+      highlightKeywords(text, query) {
+        if (!text) return '';
+        const queryTerms = query.toLowerCase().split(/\s+/).filter(term => term.length > 1);
+        let result = text;
+        
+        queryTerms.forEach(term => {
+          const regex = new RegExp(`(${term})`, 'gi');
+          result = result.replace(regex, '<span class="keyword-highlight">$1</span>');
+        });
+        
+        return result;
+      },
+
+      getContentPreview(content, query) {
+        if (!content) return '';
+        
+        const queryLower = query.toLowerCase();
+        const keywordPos = content.toLowerCase().indexOf(queryLower);
+        
+        if (keywordPos !== -1) {
+          const start = Math.max(0, keywordPos - 80);
+          const end = Math.min(content.length, keywordPos + 120);
+          let preview = content.substring(start, end);
+          
+          if (start > 0) preview = '...' + preview;
+          if (end < content.length) preview = preview + '...';
+          
+          return this.highlightKeywords(preview, query);
+        }
+        
+        return this.highlightKeywords(content.substring(0, 200) + '...', query);
+      }
+    };
+
+    // 搜索输入事件处理
+    function handleSearchInput() {
+      var query = searchInput.value.trim();
+      
+      // 自动关闭导航菜单
+      var externalNav = document.querySelector('.external-nav');
+      if (externalNav && externalNav.classList.contains('show')) {
+        externalNav.classList.remove('show');
+      }
+
+      // 清除之前的搜索延时
+      if (headerSearchHandler.searchTimeout) {
+        clearTimeout(headerSearchHandler.searchTimeout);
+      }
+
+      if (query.length === 0) {
+        resultsContainer.style.display = 'none';
+        return;
+      }
+
+      if (query.length < 2) {
+        return; // 至少2个字符才搜索
+      }
+
+      // 延迟搜索
+      headerSearchHandler.searchTimeout = setTimeout(() => {
+        headerSearchHandler.performSearch(query);
+      }, 300);
+    }
+
+    // 搜索按钮点击事件
+    function handleSearchClick() {
+      var query = searchInput.value.trim();
+      if (query) {
+        // 清除延时，立即搜索
+        if (headerSearchHandler.searchTimeout) {
+          clearTimeout(headerSearchHandler.searchTimeout);
+        }
+        headerSearchHandler.performSearch(query);
+      }
+    }
+
+    // 将headerSearchHandler暴露为全局变量，供翻页功能使用
+    window.headerSearchHandler = headerSearchHandler;
+
+    // 事件监听器
+    searchInput.addEventListener('input', handleSearchInput);
+    searchInput.addEventListener('focus', handleSearchInput);
+    searchButton.addEventListener('click', handleSearchClick);
+    
+    // 回车键搜索
+    searchInput.addEventListener('keyup', function(e) {
+      if (e.key === 'Enter') {
+        handleSearchClick();
+      }
+    });
+
+    // 点击其他地方关闭搜索结果
+    document.addEventListener('click', function(e) {
+      if (!searchInput.contains(e.target) && 
+          !resultsContainer.contains(e.target) && 
+          !searchButton.contains(e.target)) {
+        resultsContainer.style.display = 'none';
+      }
+    });
+
+    // ESC键关闭搜索结果
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && resultsContainer.style.display === 'block') {
+        resultsContainer.style.display = 'none';
+      }
+    });
+  }
+
+  // 下拉菜单控制
+  var dropdowns = document.querySelectorAll('.dropdown');
+  
+  dropdowns.forEach(function(dropdown) {
+    var toggle = dropdown.querySelector('.dropdown-toggle');
+    var menu = dropdown.querySelector('.dropdown-menu');
+    
+    if (!toggle || !menu) return;
+    
+    // 点击下拉按钮
+    toggle.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      
+      // 关闭其他所有下拉菜单
+      dropdowns.forEach(function(otherDropdown) {
+        if (otherDropdown !== dropdown) {
+          otherDropdown.classList.remove('open');
+          var otherToggle = otherDropdown.querySelector('.dropdown-toggle');
+          if (otherToggle) otherToggle.blur(); // 移除焦点
+        }
+      });
+      
+      // 切换当前下拉菜单
+      dropdown.classList.toggle('open');
+      
+      // 如果下拉菜单关闭了，移除按钮的focus状态
+      if (!dropdown.classList.contains('open')) {
+        toggle.blur();
+      }
+    });
+    
+    // 鼠标悬停显示
+    dropdown.addEventListener('mouseenter', function() {
+      dropdowns.forEach(function(otherDropdown) {
+        if (otherDropdown !== dropdown) {
+          otherDropdown.classList.remove('open');
+          var otherToggle = otherDropdown.querySelector('.dropdown-toggle');
+          if (otherToggle) otherToggle.blur(); // 移除焦点
+        }
+      });
+      dropdown.classList.add('open');
+    });
+    
+    // 鼠标离开隐藏
+    dropdown.addEventListener('mouseleave', function() {
+      dropdown.classList.remove('open');
+      if (toggle) toggle.blur(); // 关键：移除按钮焦点
+    });
+  });
+  
+  // 点击页面其他地方关闭所有下拉菜单
+  document.addEventListener('click', function(e) {
+    dropdowns.forEach(function(dropdown) {
+      if (!dropdown.contains(e.target)) {
+        dropdown.classList.remove('open');
+        var toggle = dropdown.querySelector('.dropdown-toggle');
+        if (toggle) {
+          toggle.blur(); // 移除焦点
+          toggle.classList.remove('focus'); // 移除可能的focus类
+        }
+      }
+    });
+  });
+  
+  // ESC键关闭下拉菜单
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+      dropdowns.forEach(function(dropdown) {
+        dropdown.classList.remove('open');
+        var toggle = dropdown.querySelector('.dropdown-toggle');
+        if (toggle) {
+          toggle.blur(); // 移除焦点
+          toggle.classList.remove('focus'); // 移除可能的focus类
+        }
+      });
+    }
+  });
+  
+  // 响应式导航栏控制
+  
+  // 外部导航栏控制
+  var externalToggler = document.querySelector('.navbar-toggler.external-toggler');
+  var externalNav = document.querySelector('.external-nav');
+  
+  if (externalToggler && externalNav) {
+    externalToggler.addEventListener('click', function(e) {
+      e.stopPropagation(); // 阻止事件冒泡
+      
+      // 自动关闭搜索结果，避免冲突
+      var searchResults = document.getElementById('search-results-header');
+      if (searchResults && searchResults.style.display !== 'none') {
+        searchResults.style.display = 'none';
+      }
+      
+      externalNav.classList.toggle('show');
+    });
+    
+    // 点击外部关闭菜单（增强版）
+    document.addEventListener('click', function(e) {
+      if (externalNav.classList.contains('show') && !externalNav.contains(e.target) && !externalToggler.contains(e.target)) {
+        externalNav.classList.remove('show');
+      }
+    });
+    
+    // ESC键关闭菜单
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && externalNav.classList.contains('show')) {
+        externalNav.classList.remove('show');
+      }
+    });
+  }
+  
+  // 内部导航栏控制
+  var internalToggler = document.querySelector('.navbar-toggle.internal-toggler');
+  var navbarCollapse = document.getElementById('navbar-collapse-1');
+  
+  if (internalToggler && navbarCollapse) {
+    internalToggler.addEventListener('click', function() {
+      navbarCollapse.classList.toggle('show');
+    });
+    
+    // 在小屏幕上，点击导航链接后关闭菜单
+    var navLinks = navbarCollapse.querySelectorAll('.nav-link-1');
+    navLinks.forEach(function(link) {
+      link.addEventListener('click', function() {
+        if (window.innerWidth <= 1200) {
+          navbarCollapse.classList.remove('show');
+      }
+    });
+  });
+  }
+  
+  // 窗口大小改变时处理
+  window.addEventListener('resize', function() {
+    if (window.innerWidth > 1200) {
+      // 重置外部导航栏
+      if (externalNav) {
+        externalNav.classList.remove('show');
+      }
+      
+      // 重置内部导航栏
+      if (navbarCollapse) {
+        navbarCollapse.classList.remove('show');
+      }
+    }
+  });
+  });
+</script>
+
+    
+      <div class="container-fluid">
+        <div class="row">
+          <style>
+  .box_style{
+    background: #f4f4f4;
+  }
+  .well {
+    max-width: 0 auto;
+    margin: 0 auto;
+    border-top: 3px solid black;
+    }
+  .wrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    word-wrap: break-word;
+    }
+  .sectiontitle {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto ;
+    text-align: left;
+    background :#fff;
+    }
+    body {
+    padding-top: 0px;
+  }
+</style>
+
+  <div class="wrapper box_style " >
+    <br>
+    <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
+      <section class="sectiontitle"> 
+     
+       
+
+  <!-- DataTables CSS and JS -->
+  
+  
+
+  <script src="https://cdn.plot.ly/plotly-3.0.1.min.js"></script>
+
+  <!-- Import specialized CSS -->
+  <link rel="stylesheet" href="/css/aptamer.css">
+  <!-- Import dashboard specialized CSS -->
+  <link rel="stylesheet" href="/css/dashboard.css">
+  
+  <style>
+    /* Fix table font color issues */
+    .table td {
+      color: #333 !important;
+    }
+    
+    /* Enhance hover tooltip effects */
+    .amir-tooltip {
+      z-index: 9999;
+    }
+    /* Unified first letter capitalization and bold (aptamer main page only) */
+    body[data-page="aptamer"] p::first-letter{
+      font-weight:700;
+      font-size:1.2em;
+      color:#520049;
+    }
+  </style>
+
+
+
+  <div class="container">
+    <h1>RNA Aptamers</h1>
+    
+    <p>
+      RNA Aptamers are nucleic acid molecules that mimic antibodies by folding into complex 3D shapes that bind to specific
+      targets. Although some aptamers exist naturally as the ligand-binding elements of riboswitches, most are generated in
+      vitro and can be tailored for a specific target.
+    </p>
+    
+    <!-- Statistical information section -->
+    <p class="header_box" style="margin-bottom: 0px;padding-bottom: 0px;">Statistical information</p>
+    <div class="collapsible-container" style="margin-top: 0px;">
+      <p>
+        The aptamer database encompasses both aptamers with known 3D structures and those without. The following table
+        lists the ligands of all aptamers in this database. The color coding of the table matches the hues of the pie
+        chart displayed above, which symbolizes the various categories of aptamers. By clicking on a ligand of interest,
+        you can access detailed information pertaining to the respective aptamer.
+    </p>
+    
+    <!-- Dashboard Section -->
+      <div class="dashboard-section" style="background: #f8f9fa; padding: 0px 0; margin-top: 0px;">
+        <div class="amir-container">
+          <!-- Type distribution chart - moved to top with increased width -->
+          <div class="chart-wrapper" style="width: 100%; margin-bottom: 20px;">
+            <div class="chart-header">
+              <h4 class="chart-title">Distribution of Aptamer Types</h4>
+              <div class="chart-controls">
+                <span class="chart-info">Click on pie sectors for multi-selection filtering</span>
+              </div>
+            </div>
+            <div class="chart-content">
+              <div id="typeChart" class="amir-chart" style="height: 350px;"></div>
+              <div class="chart-description" style="text-align: center; margin-top: 15px; padding: 0 20px;">
+                <p style="font-size: 14px; color: #333;">RNA aptamers can be classified into four main types based on their structural and functional characteristics. Each type has distinct binding properties and applications.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="chart-container">
+            <!-- Year distribution chart -->
+            <div class="chart-wrapper">
+              <div class="chart-header">
+                <h4 class="chart-title">Publication Trends by Year</h4>
+                <div class="chart-controls">
+                  <span class="chart-info">Click on bars for multi-selection filtering</span>
+                </div>
+              </div>
+              <div class="chart-content">
+                <div id="yearChart" class="amir-chart"></div>
+              </div>
+            </div>
+            
+            <!-- Category distribution chart -->
+            <div class="chart-wrapper">
+              <div class="chart-header">
+                <h4 class="chart-title">Distribution of Aptamer Categories</h4>
+                <div class="chart-controls">
+                  <span class="chart-info">Click on pie sectors for multi-selection filtering</span>
+                </div>
+              </div>
+              <div class="chart-content">
+                <div id="ligandChart" class="amir-chart"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Data filtering controls -->
+          <section class="filter-controls">
+            <div class="filter-header">
+              <h4 class="filter-title">Data Filtering</h4>
+              <div class="filter-actions">
+                <button class="filter-btn reset-btn" id="resetAllFilters">Reset All</button>
+                <button class="filter-btn export-btn" id="exportData">Export Data</button>
+              </div>
+            </div>
+            <div class="filter-tags" id="filterTags">
+              <!-- Filter tags will be dynamically displayed here -->
+            </div>
+          </section>
+
+          <!-- Data table -->
+          <section class="data-table-section">
+            <div class="chart-header">
+              <h4 class="chart-title">RNA Aptamers Data</h4>
+              <div class="chart-controls">
+                <span class="chart-info" id="tableInfo">Loading data...</span>
+              </div>
+            </div>
+            <div class="table-container">
+              <div class="table-responsive">
+                <table id="dataTable" class="table table-striped table-hover">
+                                      <thead>
+                        <tr>
+                            <th>No.</th>
+                            <th>Sequence Name</th>
+                            <th>Aptamer Name</th>
+                            <th>Discovery Year</th>
+                            <th>Category</th>
+                            <th>Sequence (5'-3')</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
+                  <tbody id="tableBody">
+                    <!-- Table data will be dynamically populated via JavaScript -->
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </section>
+
+          <!-- Detailed data counts -->
+          <section class="data-summary">
+            <div class="summary-cards">
+              <div class="summary-card">
+                <span class="summary-label">Currently Showing</span>
+                <span class="summary-count" id="currentCount">0</span>
+                <span class="summary-unit">records</span>
+              </div>
+              <div class="summary-card">
+                <span class="summary-label">Filter Ratio</span>
+                <span class="summary-percentage" id="filterPercentage">0%</span>
+                <span class="summary-unit">visible</span>
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+      
+      <div id="sheet1" class="sheet">
+        <!-- Aptamer Squared Table Area -->
+        
+        <div class="stat-panel">
+          <div class="stat-header" onclick="toggleStats()">
+            <span>▶ Aptamer Squared Table (click to toggle)</span>
+            <span id="toggleIcon">-</span>
+          </div>
+          <div id="statsContent">
+            <div class="chart-info legend-note">
+              Hover or click legend items to highlight tables by category; categories reflect the downstream applications of aptamers.
+            </div>
+            <div class="aptamer-legend" id="aptamerLegend"></div>
+            <!-- 3D structure aptamer table with descriptive text -->
+            <div class="aptamer-table-description">
+              This table lists the ligands of aptamers with identified 3D structures:
+            </div>
+            <div id="aptamer3DTableContainer" style="margin-bottom: 40px;">
+              <!-- 3D structure aptamer table will be dynamically generated via JavaScript -->
+            </div>
+            
+            <!-- Non-3D structure aptamer table with descriptive text -->
+            <div class="aptamer-table-description">
+              This table lists the ligands of aptamers without known 3D structures
+            </div>
+            <div id="aptamerTableContainer">
+              <!-- Non-3D structure aptamer table will be dynamically generated via JavaScript -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Floating tooltip -->
+  <div class="amir-tooltip" id="amirTooltip">
+    <div class="tooltip-content"></div>
+    <div class="tooltip-arrow"></div>
+    </div>
+
+  <!-- Import specialized JavaScript -->
+  <script src="/js/aptamer.js"></script>
+  
+  <!-- Aptamer table generator -->
+  <script src="/js/aptamer-table-generator.js"></script>
+  
+  <!-- Dashboard JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" integrity="sha512-fD9DI5bZwQxOi7MhYWnnNPlvXdp/2Pj3XSTRrFs5FQa4mizyGLnJcN6tuvUS6LbmgN1ut+XGSABKvjN0H6Aoow==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="/js/dashboard-config.js"></script>
+  <script src="/js/dashboard-main.js"></script>
+  <script src="/js/dashboard-aptamer.js"></script>
+  <script src="/js/aptamer-legend.js"></script>
+
+
+  <script>
+    // Global configuration variables
+    window.DASHBOARD_CONFIG = {
+      baseurl: '',
+      dataPath: '/apidata/sequences_cleaned.json'
+    };
+    
+    // Global variables to store table manager and generator instances
+    let multiTableManager = null;
+    let aptamer3DTableGenerator = null;
+    let aptamerTableGenerator = null;
+
+    // Toggle statistics panel display state
+    function toggleStats() {
+      const content = document.getElementById('statsContent');
+      const icon = document.getElementById('toggleIcon');
+      
+      if (content.style.display === 'none') {
+        content.style.display = 'block';
+        icon.textContent = '-';
+      } else {
+        content.style.display = 'none';
+        icon.textContent = '+';
+      }
+    }
+
+    // Initialize all modules after page loading is complete
+    document.addEventListener('DOMContentLoaded', function() {
+      // 为CSS样式识别添加页面标识
+      document.body.setAttribute('data-page', 'riboaptamer');
+      
+      // Initialize Dashboard
+      if (typeof DataModule !== 'undefined' && typeof DataModule.loadData === 'function') {
+        DataModule.loadData();
+      }
+      
+      // Initialize aptamer table generators
+      if (typeof AptamerTableGenerator !== 'undefined' && typeof MultiAptamerTableManager !== 'undefined') {
+        
+        // Create multi-table manager
+        multiTableManager = new MultiAptamerTableManager();
+        
+        // Create 3D structure aptamer table
+        aptamer3DTableGenerator = multiTableManager.createTable('aptamer3DTableContainer', '3d', {
+          columnsPerRow: 9,
+          enableTooltips: true,
+          enableHover: true
+        });
+        
+        // Create non-3D structure aptamer table
+        aptamerTableGenerator = multiTableManager.createTable('aptamerTableContainer', 'no3d', {
+          columnsPerRow: 9,
+          enableTooltips: true,
+          enableHover: true
+        });
+        
+        // Load all table data
+        multiTableManager.loadAllTables().then(() => {
+          console.log('🎉 All aptamer tables initialized successfully');
+          
+          // Display statistics
+          const allStats = multiTableManager.getAllStats();
+          console.log('📊 Table statistics:', allStats);
+        }).catch(error => {
+          console.error('❌ Table initialization failed:', error);
+        });
+        
+      } else {
+        console.warn('⚠️ AptamerTableGenerator or MultiAptamerTableManager not found. Please check if the script is loaded correctly.');
+      }
+      
+      // Bind export and reset button events
+      const exportBtn = document.getElementById('exportData');
+      const resetBtn = document.getElementById('resetAllFilters');
+      
+      if (exportBtn && typeof exportData === 'function') {
+        exportBtn.addEventListener('click', exportData);
+      }
+      
+      if (resetBtn && typeof resetAllFilters === 'function') {
+        resetBtn.addEventListener('click', resetAllFilters);
+      }
+
+      if (typeof initAptamerLegend === 'function') {
+        initAptamerLegend();
+      }
+    });
+  </script>

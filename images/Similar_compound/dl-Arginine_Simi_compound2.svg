@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 130">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 5.59px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #000;
+      }
+
+      .cls-1, .cls-4, .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        font-size: 9.08px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-2" points="101.76 96.33 119.59 86.03 119.59 86.51 119.59 86.98 101.76 97.28 101.76 96.8 101.76 96.33"/>
+  <polygon class="cls-2" points="119.59 86.03 137.42 96.33 137.42 96.8 137.01 97.04 119.59 86.98 119.59 86.51 119.59 86.03"/>
+  <polygon class="cls-2" points="137.42 96.33 155.26 86.03 155.26 86.51 155.26 86.98 137.83 97.04 137.42 96.8 137.42 96.33"/>
+  <polygon class="cls-2" points="153.61 87.22 153.61 70.49 154.02 70.49 154.43 70.49 154.43 87.22 154.02 87.22 153.61 87.22"/>
+  <polygon class="cls-2" points="156.08 87.22 156.08 70.49 156.49 70.49 156.9 70.49 156.9 87.22 156.49 87.22 156.08 87.22"/>
+  <g class="cls-4">
+    <text class="cls-3" transform="translate(151.72 69.59)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <polygon class="cls-2" points="155.26 86.03 169.19 94.08 168.99 94.43 168.78 94.79 155.26 86.98 155.26 86.51 155.26 86.03"/>
+  <g class="cls-4">
+    <text class="cls-3" transform="translate(169.81 99.31)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-3" transform="translate(176.37 99.31)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-1" transform="translate(182.93 100.71)"><tspan x="0" y="0">2</tspan></text>
+  </g>
+  <polygon class="cls-2" points="137.83 97.04 137.83 112.81 137.42 112.81 137.01 112.81 137.01 97.04 137.42 96.8 137.83 97.04"/>
+  <g class="cls-4">
+    <text class="cls-3" transform="translate(134.14 119.9)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-3" transform="translate(140.7 119.9)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-1" transform="translate(147.26 121.3)"><tspan x="0" y="0">2</tspan></text>
+  </g>
+  <polygon class="cls-2" points="101.76 97.28 83.92 86.98 83.92 86.51 83.92 86.03 101.76 96.33 101.76 96.8 101.76 97.28"/>
+  <polygon class="cls-2" points="83.92 86.98 70.4 94.79 70.19 94.43 69.99 94.08 83.92 86.03 83.92 86.51 83.92 86.98"/>
+  <g class="cls-4">
+    <text class="cls-3" transform="translate(62.81 100.48)"><tspan x="0" y="0">N</tspan></text>
+  </g>
+  <polygon class="cls-2" points="61.78 94.79 48.26 86.98 48.26 86.51 48.67 86.27 62.2 94.08 61.99 94.43 61.78 94.79"/>
+  <polygon class="cls-2" points="63.02 92.65 50.52 85.44 50.73 85.08 50.94 84.72 63.43 91.94 63.23 92.29 63.02 92.65"/>
+  <polygon class="cls-2" points="48.26 86.98 34.73 94.79 34.53 94.43 34.32 94.08 47.85 86.27 48.26 86.51 48.26 86.98"/>
+  <g class="cls-4">
+    <text class="cls-3" transform="translate(17.56 99.31)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-1" transform="translate(24.12 100.71)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-3" transform="translate(27.23 99.31)"><tspan x="0" y="0">N</tspan></text>
+  </g>
+  <polygon class="cls-2" points="47.85 86.27 47.85 70.49 48.26 70.49 48.67 70.49 48.67 86.27 48.26 86.51 47.85 86.27"/>
+  <g class="cls-4">
+    <text class="cls-3" transform="translate(44.98 68.42)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-3" transform="translate(51.54 68.42)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-1" transform="translate(58.1 69.82)"><tspan x="0" y="0">2</tspan></text>
+  </g>
+  <g class="cls-4">
+    <text class="cls-3" transform="translate(90.91 43.19)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-3" transform="translate(97.47 43.19)"><tspan x="0" y="0">Cl</tspan></text>
+  </g>
+  <g class="cls-4">
+    <text class="cls-3" transform="translate(90.91 16.79)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-3" transform="translate(97.47 16.79)"><tspan x="0" y="0">Cl</tspan></text>
+  </g>
+</svg>

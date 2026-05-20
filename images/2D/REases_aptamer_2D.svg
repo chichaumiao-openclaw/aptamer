@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 800 400">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #242424;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-3 {
+        fill: #ff870a;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-7, .cls-9 {
+        font-size: 13px;
+      }
+
+      .cls-10, .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        fill: #80db9e;
+      }
+
+      .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-5 {
+        fill: #09fefe;
+      }
+
+      .cls-6 {
+        fill: #000;
+        font-size: 25px;
+      }
+
+      .cls-7 {
+        letter-spacing: .9em;
+      }
+
+      .cls-7, .cls-9 {
+        fill: #c2c2ff;
+      }
+
+      .cls-8 {
+        fill: #242424;
+        font-size: 8px;
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(445.1 343.7)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-4" transform="translate(445.1 330.3)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-4" transform="translate(445.1 316.9)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-4" transform="translate(445.1 303.5)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-4" transform="translate(445.1 290.1)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-9" transform="translate(433.3 282.6)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-3" transform="translate(437.3 271.7)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-3" transform="translate(430.1 262.4)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-9" transform="translate(420.3 257.3)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-9" transform="translate(410.1 251.5)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-9" transform="translate(404.3 241.3)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-3" transform="translate(398.4 230.1)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-3" transform="translate(388.9 220.6)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-3" transform="translate(379.4 211.2)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-3" transform="translate(370 201.7)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-3" transform="translate(360.5 192.2)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-3" transform="translate(351 182.7)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-3" transform="translate(341.5 173.2)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-9" transform="translate(328.3 175)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-3" transform="translate(328.5 155.2)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-3" transform="translate(319 145.7)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-9" transform="translate(305.1 143.3)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-9" transform="translate(294.9 136)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-9" transform="translate(290.1 124.4)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-9" transform="translate(292.2 112)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-5" transform="translate(299.9 99.2)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-5" transform="translate(299.9 85.8)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-5" transform="translate(299.9 72.4)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-9" transform="translate(296.8 61.1)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-7" transform="translate(307.8 48.7)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-9" transform="translate(329.2 61.1)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-5" transform="translate(326.3 72.4)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-5" transform="translate(326.3 85.8)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-5" transform="translate(326.3 99.2)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-9" transform="translate(335.2 104.2)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-9" transform="translate(340.3 115.1)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-3" transform="translate(339.5 127.2)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-3" transform="translate(348.9 136.7)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-3" transform="translate(362 150.7)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-3" transform="translate(371.5 160.2)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-3" transform="translate(381 169.7)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-3" transform="translate(390.4 179.2)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-3" transform="translate(399.9 188.7)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-3" transform="translate(409.4 198.2)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-3" transform="translate(418.9 207.6)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-9" transform="translate(432.1 213.5)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-9" transform="translate(442.2 219.4)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-9" transform="translate(448.1 229.6)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-3" transform="translate(452.9 242.5)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-3" transform="translate(461.8 253.8)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-9" transform="translate(472.4 256)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-9" transform="translate(480.8 266)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-9" transform="translate(481.6 277.8)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-4" transform="translate(470.5 290.1)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-4" transform="translate(470.5 303.5)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-4" transform="translate(470.5 316.9)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-4" transform="translate(470.5 330.3)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-4" transform="translate(470.5 343.7)"><tspan x="0" y="0">C</tspan></text>
+  <text class="cls-9" transform="translate(489 352.7)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-9" transform="translate(492.9 367.2)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-9" transform="translate(489 381.8)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-9" transform="translate(478.3 392.4)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-9" transform="translate(463.8 396.3)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-9" transform="translate(449.2 392.4)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-9" transform="translate(438.6 381.8)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-9" transform="translate(434.7 367.2)"><tspan x="0" y="0">U</tspan></text>
+  <text class="cls-8" transform="translate(432.7 342.6)"><tspan x="0" y="0">5’</tspan></text>
+  <text class="cls-8" transform="translate(425 361.4)"><tspan x="0" y="0">3’</tspan></text>
+  <text class="cls-8" transform="translate(394.8 264.1)"><tspan x="0" y="0">10</tspan></text>
+  <text class="cls-8" transform="translate(312.2 162.1)"><tspan x="0" y="0">20</tspan></text>
+  <text class="cls-8" transform="translate(290.1 47)"><tspan x="0" y="0">30</tspan></text>
+  <text class="cls-8" transform="translate(374.8 138.7)"><tspan x="0" y="0">40</tspan></text>
+  <text class="cls-8" transform="translate(465.9 229.6)"><tspan x="0" y="0">50</tspan></text>
+  <text class="cls-8" transform="translate(494.8 341.5)"><tspan x="0" y="0">60</tspan></text>
+  <text class="cls-9" transform="translate(321 48.7)"><tspan x="0" y="0">A</tspan></text>
+  <line class="cls-2" x1="456.4" y1="338.7" x2="469.2" y2="338.7"/>
+  <line class="cls-2" x1="482.6" y1="338.7" x2="490.4" y2="338.7"/>
+  <line class="cls-2" x1="456.4" y1="325.5" x2="469.2" y2="325.5"/>
+  <line class="cls-2" x1="456.4" y1="312.4" x2="469.2" y2="312.4"/>
+  <line class="cls-2" x1="456.4" y1="299.2" x2="469.2" y2="299.2"/>
+  <line class="cls-2" x1="456.4" y1="286.1" x2="469.2" y2="286.1"/>
+  <line class="cls-2" x1="311.3" y1="94.3" x2="324.1" y2="94.3"/>
+  <line class="cls-2" x1="337.3" y1="127.7" x2="328.5" y2="136.9"/>
+  <line class="cls-2" x1="347" y1="135" x2="338.1" y2="144.2"/>
+  <line class="cls-2" x1="359.8" y1="150.9" x2="350.9" y2="160.2"/>
+  <line class="cls-2" x1="368.2" y1="160.6" x2="359.3" y2="169.9"/>
+  <line class="cls-2" x1="378" y1="170.5" x2="369.2" y2="179.8"/>
+  <line class="cls-2" x1="385.5" y1="178.3" x2="376.7" y2="187.5"/>
+  <line class="cls-2" x1="396.6" y1="189.5" x2="387.8" y2="198.8"/>
+  <line class="cls-2" x1="406.5" y1="198.8" x2="397.6" y2="208"/>
+  <line class="cls-2" x1="417" y1="207.1" x2="408.2" y2="216.4"/>
+  <line class="cls-2" x1="458.2" y1="252.7" x2="449.4" y2="262"/>
+  <line class="cls-2" x1="450.5" y1="243.2" x2="441.7" y2="252.5"/>
+  <line class="cls-2" x1="311.3" y1="81.2" x2="324.1" y2="81.2"/>
+  <line class="cls-2" x1="311.3" y1="68" x2="324.1" y2="68"/>
+  <line class="cls-1" x1="307.8" y1="44.8" x2="299.4" y2="44.8"/>
+  <line class="cls-1" x1="328.3" y1="151.8" x2="322.2" y2="157.7"/>
+  <line class="cls-1" x1="410.3" y1="253" x2="404.2" y2="258.8"/>
+  <line class="cls-1" x1="468.9" y1="230.4" x2="462.8" y2="236.2"/>
+  <line class="cls-1" x1="376" y1="138.7" x2="370.1" y2="145.2"/>
+  <g class="cls-10">
+    <g class="cls-10">
+      <g class="cls-10">
+        <g class="cls-10">
+          <g class="cls-10">
+            <g class="cls-10">
+              <g class="cls-10">
+                <text class="cls-6" transform="translate(133.8 26.6)"><tspan x="0" y="0">Restriction endonucleases (REases) KpnI-aptamer</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

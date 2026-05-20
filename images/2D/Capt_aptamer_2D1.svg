@@ -1,0 +1,449 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-13, .cls-14, .cls-2, .cls-3, .cls-6, .cls-7, .cls-8, .cls-9 {
+        isolation: isolate;
+        font-size: 11.68px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #b83233;
+      }
+
+      .cls-1, .cls-10, .cls-13, .cls-14, .cls-16, .cls-18, .cls-2, .cls-3, .cls-6, .cls-7, .cls-8, .cls-9 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-10, .cls-2, .cls-3 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-3, .cls-9 {
+        fill: #c2b617;
+      }
+
+      .cls-11, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-11, .cls-12, .cls-15, .cls-4, .cls-5 {
+        stroke: #000;
+        stroke-miterlimit: 1.11;
+      }
+
+      .cls-5 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-10, .cls-7, .cls-8 {
+        fill: #084595;
+      }
+
+      .cls-14, .cls-7, .cls-9 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-11 {
+        stroke-width: 0.64px;
+      }
+
+      .cls-12 {
+        stroke-width: 0.14px;
+      }
+
+      .cls-13, .cls-14 {
+        fill: #18988c;
+      }
+
+      .cls-16 {
+        font-size: 15px;
+      }
+
+      .cls-17 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-18 {
+        font-size: 20px;
+      }
+    </style>
+  </defs>
+  <g id="ID000002">
+    <text class="cls-1" transform="translate(174.19 307.38)">G</text>
+  </g>
+  <g id="ID000003">
+    <text class="cls-1" transform="translate(162.12 307.38)">G</text>
+  </g>
+  <g id="ID000004">
+    <text class="cls-1" transform="translate(147.03 313.42)">G</text>
+  </g>
+  <g id="ID000005">
+    <text class="cls-2" transform="translate(135.6 316.43)">A</text>
+  </g>
+  <g id="ID000006">
+    <text class="cls-1" transform="translate(137.97 265.12)">G</text>
+  </g>
+  <g id="ID000007">
+    <text class="cls-2" transform="translate(150.69 277.19)">A</text>
+  </g>
+  <g id="ID000008">
+    <text class="cls-1" transform="translate(162.44 283.23)">C</text>
+  </g>
+  <g id="ID000009">
+    <text class="cls-1" transform="translate(174.52 283.23)">C</text>
+  </g>
+  <g id="ID000010">
+    <text class="cls-3" transform="translate(189.93 277.19)">A</text>
+  </g>
+  <g id="ID000011">
+    <line class="cls-4" x1="178.73" y1="297.11" x2="178.73" y2="282.63"/>
+  </g>
+  <g id="ID000012">
+    <line class="cls-4" x1="166.66" y1="297.11" x2="166.66" y2="282.63"/>
+  </g>
+  <g id="ID000014">
+    <text class="cls-1" transform="translate(119.86 313.42)">G</text>
+  </g>
+  <g id="ID000015">
+    <text class="cls-1" transform="translate(105.1 307.38)">U</text>
+  </g>
+  <g id="ID000016">
+    <text class="cls-1" transform="translate(93.02 307.38)">C</text>
+  </g>
+  <g id="ID000017">
+    <text class="cls-1" transform="translate(80.62 307.38)">G</text>
+  </g>
+  <g id="ID000018">
+    <text class="cls-2" transform="translate(69.2 313.42)">A</text>
+  </g>
+  <g id="ID000019">
+    <text class="cls-1" transform="translate(53.79 316.43)">C</text>
+  </g>
+  <g id="ID000020">
+    <line class="cls-5" x1="58" y1="319.05" x2="58" y2="327.1"/>
+  </g>
+  <g id="ID000021">
+    <text class="cls-6" transform="translate(51.51 341.34)">10</text>
+  </g>
+  <g id="ID000022">
+    <text class="cls-1" transform="translate(38.69 319.45)">C</text>
+  </g>
+  <g id="ID000023">
+    <text class="cls-1" transform="translate(23.27 316.43)">G</text>
+  </g>
+  <g id="ID000024">
+    <text class="cls-2" transform="translate(17.89 301.34)">A</text>
+  </g>
+  <g id="ID000025">
+    <text class="cls-1" transform="translate(14.54 286.25)">C</text>
+  </g>
+  <g id="ID000026">
+    <text class="cls-1" transform="translate(20.58 271.16)">C</text>
+  </g>
+  <g id="ID000027">
+    <text class="cls-2" transform="translate(32.98 259.08)">A</text>
+  </g>
+  <g id="ID000028">
+    <text class="cls-1" transform="translate(44.4 259.08)">G</text>
+  </g>
+  <g id="ID000029">
+    <text class="cls-2" transform="translate(60.14 262.1)">A</text>
+  </g>
+  <g id="ID000030">
+    <text class="cls-2" transform="translate(69.2 271.16)">A</text>
+  </g>
+  <g id="ID000031">
+    <text class="cls-1" transform="translate(80.95 283.23)">C</text>
+  </g>
+  <g id="ID000032">
+    <line class="cls-5" x1="85.17" y1="269.75" x2="85.17" y2="261.7"/>
+  </g>
+  <g id="ID000033">
+    <text class="cls-6" transform="translate(78.67 258.68)">20</text>
+  </g>
+  <g id="ID000034">
+    <text class="cls-1" transform="translate(92.7 283.23)">G</text>
+  </g>
+  <g id="ID000035">
+    <text class="cls-2" transform="translate(105.42 283.23)">A</text>
+  </g>
+  <g id="ID000036">
+    <text class="cls-2" transform="translate(117.49 277.19)">A</text>
+  </g>
+  <g id="ID000037">
+    <text class="cls-2" transform="translate(126.55 265.12)">A</text>
+  </g>
+  <g id="ID000038">
+    <line class="cls-4" x1="109.31" y1="297.11" x2="109.31" y2="282.63"/>
+  </g>
+  <g id="ID000039">
+    <line class="cls-4" x1="97.24" y1="297.11" x2="97.24" y2="282.63"/>
+  </g>
+  <g id="ID000040">
+    <line class="cls-4" x1="85.17" y1="297.11" x2="85.17" y2="282.63"/>
+  </g>
+  <g id="ID000042">
+    <text class="cls-7" transform="translate(198.99 262.1)">A</text>
+  </g>
+  <g id="ID000043">
+    <line class="cls-5" x1="194.83" y1="256.67" x2="186.78" y2="256.67"/>
+  </g>
+  <g id="ID000044">
+    <text class="cls-6" transform="translate(173.79 262.1)">30</text>
+  </g>
+  <g id="ID000045">
+    <text class="cls-8" transform="translate(198.66 250.03)">C</text>
+  </g>
+  <g id="ID000046">
+    <text class="cls-8" transform="translate(198.34 237.96)">G</text>
+  </g>
+  <g id="ID000047">
+    <text class="cls-8" transform="translate(198.66 225.88)">C</text>
+  </g>
+  <g id="ID000048">
+    <text class="cls-8" transform="translate(222.81 225.88)">C</text>
+  </g>
+  <g id="ID000049">
+    <text class="cls-8" transform="translate(222.81 237.96)">C</text>
+  </g>
+  <g id="ID000050">
+    <text class="cls-8" transform="translate(222.49 250.03)">G</text>
+  </g>
+  <g id="ID000051">
+    <line class="cls-5" x1="235.08" y1="244.59" x2="243.13" y2="244.59"/>
+  </g>
+  <g id="ID000052">
+    <text class="cls-6" transform="translate(243.13 250.03)">60</text>
+  </g>
+  <g id="ID000053">
+    <text class="cls-8" transform="translate(222.81 262.1)">U</text>
+  </g>
+  <g id="ID000054">
+    <text class="cls-9" transform="translate(229.17 277.19)">A</text>
+  </g>
+  <g id="ID000055">
+    <line class="cls-4" x1="207.71" y1="256.67" x2="222.2" y2="256.67"/>
+  </g>
+  <g id="ID000056">
+    <line class="cls-4" x1="207.71" y1="244.59" x2="222.2" y2="244.59"/>
+  </g>
+  <g id="ID000057">
+    <line class="cls-4" x1="207.71" y1="232.52" x2="222.2" y2="232.52"/>
+  </g>
+  <g id="ID000059">
+    <text class="cls-7" transform="translate(198.99 213.81)">A</text>
+  </g>
+  <g id="ID000060">
+    <text class="cls-8" transform="translate(198.34 201.73)">G</text>
+  </g>
+  <g id="ID000061">
+    <text class="cls-8" transform="translate(198.66 189.66)">C</text>
+  </g>
+  <g id="ID000062">
+    <text class="cls-8" transform="translate(198.66 177.59)">C</text>
+  </g>
+  <g id="ID000063">
+    <text class="cls-10" transform="translate(192.95 162.5)">A</text>
+  </g>
+  <g id="ID000064">
+    <text class="cls-8" transform="translate(222.81 177.59)">C</text>
+  </g>
+  <g id="ID000065">
+    <text class="cls-8" transform="translate(222.49 189.66)">G</text>
+  </g>
+  <g id="ID000066">
+    <text class="cls-8" transform="translate(222.81 201.73)">C</text>
+  </g>
+  <g id="ID000067">
+    <text class="cls-8" transform="translate(222.81 213.81)">C</text>
+  </g>
+  <g id="ID000068">
+    <line class="cls-4" x1="207.71" y1="196.3" x2="222.2" y2="196.3"/>
+  </g>
+  <g id="ID000069">
+    <line class="cls-4" x1="207.71" y1="184.23" x2="222.2" y2="184.23"/>
+  </g>
+  <g id="ID000070">
+    <line class="cls-11" x1="227.03" y1="134.73" x2="227.03" y2="167.32"/>
+  </g>
+  <g id="ID000071">
+    <polygon class="cls-12" points="230.65 147 228.84 149.01 228.24 151.03 227.93 153.04 227.03 157.06 226.12 153.04 225.82 151.03 225.22 149.01 223.41 147 230.65 147"/>
+  </g>
+  <g id="ID000073">
+    <text class="cls-7" transform="translate(198.99 147.41)">A</text>
+  </g>
+  <g id="ID000074">
+    <text class="cls-7" transform="translate(198.99 135.33)">A</text>
+  </g>
+  <g id="ID000075">
+    <line class="cls-5" x1="194.83" y1="129.9" x2="186.78" y2="129.9"/>
+  </g>
+  <g id="ID000076">
+    <text class="cls-6" transform="translate(173.79 135.33)">40</text>
+  </g>
+  <g id="ID000077">
+    <text class="cls-8" transform="translate(198.66 123.26)">C</text>
+  </g>
+  <g id="ID000078">
+    <text class="cls-8" transform="translate(198.66 111.19)">U</text>
+  </g>
+  <g id="ID000079">
+    <text class="cls-8" transform="translate(198.34 99.11)">G</text>
+  </g>
+  <g id="ID000080">
+    <text class="cls-10" transform="translate(189.93 87.04)">A</text>
+  </g>
+  <g id="ID000081">
+    <text class="cls-10" transform="translate(192.95 71.95)">A</text>
+  </g>
+  <g id="ID000082">
+    <text class="cls-8" transform="translate(204.38 62.89)">G</text>
+  </g>
+  <g id="ID000083">
+    <text class="cls-8" transform="translate(219.79 62.89)">C</text>
+  </g>
+  <g id="ID000084">
+    <text class="cls-8" transform="translate(231.87 71.95)">C</text>
+  </g>
+  <g id="ID000085">
+    <text class="cls-8" transform="translate(234.88 87.04)">C</text>
+  </g>
+  <g id="ID000086">
+    <text class="cls-8" transform="translate(222.81 99.11)">C</text>
+  </g>
+  <g id="ID000087">
+    <line class="cls-5" x1="235.08" y1="93.68" x2="243.13" y2="93.68"/>
+  </g>
+  <g id="ID000088">
+    <text class="cls-6" transform="translate(243.13 99.11)">50</text>
+  </g>
+  <g id="ID000089">
+    <text class="cls-7" transform="translate(223.13 111.19)">A</text>
+  </g>
+  <g id="ID000090">
+    <text class="cls-8" transform="translate(222.49 123.26)">G</text>
+  </g>
+  <g id="ID000091">
+    <text class="cls-8" transform="translate(222.81 135.33)">U</text>
+  </g>
+  <g id="ID000092">
+    <line class="cls-4" x1="207.71" y1="129.9" x2="222.2" y2="129.9"/>
+  </g>
+  <g id="ID000093">
+    <line class="cls-4" x1="207.71" y1="117.82" x2="222.2" y2="117.82"/>
+  </g>
+  <g id="ID000094">
+    <line class="cls-4" x1="207.71" y1="105.75" x2="222.2" y2="105.75"/>
+  </g>
+  <g id="ID000095">
+    <line class="cls-4" x1="207.71" y1="93.68" x2="222.2" y2="93.68"/>
+  </g>
+  <g id="ID000097">
+    <text class="cls-13" transform="translate(234.88 292.29)">U</text>
+  </g>
+  <g id="ID000098">
+    <text class="cls-13" transform="translate(246.63 292.29)">G</text>
+  </g>
+  <g id="ID000099">
+    <text class="cls-13" transform="translate(259.03 292.29)">U</text>
+  </g>
+  <g id="ID000100">
+    <text class="cls-13" transform="translate(270.78 292.29)">G</text>
+  </g>
+  <g id="ID000101">
+    <text class="cls-13" transform="translate(286.2 286.25)">C</text>
+  </g>
+  <g id="ID000102">
+    <text class="cls-13" transform="translate(286.2 325.49)">U</text>
+  </g>
+  <g id="ID000103">
+    <text class="cls-13" transform="translate(271.1 316.43)">C</text>
+  </g>
+  <g id="ID000104">
+    <text class="cls-14" transform="translate(259.35 316.43)">A</text>
+  </g>
+  <g id="ID000105">
+    <text class="cls-13" transform="translate(246.96 316.43)">U</text>
+  </g>
+  <g id="ID000106">
+    <polygon class="cls-15" points="251.17 301.34 251.33 301.33 251.48 301.32 251.63 301.3 251.78 301.26 251.93 301.22 252.07 301.17 252.21 301.11 252.35 301.04 252.48 300.96 252.6 300.87 252.73 300.77 252.84 300.67 252.95 300.56 253.05 300.45 253.14 300.32 253.23 300.2 253.3 300.06 253.37 299.93 253.43 299.79 253.48 299.64 253.52 299.49 253.55 299.34 253.57 299.19 253.59 299.04 253.59 298.89 253.58 298.73 253.56 298.58 253.54 298.43 253.5 298.28 253.46 298.13 253.4 297.99 253.34 297.85 253.26 297.72 253.18 297.59 253.1 297.46 253 297.34 252.9 297.23 252.78 297.13 252.67 297.03 252.54 296.94 252.41 296.85 252.28 296.78 252.14 296.71 252 296.65 251.85 296.61 251.71 296.57 251.56 296.54 251.4 296.52 251.25 296.51 251.1 296.51 250.94 296.52 250.79 296.54 250.64 296.57 250.49 296.61 250.35 296.65 250.21 296.71 250.07 296.78 249.93 296.85 249.8 296.94 249.68 297.03 249.56 297.13 249.45 297.23 249.35 297.34 249.25 297.46 249.16 297.59 249.08 297.72 249.01 297.85 248.95 297.99 248.89 298.13 248.85 298.28 248.81 298.43 248.78 298.58 248.77 298.73 248.76 298.89 248.76 299.04 248.77 299.19 248.8 299.34 248.83 299.49 248.87 299.64 248.92 299.79 248.98 299.93 249.04 300.06 249.12 300.2 249.21 300.32 249.3 300.45 249.4 300.56 249.51 300.67 249.62 300.77 249.74 300.87 249.87 300.96 250 301.04 250.14 301.11 250.28 301.17 250.42 301.22 250.57 301.26 250.72 301.3 250.87 301.32 251.02 301.33 251.17 301.34"/>
+  </g>
+  <g id="ID000107">
+    <line class="cls-4" x1="263.25" y1="291.68" x2="263.25" y2="306.17"/>
+  </g>
+  <g id="ID000108">
+    <line class="cls-4" x1="275.32" y1="291.68" x2="275.32" y2="306.17"/>
+  </g>
+  <g id="ID000110">
+    <text class="cls-13" transform="translate(300.96 292.29)">G</text>
+  </g>
+  <g id="ID000111">
+    <text class="cls-13" transform="translate(313.36 292.29)">U</text>
+  </g>
+  <g id="ID000112">
+    <text class="cls-13" transform="translate(325.43 292.29)">C</text>
+  </g>
+  <g id="ID000113">
+    <line class="cls-5" x1="329.65" y1="278.8" x2="329.65" y2="270.75"/>
+  </g>
+  <g id="ID000114">
+    <text class="cls-6" transform="translate(323.15 267.74)">70</text>
+  </g>
+  <g id="ID000115">
+    <text class="cls-13" transform="translate(337.51 292.29)">U</text>
+  </g>
+  <g id="ID000116">
+    <text class="cls-14" transform="translate(349.91 292.29)">A</text>
+  </g>
+  <g id="ID000117">
+    <text class="cls-13" transform="translate(361.66 289.27)">C</text>
+  </g>
+  <g id="ID000118">
+    <text class="cls-14" transform="translate(377.07 295.3)">A</text>
+  </g>
+  <g id="ID000119">
+    <text class="cls-13" transform="translate(376.75 310.4)">U</text>
+  </g>
+  <g id="ID000120">
+    <text class="cls-13" transform="translate(361.66 316.43)">C</text>
+  </g>
+  <g id="ID000121">
+    <text class="cls-13" transform="translate(349.58 316.43)">U</text>
+  </g>
+  <g id="ID000122">
+    <text class="cls-14" transform="translate(337.83 316.43)">A</text>
+  </g>
+  <g id="ID000123">
+    <text class="cls-13" transform="translate(325.11 316.43)">G</text>
+  </g>
+  <g id="ID000124">
+    <text class="cls-14" transform="translate(313.68 316.43)">A</text>
+  </g>
+  <g id="ID000125">
+    <line class="cls-5" x1="317.58" y1="319.05" x2="317.58" y2="327.1"/>
+  </g>
+  <g id="ID000126">
+    <text class="cls-6" transform="translate(311.08 341.34)">80</text>
+  </g>
+  <g id="ID000127">
+    <text class="cls-13" transform="translate(301.29 316.43)">C</text>
+  </g>
+  <g id="ID000128">
+    <line class="cls-4" x1="305.5" y1="291.68" x2="305.5" y2="306.17"/>
+  </g>
+  <g id="ID000129">
+    <line class="cls-4" x1="317.58" y1="291.68" x2="317.58" y2="306.17"/>
+  </g>
+  <g id="ID000130">
+    <line class="cls-4" x1="329.65" y1="291.68" x2="329.65" y2="306.17"/>
+  </g>
+  <g id="ID000131">
+    <line class="cls-4" x1="341.72" y1="291.68" x2="341.72" y2="306.17"/>
+  </g>
+  <g id="ID000132">
+    <line class="cls-4" x1="353.8" y1="291.68" x2="353.8" y2="306.17"/>
+  </g>
+  <text class="cls-16" transform="translate(180.87 325.39)">5<tspan class="cls-17" x="8.34" y="0">’</tspan></text>
+  <text class="cls-16" transform="translate(233.89 336.15)">3<tspan class="cls-17" x="8.34" y="0">’</tspan></text>
+  <text class="cls-18" transform="translate(121.49 25.22)">Ca-apt-1 aptamer</text>
+</svg>

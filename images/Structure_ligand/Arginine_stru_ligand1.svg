@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 20px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #304ff7;
+      }
+
+      .cls-2, .cls-5 {
+        font-size: 19.24px;
+      }
+
+      .cls-3 {
+        font-size: 11.84px;
+      }
+
+      .cls-5 {
+        fill: #ff0d0d;
+      }
+    </style>
+  </defs>
+  <polygon points="204.44 224.85 242.24 203.03 242.24 204.04 242.24 205.04 204.44 226.87 204.44 225.86 204.44 224.85"/>
+  <polygon points="242.24 203.03 280.03 224.85 280.03 225.86 279.16 226.36 242.24 205.04 242.24 204.04 242.24 203.03"/>
+  <polygon points="280.03 224.85 317.83 203.03 317.83 204.04 317.83 205.04 280.91 226.36 280.03 225.86 280.03 224.85"/>
+  <polygon points="314.34 205.55 314.34 170.1 315.21 170.1 316.08 170.1 316.08 205.55 315.21 205.55 314.34 205.55"/>
+  <polygon points="319.57 205.55 319.57 170.1 320.45 170.1 321.32 170.1 321.32 205.55 320.45 205.55 319.57 205.55"/>
+  <g class="cls-4">
+    <text class="cls-5" transform="translate(310.34 168.19)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <polygon points="317.83 203.03 346.83 219.77 346.39 220.53 345.96 221.28 317.83 205.04 317.83 204.04 317.83 203.03"/>
+  <g class="cls-4">
+    <text class="cls-5" transform="translate(348.14 233.65)"><tspan x="0" y="0">O</tspan></text>
+    <text class="cls-5" transform="translate(363.11 233.65)"><tspan x="0" y="0">H</tspan></text>
+  </g>
+  <polygon points="280.91 226.36 280.91 259.79 280.03 259.79 279.16 259.79 279.16 226.36 280.03 225.86 280.91 226.36"/>
+  <g class="cls-4">
+    <text class="cls-2" transform="translate(273.09 274.81)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-2" transform="translate(286.99 274.81)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-3" transform="translate(300.88 277.78)"><tspan x="0" y="0">2</tspan></text>
+  </g>
+  <polygon points="204.44 226.87 166.65 205.04 166.65 204.04 166.65 203.03 204.44 224.85 204.44 225.86 204.44 226.87"/>
+  <polygon points="166.65 205.04 137.99 221.59 137.55 220.84 137.11 220.08 166.65 203.03 166.65 204.04 166.65 205.04"/>
+  <g class="cls-4">
+    <text class="cls-2" transform="translate(121.91 233.65)"><tspan x="0" y="0">N</tspan></text>
+  </g>
+  <polygon points="119.73 221.59 91.06 205.04 91.06 204.04 91.93 203.53 120.6 220.08 120.16 220.84 119.73 221.59"/>
+  <polygon points="122.34 217.06 95.86 201.77 96.3 201.01 96.73 200.26 123.22 215.55 122.78 216.3 122.34 217.06"/>
+  <polygon points="91.06 205.04 62.4 221.59 61.96 220.84 61.52 220.08 90.19 203.53 91.06 204.04 91.06 205.04"/>
+  <g class="cls-4">
+    <text class="cls-2" transform="translate(26 231.17)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-3" transform="translate(39.9 234.13)"><tspan x="0" y="0">2</tspan></text>
+    <text class="cls-2" transform="translate(46.49 231.17)"><tspan x="0" y="0">N</tspan></text>
+  </g>
+  <polygon points="90.19 203.53 90.19 170.1 91.06 170.1 91.93 170.1 91.93 203.53 91.06 204.04 90.19 203.53"/>
+  <g class="cls-4">
+    <text class="cls-2" transform="translate(84.11 165.71)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-2" transform="translate(98.01 165.71)"><tspan x="0" y="0">H</tspan></text>
+    <text class="cls-3" transform="translate(111.91 168.67)"><tspan x="0" y="0">2</tspan></text>
+  </g>
+  <text class="cls-1" transform="translate(151.78 116.01)"><tspan x="0" y="0">L-arginine</tspan></text>
+</svg>

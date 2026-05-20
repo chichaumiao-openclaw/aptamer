@@ -1,0 +1,173 @@
+[
+    {
+      "id": 1,
+      "authors": [
+        "Pédelacq, J. D.",
+        "Cabantous, S.",
+        "Tran, T.",
+        "Terwilliger, T. C.",
+        "Waldo, G. S."
+      ],
+      "year": 2006,
+      "title": "Engineering and characterization of a superfolder green fluorescent protein",
+      "journal": "Nature Biotechnology",
+      "volume": "24",
+      "issue": "1",
+      "pages": "79-88",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16369541/"
+    },
+    {
+      "id": 2,
+      "authors": [
+        "Paige, J. S.",
+        "Wu, K. Y.",
+        "Jaffrey, S. R."
+      ],
+      "year": 2011,
+      "title": "RNA mimics of green fluorescent protein",
+      "journal": "Science (New York, N.Y.)",
+      "volume": "333",
+      "issue": "6042",
+      "pages": "642-646",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21798953/"
+    },
+    {
+      "id": 3,
+      "authors": [
+        "Dolgosheina, E. V.",
+        "Jeng, S. C.",
+        "Panchapakesan, S. S.",
+        "Cojocaru, R.",
+        "Chen, P. S.",
+        "Wilson, P. D.",
+        "Hawkins, N.",
+        "Wiggins, P. A.",
+        "Unrau, P. J."
+      ],
+      "year": 2014,
+      "title": "RNA mango aptamer-fluorophore: a bright, high-affinity complex for RNA labeling and tracking",
+      "journal": "ACS Chemical Biology",
+      "volume": "9",
+      "issue": "10",
+      "pages": "2412-2420",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25101481/"
+    },
+    {
+      "id": 4,
+      "authors": [
+        "Song, W.",
+        "Filonov, G. S.",
+        "Kim, H.",
+        "Hirsch, M.",
+        "Li, X.",
+        "Moon, J. D.",
+        "Jaffrey, S. R."
+      ],
+      "year": 2017,
+      "title": "Imaging RNA polymerase III transcription using a photostable RNA-fluorophore complex",
+      "journal": "Nature Chemical Biology",
+      "volume": "13",
+      "issue": "11",
+      "pages": "1187-1194",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28945233/"
+    },
+    {
+      "id": 5,
+      "authors": [
+        "Filonov, G. S.",
+        "Moon, J. D.",
+        "Svensen, N.",
+        "Jaffrey, S. R."
+      ],
+      "year": 2014,
+      "title": "Broccoli: rapid selection of an RNA mimic of green fluorescent protein by fluorescence-based selection and directed evolution",
+      "journal": "Journal of the American Chemical Society",
+      "volume": "136",
+      "issue": "46",
+      "pages": "16299-16308",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25337688/"
+    },
+    {
+      "id": 6,
+      "authors": [
+        "Song, W.",
+        "Strack, R. L.",
+        "Svensen, N.",
+        "Jaffrey, S. R."
+      ],
+      "year": 2014,
+      "title": "Plug-and-play fluorophores extend the spectral properties of Spinach",
+      "journal": "Journal of the American Chemical Society",
+      "volume": "136",
+      "issue": "4",
+      "pages": "1198-1201",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24393009/"
+    },
+    {
+      "id": 7,
+      "authors": [
+        "Autour, A.",
+        "C Y Jeng, S.",
+        "D Cawte, A.",
+        "Abdolahzadeh, A.",
+        "Galli, A.",
+        "Panchapakesan, S. S. S.",
+        "Rueda, D.",
+        "Ryckelynck, M.",
+        "Unrau, P. J."
+      ],
+      "year": 2018,
+      "title": "Fluorogenic RNA Mango aptamers for imaging small non-coding RNAs in mammalian cells",
+      "journal": "Nature Communications",
+      "volume": "9",
+      "issue": "1",
+      "pages": "656",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29440634/"
+    },
+    {
+      "id": 8,
+      "authors": [
+        "Zhang, Q.",
+        "Su, C.",
+        "Tian, X.",
+        "Zhang, C. Y."
+      ],
+      "year": 2023,
+      "title": "Corn-Based Fluorescent Light-Up Biosensors with Improved Signal-to-Background Ratio for Label-Free Detection of Long Noncoding RNAs",
+      "journal": "Analytical Chemistry",
+      "volume": "95",
+      "issue": "20",
+      "pages": "8097-8104",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37171156/"
+    },
+    {
+      "id": 9,
+      "authors": [
+        "Neubacher, S.",
+        "Hennig, S."
+      ],
+      "year": 2019,
+      "title": "RNA Structure and Cellular Applications of Fluorescent Light-Up Aptamers",
+      "journal": "Angewandte Chemie (International ed. in English)",
+      "volume": "58",
+      "issue": "5",
+      "pages": "1266-1279",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30102012/"
+    },
+    {
+      "id": 10,
+      "authors": [
+        "Lu, X.",
+        "Kong, K. Y. S.",
+        "Unrau, P. J."
+      ],
+      "year": 2023,
+      "title": "Harmonizing the growing fluorogenic RNA aptamer toolbox for RNA detection and imaging",
+      "journal": "Chemical Society Reviews",
+      "volume": "52",
+      "issue": "12",
+      "pages": "4071-4098",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37278064/"
+    }
+  ]
+  

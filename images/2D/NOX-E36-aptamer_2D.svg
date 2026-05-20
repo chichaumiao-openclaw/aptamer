@@ -1,0 +1,150 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        font-size: 27.9px;
+      }
+
+      .cls-1, .cls-2, .cls-7 {
+        fill: #094;
+      }
+
+      .cls-1, .cls-10, .cls-12, .cls-15, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-2, .cls-6 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        fill: #ff8700;
+      }
+
+      .cls-4 {
+        fill: #00913a;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-7 {
+        font-size: 31px;
+      }
+
+      .cls-10, .cls-8 {
+        fill: #231815;
+      }
+
+      .cls-11, .cls-14, .cls-9 {
+        fill: none;
+      }
+
+      .cls-13, .cls-9 {
+        stroke: #000;
+      }
+
+      .cls-11, .cls-13, .cls-14, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-10 {
+        font-size: 20px;
+      }
+
+      .cls-11 {
+        stroke: #9fa0a0;
+      }
+
+      .cls-11, .cls-14 {
+        stroke-width: 0.25px;
+      }
+
+      .cls-12 {
+        font-size: 12px;
+      }
+
+      .cls-13 {
+        stroke-width: 0.11px;
+      }
+
+      .cls-14 {
+        stroke: #231815;
+      }
+
+      .cls-15 {
+        font-size: 16px;
+      }
+
+      .cls-16 {
+        letter-spacing: -0.04em;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(430.55 42.02)">G</text>
+  <text class="cls-2" transform="translate(432.16 84.19)">A</text>
+  <text class="cls-1" transform="translate(430.49 62.8)">C</text>
+  <text class="cls-3" transform="translate(376.18 99.54)">U</text>
+  <text class="cls-3" transform="translate(413.7 83.86)">C</text>
+  <text class="cls-3" transform="translate(393.52 83.86)">G</text>
+  <text class="cls-3" transform="translate(365.26 119.84)">C</text>
+  <text class="cls-4" transform="translate(374.94 144.11)">C</text>
+  <text class="cls-1" transform="translate(374.02 168.08)">C</text>
+  <text class="cls-3" transform="translate(358.3 184.39)">U</text>
+  <text class="cls-3" transform="translate(339.27 197)">C</text>
+  <text class="cls-5" transform="translate(339.32 219.16)">A</text>
+  <text class="cls-3" transform="translate(357.87 231.34)">C</text>
+  <text class="cls-1" transform="translate(375.5 239.46)">C</text>
+  <text class="cls-1" transform="translate(375.5 261.57)">G</text>
+  <text class="cls-1" transform="translate(375.93 284.77)">G</text>
+  <text class="cls-3" transform="translate(376.89 308.67)">U</text>
+  <text class="cls-1" transform="translate(377.41 328.9)">G</text>
+  <text class="cls-3" transform="translate(435.04 192.31)">U</text>
+  <text class="cls-3" transform="translate(363.86 348.87)">C</text>
+  <text class="cls-5" transform="translate(376.34 368.84)">A</text>
+  <text class="cls-6" transform="translate(393.56 385.07)">A</text>
+  <text class="cls-3" transform="translate(412.22 385.74)">G</text>
+  <text class="cls-3" transform="translate(434.37 368.84)">U</text>
+  <text class="cls-3" transform="translate(445.12 348.87)">G</text>
+  <text class="cls-2" transform="translate(432.12 329.24)">A</text>
+  <text class="cls-6" transform="translate(452.26 318.54)">A</text>
+  <text class="cls-3" transform="translate(453.23 296.43)">G</text>
+  <text class="cls-1" transform="translate(435.04 284.77)">C</text>
+  <text class="cls-1" transform="translate(433.47 261.57)">C</text>
+  <text class="cls-1" transform="translate(432.72 239.47)">G</text>
+  <text class="cls-1" transform="translate(431.77 168.08)">G</text>
+  <text class="cls-1" transform="translate(432.16 144.44)">G</text>
+  <text class="cls-1" transform="translate(433.64 123.8)">C</text>
+  <text class="cls-3" transform="translate(452.02 115.89)">U</text>
+  <text class="cls-3" transform="translate(471.38 107.97)">C</text>
+  <text class="cls-7" transform="translate(471.3 87.33) scale(0.9 1)">U</text>
+  <text class="cls-1" transform="translate(469.9 63.55)">G</text>
+  <text class="cls-1" transform="translate(470.72 44.25)">C</text>
+  <text class="cls-3" transform="translate(471.3 22.48)">G</text>
+  <circle class="cls-8" cx="442.81" cy="93.96" r="3.79"/>
+  <circle class="cls-8" cx="415.09" cy="322.33" r="3.79"/>
+  <line class="cls-9" x1="397.59" y1="275.99" x2="434.2" y2="275.99"/>
+  <line class="cls-9" x1="400" y1="322.33" x2="432.16" y2="322.33"/>
+  <text class="cls-10" transform="translate(24.99 32.02)">NOX-E36 L-aptamer</text>
+  <line class="cls-9" x1="396.78" y1="250.63" x2="433.4" y2="250.63"/>
+  <line class="cls-9" x1="395.39" y1="229.99" x2="432" y2="229.99"/>
+  <line class="cls-9" x1="395.39" y1="157.84" x2="432" y2="157.84"/>
+  <line class="cls-9" x1="395.16" y1="134.15" x2="431.77" y2="134.15"/>
+  <line class="cls-9" x1="451.6" y1="76.67" x2="472.12" y2="76.67"/>
+  <line class="cls-9" x1="451.6" y1="54.04" x2="469.97" y2="54.04"/>
+  <line class="cls-9" x1="452.1" y1="34.32" x2="469.46" y2="34.32"/>
+  <polyline class="cls-11" points="424.51 63.55 424.51 49.46 337.51 49.46 337.51 392.41 424.51 392.41 423.9 386.08"/>
+  <polyline class="cls-11" points="396.22 68.53 325.51 68.53 325.51 392.41 461.86 392.41 461.06 348.43"/>
+  <text class="cls-12" transform="translate(515.37 17.05)">40</text>
+  <text class="cls-12" transform="translate(328.31 173.85)">10</text>
+  <line class="cls-9" x1="445.12" y1="194.51" x2="445.12" y2="216.77"/>
+  <g id="ID000130">
+    <polygon class="cls-13" points="442.44 208.72 443.78 207.23 444.23 205.74 444.45 204.24 445.12 201.26 445.8 204.24 446.02 205.74 446.47 207.23 447.81 208.72 442.44 208.72"/>
+  </g>
+  <line class="cls-14" x1="358.85" y1="358.25" x2="374.45" y2="358.25"/>
+  <text class="cls-12" transform="translate(342.38 362.48)">20</text>
+  <text class="cls-12" transform="translate(480.89 233.74)">30</text>
+  <text class="cls-15" transform="translate(415.09 23.94)">5<tspan class="cls-16" x="8.9" y="0">’</tspan></text>
+  <text class="cls-15" transform="translate(459.86 14.69)">3<tspan class="cls-16" x="8.9" y="0">’</tspan></text>
+</svg>

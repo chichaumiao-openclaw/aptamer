@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 130">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #000;
+      }
+
+      .cls-2 {
+        font-size: 5.79px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-3 {
+        font-size: 9.66px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="110.78 83.9 99.58 103.31 99.33 102.87 99.07 102.43 109.77 83.9 110.27 83.9 110.78 83.9 110.78 83.9"/>
+  <polygon class="cls-1" points="107.62 84.12 98.19 100.46 97.81 100.24 97.43 100.02 106.86 83.68 107.24 83.9 107.62 84.12 107.62 84.12"/>
+  <polygon class="cls-1" points="99.58 103.31 77.68 103.31 77.43 102.87 77.68 102.43 99.07 102.43 99.33 102.87 99.58 103.31 99.58 103.31"/>
+  <polygon class="cls-1" points="76.92 102.87 66.22 84.34 66.48 83.9 66.98 83.9 77.68 102.43 77.43 102.87 76.92 102.87 76.92 102.87"/>
+  <polygon class="cls-1" points="78.56 100.46 69.13 84.12 69.51 83.9 69.89 83.68 79.32 100.02 78.94 100.24 78.56 100.46 78.56 100.46"/>
+  <polygon class="cls-1" points="66.22 83.46 77.17 64.5 77.43 64.94 77.68 65.38 66.98 83.9 66.48 83.9 66.22 83.46 66.22 83.46"/>
+  <polygon class="cls-1" points="77.17 64.5 99.07 64.5 99.33 64.94 99.07 65.38 77.68 65.38 77.43 64.94 77.17 64.5 77.17 64.5"/>
+  <polygon class="cls-1" points="78.94 67.13 97.81 67.13 97.81 67.57 97.81 68 78.94 68 78.94 67.57 78.94 67.13 78.94 67.13"/>
+  <polygon class="cls-1" points="99.07 64.5 110.02 45.53 110.27 45.97 110.53 46.41 99.83 64.94 99.33 64.94 99.07 64.5 99.07 64.5"/>
+  <polygon class="cls-1" points="110.02 45.53 131.92 45.53 132.17 45.97 131.92 46.41 110.53 46.41 110.27 45.97 110.02 45.53 110.02 45.53"/>
+  <polygon class="cls-1" points="131.92 45.53 142.87 26.57 143.12 27.01 143.38 27.45 132.68 45.97 132.17 45.97 131.92 45.53 131.92 45.53"/>
+  <polygon class="cls-1" points="141.99 28.54 133.47 13.79 133.85 13.57 134.23 13.35 142.74 28.1 142.36 28.32 141.99 28.54 141.99 28.54"/>
+  <polygon class="cls-1" points="144.26 27.23 135.74 12.48 136.12 12.26 136.5 12.04 145.02 26.79 144.64 27.01 144.26 27.23 144.26 27.23"/>
+  <text class="cls-3" transform="translate(128.57 10.29)"><tspan x="0" y="0">O</tspan></text>
+  <polygon class="cls-1" points="142.87 26.57 160.39 26.57 160.39 27.01 160.39 27.45 143.38 27.45 143.12 27.01 142.87 26.57 142.87 26.57"/>
+  <text class="cls-3" transform="translate(161.41 29.24)"><tspan x="0" y="0">O</tspan></text>
+  <text class="cls-3" transform="translate(168.93 29.24)"><tspan x="0" y="0">H</tspan></text>
+  <polygon class="cls-1" points="132.68 45.97 140.69 59.85 140.31 60.07 139.93 60.29 131.92 46.41 132.17 45.97 132.68 45.97 132.68 45.97"/>
+  <text class="cls-3" transform="translate(139.78 66.95)"><tspan x="0" y="0">N</tspan></text>
+  <text class="cls-3" transform="translate(146.76 66.95)"><tspan x="0" y="0">H</tspan></text>
+  <text class="cls-2" transform="translate(153.73 69.53)"><tspan x="0" y="0">2</tspan></text>
+  <polygon class="cls-1" points="99.83 64.94 110.78 83.9 110.27 83.9 109.77 83.9 99.07 65.38 99.33 64.94 99.83 64.94 99.83 64.94"/>
+  <polygon class="cls-1" points="66.22 84.34 49.21 84.34 49.21 83.9 49.21 83.46 66.22 83.46 66.48 83.9 66.22 84.34 66.22 84.34"/>
+  <text class="cls-3" transform="translate(34 85.91)"><tspan x="0" y="0">H</tspan></text>
+  <text class="cls-3" transform="translate(40.97 85.91)"><tspan x="0" y="0">O</tspan></text>
+  <polygon class="cls-1" points="77.68 103.31 69.67 117.18 69.29 116.96 68.91 116.74 76.92 102.87 77.43 102.87 77.68 103.31 77.68 103.31"/>
+  <text class="cls-3" transform="translate(55.9 123.85)"><tspan x="0" y="0">H</tspan></text>
+  <text class="cls-3" transform="translate(62.87 123.85)"><tspan x="0" y="0">O</tspan></text>
+</svg>

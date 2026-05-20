@@ -1,0 +1,39 @@
+{
+  "pieChart": {
+    "values": [12, 7, 73, 3, 2, 3, 3, 28, 4, 6, 8, 16, 7, 11, 3],
+    "labels": [
+      "Bacteria", 
+      "Cell", 
+      "Mammalian", 
+      "Other", 
+      "Parasite", 
+      "Prion", 
+      "Toxin", 
+      "Viral", 
+      "RNA", 
+      "Amino Acids & Peptides", 
+      "Biologics & Signaling Molecules", 
+      "Fluorophores", 
+      "Nucleosides & Nucleotides", 
+      "Pharmaceuticals", 
+      "Synthetic"
+    ],
+    "colors": [
+      "#e97e8d", 
+      "#bf97d1", 
+      "#d75369", 
+      "#9841da", 
+      "#396120", 
+      "#77c670", 
+      "#ab233a", 
+      "#ade48b", 
+      "#6ed9cd", 
+      "#FFA07A", 
+      "#f0a570", 
+      "#385dbf", 
+      "#3c58a5", 
+      "#14a0ec", 
+      "#2a5c76"
+    ]
+  }
+} 
