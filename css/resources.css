@@ -1,0 +1,113 @@
+/* 资源展示模块 CSS - 从homepage.css中提取 */
+
+/* 资源展示区域样式 */
+.resources-section {
+    padding: 80px 0;
+    max-width: 1400px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+.resources-title {
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 60px;
+    color: #333;
+    font-weight: bold;
+}
+
+.resources-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 40px;
+    padding: 0 20px;
+}
+
+/* 资源卡片样式 */
+.resource-card {
+    background: white;
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.resource-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+}
+
+.resource-icon {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+}
+
+.resource-title {
+    font-size: 1.6rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.resource-description {
+    color: #666;
+    line-height: 1.8;
+    font-size: 1.1rem;
+}
+
+/* 响应式设计 */
+@media (max-width: 1200px) {
+    .resources-title {
+        font-size: 2.5rem;
+    }
+    
+    .resources-grid {
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 30px;
+    }
+}
+
+@media (max-width: 768px) {
+    .resources-section {
+        padding: 60px 0;
+    }
+    
+    .resources-title {
+        font-size: 2rem;
+        margin-bottom: 40px;
+    }
+    
+    .resource-card {
+        padding: 30px;
+    }
+    
+    .resource-icon {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .resource-title {
+        font-size: 1.4rem;
+    }
+    
+    .resource-description {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .resources-section {
+        padding: 40px 0;
+    }
+    
+    .resources-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    .resource-card {
+        padding: 25px;
+    }
+} 

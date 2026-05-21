@@ -5,18 +5,16 @@ excerpt: "Ribocentre-aptamer: A aptamer database"
 sitemap: True
 permalink: /sequences/
 ---
-<html lang="en">
-<head>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
 
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 <title>Ribocentre-aptamer sequences</title>
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
 <style>
-:root{
+.legacy-page-shell{
   --primary-color:#520049;
 }
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;line-height:1.7;color:#333;font-size:16px;letter-spacing:.3px;}
+.legacy-page-shell{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;line-height:1.7;color:#333;font-size:16px;letter-spacing:.3px;}
 .table-style{width:100%;margin:20px 0;background:#fff;border-radius:8px;overflow:hidden;box-shadow:0 2px 4px rgba(0,0,0,0.1);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;}
 .table-style th{background:var(--primary-color);color:#fff;padding:12px;text-align:left;white-space:nowrap;font-size:16px;}
 .table-style td{padding:12px;border-bottom:1px solid #e8e8e8;white-space:nowrap;font-size:16px;}
@@ -158,9 +156,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica N
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 </style>
-
-</head>
-<body style="padding-top: 0px;">
 <h1 class="post-title">Sequences</h1>
 <p>Named here is composed of ligand + underscore + article name, which belongs to a unique name. For RNA aptamers isolated from the same ligand in the same article, we only selected 1-2 of them to draw the details page.</p>
 <div class="form-container" style="margin-bottom:15px;">
@@ -1275,5 +1270,3 @@ $(document).ready(function(){
   }, 100);
 });
 </script>
-</body>
-</html>

@@ -6,9 +6,8 @@ sitemap: True
 permalink: /helps/
 hide_sequence_btn: true
 hide_nav_ball: true
+body_attrs: "onload=\"showSheet('sheet1')\""
 ---
-<html lang="en">
-<head>
 <!--set sort order in table header begin-->
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
@@ -20,8 +19,6 @@ hide_nav_ball: true
   <!--set sort order in table header finish-->
 
 <meta name="google-site-verification" content="uLZVKfay17Zcx_rzSlECNKhxf9gpvF4jLw3Zsa4agTs" />
-<body onload="showSheet('sheet1')">
-
 <!-- Removed duplicate header
 <h1 class="post-title" itemprop="name headline">Helps</h1>
 -->

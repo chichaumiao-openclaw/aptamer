@@ -5,18 +5,16 @@ excerpt: "Ribocentre-aptamer: A aptamer database"
 sitemap: True
 permalink: /publications/
 ---
-<html lang="en">
-<head>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
 
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 <title>Ribocentre-aptamer publications</title>
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
 <style>
-:root{
+.legacy-page-shell{
   --primary-color:#520049;
 }
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;line-height:1.7;color:#333;font-size:16px;letter-spacing:.3px;}
+.legacy-page-shell{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;line-height:1.7;color:#333;font-size:16px;letter-spacing:.3px;}
 .table-style{width:100%;margin:20px 0;background:#fff;border-radius:8px;overflow:hidden;box-shadow:0 2px 4px rgba(0,0,0,0.1);}
 .table-style th{background:var(--primary-color);color:#fff;padding:12px;text-align:left;}
 .table-style td{padding:12px;border-bottom:1px solid #e8e8e8;}
@@ -218,8 +216,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica N
 <!-- 引入 WordCloud2.js 库 -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/wordcloud2.js/1.1.1/wordcloud2.min.js"></script>
 
-</head>
-<body style="padding-top: 0px;">
 <h1 class="post-title">Publications</h1>
 <p>This page lists the reviews and articles about RNA aptamers. <span style="color:#6c757d;font-size:14px;">💡 Click on column headers to sort the table.</span></p>
 
@@ -953,5 +949,3 @@ $(document).ready(function(){
   });
 });
 </script>
-</body>
-</html>

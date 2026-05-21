@@ -1,0 +1,106 @@
+/* 统计数据模块 CSS - 从homepage.css中提取 */
+
+/* 统计区域样式 */
+.stats-section {
+    background: #f8f9fa;
+    padding: 80px 0;
+    border-top: 1px solid #eaeaea;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.stats-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+/* 单个统计项样式 */
+.stat-item {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    transition: transform 0.3s ease;
+}
+
+.stat-item:hover {
+    transform: translateY(-5px);
+}
+
+.stat-number {
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: #667eea;
+    display: block;
+    margin-bottom: 10px;
+    font-family: 'Arial', sans-serif;
+}
+
+.stat-label {
+    font-size: 1.3rem;
+    color: #666;
+    margin-top: 15px;
+    font-weight: 500;
+}
+
+/* 统计项装饰 */
+.stat-item::after {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 3px;
+    background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+    margin: 15px auto 0;
+    border-radius: 3px;
+}
+
+/* 响应式设计 */
+@media (max-width: 1200px) {
+    .stats-container {
+        justify-content: center;
+    }
+    
+    .stat-number {
+        font-size: 3rem;
+    }
+    
+    .stat-label {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .stats-section {
+        padding: 60px 0;
+    }
+    
+    .stats-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .stat-item {
+        width: 100%;
+        max-width: 300px;
+        margin: 10px 0;
+    }
+    
+    .stat-number {
+        font-size: 2.8rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .stats-section {
+        padding: 40px 0;
+    }
+    
+    .stat-number {
+        font-size: 2.5rem;
+    }
+    
+    .stat-label {
+        font-size: 1rem;
+    }
+} 

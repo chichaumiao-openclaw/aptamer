@@ -1,0 +1,514 @@
+/* Aptamer页面专用样式 */
+
+/* 基础样式 */
+.header_box {
+  display: block;
+  font-size: 24px;
+  background-color: #ffffff;
+  text-decoration: none;
+  border-radius: 1px;
+  width: 500px;
+  border-width: 1px 1px 2px 1px;
+  border-color: #ffffff #ffffff #ffffff #ffffff;
+}
+
+.box_style {
+  background: #ffffff;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+/* 按钮容器样式 */
+.button-container {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  height: 50px;
+  overflow: auto;
+}
+
+/* 按钮样式 */
+.button {
+  display: block;
+  padding: 10px;
+  margin-right: 10px;
+  text-align: center;
+  background-color: #ffffff;
+  color: #520049;
+  text-decoration: none;
+  font-size: 16px;
+  border: 1px solid #520049;
+  border-radius: 5px;
+}
+
+/* 鼠标悬停样式 */
+.button:hover {
+  background-color: #c9c5c5;
+  cursor: pointer;
+}
+
+/* 表格样式 */
+.table-style1 {
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.table-style1 th {
+  background-color: #520049;
+  color: rgba(255, 255, 255, 0.9);
+  cursor: pointer;
+}
+
+.table-style1 td {
+  background-color: #f9f9f9;
+}
+
+.table-style1 th,
+.table-style1 td {
+  padding: 10px 10px;
+}
+
+table.dataTable.no-footer {
+  border-bottom: 1px solid rgba(0, 0, 0, 0);
+}
+
+/* 隐藏所有 sheet */
+.sheet {
+  display: all;
+  overflow: auto;
+}
+
+/* 搜索框样式 */
+#searchBox {
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-radius: 1px;
+  width: 300px;
+}
+
+#searchBox:focus {
+  outline: none;
+  border-color: #efefef;
+}
+
+#searchBox::placeholder {
+  font-size: 16px;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  color: #000000;
+  font: inherit;
+  margin: 0;
+}
+
+/* 搜索框和下载框水平布局 */
+.form-container {
+  display: flex;
+  align-items: center;
+  overflow: auto;
+}
+
+.form-container input {
+  margin-right: 10px;
+}
+
+/* 下载框位置设置 */
+.form-container select {
+  margin-left: auto;
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  width: 300px;
+}
+
+.button.clicked {
+  background-color: #999;
+}
+
+/* ============================================ */
+/* 智能颜色系统 - 数据驱动 */
+/* ============================================ */
+
+/* 颜色变量定义 */
+:root {
+  --salmon: #FFA07A;
+  --blue: #385dbf;
+  --orange: #f0a570;
+  --pink: #d75369;
+  --dark-blue: #3c58a5;
+  --light-blue: #14a0ec;
+  --rose: #e97e8d;
+  --green: #ade48b;
+  --purple: #9841da;
+  --lime: #77c670;
+  --crimson: #ab233a;
+  --teal: #2a5c76;
+  --aqua: #6ed9cd;
+  --forest: #396120;
+  --lavender: #bf97d1;
+  --light-blue-250: rgb(75, 158, 250);
+  --rose-142: rgb(220, 131, 142);
+  --light-blue-230: rgb(75, 158, 230);
+}
+
+/* ============================================ */
+/* 通用表格基础样式 */
+/* ============================================ */
+.table,
+.table2 {
+  width: 100%;
+  max-width: 100%;
+  margin: 5px auto;
+  border-collapse: collapse;
+  background-color: #ffffff;
+  border: 1px solid #fff;
+  table-layout: fixed;
+}
+
+/* 适配体表格响应式容器样式 */
+.aptamer-table-container {
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* 适配体表格统一样式 */
+.aptamer-table {
+  width: 100% !important;
+  max-width: 100% !important;
+  table-layout: auto !important;
+}
+
+.table td,
+.table2 td {
+  padding: 10px;
+  text-align: center;
+  color: white;
+  transition: transform 0.3s, background-color 0.3s, color 0.3s;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.table td:hover,
+.table2 td:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.table a,
+.table2 a {
+  color: white !important;
+  text-decoration: none !important;
+}
+
+.table a:hover,
+.table2 a:hover {
+  color: white !important;
+  text-decoration: none !important;
+}
+
+/* ============================================ */
+/* 智能颜色映射系统 */
+/* ============================================ */
+
+/* 
+使用CSS自定义属性来定义颜色模式
+这样添加/删除元素时只需要修改JSON，CSS会自动适应
+*/
+
+/* 第一个表格的颜色模式定义 */
+.table[data-table="with3d"] {
+  /* Row 1: 鲑鱼色2个 + 蓝色7个 */
+  --row1-pattern: "salmon:2, blue:7";
+  /* Row 2: 蓝色9个 */
+  --row2-pattern: "blue:9";
+  /* Row 3: 橙色5个 + 粉色4个 */
+  --row3-pattern: "orange:5, pink:4";
+  /* Row 4: 粉色6个 + 深蓝色2个 + 浅蓝色1个 */
+  --row4-pattern: "pink:6, dark-blue:2, light-blue:1";
+  /* Row 5: 浅蓝色6个 + 玫瑰色3个 */
+  --row5-pattern: "light-blue:6, rose:3";
+  /* Row 6: 玫瑰色1个 + 绿色4个 + 紫色1个 + 青绿色1个 */
+  --row6-pattern: "rose:1, green:4, purple:1, lime:1";
+}
+
+/* 基于数据属性的动态颜色应用 */
+/* 使用更灵活的选择器来应用颜色 */
+
+/* 第一个表格颜色 */
+.table .row1 td:nth-child(-n+2) { background-color: var(--salmon); }
+.table .row1 td:nth-child(n+3) { background-color: var(--blue); }
+
+.table .row2 td { background-color: var(--blue); }
+
+.table .row3 td:nth-child(-n+5) { background-color: var(--orange); }
+.table .row3 td:nth-child(n+6) { background-color: var(--pink); }
+
+.table .row4 td:nth-child(-n+7) { background-color: var(--pink); }
+.table .row4 td:nth-child(8), .table .row4 td:nth-child(9) { background-color: var(--dark-blue); }
+
+.table .row5 td:nth-child(-n+7) { background-color: var(--light-blue); }
+.table .row5 td:nth-child(8), .table .row5 td:nth-child(9) { background-color: var(--rose); }
+
+.table .row6 td:nth-child(1), .table .row6 td:nth-child(2) { background-color: var(--rose); }
+.table .row6 td:nth-child(n+3):nth-child(-n+6) { background-color: var(--green); }
+.table .row6 td:nth-child(7) { background-color: var(--purple); }
+.table .row6 td:nth-child(8) { background-color: var(--lime); }
+
+/* 第二个表格颜色 */
+.table2 .row1 td:nth-child(-n+2) { background-color: var(--salmon); }
+.table2 .row1 td:nth-child(n+3) { background-color: var(--blue); }
+
+.table2 .row2 td { background-color: var(--blue); }
+
+.table2 .row3 td:nth-child(-n+3) { background-color: var(--salmon); }
+.table2 .row3 td:nth-child(n+4) { background-color: var(--pink); }
+
+.table2 .row4 td:nth-child(-n+7) { background-color: var(--pink); }
+.table2 .row4 td:nth-child(n+8) { background-color: var(--light-blue-230); }
+
+.table2 .row5 td:nth-child(-n+2) { background-color: var(--light-blue-250); }
+.table2 .row5 td:nth-child(n+3):nth-child(-n+6) { background-color: var(--rose-142); }
+.table2 .row5 td:nth-child(n+7) { background-color: var(--lime); }
+
+.table2 .row6 td:nth-child(1) { background-color: var(--green); }
+.table2 .row6 td:nth-child(2) { background-color: var(--purple); }
+.table2 .row6 td:nth-child(3) { background-color: var(--lime); }
+.table2 .row6 td:nth-child(n+4) { background-color: var(--pink); }
+
+.table2 .row7 td { background-color: var(--pink); }
+
+.table2 .row8 td:nth-child(1) { background-color: var(--pink); }
+.table2 .row8 td:nth-child(n+2):nth-child(-n+6) { background-color: var(--dark-blue); }
+.table2 .row8 td:nth-child(n+7) { background-color: var(--light-blue); }
+
+.table2 .row9 td:nth-child(-n+3) { background-color: var(--light-blue); }
+.table2 .row9 td:nth-child(n+4) { background-color: var(--rose); }
+
+.table2 .row10 td:nth-child(-n+3) { background-color: var(--rose); }
+.table2 .row10 td:nth-child(n+4) { background-color: var(--green); }
+
+.table2 .row11 td { background-color: var(--green); }
+
+.table2 .row12 td:nth-child(-n+8) { background-color: var(--green); }
+.table2 .row12 td:nth-child(9) { background-color: var(--purple); }
+
+.table2 .row13 td:nth-child(-n+2) { background-color: var(--purple); }
+.table2 .row13 td:nth-child(3) { background-color: var(--crimson); }
+.table2 .row13 td:nth-child(n+4):nth-child(-n+6) { background-color: var(--teal); }
+.table2 .row13 td:nth-child(n+7) { background-color: var(--aqua); }
+
+.table2 .row14 td:nth-child(-n+2) { background-color: var(--forest); }
+.table2 .row14 td:nth-child(3), .table2 .row14 td:nth-child(4) { background-color: var(--lime); }
+.table2 .row14 td:nth-child(n+5) { background-color: var(--lavender); }
+
+.table2 .row15 td:nth-child(1) { background-color: var(--lavender); }
+
+/* ============================================ */
+/* Descriptive text styling for table sections */
+/* ============================================ */
+
+.aptamer-table-description {
+  font-size: 18px !important;
+  font-weight: 600 !important;
+  background-image: linear-gradient(270deg, #520049, #772c78, #c050d0, #772c78, #520049) !important;
+  background-size: 400% 400% !important;
+  background-clip: text !important;
+  -webkit-background-clip: text !important;
+  color: transparent !important;
+  animation: moveGradient 8s ease infinite !important;
+  padding: 15px 20px !important;
+  margin: 20px 0 15px 0 !important;
+  border-left: 5px solid #520049 !important;
+  border-radius: 8px !important;
+  box-shadow: 0 2px 8px rgba(82, 0, 73, 0.1) !important;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+  letter-spacing: 0.3px !important;
+  line-height: 1.4 !important;
+  position: relative !important;
+  overflow: hidden !important;
+  background-color: #fafafa !important;
+}
+
+.aptamer-table-description::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 5px;
+  height: 100%;
+  /* background: linear-gradient(180deg, #520049 0%, #c050d0 100%); */
+}
+
+.aptamer-table-description:hover {
+  transform: translateX(2px) !important;
+  transition: all 0.3s ease !important;
+  box-shadow: 0 4px 15px rgba(82, 0, 73, 0.2) !important;
+}
+
+/* Animation for purple gradient text */
+@keyframes moveGradient {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* ============================================ */
+/* 其他组件样式 */
+/* ============================================ */
+
+/* 饼图样式 */
+#pie-chart {
+  margin: 0 auto;
+}
+
+/* 表格标题样式 */
+#statsContent font {
+  display: block;
+  font-size: 16px;
+  font-weight: normal;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+/* 添加更明确的表格标题样式 */
+#statsContent font:first-of-type {
+  margin-top: 10px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+#statsContent font:nth-of-type(2) {
+  margin-top: 20px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Aptamer Squared Table 面板样式 */
+.stat-panel {
+  margin-bottom: 30px;
+  border: 2px solid #520049;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.stat-header {
+  cursor: pointer;
+  padding: 15px;
+  background: linear-gradient(135deg, #520049 0%, #6b1650 100%);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: background 0.3s ease;
+}
+
+.stat-header:hover {
+  background: linear-gradient(135deg, #6b1650 0%, #520049 100%);
+}
+
+.stat-header span {
+  font-weight: bold;
+  color: white;
+  font-size: 16px;
+}
+
+#statsContent {
+  display: block;
+  padding: 20px;
+  background-color: #fafafa;
+  border-top: 1px solid #e0e0e0;
+}
+
+#statsContent font {
+  font-weight: 600;
+  color: #520049;
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: white;
+  border-left: 4px solid #520049;
+  border-radius: 4px;
+}
+
+/* 折叠容器样式 */
+.collapsible-container {
+  margin: 20px 0;
+}
+
+/* 强制表格内上标、下标字体为白色 */
+.table sup,
+.table sub,
+.table2 sup,
+.table2 sub {
+  color: #ffffff !important;
+}
+
+/* ============================================ */
+/* 3D结构适配体表格字体颜色优化 */
+/* ============================================ */
+
+/* 为3D结构适配体表格中的浅色背景设置深色字体 */
+[data-table-type="3d"] .aptamer-cell {
+  /* 默认白色字体保持不变 */
+  color: white;
+}
+
+/* 浅黄色背景（抗生素） - 使用深色字体 */
+[data-table-type="3d"] .aptamer-cell[style*="#FFEAA7"] {
+  color: #2c3e50 !important;
+  text-shadow: none !important;
+}
+
+[data-table-type="3d"] .aptamer-cell[style*="#FFEAA7"] a {
+  color: #2c3e50 !important;
+}
+
+/* 浅绿色背景（蛋白质） - 使用深色字体 */
+[data-table-type="3d"] .aptamer-cell[style*="#96CEB4"] {
+  color: #2c3e50 !important;
+  text-shadow: none !important;
+}
+
+[data-table-type="3d"] .aptamer-cell[style*="#96CEB4"] a {
+  color: #2c3e50 !important;
+}
+
+/* 浅紫色背景（转录因子/病毒与核酸/朊病毒） - 使用深色字体 */
+[data-table-type="3d"] .aptamer-cell[style*="#DDA0DD"] {
+  color: #2c3e50 !important;
+  text-shadow: none !important;
+}
+
+[data-table-type="3d"] .aptamer-cell[style*="#DDA0DD"] a {
+  color: #2c3e50 !important;
+}
+
+/* 中蓝色背景（小分子化合物） - 使用白色字体增强对比 */
+[data-table-type="3d"] .aptamer-cell[style*="#45B7D1"] {
+  color: white !important;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.5) !important;
+}
+
+[data-table-type="3d"] .aptamer-cell[style*="#45B7D1"] a {
+  color: white !important;
+}
+
+/* 青色背景（荧光适配体第二种颜色） - 使用深色字体 */
+[data-table-type="3d"] .aptamer-cell[style*="#4ECDC4"] {
+  color: #2c3e50 !important;
+  text-shadow: none !important;
+}
+
+[data-table-type="3d"] .aptamer-cell[style*="#4ECDC4"] a {
+  color: #2c3e50 !important;
+} 

@@ -1,0 +1,278 @@
+/**
+ * 搜索结果样式覆盖
+ */
+
+/* 搜索结果包装器 */
+.search-results-wrapper {
+  position: relative;
+  z-index: 999999 !important;
+}
+
+/* 确保搜索结果显示在最上层 */
+.search-results-container {
+  position: absolute !important;
+  z-index: 999999 !important;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.25) !important;
+  background-color: white !important;
+  width: 100% !important;
+  max-width: 600px !important;
+  border-radius: 8px !important;
+  margin-top: 5px !important;
+  overflow: visible !important;
+}
+
+/* 首页特定样式 */
+.full-width-image .search-box .search .custom-search-container .search-results-wrapper {
+  position: absolute !important;
+  width: 100% !important;
+  max-width: 600px !important;
+  top: 100% !important;
+  left: 0 !important;
+}
+
+.full-width-image .search-box .search .custom-search-container .search-results-container {
+  position: relative !important;
+  width: 100% !important;
+  max-width: 600px !important;
+  margin-top: 5px !important;
+  background-color: white !important;
+  border-radius: 8px !important;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.25) !important;
+}
+
+/* 旧版搜索项样式（已弃用，防止覆盖新版卡片） */
+/*
+.search-result-item {
+  background-color: white !important;
+  border-bottom: 1px solid #eee !important;
+  padding: 10px !important;
+  position: relative !important;
+  z-index: 999999 !important;
+}
+
+.search-result-item h4 a {
+  color: #520049 !important;
+  font-weight: bold !important;
+  text-decoration: none !important;
+  display: block !important;
+}
+
+.search-result-item:hover {
+  background-color: #f8f9fa !important;
+}
+*/
+
+/* 确保搜索框和结果容器在其他元素之上 */
+.custom-search-container {
+  position: relative !important;
+  z-index: 999999 !important;
+}
+
+/* 修复可能的溢出问题 */
+.search {
+  overflow: visible !important;
+}
+
+.full-width-image {
+  overflow: visible !important;
+}
+
+/* ===== 引入高级搜索列表样式 ===== */
+.result-item-list {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+  border-left: 4px solid #520049;
+  overflow: hidden;
+  word-wrap: break-word;
+  word-break: break-word;
+}
+.result-item-list.result-sequence {
+  border-left-color: #0066cc;
+}
+.result-item-list.result-page {
+  border-left-color: #520049;
+}
+.result-item-list:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+}
+.result-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.result-title {
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+}
+.result-title a {
+  color: #520049;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+.result-title a:hover {
+  color: #3d0037;
+  text-decoration: underline;
+}
+.result-description {
+  color: #666;
+  line-height: 1.6;
+  margin: 0;
+}
+/* 方便relevance用户仍可使用旧类名 */
+.search-result-item.result-item-list {
+  padding: 0;
+  border: none;
+}
+
+/* 结果序号圆圈 */
+.result-index{
+  background:#520049;
+  color:#fff;
+  width:24px;
+  height:24px;
+  line-height:24px;
+  text-align:center;
+  border-radius:50%;
+  font-size:12px;
+  font-weight:600;
+  display:inline-block;
+  margin-right:8px;
+}
+
+/* 透明化遮罩层，去除模糊背景 */
+.search-results-overlay{
+  background:transparent !important;
+  backdrop-filter:none !important;
+} /* List style extras for header search */
+.result-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  /* margin-top: 4px; */
+}
+.result-tags .tag {
+  background: #520049;
+  border-radius: 12px;
+  padding: 5px 8px;
+  font-size: 12px;
+  color: white;
+}
+.result-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 12px;
+  color: #555;
+  margin-bottom: 6px;
+}
+.meta-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.meta-item i {
+  margin-right: 2px;
+}
+.tag-sequences-btn {
+    background: #28a745 !important;
+    color: white !important;
+    border: none !important;
+    padding: 6px 12px !important;
+    border-radius: 15px !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    cursor: pointer !important;
+    transition: all 0.3s ease !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 4px !important;
+    text-decoration: none !important;
+    outline: none !important;
+    box-shadow: 0 2px 4px rgba(40, 167, 69, 0.2) !important;
+}
+
+.tag-sequences-btn:hover {
+    background: #218838 !important;
+    color: white !important;
+    transform: translateY(-1px) !important;
+    box-shadow: 0 4px 8px rgba(40, 167, 69, 0.3) !important;
+}
+
+.tag-sequences-btn:active {
+    background: #1e7e34 !important;
+    transform: translateY(0) !important;
+    box-shadow: 0 2px 4px rgba(40, 167, 69, 0.4) !important;
+}
+
+.sequence-info-row {
+  margin: 4px 0;
+  padding: 6px 12px;
+  background: rgba(0, 102, 204, 0.05);
+  border-radius: 6px;
+  border-left: 3px solid #0066cc;
+  font-size: 14px;
+  line-height: 1.4;
+  display: block;
+  min-height: 20px;
+}
+.sequence-info-row strong {
+  color: #0066cc;
+  font-weight: 600;
+  line-height: 1.4;
+}
+.sequence-text {
+  font-family: 'Courier New', monospace;
+  letter-spacing: 0.5px;
+  background-color: rgba(0, 102, 204, 0.1);
+  padding: 4px 8px;
+  border-radius: 3px;
+  display: inline-block;
+  margin: 0 4px 0 0;
+  max-width: calc(100% - 120px);
+  overflow-x: auto;
+  white-space: normal;
+  word-break: break-all;
+  line-height: 1.4;
+  vertical-align: middle;
+  border: 1px solid rgba(0, 102, 204, 0.2);
+  color: #333;
+}
+.sequence-content {
+  margin-top: 6px;
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  line-height: 1.4;
+}
+.btn-toggle-sequence {
+  background: #0066cc;
+  color: white;
+  border: none;
+  padding: 3px 8px;
+  border-radius: 3px;
+  font-size: 11px;
+  cursor: pointer;
+  margin-left: 8px;
+  transition: all 0.2s;
+  vertical-align: middle;
+  line-height: 1.2;
+}
+.btn-toggle-sequence:hover {
+  background: #0052a3;
+}
+.sequence-match {
+  background-color: #cce7ff;
+  color: #0066cc;
+  font-weight: bold;
+  padding: 0 2px;
+  border-radius: 2px;
+}

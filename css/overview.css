@@ -1,0 +1,145 @@
+/* Overview模块 CSS - 从homepage.css中提取 */
+
+/* Overview容器基础样式 */
+.overview-container {
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    margin: -30px auto 50px;
+    max-width: 1400px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.overview-container.search-active {
+    height: var(--overview-fixed-height);
+    overflow: hidden;
+    transition: none;
+}
+
+/* Overview内容布局 */
+.overview-content {
+    display: flex;
+    min-height: 450px;
+}
+
+/* Overview文本区域 */
+.overview-text {
+    flex: 1;
+    padding: 50px;
+}
+
+.overview-text h3 {
+    color: #333;
+    font-size: 1.1em;
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+
+.overview-text .description {
+    font-size: 1.1em;
+    line-height: 1.8;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+/* Overview概述区域 */
+.overview-summary {
+    text-align: justify;
+    font-size: 1.2em;
+    font-weight: 500;
+    color: #520049;
+    margin: 30px 0 20px 0;
+    padding: 0 24px;
+    line-height: 1.7;
+}
+
+/* 特性列表样式 */
+.features {
+    list-style: none;
+    padding: 0;
+}
+/* 特性列表的正文 */
+.features li {
+    padding: 12px 0;
+    border-bottom: 1px solid #eee;
+    color: #333;
+    font-size: 1.6rem;
+    line-height: 1.6;
+}
+
+.features li:last-child {
+    border-bottom: none;
+}
+
+.features li:before {
+    content: "✓";
+    color: #28a745;
+    font-weight: bold;
+    margin-right: 12px;
+}
+
+.features li strong {
+    color: #520049;
+    font-weight: 600;
+}
+
+/* 响应式设计 */
+@media (max-width: 1200px) {
+    .overview-content {
+        flex-direction: column;
+    }
+    
+    .overview-text {
+        padding: 30px;
+    }
+    
+    .features li {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .overview-container {
+        margin: -20px auto 40px;
+        border-radius: 15px;
+    }
+    
+    .overview-content {
+        min-height: auto;
+    }
+    
+    .overview-text {
+        padding: 25px;
+    }
+    
+    .overview-summary {
+        font-size: 1.1em;
+        margin: 20px 0 15px 0;
+        padding: 0 15px;
+    }
+    
+    .features li {
+        padding: 10px 0;
+    }
+}
+
+@media (max-width: 480px) {
+    .overview-container {
+        margin: -15px 10px 30px;
+    }
+    
+    .overview-text {
+        padding: 20px 15px;
+    }
+    
+    .overview-summary {
+        font-size: 1em;
+        line-height: 1.6;
+    }
+    
+    .features li {
+        font-size: 0.9rem;
+        padding: 8px 0;
+    }
+} 

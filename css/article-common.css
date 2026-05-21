@@ -1,0 +1,228 @@
+/* article-common.css - 通用文章阅读样式，可在多页面重用 */
+
+:root {
+  --article-primary: #520049;
+  --article-secondary: #f5f5f5;
+  --article-text: #333;
+  --article-radius: 8px;
+  --article-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* 基础排版 */
+.article-container, .fluor-body-section {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  line-height: 1.7;
+  color: var(--article-text);
+  font-size: 16px;
+  letter-spacing: .3px;
+}
+.article-container p, .fluor-body-section p {
+  margin-bottom: 18px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* 首字母加粗效果 */
+.fluor-body-section p:first-of-type::first-letter {
+  font-weight: 700;
+  font-size: 1.2em;
+  color: var(--article-primary);
+}
+
+/* 一级、二级、三级标题默认 h2/h3/h4 已定义，由浏览器处理，这里仅颜色控制 */
+.fluor-body-section h2, .fluor-body-section h3, .fluor-body-section h4 {
+  color: var(--article-primary);
+  margin-top: 30px;
+  margin-bottom: 15px;
+  line-height: 1.3;
+}
+
+
+
+/* 带箭头的小标题样式 */
+.blowheader_box {
+  background: linear-gradient(135deg, var(--article-primary), rgba(82, 0, 73, 0.8));
+  color: white;
+  padding: 12px 20px;
+  margin: 30px 0 20px;
+  border-radius: var(--article-radius);
+  font-size: 18px;
+  font-weight: 600;
+  position: relative;
+  box-shadow: 0 4px 15px rgba(82, 0, 73, 0.2);
+  letter-spacing: 0.5px;
+}
+
+/* .blowheader_box::before {
+  content: '▶';
+  margin-right: 10px;
+  font-size: 0.9em;
+} */
+
+.blowheader_box::after {
+  /* content: ''; */
+  position: absolute;
+  bottom: -8px;
+  left: 20px;
+  width: 0;
+  height: 0;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 8px solid var(--article-primary);
+}
+
+/* 高亮文字 */
+.highlight-text {
+  background: linear-gradient(120deg, rgba(82,0,73,.1) 0%, rgba(82,0,73,.2) 100%);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+/* 序列样式 */
+.sequence {
+  font-family: 'Courier New', monospace;
+  background: var(--article-secondary);
+  padding: 15px 20px;
+  border-radius: var(--article-radius);
+  margin: 20px 0;
+  border-left: 4px solid var(--article-primary);
+  font-size: 16px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+/* 图文一体 */
+figure {
+  margin: 25px auto;
+}
+figcaption {
+  margin-top: 8px;
+  color: #666;
+  font-size: .9em;
+  text-align: center;
+}
+
+/* 信息块/提示框 */
+.info-box {
+  background: var(--article-secondary);
+  padding: 15px;
+  border-radius: var(--article-radius);
+  margin: 20px 0;
+  box-shadow: var(--article-shadow);
+}
+.info-box a {color: var(--article-primary);}
+
+/* 表格容器样式优化 */
+.fluor-body-section .table-responsive {
+  overflow-x: auto;
+  border-radius: var(--article-radius);
+  box-shadow: var(--article-shadow);
+  margin: 20px 0;
+  border: none;
+  background: white;
+  position: relative;
+}
+
+/* 自定义表格样式 */
+.table.article-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0; /* 移除margin避免表格与容器之间有空隙 */
+  background: #fff;
+  overflow: hidden;
+  border: none;
+}
+
+.table.article-table th {
+  background: var(--article-primary);
+  color: #fff;
+  padding: 12px 10px;
+  text-align: center; /* 表头居中 */
+  font-weight: 600;
+  white-space: nowrap; /* 表头不换行 */
+  vertical-align: middle; /* 表头垂直居中 */
+  border: 1px solid rgba(255,255,255,0.1);
+}
+
+.table.article-table td {
+  padding: 12px 10px;
+  border-bottom: 1px solid #e8e8e8;
+  border-right: 1px solid #f5f5f5;
+  text-align: center; /* 表格内容居中 */
+  vertical-align: middle; /* 表格内容垂直居中 */
+}
+
+.table.article-table tr:nth-child(even){
+  background:rgba(245,245,245,.5);
+}
+
+.table.article-table tr:hover {
+  background-color: rgba(82,0,73,0.05);
+}
+
+/* 分子式下标样式 */
+.chemical-formula sub {
+  font-size: 75%;
+  vertical-align: sub;
+  line-height: 0;
+}
+
+/* 分子式上标样式 */
+.chemical-formula sup {
+  font-size: 75%;
+  vertical-align: super;
+  line-height: 0;
+}
+
+
+/* 参考文献样式优化 */
+.fluor-body-section h3[id="references"] + .reference-list a[id^="ref"],
+.fluor-body-section .reference-list a[id^="ref"] + a[id^="ref"] {
+  display: block;
+  margin-top: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(82, 0, 73, 0.1);
+}
+
+.fluor-body-section .reference-list a[id^="ref"]:nth-of-type(odd) {
+  background-color: rgba(245, 245, 245, 0.5);
+  padding: 10px;
+  border-radius: var(--article-radius);
+}
+
+/* 强制样式应用 */
+.fluor-body-section .reference-list a[id^="ref"] {
+  display: block !important;
+  margin-top: 15px !important;
+}
+
+/* 参考文献中的链接样式 */
+.reference-list a[href] {
+  color: var(--article-primary);
+  text-decoration: none;
+}
+
+.reference-list a[href]:hover {
+  text-decoration: underline;
+}
+
+/* 引用标签样式 */
+sup {
+  font-size: 0.75em;
+  vertical-align: super;
+  color: var(--article-primary);
+  font-weight: 600;
+}
+
+/* 移除参考文献列表自动编号 */
+.reference-list {
+  list-style-type: none !important;
+  padding-left: 0 !important;
+  counter-reset: none !important;
+}
+
+.reference-list li {
+  margin-bottom: 15px;
+} 
