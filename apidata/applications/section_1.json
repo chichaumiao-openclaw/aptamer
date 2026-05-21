@@ -1,6 +1,6 @@
 [
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/ligand-1.1-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/ligand-1.1-aptamer",
     "new Linker name":"HIV-1 RT aptamer",
     "Section":"Viral",
     "Target":"HIV-1",
@@ -11,7 +11,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/1379730\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/10G-1-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/10G-1-aptamer",
     "new Linker name":"HCV NS3 protease_10G-1 aptamer",
     "Section":"Viral",
     "Target":"HCV",
@@ -22,7 +22,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/9356339\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/HSV-1-US11-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/HSV-1-US11-aptamer",
     "new Linker name":"HSV-1 US11 aptamer",
     "Section":"Viral",
     "Target":"HSV",
@@ -33,7 +33,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/16246910\/"
   },
   {
-    "Linker":" https:\/\/aptamer.ribocentre.org\/_posts\/HPV-16-E7-oncoprotein-aptamer",
+    "Linker":" https:\/\/aptamer.gznl.org\/_posts\/HPV-16-E7-oncoprotein-aptamer",
     "new Linker name":"HPV-16 E7 oncoprotein aptamer",
     "Section":"Viral",
     "Target":"HPV-16",
@@ -44,7 +44,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/21565620\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/HIRRV-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/HIRRV-aptamer.html",
     "new Linker name":"HIRRV aptamer",
     "Section":"Viral",
     "Target":"Hirame rhabdovirus",
@@ -55,7 +55,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/22943666\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/HBV-P-protein-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/HBV-P-protein-aptamer",
     "new Linker name":"HBV P protein aptamer",
     "Section":"Viral",
     "Target":"HBV",
@@ -66,7 +66,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/22125633\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/H3N2-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/H3N2-aptamer",
     "new Linker name":"H3N2 aptamer",
     "Section":"Viral",
     "Target":"H3N2（Influenza virus）",
@@ -77,7 +77,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/16476969\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Escherichia-coli-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Escherichia-coli-aptamer",
     "new Linker name":"Escherichia coli aptamer",
     "Section":"Bacteria",
     "Target":"Escherichia coli",
@@ -88,7 +88,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/9192624\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Protein-tyrosine-phosphatases-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Protein-tyrosine-phosphatases-aptamer.html",
     "new Linker name":"Protein tyrosine phosphatases aptamer",
     "Section":"Bacteria",
     "Target":"Yersinia",
@@ -99,7 +99,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/9603938\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Type-IVB-Pili-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Type-IVB-Pili-aptamer.html",
     "new Linker name":"Type IVB Pili aptamer",
     "Section":"Bacteria",
     "Target":"Salmonella enterica",
@@ -110,7 +110,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/16189080\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Trypanosome-VSG-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Trypanosome-VSG-aptamer.html",
     "new Linker name":"Trypanosome VSG aptamer",
     "Section":"Parasite",
     "Target":"Trypanosome",
@@ -121,7 +121,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/10198434\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/CED-9-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/CED-9-aptamer.html",
     "new Linker name":"CED-9 aptamer",
     "Section":"Parasite",
     "Target":"Caenorhabditis elegans",
@@ -132,7 +132,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/16467303\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Bovine-prion-protein-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Bovine-prion-protein-aptamer",
     "new Linker name":"Bovine prion protein aptamer",
     "Section":"Infectious disease",
     "Target":"Bovine Prion Protein",
@@ -143,7 +143,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/19098441\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/C.albicans aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/C.albicans aptamer",
     "new Linker name":"C.albicans aptamer",
     "Section":"Fungi",
     "Target":"Candida albicans",

@@ -1,6 +1,6 @@
 [
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/DFHBI-1T-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/DFHBI-1T-aptamer.html",
     "New Linker name":"Broccoli aptamer",
     "Fields":"Clinical test",
     "Target":"SAM",
@@ -12,7 +12,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/30962542\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/cAMP-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/cAMP-aptamer.html",
     "New Linker name":"cAMP  aptamer",
     "Fields":"Clinical test and Foods inspection",
     "Target":"cAMP",
@@ -24,7 +24,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/25437358\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Dopamine-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Dopamine-aptamer.html",
     "New Linker name":"Dopamine aptamer",
     "Fields":"Clinical test",
     "Target":"Dopamine",
@@ -36,7 +36,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/23210972\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Escherichia-coli-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Escherichia-coli-aptamer",
     "New Linker name":"Escherichia coli aptamer",
     "Fields":"Foods and Environment",
     "Target":"Escherichia coli ",
@@ -48,7 +48,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/27871171\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Theophylline-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Theophylline-aptamer.html",
     "New Linker name":"Theophylline aptamer",
     "Fields":"Clinical test",
     "Target":"Theophylline",
@@ -60,7 +60,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/18324816\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/NeomycinB-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/NeomycinB-aptamer.html",
     "New Linker name":"NeomycinB aptamer",
     "Fields":"Foods",
     "Target":"Neomycin B",
@@ -72,7 +72,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/26942739\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/HPV-16-E7-oncoprotein-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/HPV-16-E7-oncoprotein-aptamer",
     "New Linker name":"HPV-16 E7 oncoprotein aptamer",
     "Fields":"Clinical test",
     "Target":"HPV-16 E7 protein",

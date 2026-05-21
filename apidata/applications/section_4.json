@@ -1,6 +1,6 @@
 [
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/VEGF-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/VEGF-aptamer.html",
     "New Linker name":"VEGF aptamer",
     "Name":"Pegaptanib(Macugen)",
     "Target":"VEGF165",
@@ -13,7 +13,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/16647134\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Complement-component-5-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Complement-component-5-aptamer.html",
     "New Linker name":"Complement component 5 aptamer",
     "Name":"Avacincaptad pegol (Izervay)",
     "Target":"Complement protein C5",
@@ -26,7 +26,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/37696275\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Bovine-factor-IX-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Bovine-factor-IX-aptamer",
     "New Linker name":"Bovine factor IX aptamer",
     "Name":"Pegnivacogin",
     "Target":"Factor IX",
@@ -39,7 +39,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/21724623\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/L-CCL2-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/L-CCL2-aptamer.html",
     "New Linker name":"\/L-CCL2 aptamer",
     "Name":"NOX-E36 (Emapticap pegol)",
     "Target":"CCL2",
@@ -52,7 +52,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/28186566\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/bFGF-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/bFGF-aptamer.html",
     "New Linker name":"bFGF aptamer",
     "Name":"RBM 007(Umedaptanib pegol)",
     "Target":"bFGF",
@@ -65,7 +65,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/38036609\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Thrombin-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Thrombin-aptamer",
     "New Linker name":"Thrombin aptamer",
     "Name":"Apta-1",
     "Target":"Heparin-binding motif (Exosite II) on thrombin",
@@ -78,7 +78,7 @@
     "References":"https:\/\/onderzoekmetmensen.nl\/en\/trial\/51837"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Breast-cancer-cells_HER2-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Breast-cancer-cells_HER2-aptamer",
     "New Linker name":"Breast cancer cells_HER2 aptamer",
     "Name":"H2EH3",
     "Target":"EGFR\/HER2\/HER3",

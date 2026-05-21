@@ -1,6 +1,6 @@
 [
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Thrombin-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Thrombin-aptamer",
     "New Linker name":"Thrombin aptamer",
     "Clinical sample":"Adtevak",
     "Target":"α Thrombin",
@@ -12,7 +12,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/7518917\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Interleukin-6-receptor-domain-3-(IL-6R-D3)-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Interleukin-6-receptor-domain-3-(IL-6R-D3)-aptamer.html",
     "New Linker name":"Interleukin-6 receptor domain 3 (IL-6R D3)-aptamer",
     "Clinical sample":"Serum",
     "Target":"IL-6R",
@@ -24,7 +24,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/26383776\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/IL-17A-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/IL-17A-aptamer.html",
     "New Linker name":"IL-17A aptamer",
     "Clinical sample":"Serum",
     "Target":"IL‐17A",
@@ -36,7 +36,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/20967861\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/E2-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/E2-aptamer",
     "New Linker name":"Aβ aptamer",
     "Clinical sample":"Cerebrospinal fluid",
     "Target":"Amyloid beta-peptide",
@@ -48,7 +48,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/19668864\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/CEA-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/CEA-aptamer.html",
     "New Linker name":"CEA aptamer",
     "Clinical sample":"Excrement，Serum ect.",
     "Target":"CEA",
@@ -60,7 +60,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/30303958\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Escherichia-coli-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Escherichia-coli-aptamer",
     "New Linker name":"Escherichia coli aptamer",
     "Clinical sample":"Urine",
     "Target":"Escherichia coli",
@@ -72,7 +72,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/22166202\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Dopamine-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Dopamine-aptamer.html",
     "New Linker name":"Dopamine aptamer",
     "Clinical sample":"Serum",
     "Target":"Dopamine",
@@ -84,7 +84,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/9245404\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Tyr-1-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Tyr-1-aptamer",
     "New Linker name":"L-tyrosine aptamer",
     "Clinical sample":"Serum",
     "Target":"L-tyrosine",
@@ -96,7 +96,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/10786843\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/DP3-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/DP3-aptamer",
     "New Linker name":"Neuropeptide Y aptamer",
     "Clinical sample":"Serum",
     "Target":"Neuropeptide Y",
@@ -108,7 +108,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/11756401\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Cell-line-Hep3B-CD133-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Cell-line-Hep3B-CD133-aptamer",
     "New Linker name":"Cell line Hep3B CD133 aptamer",
     "Clinical sample":"Cellular tissue",
     "Target":"CD133",

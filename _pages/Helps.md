@@ -88,8 +88,8 @@ body_attrs: "onload=\"showSheet('sheet1')\""
 <p class="blowheader_box">API Endpoints</p>
 <p>Our API offers multiple access points for retrieving aptamer data:</p>
 <ul style="padding-left: 20px;">
-  <li><strong>Sequences Page:</strong> <code style="background-color: #f4f4f4; padding: 2px 6px; border-radius: 3px;">https://aptamer.ribocentre.org/sequences/</code> - Interactive web interface with search support; returns filtered HTML by default, JSON with <code style="background-color: #f4f4f4; padding: 2px 6px; border-radius: 3px;">format=json</code> parameter</li>
-  <li><strong>JSON API:</strong> <code style="background-color: #f4f4f4; padding: 2px 6px; border-radius: 3px;">https://aptamer.ribocentre.org/api/</code> - Dedicated API endpoint, always returns JSON format with enhanced debugging information</li>
+  <li><strong>Sequences Page:</strong> <code style="background-color: #f4f4f4; padding: 2px 6px; border-radius: 3px;">https://aptamer.gznl.org/sequences/</code> - Interactive web interface with search support; returns filtered HTML by default, JSON with <code style="background-color: #f4f4f4; padding: 2px 6px; border-radius: 3px;">format=json</code> parameter</li>
+  <li><strong>JSON API:</strong> <code style="background-color: #f4f4f4; padding: 2px 6px; border-radius: 3px;">https://aptamer.gznl.org/api/</code> - Dedicated API endpoint, always returns JSON format with enhanced debugging information</li>
 </ul>
 
 <p class="blowheader_box">Query Parameters</p>
@@ -109,22 +109,22 @@ body_attrs: "onload=\"showSheet('sheet1')\""
 
 <pre style="background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 5px; padding: 15px; overflow-x: auto; font-family: Monaco, 'Lucida Console', monospace;">
 # Search for ATP-related aptamers (JSON API - always returns JSON)
-curl "https://aptamer.ribocentre.org/api/?search=ATP"
+curl "https://aptamer.gznl.org/api/?search=ATP"
 
 # Get specific aptamer by ID (JSON API)
-curl "https://aptamer.ribocentre.org/api/?id=ATP_Szostak_1"
+curl "https://aptamer.gznl.org/api/?id=ATP_Szostak_1"
 
 # Get results with pagination (JSON API supports limit/offset)
-curl "https://aptamer.ribocentre.org/api/?search=DNA&limit=10&offset=0"
+curl "https://aptamer.gznl.org/api/?search=DNA&limit=10&offset=0"
 
 # Search via sequences page with JSON format
-curl "https://aptamer.ribocentre.org/sequences/?search=thrombin&format=json"
+curl "https://aptamer.gznl.org/sequences/?search=thrombin&format=json"
 
 # Search via sequences page (returns filtered HTML results)
-curl "https://aptamer.ribocentre.org/sequences/?search=thrombin"
+curl "https://aptamer.gznl.org/sequences/?search=thrombin"
 
 # Visit sequences page with search results in browser
-# https://aptamer.ribocentre.org/sequences/?search=thrombin
+# https://aptamer.gznl.org/sequences/?search=thrombin
 </pre>
 
 <p class="blowheader_box">Response Format</p>

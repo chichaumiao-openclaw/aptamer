@@ -2,7 +2,7 @@
 
 Jekyll interface repo for Aptamer.
 
-- Domain: `aptamer.ribocentre.org`
+- Domain: `aptamer.gznl.org`
 - Paper: Ribocentre-aptamer: an integrative, structure-focused database for RNA aptamers
 - Scope: web interface only
 - Data location: legacy scientific data remains in the old upstream repositories / local sources

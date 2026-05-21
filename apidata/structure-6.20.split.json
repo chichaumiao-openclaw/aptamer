@@ -1,7 +1,7 @@
 [
   {
     "No.": 1,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/FMN-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/FMN-aptamer.html",
     "Name": "FMN aptamer",
     "Ligand": "FMN",
     "Structure Determination": "NMR",
@@ -18,7 +18,7 @@
   },
   {
     "No.": 2,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Arginine-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Arginine-aptamer.html",
     "Name": "Arginine aptamer",
     "Ligand": "Arginine",
     "Structure Determination": "NMR",
@@ -35,7 +35,7 @@
   },
   {
     "No.": 3,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Citrulline-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Citrulline-aptamer.html",
     "Name": "Citrulline aptamer",
     "Ligand": "Citrulline",
     "Structure Determination": "NMR",
@@ -52,7 +52,7 @@
   },
   {
     "No.": 4,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Vitamin-B12-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Vitamin-B12-aptamer.html",
     "Name": "Vitamin B12-aptamer",
     "Ligand": "Vitamin B12",
     "Structure Determination": "X-ray",
@@ -69,7 +69,7 @@
   },
   {
     "No.": 5,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Biotin-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Biotin-aptamer.html",
     "Name": "Biotin aptamer",
     "Ligand": "Biotin",
     "Structure Determination": "X-ray",
@@ -86,7 +86,7 @@
   },
   {
     "No.": 6,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/5HTP-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/5HTP-aptamer.html",
     "Name": "5HTP aptamer",
     "Ligand": "5-HTP",
     "Structure Determination": "X-ray",
@@ -103,7 +103,7 @@
   },
   {
     "No.": 7,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/FAD-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/FAD-aptamer.html",
     "Name": "FAD aptamer",
     "Ligand": "FMN",
     "Structure Determination": "NMR",
@@ -120,7 +120,7 @@
   },
   {
     "No.": 8,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Theophylline-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Theophylline-aptamer.html",
     "Name": "Theophylline aptamer",
     "Ligand": "TAL3,theophylline,apo,TAL2,TAL1,TAL4",
     "Structure Determination": "X-ray",
@@ -137,7 +137,7 @@
   },
   {
     "No.": 9,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/MG-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/MG-aptamer.html",
     "Name": "MG aptamer",
     "Ligand": "Tetramethylrosamine,Malachite green",
     "Structure Determination": "X-ray",
@@ -154,7 +154,7 @@
   },
   {
     "No.": 10,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Spinach-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Spinach-aptamer.html",
     "Name": "Spinach aptamer",
     "Ligand": "DFHBI-1T, DFHBI, Fab",
     "Structure Determination": "X-ray",
@@ -172,7 +172,7 @@
   },
   {
     "No.": 11,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/GTP-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/GTP-aptamer.html",
     "Name": "GTP aptamer",
     "Ligand": "GTP",
     "Structure Determination": "NMR",
@@ -190,7 +190,7 @@
   },
   {
     "No.": 12,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Corn-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Corn-aptamer.html",
     "Name": "Corn aptamer",
     "Ligand": "DFHO, ThT, TO, apo",
     "Structure Determination": "X-ray",
@@ -208,7 +208,7 @@
   },
   {
     "No.": 13,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Mango-aptamer(TO1-biotin).html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Mango-aptamer(TO1-biotin).html",
     "Name": "Mango aptamer & mango-II aptamer",
     "Ligand": "TO1-Biotin, TO3-Biotin",
     "Structure Determination": "X-ray",
@@ -227,7 +227,7 @@
   },
   {
     "No.": 14,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/DIR2s-apt-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/DIR2s-apt-aptamer.html",
     "Name": "DIR2s aptamer",
     "Ligand": "Oxazole thiazole blue (OTB)",
     "Structure Determination": "X-ray",
@@ -244,7 +244,7 @@
   },
   {
     "No.": 15,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Mango-III-aptamer(YO3).html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Mango-III-aptamer(YO3).html",
     "Name": "mango-III aptamer & mango IV aptamer",
     "Ligand": "TO1-Biotin, TO3-Biotin, DFHBI-1T",
     "Structure Determination": "X-ray",
@@ -262,7 +262,7 @@
   },
   {
     "No.": 16,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/TMR-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/TMR-aptamer.html",
     "Name": "TMR aptamer",
     "Ligand": "Tetramethylrhodamine",
     "Structure Determination": "NMR",
@@ -279,7 +279,7 @@
   },
   {
     "No.": 17,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Chili-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Chili-aptamer.html",
     "Name": "Chili aptamer",
     "Ligand": "DMHBI+, DMHBO+",
     "Structure Determination": "X-ray",
@@ -296,7 +296,7 @@
   },
   {
     "No.": 18,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Pepper-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Pepper-aptamer.html",
     "Name": "Pepper aptamer",
     "Ligand": "HBC, HBC485, HBC497, HBC508, HBC514, HBC525, HBC620, HBC599 and Fab BL3-6, HBC and Fab BL3-6",
     "Structure Determination": "X-ray",
@@ -314,7 +314,7 @@
   },
   {
     "No.": 19,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Squash-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Squash-aptamer.html",
     "Name": "Squash aptamer",
     "Ligand": "DFHBI-1T",
     "Structure Determination": "X-ray",
@@ -331,7 +331,7 @@
   },
   {
     "No.": 20,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Beetroot-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Beetroot-aptamer.html",
     "Name": "Beetroot aptamer",
     "Ligand": "DFAME, ThT, DFHO",
     "Structure Determination": "X-ray",
@@ -348,7 +348,7 @@
   },
   {
     "No.": 21,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/ATP-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/ATP-aptamer.html",
     "Name": "ATP aptamer",
     "Ligand": "AMP",
     "Structure Determination": "NMR",
@@ -365,7 +365,7 @@
   },
   {
     "No.": 22,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/ATP-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/ATP-aptamer.html",
     "Name": "ATP aptamer",
     "Ligand": "AMP, apo",
     "Structure Determination": "EM",
@@ -382,7 +382,7 @@
   },
   {
     "No.": 23,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Tobramycin-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Tobramycin-aptamer.html",
     "Name": "Tobramycin aptamer",
     "Ligand": "Tobramycin",
     "Structure Determination": "NMR",
@@ -400,7 +400,7 @@
   },
   {
     "No.": 24,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Theophylline-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Theophylline-aptamer.html",
     "Name": "Theophylline aptamer",
     "Ligand": "Theophylline",
     "Structure Determination": "NMR",
@@ -418,7 +418,7 @@
   },
   {
     "No.": 25,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/NeomycinB-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/NeomycinB-aptamer.html",
     "Name": "NeomycinB aptamer",
     "Ligand": "Neomycin B",
     "Structure Determination": "NMR",
@@ -435,7 +435,7 @@
   },
   {
     "No.": 26,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Streptomycin-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Streptomycin-aptamer.html",
     "Name": "Streptomycin aptamer",
     "Ligand": "Streptomycin",
     "Structure Determination": "X-ray",
@@ -452,7 +452,7 @@
   },
   {
     "No.": 27,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Tetracycline-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Tetracycline-aptamer.html",
     "Name": "Tetracycline aptamer",
     "Ligand": "Tetracycline",
     "Structure Determination": "X-ray",
@@ -469,7 +469,7 @@
   },
   {
     "No.": 28,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Hfq-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Hfq-aptamer.html",
     "Name": "Hfq aptamer",
     "Ligand": "YmaH (Hfq)",
     "Structure Determination": "X-ray",
@@ -486,7 +486,7 @@
   },
   {
     "No.": 29,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Ribosomal-protein-S8-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Ribosomal-protein-S8-aptamer.html",
     "Name": "Ribosomal protein S8-aptamer",
     "Ligand": "Ribosomal protein S8",
     "Structure Determination": "X-ray",
@@ -503,7 +503,7 @@
   },
   {
     "No.": 30,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/TetR-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/TetR-aptamer.html",
     "Name": "TetR aptamer",
     "Ligand": "Transcription repressor TetR",
     "Structure Determination": "X-ray",
@@ -520,7 +520,7 @@
   },
   {
     "No.": 31,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/GlnRs-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/GlnRs-aptamer.html",
     "Name": "GlnRs aptamer",
     "Ligand": "GlnRS, Gln",
     "Structure Determination": "X-ray",
@@ -537,7 +537,7 @@
   },
   {
     "No.": 32,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/NF-kappaB-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/NF-kappaB-aptamer.html",
     "Name": "NF-kappaB P50 aptamer",
     "Ligand": "NF-kappaB",
     "Structure Determination": "X-ray",
@@ -554,7 +554,7 @@
   },
   {
     "No.": 33,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/eIF4A-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/eIF4A-aptamer.html",
     "Name": "eIF4A aptamer",
     "Ligand": "Initiation factor 4A (eIF4A)",
     "Structure Determination": "NMR",
@@ -571,7 +571,7 @@
   },
   {
     "No.": 34,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/FC-RNA-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/FC-RNA-aptamer.html",
     "Name": "FC RNA aptamer",
     "Ligand": "RNA polymerase (Pol) II",
     "Structure Determination": "X-ray",
@@ -588,7 +588,7 @@
   },
   {
     "No.": 35,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Thrombin-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Thrombin-aptamer.html",
     "Name": "Thrombin aptamer",
     "Ligand": "Human thrombin",
     "Structure Determination": "X-ray",
@@ -605,7 +605,7 @@
   },
   {
     "No.": 36,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/IgG-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/IgG-aptamer.html",
     "Name": "IgG aptamer",
     "Ligand": "Human IgG",
     "Structure Determination": "X-ray",
@@ -622,7 +622,7 @@
   },
   {
     "No.": 37,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/GRK2-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/GRK2-aptamer.html",
     "Name": "GRK2 aptamer",
     "Ligand": "G protein-coupled receptor kinase 2",
     "Structure Determination": "X-ray",
@@ -639,7 +639,7 @@
   },
   {
     "No.": 38,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Lysozyme-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Lysozyme-aptamer.html",
     "Name": "lysozyme aptamer",
     "Ligand": "Lysozyme",
     "Structure Determination": "X-ray",
@@ -656,7 +656,7 @@
   },
   {
     "No.": 39,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/L-CCL2-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/L-CCL2-aptamer.html",
     "Name": "L-CLL2 aptamer",
     "Ligand": "L-CLL2",
     "Structure Determination": "X-ray",
@@ -673,7 +673,7 @@
   },
   {
     "No.": 40,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Factor-Xa-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Factor-Xa-aptamer.html",
     "Name": "Factor Xa aptamer",
     "Ligand": "Factor Xa (FXa), factor Xa and Rivaroxaban",
     "Structure Determination": "X-ray",
@@ -690,7 +690,7 @@
   },
   {
     "No.": 41,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/PSMA-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/PSMA-aptamer.html",
     "Name": "PSMA aptamer",
     "Ligand": "Prostate-specific membrane antigen",
     "Structure Determination": "X-ray",
@@ -707,7 +707,7 @@
   },
   {
     "No.": 42,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/bacteriophage-MS2-coat-protein-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/bacteriophage-MS2-coat-protein-aptamer.html",
     "Name": "Bacteriophage MS2 coat protein aptamer",
     "Ligand": "Bacteriophage MS2 coat protein",
     "Structure Determination": "X-ray",
@@ -725,7 +725,7 @@
   },
   {
     "No.": 43,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Bovine-prion-protein-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Bovine-prion-protein-aptamer.html",
     "Name": "Bovine prion protein(bPrP) aptamer",
     "Ligand": "Prion",
     "Structure Determination": "NMR",
@@ -745,7 +745,7 @@
   },
   {
     "No.": 44,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/HIV-1-REV-peptide-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/HIV-1-REV-peptide-aptamer.html",
     "Name": "HIV-1 REV peptide aptamer",
     "Ligand": "REV peptide",
     "Structure Determination": "NMR",
@@ -763,7 +763,7 @@
   },
   {
     "No.": 45,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/HTLV-1-Rex-peptide-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/HTLV-1-Rex-peptide-aptamer.html",
     "Name": "Rex protein aptamer",
     "Ligand": "HTLV-1 arginine-rich Rex peptide",
     "Structure Determination": "NMR",
@@ -780,7 +780,7 @@
   },
   {
     "No.": 46,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/HIV-Tat-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/HIV-Tat-aptamer.html",
     "Name": "HIV Tat aptamer",
     "Ligand": "HIV-1 Tat protein",
     "Structure Determination": "NMR",
@@ -797,7 +797,7 @@
   },
   {
     "No.": 47,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/AML1(RUNX1)-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/AML1(RUNX1)-aptamer.html",
     "Name": "AML1 (RUNX1) aptamer",
     "Ligand": "AML1 Runt domain",
     "Structure Determination": "NMR",
@@ -814,7 +814,7 @@
   },
   {
     "No.": 48,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/HIV-1-TAR-RNA-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/HIV-1-TAR-RNA-aptamer.html",
     "Name": "HIV-1 TAR RNA aptamer",
     "Ligand": "TAR RNA",
     "Structure Determination": "X-ray",
@@ -831,7 +831,7 @@
   },
   {
     "No.": 49,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/HIV-1-Rev-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/HIV-1-Rev-aptamer.html",
     "Name": "HIV-1 Rev protein (3)",
     "Ligand": "REV93 peptide",
     "Structure Determination": "X-ray",
@@ -848,7 +848,7 @@
   },
   {
     "No.": 50,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Spinach-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Spinach-aptamer.html",
     "Name": "Spinach aptamer, Aptamer 24-2-min(Spinach)",
     "Ligand": "DFHBI, Fab BL3-6S97N",
     "Structure Determination": "X-ray",
@@ -865,7 +865,7 @@
   },
   {
     "No.": 51,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Ribostamycin-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Ribostamycin-aptamer.html",
     "Name": "Ribostamycin aptamer",
     "Ligand": "Ribostamycin",
     "Structure Determination": "NMR",
@@ -881,7 +881,7 @@
   },
   {
     "No.": 52,
-    "AptamerLinker": "https://aptamer.ribocentre.org/_posts/Ribostamycin-aptamer.html",
+    "AptamerLinker": "https://aptamer.gznl.org/_posts/Ribostamycin-aptamer.html",
     "Name": "Paromomycin aptamer",
     "Ligand": "Paromomycin",
     "Structure Determination": "NMR",

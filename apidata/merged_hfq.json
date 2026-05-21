@@ -484,7 +484,7 @@
       "structure": {
         "summary": {
           "name": "Hfq aptamer",
-          "aptamer_linker": "https://aptamer.ribocentre.org/_posts/Hfq-aptamer.html",
+          "aptamer_linker": "https://aptamer.gznl.org/_posts/Hfq-aptamer.html",
           "ligand": "YmaH (Hfq)",
           "method": "X-ray",
           "pdb_ids": [

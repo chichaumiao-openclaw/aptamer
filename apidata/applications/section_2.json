@@ -1,6 +1,6 @@
 [
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Epithelial-growth-factor-receptor_J18-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Epithelial-growth-factor-receptor_J18-aptamer.html",
     "new Linker name":"EGFR aptamer",
     "Biomarkers":"EGFR",
     "Cancer Type":"Lung cancer",
@@ -11,7 +11,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/30069577\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Gastrointestinal-cancer-antigen-50-aptamer",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Gastrointestinal-cancer-antigen-50-aptamer",
     "new Linker name":"CA 50 aptamer",
     "Biomarkers":"Cancer antigen 50 ",
     "Cancer Type":"Gastrointestinal cancer",
@@ -22,7 +22,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/30303958\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Cancer-antigen-72%E2%80%934(CA72-4)-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Cancer-antigen-72%E2%80%934(CA72-4)-aptamer.html",
     "new Linker name":"CA 72-4 aptamer",
     "Biomarkers":"Cancer antigen 72-4",
     "Cancer Type":"Gastrointestinal cancer",
@@ -33,7 +33,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/30303958\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/PSMA-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/PSMA-aptamer.html",
     "new Linker name":"PSMA aptamer",
     "Biomarkers":"PSMA",
     "Cancer Type":"Prostatic cancer",
@@ -44,7 +44,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/12124337\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/CEA-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/CEA-aptamer.html",
     "new Linker name":"CEA aptamer",
     "Biomarkers":"CEA",
     "Cancer Type":"Gastrointestinal cancer",
@@ -55,7 +55,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/30303958\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/CypB-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/CypB-aptamer.html",
     "new Linker name":"CypB aptamer",
     "Biomarkers":"Cyclophilin B",
     "Cancer Type":"Pancreatic cancer",
@@ -66,7 +66,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/22484812\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/PAI-1-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/PAI-1-aptamer.html",
     "new Linker name":"PAI-1 aptamer",
     "Biomarkers":"PAI-1",
     "Cancer Type":"Breast cancer",

@@ -1,6 +1,6 @@
 [
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Tetracycline-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Tetracycline-aptamer.html",
     "New Linker name":"Tetracycline aptamer",
     "Target":"Tetracycline",
     "Tool Function":"Regulatory system",
@@ -11,7 +11,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/12655001\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Theophylline-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Theophylline-aptamer.html",
     "New Linker name":"Theophylline aptamer",
     "Target":"Theophylline",
     "Tool Function":"Signal connectors RNA devices",
@@ -22,7 +22,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/29319503\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Tetracycline-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Tetracycline-aptamer.html",
     "New Linker name":"Tetracycline aptamer",
     "Target":"Tetracycline",
     "Tool Function":"Alternative splicing",
@@ -33,7 +33,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/29420816\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/TetR-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/TetR-aptamer.html",
     "New Linker name":"TetR aptamer",
     "Target":"TetR",
     "Tool Function":"Splicing regulation",
@@ -44,7 +44,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/31504742\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/Tetracycline-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/Tetracycline-aptamer.html",
     "New Linker name":"Tetracycline aptamer",
     "Target":"Tetracycline",
     "Tool Function":"Occlusion of miRNA target sites",
@@ -55,7 +55,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/29567311\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/TetR-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/TetR-aptamer.html",
     "New Linker name":"TetR aptamer",
     "Target":"TetR",
     "Tool Function":"Regulate Dicer processing and miRNA maturation",
@@ -66,7 +66,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/29036355\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/FMN-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/FMN-aptamer.html",
     "New Linker name":"FMN aptamer",
     "Target":"FMN",
     "Tool Function":"Aptazyme（cleavage）",
@@ -77,7 +77,7 @@
     "References":"https:\/\/pubmed.ncbi.nlm.nih.gov\/10097080\/"
   },
   {
-    "Linker":"https:\/\/aptamer.ribocentre.org\/_posts\/ATP-aptamer.html",
+    "Linker":"https:\/\/aptamer.gznl.org\/_posts\/ATP-aptamer.html",
     "New Linker name":"ATP aptamer",
     "Target":"ATP",
     "Tool Function":"Aptazyme（cleavage）",
